@@ -899,6 +899,11 @@
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
+    "drivenhype.com": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
     "duniafintech.com": {
         "epoch": 1740614400.0,
         "expiration_date": "27-feb-2025",
@@ -1097,6 +1102,11 @@
     "h3lw971ym6.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "halopantura.com": {
+        "epoch": 1588032000.0,
+        "expiration_date": "28-apr-2020",
         "state": "future"
     },
     "haluankepri.com": {
@@ -1709,6 +1719,11 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "kriminal.co": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "krjogja.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
@@ -2177,6 +2192,11 @@
     "nonton.com": {
         "epoch": 1659139200.0,
         "expiration_date": "30-jul-2022",
+        "state": "future"
+    },
+    "ntt-news.com": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "nusabali.com": {
