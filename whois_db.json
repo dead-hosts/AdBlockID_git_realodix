@@ -717,7 +717,7 @@
     "clc.la": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "clickmedia.co.id": {
         "epoch": 1607817600.0,
