@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1582505649": {
-            "beritasulteng.id": "INACTIVE"
-        },
         "1582514056": {
             "199.188.206.180": "INACTIVE",
             "sport338.": "INVALID"
@@ -1383,6 +1380,9 @@
             "tores4d.me": "INACTIVE",
             "utama4d.biz": "INACTIVE",
             "webet.id": "INACTIVE"
+        },
+        "1582593089": {
+            "beritasulteng.id": "INACTIVE"
         }
     }
 }
