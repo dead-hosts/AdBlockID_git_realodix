@@ -114,6 +114,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "ads-ina.org": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "ads.id": {
         "epoch": 1623542400.0,
         "expiration_date": "13-jun-2021",
@@ -399,6 +404,11 @@
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
+    "baliadvertiser.biz": {
+        "epoch": 1714521600.0,
+        "expiration_date": "01-may-2024",
+        "state": "future"
+    },
     "baliekbis.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
@@ -457,6 +467,11 @@
     "beeashale.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "bekas.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "belajarbro.id": {
@@ -1344,6 +1359,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "iklandb.com": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "iklango.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -1357,6 +1377,21 @@
     "iklanhoki.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "iklanin.info": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "iklankost.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
+    "iklanpopuler.com": {
+        "epoch": 1590364800.0,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "indcit.com": {
@@ -1532,6 +1567,11 @@
     "jogjahost.co.id": {
         "epoch": 1861747200.0,
         "expiration_date": "30-dec-2028",
+        "state": "future"
+    },
+    "jualo.com": {
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
         "state": "future"
     },
     "juraganasli.com": {
@@ -2669,6 +2709,11 @@
         "expiration_date": "21-apr-2020",
         "state": "future"
     },
+    "pusatpemasanganiklan.com": {
+        "epoch": 1725926400.0,
+        "expiration_date": "10-sep-2024",
+        "state": "future"
+    },
     "pwmu.co": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
@@ -2927,6 +2972,11 @@
     "sebariklanbaris.com": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
+    "sebariklanbaris.net": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "sekolahpendidikan.com": {
@@ -3354,6 +3404,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "topbisnis.org": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
     "topdrakor.website": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -3392,6 +3447,11 @@
     "tutgwarnetgold.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "tutorialjaringan.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "u-ad.info": {
@@ -3552,6 +3612,11 @@
     "yr9n47004g.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "ziyata.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "zonasultra.com": {
