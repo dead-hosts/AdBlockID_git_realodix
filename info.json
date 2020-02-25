@@ -15,7 +15,7 @@
     "live_update": true,
     "name": "AdBlockID_git_realodix",
     "own_management": false,
-    "ping": [],
+    "ping": ["@realodix"],
     "raw_link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/tools/dead-hosts/dead-hosts--AdBlockID_git_realodix.txt",
     "start_datetime": "2020-02-21T15:48:07.274022",
     "start_timestamp": 1582300087.274022
