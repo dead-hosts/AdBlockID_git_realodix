@@ -12,7 +12,7 @@
     "latest_part_finish_timestamp": 1582711858.187429,
     "latest_part_start_datetime": "2020-02-26T10:00:49.277836",
     "latest_part_start_timestamp": 1582711249.277836,
-    "live_update": true,
+    "live_update": false,
     "name": "AdBlockID_git_realodix",
     "own_management": false,
     "ping": [
