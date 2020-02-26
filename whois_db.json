@@ -969,6 +969,11 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "earnload.co": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
     "eirudo.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
@@ -1129,6 +1134,11 @@
         "expiration_date": "12-feb-2021",
         "state": "future"
     },
+    "glory-link.com": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
     "gm2play.com": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
@@ -1147,6 +1157,11 @@
     "goo.gl": {
         "epoch": 1609459200.0,
         "expiration_date": "01-jan-2021",
+        "state": "future"
+    },
+    "gpmojo.co": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "grid.id": {
@@ -3047,6 +3062,11 @@
     "shopee.co.id": {
         "epoch": 1638057600.0,
         "expiration_date": "28-nov-2021",
+        "state": "future"
+    },
+    "shorten.sh": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "siapbisnis.net": {
