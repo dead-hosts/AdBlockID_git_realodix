@@ -3,10 +3,6 @@
         "1582530737": {
             "178.62.66.213": "INACTIVE"
         },
-        "1582572443": {
-            "128.199.102.136": "INACTIVE",
-            "idfl.*": "INVALID"
-        },
         "1582572445": {
             "*judi*.": "INVALID",
             "*taruhan*.": "INVALID",
@@ -1377,14 +1373,18 @@
             "utama4d.biz": "INACTIVE",
             "webet.id": "INACTIVE"
         },
-        "1582593089": {
-            "beritasulteng.id": "INACTIVE"
-        },
         "1582601253": {
             "199.188.206.180": "INACTIVE",
             "sport338.": "INVALID"
         },
-        "1582620825": {
+        "1582701588": {
+            "128.199.102.136": "INACTIVE",
+            "idfl.*": "INVALID"
+        },
+        "1582701592": {
+            "beritasulteng.id": "INACTIVE"
+        },
+        "1582709460": {
             "panduaneka.com": "INACTIVE"
         }
     }
