@@ -862,7 +862,7 @@
     "derapfakta.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "detaksatu.com": {
         "epoch": 1591315200.0,
@@ -2082,7 +2082,7 @@
     "maniakmotor.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "marathonarmy.org": {
         "epoch": 1615334400.0,

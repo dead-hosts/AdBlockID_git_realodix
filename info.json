@@ -1,17 +1,17 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "adblock": true
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2020-02-25T09:56:57.715228",
-    "finish_timestamp": 1582624617.715228,
-    "last_download_datetime": "2020-02-25T09:47:00.685560",
-    "last_download_timestamp": 1582624020.68556,
-    "latest_part_finish_datetime": "2020-02-25T09:56:57.715228",
-    "latest_part_finish_timestamp": 1582624617.715228,
-    "latest_part_start_datetime": "2020-02-25T09:47:01.277109",
-    "latest_part_start_timestamp": 1582624021.277109,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2020-02-26T07:09:46.155735",
+    "last_download_timestamp": 1582700986.155735,
+    "latest_part_finish_datetime": "2020-02-26T07:19:54.539489",
+    "latest_part_finish_timestamp": 1582701594.539489,
+    "latest_part_start_datetime": "2020-02-26T07:09:46.702518",
+    "latest_part_start_timestamp": 1582700986.702518,
     "live_update": true,
     "name": "AdBlockID_git_realodix",
     "own_management": false,
@@ -19,6 +19,6 @@
         "@realodix"
     ],
     "raw_link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/tools/dead-hosts/dead-hosts--AdBlockID_git_realodix.txt",
-    "start_datetime": "2020-02-21T15:48:07.274022",
-    "start_timestamp": 1582300087.274022
+    "start_datetime": "2020-02-26T07:09:46.696009",
+    "start_timestamp": 1582700986.696009
 }
