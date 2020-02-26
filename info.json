@@ -1,7 +1,9 @@
 {
     "currently_under_test": false,
     "custom_pyfunceble_config": {
-        "adblock": true
+        "adblock": true,
+        "ci_autosave_commit": "[Autosave] Temporary results",
+        "ci_autosave_final_commit": "[Final/Result] Dead-Hosts::AdBlockID"
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-02-26T11:02:45.946262",
