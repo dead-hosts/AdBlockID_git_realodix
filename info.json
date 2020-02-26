@@ -18,7 +18,7 @@
     "ping": [
         "@realodix"
     ],
-    "raw_link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/tools/dead-hosts/dead-hosts--AdBlockID_git_realodix.txt",
+    "raw_link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt",
     "start_datetime": "2020-02-26T07:09:46.696009",
     "start_timestamp": 1582700986.696009
 }
