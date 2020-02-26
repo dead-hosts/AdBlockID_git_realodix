@@ -1509,6 +1509,11 @@
         "expiration_date": "11-nov-2024",
         "state": "future"
     },
+    "indozone.id": {
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "state": "future"
+    },
     "infojambi.com": {
         "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
@@ -2124,6 +2129,11 @@
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
+    "liputan6.com": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
     "liputanbengkulu.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
@@ -2637,6 +2647,11 @@
     "otosia.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "ouo.io": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "p-store.net": {
