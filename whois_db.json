@@ -167,7 +167,7 @@
     "agen4d.me": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "agenimc5.com": {
         "epoch": 1583452800.0,
@@ -905,9 +905,9 @@
         "state": "future"
     },
     "derapfakta.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
-        "state": "past"
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
     },
     "detaksatu.com": {
         "epoch": 1591315200.0,
@@ -2827,7 +2827,7 @@
     "poke4d.me": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "polisiinternet.com": {
         "epoch": 1594857600.0,
