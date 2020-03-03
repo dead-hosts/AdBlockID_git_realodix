@@ -1,30 +1,92 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1583148334": {
-            "128.199.102.136": "INACTIVE"
+        "1583152599": {
+            "216.83.47.120": "INACTIVE",
+            "216.83.47.35": "INACTIVE",
+            "216.83.47.40": "INACTIVE",
+            "216.83.47.50": "INACTIVE",
+            "216.83.47.78": "INACTIVE",
+            "216.83.47.96": "INACTIVE",
+            "216.83.47.97": "INACTIVE",
+            "23.235.219.193": "INACTIVE",
+            "27.124.27.108": "INACTIVE",
+            "27.124.27.109": "INACTIVE",
+            "27.124.27.125": "INACTIVE",
+            "31.220.111.78": "INACTIVE",
+            "31.220.54.222": "INACTIVE",
+            "45.64.128.167": "INACTIVE",
+            "47.252.1.213": "INACTIVE",
+            "63.250.38.109": "INACTIVE",
+            "68.183.178.88": "INACTIVE",
+            "68.183.218.223": "INACTIVE",
+            "68.183.227.208": "INACTIVE",
+            "69.10.34.71": "INACTIVE",
+            "69.10.34.78": "INACTIVE",
+            "81.19.186.167": "INACTIVE",
+            "93.188.162.66": "INACTIVE"
         },
-        "1583148335": {
-            "idfl.*": "INVALID"
+        "1583152600": {
+            "12shio1.org": "INACTIVE",
+            "12shio3.net": "INACTIVE",
+            "93.188.163.21": "INACTIVE",
+            "96.43.139.236": "INACTIVE",
+            "ace4d.me": "INACTIVE",
+            "alpha4d.live": "INACTIVE",
+            "asianbookie365.me": "INACTIVE",
+            "cgx112.com": "INACTIVE",
+            "dewajitu.me": "INACTIVE",
+            "dgc374.com": "INACTIVE",
+            "diva4d.me": "INACTIVE",
+            "energitoto.me": "INACTIVE",
+            "gt4d.me": "INACTIVE",
+            "indopools.me": "INACTIVE",
+            "klik4a.me": "INACTIVE",
+            "klub4d.me": "INACTIVE",
+            "lotustiga.com": "INACTIVE",
+            "menara4d.me": "INACTIVE",
+            "metro4d.cc": "INACTIVE",
+            "murnigoal.com": "INACTIVE",
+            "pkrace99.id": "INACTIVE",
+            "salam4d.me": "INACTIVE",
+            "shiokambing3.id": "INACTIVE",
+            "suster4d.me": "INACTIVE"
         },
-        "1583148336": {
+        "1583152601": {
+            "tores4d.me": "INACTIVE",
+            "utama4d.biz": "INACTIVE",
+            "webet.id": "INACTIVE"
+        },
+        "1583152604": {
+            "beritasulteng.id": "INACTIVE"
+        },
+        "1583152606": {
+            "panduaneka.com": "INACTIVE"
+        },
+        "1583234521": {
+            "199.192.31.190": "INACTIVE",
+            "sbobet.": "INVALID"
+        },
+        "1583238574": {
             "*judi*.": "INVALID",
             "*taruhan*.": "INVALID",
             "*togel*.": "INVALID",
             "116poker.": "INVALID",
             "11juni.": "INVALID",
             "123samsung.": "INVALID",
+            "128.199.102.136": "INACTIVE",
             "128cash.": "INVALID",
             "168liga.": "INVALID",
             "168wbtoto.": "INVALID",
-            "188affiliates.": "INVALID",
-            "188bet.": "INVALID",
             "agenjudionline.": "INVALID",
             "bet2link.info": "INACTIVE",
             "hanabet.*": "INVALID",
+            "idfl.*": "INVALID",
             "rajacapsa.*": "INVALID",
             "rajaqq.*": "INVALID"
         },
-        "1583148337": {
+        "1583238575": {
+            "188affiliates.": "INVALID",
+            "188bet.": "INVALID",
             "1sakong.": "INVALID",
             "1spoker.": "INVALID",
             "1xbet.": "INVALID",
@@ -178,10 +240,10 @@
             "axiobola.": "INVALID",
             "axiooqq.": "INVALID",
             "ayojuara.": "INVALID",
-            "ayomainqq.": "INVALID",
-            "ayoqq.": "INVALID"
+            "ayomainqq.": "INVALID"
         },
-        "1583148338": {
+        "1583238576": {
+            "ayoqq.": "INVALID",
             "ayoqqnew.": "INVALID",
             "ayoqqsakong.": "INVALID",
             "ayukqq.": "INVALID",
@@ -332,11 +394,11 @@
             "daftarpoker*.": "INVALID",
             "daftarqq*.": "INVALID",
             "daftarsbobetresmi.": "INVALID",
-            "daftarsboid.": "INVALID",
-            "dahsyatqq.": "INVALID",
-            "damqq.": "INVALID"
+            "daftarsboid.": "INVALID"
         },
-        "1583148339": {
+        "1583238577": {
+            "dahsyatqq.": "INVALID",
+            "damqq.": "INVALID",
             "danaqq.": "INVALID",
             "daspoker.": "INVALID",
             "dellpoker.": "INVALID",
@@ -484,11 +546,11 @@
             "hdpbola.": "INVALID",
             "hebatqq.": "INVALID",
             "heypoker.": "INVALID",
-            "hilifepoker.": "INVALID"
+            "hilifepoker.": "INVALID",
+            "hkpool.": "INVALID"
         },
-        "1583148340": {
+        "1583238578": {
             "hjtowin.": "INVALID",
-            "hkpool.": "INVALID",
             "hm88poker.": "INVALID",
             "hnbwin.": "INVALID",
             "hobi88.": "INVALID",
@@ -639,7 +701,7 @@
             "klikqq.": "INVALID",
             "kliksakong.": "INVALID"
         },
-        "1583148341": {
+        "1583238579": {
             "klikuntung.": "INVALID",
             "kodealam2.": "INVALID",
             "koinhoki.": "INVALID",
@@ -785,11 +847,11 @@
             "muchospoker.": "INVALID",
             "mukaqq.": "INVALID",
             "murah4d.": "INVALID",
-            "musim99.": "INVALID"
-        },
-        "1583148342": {
+            "musim99.": "INVALID",
             "musimnewqq.": "INVALID",
-            "musimqq.": "INVALID",
+            "musimqq.": "INVALID"
+        },
+        "1583238580": {
             "musimqq300.": "INVALID",
             "musimqq365.": "INVALID",
             "musimtoto.": "INVALID",
@@ -926,16 +988,16 @@
             "qqdomino.": "INVALID",
             "qqdoyan.": "INVALID",
             "qqemas.": "INVALID",
-            "qqhebat.": "INVALID"
-        },
-        "1583148343": {
+            "qqhebat.": "INVALID",
             "qqhok.": "INVALID",
             "qqjempol.": "INVALID",
             "qqmaju.": "INVALID",
             "qqnalo.": "INVALID",
             "qqnewbet.": "INVALID",
             "qqpendekar.": "INVALID",
-            "qqpilihan.": "INVALID",
+            "qqpilihan.": "INVALID"
+        },
+        "1583238581": {
             "qqpokerplay.": "INVALID",
             "qqratu.": "INVALID",
             "qqsamsung128.": "INVALID",
@@ -1070,14 +1132,14 @@
             "suaraemas.": "INVALID",
             "suhu-qq.": "INVALID",
             "suhu88.": "INVALID",
-            "suhu99.": "INVALID"
-        },
-        "1583148344": {
+            "suhu99.": "INVALID",
             "suhubet.": "INVALID",
             "suhubola.": "INVALID",
             "suhukiu.": "INVALID",
             "suhuqq.": "INVALID",
-            "sukabandar.": "INVALID",
+            "sukabandar.": "INVALID"
+        },
+        "1583238582": {
             "sumberqq.": "INVALID",
             "sumoqq.": "INVALID",
             "sundul99.": "INVALID",
@@ -1211,9 +1273,16 @@
             "win7poker.": "INVALID",
             "windewa.": "INVALID",
             "winft95.": "INVALID",
-            "wingspoker.": "INVALID"
+            "wingspoker.": "INVALID",
+            "wingsqq.": "INVALID",
+            "winning365.": "INVALID",
+            "winning7.": "INVALID",
+            "winnipoker.": "INVALID",
+            "winpoker.": "INVALID",
+            "winpoker789.": "INVALID",
+            "winwinbola.": "INVALID"
         },
-        "1583148345": {
+        "1583238583": {
             "103.10.200.48": "INACTIVE",
             "103.10.200.57": "INACTIVE",
             "103.10.200.61": "INACTIVE",
@@ -1302,13 +1371,6 @@
             "213.190.4.251": "INACTIVE",
             "216.83.47.102": "INACTIVE",
             "216.83.47.119": "INACTIVE",
-            "wingsqq.": "INVALID",
-            "winning365.": "INVALID",
-            "winning7.": "INVALID",
-            "winnipoker.": "INVALID",
-            "winpoker.": "INVALID",
-            "winpoker789.": "INVALID",
-            "winwinbola.": "INVALID",
             "wismaqq.": "INVALID",
             "wismaqq2.": "INVALID",
             "won77.": "INVALID",
@@ -1330,72 +1392,6 @@
             "zonaprediksi.": "INVALID",
             "zonawin.": "INVALID",
             "zyngaqq.": "INVALID"
-        },
-        "1583152599": {
-            "216.83.47.120": "INACTIVE",
-            "216.83.47.35": "INACTIVE",
-            "216.83.47.40": "INACTIVE",
-            "216.83.47.50": "INACTIVE",
-            "216.83.47.78": "INACTIVE",
-            "216.83.47.96": "INACTIVE",
-            "216.83.47.97": "INACTIVE",
-            "23.235.219.193": "INACTIVE",
-            "27.124.27.108": "INACTIVE",
-            "27.124.27.109": "INACTIVE",
-            "27.124.27.125": "INACTIVE",
-            "31.220.111.78": "INACTIVE",
-            "31.220.54.222": "INACTIVE",
-            "45.64.128.167": "INACTIVE",
-            "47.252.1.213": "INACTIVE",
-            "63.250.38.109": "INACTIVE",
-            "68.183.178.88": "INACTIVE",
-            "68.183.218.223": "INACTIVE",
-            "68.183.227.208": "INACTIVE",
-            "69.10.34.71": "INACTIVE",
-            "69.10.34.78": "INACTIVE",
-            "81.19.186.167": "INACTIVE",
-            "93.188.162.66": "INACTIVE"
-        },
-        "1583152600": {
-            "12shio1.org": "INACTIVE",
-            "12shio3.net": "INACTIVE",
-            "93.188.163.21": "INACTIVE",
-            "96.43.139.236": "INACTIVE",
-            "ace4d.me": "INACTIVE",
-            "alpha4d.live": "INACTIVE",
-            "asianbookie365.me": "INACTIVE",
-            "cgx112.com": "INACTIVE",
-            "dewajitu.me": "INACTIVE",
-            "dgc374.com": "INACTIVE",
-            "diva4d.me": "INACTIVE",
-            "energitoto.me": "INACTIVE",
-            "gt4d.me": "INACTIVE",
-            "indopools.me": "INACTIVE",
-            "klik4a.me": "INACTIVE",
-            "klub4d.me": "INACTIVE",
-            "lotustiga.com": "INACTIVE",
-            "menara4d.me": "INACTIVE",
-            "metro4d.cc": "INACTIVE",
-            "murnigoal.com": "INACTIVE",
-            "pkrace99.id": "INACTIVE",
-            "salam4d.me": "INACTIVE",
-            "shiokambing3.id": "INACTIVE",
-            "suster4d.me": "INACTIVE"
-        },
-        "1583152601": {
-            "tores4d.me": "INACTIVE",
-            "utama4d.biz": "INACTIVE",
-            "webet.id": "INACTIVE"
-        },
-        "1583152604": {
-            "beritasulteng.id": "INACTIVE"
-        },
-        "1583152606": {
-            "panduaneka.com": "INACTIVE"
-        },
-        "1583234521": {
-            "199.192.31.190": "INACTIVE",
-            "sbobet.": "INVALID"
         }
     }
 }
