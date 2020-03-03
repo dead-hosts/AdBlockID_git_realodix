@@ -179,6 +179,11 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "ahasagicy.site": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
     "aii.sh": {
         "epoch": 1627603200.0,
         "expiration_date": "30-jul-2021",
@@ -377,6 +382,11 @@
     "asuransiku.info": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "aukalerim.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "auramedia.co": {
@@ -1004,6 +1014,11 @@
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "dskyseconomic.info": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
     "duniafintech.com": {
         "epoch": 1740614400.0,
         "expiration_date": "27-feb-2025",
@@ -1052,6 +1067,11 @@
     "emerer.com": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "empresasdebizkaia.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "enmaer.com": {
@@ -1397,6 +1417,11 @@
     "hobybaca.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
+    "hokianda.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "hoster.co.id": {
@@ -2369,6 +2394,11 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "misdem.pro": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "mitratoday.com": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
@@ -3109,6 +3139,11 @@
         "expiration_date": "19-feb-2023",
         "state": "future"
     },
+    "rumahzeus.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
     "rumus.co.id": {
         "epoch": 1693440000.0,
         "expiration_date": "31-aug-2023",
@@ -3420,9 +3455,9 @@
         "state": "future"
     },
     "suarantb.com": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
-        "state": "past"
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
     },
     "suarasiber.com": {
         "epoch": 1608249600.0,
