@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1583152604": {
-            "beritasulteng.id": "INACTIVE"
-        },
-        "1583152606": {
-            "panduaneka.com": "INACTIVE"
-        },
-        "1583234521": {
-            "199.192.31.190": "INACTIVE",
-            "sbobet.": "INVALID"
-        },
         "1583238574": {
             "*judi*.": "INVALID",
             "*taruhan*.": "INVALID",
@@ -1393,6 +1383,14 @@
             "tores4d.me": "INACTIVE",
             "utama4d.biz": "INACTIVE",
             "webet.id": "INACTIVE"
+        },
+        "1583323813": {
+            "199.192.31.190": "INACTIVE",
+            "beritasulteng.id": "INACTIVE",
+            "sbobet.": "INVALID"
+        },
+        "1583323814": {
+            "panduaneka.com": "INACTIVE"
         }
     }
 }
