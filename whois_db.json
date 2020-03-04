@@ -1174,6 +1174,11 @@
         "expiration_date": "24-dec-2020",
         "state": "future"
     },
+    "gamebolasepak.com": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "gardaasakota.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
@@ -1397,7 +1402,7 @@
     "hitsbola.bid": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "hitsbola.com": {
         "epoch": 1614902400.0,
@@ -1592,6 +1597,11 @@
     "intercelestial.com": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "ion777.net": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "ipeenk.id": {
@@ -1879,6 +1889,11 @@
         "expiration_date": "10-jan-2021",
         "state": "future"
     },
+    "klik-4d.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "klikabadi.net": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -2079,6 +2094,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "lagaayam.org": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
     "lampung1.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
@@ -2107,6 +2127,11 @@
     "lewat.club": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "lg88.online": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "lgemas.com": {
@@ -2197,6 +2222,11 @@
     "livesgptercepat.com": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "livestreamingbola.org": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "llahnch259.com": {
@@ -2302,6 +2332,11 @@
     "mazterize.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "mdewa.com": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "medanmerdeka.com": {
