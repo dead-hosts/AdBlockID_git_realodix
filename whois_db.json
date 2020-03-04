@@ -514,6 +514,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "beigeiros.pw": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
     "bekas.com": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
