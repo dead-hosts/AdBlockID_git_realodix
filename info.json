@@ -1,7 +1,8 @@
 {
     "currently_under_test": false,
     "custom_pyfunceble_config": {
-        "adblock": true
+        "adblock": true,
+        "generate_hosts": false
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-05T12:24:01.389175",
