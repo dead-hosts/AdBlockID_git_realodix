@@ -679,6 +679,11 @@
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
+    "bolasport.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "booking.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
@@ -3679,6 +3684,11 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "terasmaluku.com": {
+        "epoch": 1586044800.0,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
     "terkininews.com": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
@@ -3707,6 +3717,11 @@
     "tikusliar.com": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "tinyurl.com": {
+        "epoch": 1864166400.0,
+        "expiration_date": "27-jan-2029",
         "state": "future"
     },
     "tirto.id": {
