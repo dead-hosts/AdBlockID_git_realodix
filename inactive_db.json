@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1583368043": {
-            "bagikancara.com": "INACTIVE"
-        },
-        "1583411038": {
-            "beritasulteng.id": "INACTIVE"
-        },
-        "1583411040": {
-            "panduaneka.com": "INACTIVE"
-        },
         "1583496534": {
             "128.199.102.136": "INACTIVE",
             "idfl.*": "INVALID"
@@ -1398,6 +1389,13 @@
             "tores4d.me": "INACTIVE",
             "utama4d.biz": "INACTIVE",
             "webet.id": "INACTIVE"
+        },
+        "1583505861": {
+            "beritasulteng.id": "INACTIVE"
+        },
+        "1583505863": {
+            "bagikancara.com": "INACTIVE",
+            "panduaneka.com": "INACTIVE"
         }
     }
 }
