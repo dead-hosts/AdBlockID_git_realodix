@@ -17,7 +17,7 @@
     "name": "AdBlockID_git_realodix",
     "own_management": false,
     "ping": [
-        "@realodix"
+        "realodix"
     ],
     "raw_link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt",
     "start_datetime": "2020-03-06T11:58:49.203036",
