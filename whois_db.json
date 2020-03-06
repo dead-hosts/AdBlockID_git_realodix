@@ -172,7 +172,7 @@
     "agenimc5.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "agungqiu.org": {
         "epoch": 1601769600.0,
@@ -1940,8 +1940,8 @@
         "state": "future"
     },
     "klub4d.xyz": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "kompas.com": {
