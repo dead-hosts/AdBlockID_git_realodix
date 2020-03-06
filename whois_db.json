@@ -2900,8 +2900,8 @@
         "state": "future"
     },
     "plaza-bisnis.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "poke4d.me": {
@@ -3447,7 +3447,7 @@
     "stradamotoblog.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "suara.com": {
         "epoch": 1633305600.0,
