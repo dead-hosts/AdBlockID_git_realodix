@@ -169,6 +169,11 @@
         "expiration_date": "28-feb-2021",
         "state": "future"
     },
+    "agenbola.org": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
     "agenimc5.com": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
@@ -689,6 +694,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "bopohsage.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "bosqq.online": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
@@ -914,10 +924,20 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "data-sgp.net": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "datahk69.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "dcbet.cc": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
-        "state": "past"
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
     },
     "depokpos.com": {
         "epoch": 1584921600.0,
@@ -1149,6 +1169,11 @@
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
+    "fixchidie.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "fixsirrod.site": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -1182,6 +1207,11 @@
     "gadget2reviews.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
+    "gagpetwet.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "gamebolasepak.com": {
@@ -1290,9 +1320,9 @@
         "state": "future"
     },
     "hagobola.org": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
-        "state": "past"
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
     },
     "haipedia.com": {
         "epoch": 1629763200.0,
@@ -1737,6 +1767,11 @@
     "jogjahost.co.id": {
         "epoch": 1861747200.0,
         "expiration_date": "30-dec-2028",
+        "state": "future"
+    },
+    "jotskymay.club": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "jualo.com": {
@@ -3932,6 +3967,11 @@
     "waspadaaceh.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
+    "waxtamnit.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "wikiall.org": {
