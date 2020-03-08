@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1583501954": {
-            "lotustiga.com": "INACTIVE",
-            "menara4d.me": "INACTIVE",
-            "metro4d.cc": "INACTIVE",
-            "murnigoal.com": "INACTIVE",
-            "pkrace99.id": "INACTIVE",
-            "salam4d.me": "INACTIVE"
-        },
-        "1583501955": {
-            "shiokambing3.id": "INACTIVE",
-            "suster4d.me": "INACTIVE",
-            "tores4d.me": "INACTIVE",
-            "utama4d.biz": "INACTIVE",
-            "webet.id": "INACTIVE"
-        },
-        "1583505861": {
-            "beritasulteng.id": "INACTIVE"
-        },
         "1583505863": {
             "bagikancara.com": "INACTIVE",
             "panduaneka.com": "INACTIVE"
@@ -1400,6 +1382,22 @@
             "indopools.me": "INACTIVE",
             "klik4a.me": "INACTIVE",
             "klub4d.me": "INACTIVE"
+        },
+        "1583629859": {
+            "lotustiga.com": "INACTIVE",
+            "menara4d.me": "INACTIVE",
+            "metro4d.cc": "INACTIVE",
+            "murnigoal.com": "INACTIVE",
+            "pkrace99.id": "INACTIVE",
+            "salam4d.me": "INACTIVE",
+            "shiokambing3.id": "INACTIVE",
+            "suster4d.me": "INACTIVE",
+            "tores4d.me": "INACTIVE",
+            "utama4d.biz": "INACTIVE",
+            "webet.id": "INACTIVE"
+        },
+        "1583629863": {
+            "beritasulteng.id": "INACTIVE"
         }
     }
 }
