@@ -3,6 +3,9 @@
     "custom_pyfunceble_config": {
         "adblock": true,
         "ci_autosave_final_commit": "AdBlockID - Results | @realodix",
+        "dns_lookup_over_tcp": true,
+        "generate_complements": true,
+        "generate_json": true,
         "http_codes": {
             "list": {
                 "potentially_down": [
@@ -42,8 +45,7 @@
                     505
                 ]
             }
-        },
-        "no_whois": true
+        }
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-11T16:52:21.292800",
