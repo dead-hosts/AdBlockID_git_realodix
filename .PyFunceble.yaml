@@ -19,7 +19,7 @@ dns_server:
 - 1.1.1.1
 - 1.0.0.1
 filter: ''
-generate_complements: true
+generate_complements: false
 generate_hosts: true
 generate_json: false
 header_printed: false
