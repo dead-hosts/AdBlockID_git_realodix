@@ -28,6 +28,8 @@ http_codes:
     active: true
     list:
         potentially_down:
+        - 301
+        - 302
         - 400
         - 402
         - 403
@@ -41,8 +43,6 @@ http_codes:
         potentially_up:
         - 0
         - 300
-        - 301
-        - 302
         - 303
         - 304
         - 305
@@ -97,7 +97,7 @@ multiprocess: true
 multiprocess_merging_mode: end
 no_files: false
 no_special: false
-no_whois: false
+no_whois: true
 outputs:
     analytic:
         directories:
