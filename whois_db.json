@@ -1190,9 +1190,9 @@
         "state": "future"
     },
     "forumbitcoin.co.id": {
-        "epoch": 1583798400.0,
-        "expiration_date": "10-mar-2020",
-        "state": "past"
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
     },
     "forumiklan.com": {
         "epoch": 1620777600.0,
@@ -1222,6 +1222,11 @@
     "gamebolasepak.com": {
         "epoch": 1611014400.0,
         "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
+    "gamebrott.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "gardaasakota.com": {
@@ -1260,9 +1265,9 @@
         "state": "future"
     },
     "ggwp.id": {
-        "epoch": 1583798400.0,
-        "expiration_date": "10-mar-2020",
-        "state": "past"
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
     },
     "gigapurbalingga.net": {
         "epoch": 1613088000.0,
@@ -1774,6 +1779,11 @@
         "expiration_date": "30-dec-2028",
         "state": "future"
     },
+    "jootizud.net": {
+        "epoch": 1589068800.0,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "jotskymay.club": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -1837,7 +1847,7 @@
     "kabarmanado.com": {
         "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "kabarnagari.com": {
         "epoch": 1594425600.0,
@@ -2749,6 +2759,11 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "otakotaku.com": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "otomakassar.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
@@ -3082,7 +3097,7 @@
     "radarmalang.id": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "radarsultra.co.id": {
         "epoch": 1585612800.0,
@@ -3302,6 +3317,11 @@
     "schema.org": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
+    "sdhfbvd.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "sebariklanbaris.com": {
@@ -3580,8 +3600,8 @@
         "state": "future"
     },
     "sultengterkini.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "sultrakini.com": {

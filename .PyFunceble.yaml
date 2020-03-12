@@ -14,14 +14,14 @@ custom_ip: 0.0.0.0
 days_between_db_retest: 1
 db_type: json
 debug: false
-dns_lookup_over_tcp: false
+dns_lookup_over_tcp: true
 dns_server:
 - 1.1.1.1
 - 1.0.0.1
 filter: ''
-generate_complements: false
+generate_complements: true
 generate_hosts: true
-generate_json: false
+generate_json: true
 header_printed: false
 hierarchical_sorting: false
 http_codes:
@@ -97,7 +97,7 @@ multiprocess: true
 multiprocess_merging_mode: end
 no_files: false
 no_special: false
-no_whois: true
+no_whois: false
 outputs:
     analytic:
         directories:
