@@ -229,6 +229,11 @@
         "expiration_date": "27-feb-2022",
         "state": "future"
     },
+    "amaumomt.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "amazonaws.com": {
         "epoch": 1705363200.0,
         "expiration_date": "16-jan-2024",
@@ -325,8 +330,8 @@
         "state": "future"
     },
     "arenasmartphone.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "arlinadzgn.com": {
@@ -2177,6 +2182,11 @@
     "lastfashions.xyz": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "layshyjar.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "leoceran.pw": {

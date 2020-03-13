@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20.071.1437
+! Version: 20.073.1307
 ! Title: AdBlockID
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
-! Last modified: 11 Mar 2020 23:57 UTC
+! Last modified: 13 Mar 2020 21:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockID
 ! 
@@ -710,6 +710,7 @@ _GIF1200x120-
 ###iklan2
 ###iklan3
 ###iklan4
+###iklan700
 ###iklan_atas
 ###iklan_bawah
 ###iklan_home_header
@@ -1501,6 +1502,7 @@ _GIF1200x120-
 ||adslop.com^$third-party
 ||adstarsmedia.co.id^$third-party
 ||aiwhebey.com^$third-party
+||amaumomt.com^$third-party
 ||ampburask.site^$third-party
 ||aseanbanner.tk^$third-party
 ||aukalerim.com^$third-party
@@ -1540,6 +1542,7 @@ _GIF1200x120-
 ||klikajadeh.com^$third-party
 ||koutobey.net^$third-party
 ||ladsdown.com^$third-party
+||layshyjar.com^$third-party
 ||leoceran.pw^$third-party
 ||lokeriklan.com^$third-party
 ||loppjod.online^$third-party
@@ -2514,6 +2517,7 @@ kabargames.id##+js(aopr, SGPB_POPUP_PARAMS)
 /*pokerajaib*.$image
 /*pokerclick88*.$image
 /*pokersejati*.$image
+/*pokervita*.$image
 /*potato-77*.$image
 /*potato77*.$image
 /*power338bet*.$image
@@ -4278,6 +4282,7 @@ _penggugur_kandungan_$image
 ##[href*="/tgks."]
 ##[href*="/xtubecinema"] > img
 ##[href*="1001bet"] > img
+##[href*="1001win.net"]
 ##[href*="1001win.org"]
 ##[href*="108cash."] > img
 ##[href*="116poker."] > img
@@ -4535,6 +4540,7 @@ _penggugur_kandungan_$image
 ##[href*="aseantogel"]
 ##[href*="aset11."] > img
 ##[href*="asetbet"] > img
+##[href*="asetnet.live"]
 ##[href*="asia-bandarkiu."] > img
 ##[href*="asia-bandarq."] > img
 ##[href*="asia381."] > img
@@ -4559,18 +4565,15 @@ _penggugur_kandungan_$image
 ##[href*="asiantogel."] > img
 ##[href*="asiapk77."]
 ##[href*="asiapoker."] > img
-##[href*="asiapoker77."] > img
-##[href*="asiapoker777."] > img
+##[href*="asiapoker7"]
 ##[href*="asiaqq"] > img
 ##[href*="asiatar.net"]
 ##[href*="asiatoto."]
-##[href*="asiatoto."] > img
 ##[href*="asik99."] > img
 ##[href*="asikbookie."] > img
 ##[href*="asikmenang."] > img
 ##[href*="asikpoker"]
 ##[href*="asikqq"]
-##[href*="asliqq"] > img
 ##[href*="astonbet"]
 ##[href*="astonbola."] > img
 ##[href*="astonwin."]
@@ -4658,8 +4661,7 @@ _penggugur_kandungan_$image
 ##[href*="bca99."] > img
 ##[href*="bcabet"] > img
 ##[href*="bcadomino."] > img
-##[href*="bcaqq."]
-##[href*="bcaqqindo."]
+##[href*="bcaqq"]
 ##[href*="bcasino."] > img
 ##[href*="bdasia."] > img
 ##[href*="bdr99."] > img
@@ -4702,8 +4704,7 @@ _penggugur_kandungan_$image
 ##[href*="bethost24."] > img
 ##[href*="bethost88."] > img
 ##[href*="betindoasia."] > img
-##[href*="betjudibola."] > img
-##[href*="betjudionline."] > img
+##[href*="betjudi"]
 ##[href*="betking88."] > img
 ##[href*="betkiukiu."] > img
 ##[href*="betliga368."] > img
@@ -4990,9 +4991,7 @@ _penggugur_kandungan_$image
 ##[href*="dewanaga."] > img
 ##[href*="dewaonline."]
 ##[href*="dewaonline99"]
-##[href*="dewapoker."]
-##[href*="dewapokernews."] > img
-##[href*="dewapokerqq."] > img
+##[href*="dewapoker"]
 ##[href*="dewaqq."] > img
 ##[href*="dewaslot99."] > img
 ##[href*="dewatogel."] > img
@@ -5036,7 +5035,7 @@ _penggugur_kandungan_$image
 ##[href*="domino-168."] > img
 ##[href*="domino-99"] > img
 ##[href*="domino-bet."] > img
-##[href*="domino-qq"] > img
+##[href*="domino-qq"]
 ##[href*="domino168."] > img
 ##[href*="domino365"] > img
 ##[href*="domino5star."] > img
@@ -5047,8 +5046,7 @@ _penggugur_kandungan_$image
 ##[href*="dominoceme12."] > img
 ##[href*="dominogadis."]
 ##[href*="dominohp."]
-##[href*="dominoqiu."]
-##[href*="dominoqq"]
+##[href*="dominoq"]
 ##[href*="dominosana."]
 ##[href*="dompetbola."] > img
 ##[href*="dompetqq."] > img
@@ -5100,8 +5098,7 @@ _penggugur_kandungan_$image
 ##[href*="elangbola."] > img
 ##[href*="elangcapsa."] > img
 ##[href*="elanghoki."] > img
-##[href*="elangpoker."] > img
-##[href*="elangpoker365."] > img
+##[href*="elangpoker"]
 ##[href*="elangqq"]
 ##[href*="emasbet"] > img
 ##[href*="empresasdebizkaia."]
@@ -5283,6 +5280,7 @@ _penggugur_kandungan_$image
 ##[href*="hokibet"] > img
 ##[href*="hokicapsa."] > img
 ##[href*="hokicapsa11."] > img
+##[href*="hokicashwin.com"]
 ##[href*="hokidomino."] > img
 ##[href*="hokijudi99"] > img
 ##[href*="hokiliga."] > img
@@ -6038,6 +6036,7 @@ _penggugur_kandungan_$image
 ##[href*="megatoto."]
 ##[href*="megawin77."]
 ##[href*="megawin77id."]
+##[href*="megawin77idn."]
 ##[href*="megawin77ku."]
 ##[href*="mei2poker"] > img
 ##[href*="meja13."] > img
@@ -6966,6 +6965,7 @@ _penggugur_kandungan_$image
 ##[href*="togelangka."] > img
 ##[href*="togelasia."] > img
 ##[href*="togelbet"]
+##[href*="togelbiji."]
 ##[href*="togelbos."] > img
 ##[href*="togelcc1."] > img
 ##[href*="togelcenter."] > img
@@ -7488,6 +7488,7 @@ _penggugur_kandungan_$image
 ##[href*="bit.ly/2O7lY3n"] > img
 ##[href*="bit.ly/2OGgFJ8"]
 ##[href*="bit.ly/2PyopwB"] > img
+##[href*="bit.ly/2QFCrOx"]
 ##[href*="bit.ly/2Qq8LEV"] > img
 ##[href*="bit.ly/2Shr3YI"]
 ##[href*="bit.ly/2Tywrsi"]
@@ -7780,13 +7781,11 @@ bengkuluekspress.com##.adv-wrapper
 harianandalas.com,krjogja.com##.advertisement
 aliansirakyatnews.com##.baner
 bengkulunews.co.id,beritaterbit.com,medcom.id,mitratoday.com,radarsultra.co.id,rafflesianews.com##.banner
-beritagar.id##.banner--300x600
 kontan.co.id##.banner-adv-1
 riaukarya.com,riaumandiri.id##.banner-content
 klikpositif.com##.banner-item
 nmcberita.id##.banner-rights
 elshinta.com##.banner-top
-beritagar.id##.banner300x250
 alasannews.com##.banneritem
 cosmogirl.co.id##.bnr
 detik.com##.bottom_banner
@@ -8190,21 +8189,26 @@ m.liputan6.com#@##back-to-top
 ##[href^="https://safelinkblogger.com/ref/"]
 ##[href^="https://safelinku.com/ref/"] > img
 ! 
-encurta.eu##[href*="ads.encurta.net/"]
 safe-your-url.blogspot.com##[href^="http://www.safelinkconverter.com"]
 ! ANTI-ADBLOCK
 ! --------------------------------------------------------------
+! https://github.com/gorhill/uBlock/wiki/Resources-Library
+nurhamka.com##+js(aopr, adBlockDetected)
+lewat.club,sekilastekno.com,stfly.io##+js(aopr, app_vars.force_disable_adblock)
+masihbelajar.com##+js(aopr, mdpDeBlocker)
+netijenshare.com##+js(aopw, adBlockDetected)
+agansultan.co##+js(nobab)
+! 
 @@/abb-msg.$script,domain=mangalist.org
 @@/adsbygoogle.$script,domain=sharetvr.my.id
 @@/advertisement.$script,domain=anifiles.org|berkas.cloud|disingkat.in|mangalist.org|shortgoo.blogspot.com|teknosafe.info|tribuntekno.com
-@@/fuckadblock.$script,domain=dares.xyz|elnurtech.com|giga74.com|hargawebsite.com|newhealthblog.com|newsdecorate.com|newsteez.com|ngantukberat.me|proapkmod.com|safelinkreviewx.com|wikiall.org|yungeblog.xyz|yusepjaelani.blogspot.com
-@@/js/ads.$script,domain=adsafelink.com|adsafelink.net|bacajenius.id|cutlinks.pro|droidtamvan.me|earnload.co|eio.io|encurta.eu|fc.lc|fodz.xyz|glory-link.com|gpmojo.co|haipedia.com|higud.com|icutlink.com|indigitz.org|lewat.club|link48.net|masihbelajar.com|megaurl.in|memoo.xyz|modebaca.com|movienear.me|mylinkblog.com|ndoqp.com|safeku.com|shln.pw|shortearn.eu|shorten.sh|shrink.vip|skip.az|softfull.me|sportt.space|templink.org|unyumerdeka.com|urlto.id|wegner.tech|wi.cr
-@@/pagead2.$domain=dawnstation.com|masihbelajar.com|softfull.me
-@@/pagead2.$script,domain=animexin.jin-7.com|elsfile.org|felanovia.com|giga74.com|gubukbisnis.me|informations-library.blogspot.com|lewatisaja.com|linkberuang.blogspot.com|ljutkeunvpn.blogspot.com|sportif.id|teknorizen.blogspot.com
+@@/fuckadblock.$script,domain=dares.xyz|hargawebsite.com|newhealthblog.com|newsteez.com|ngantukberat.me|proapkmod.com|safelinkreviewx.com|wikiall.org|yungeblog.xyz|yusepjaelani.blogspot.com
+@@/js/ads.$script,domain=adsafelink.com|adsafelink.net|bacajenius.id|cutlinks.pro|droidtamvan.me|earnload.co|eio.io|fc.lc|fodz.xyz|glory-link.com|gpmojo.co|higud.com|icutlink.com|indigitz.org|link48.net|megaurl.in|memoo.xyz|modebaca.com|movienear.me|mylinkblog.com|ndoqp.com|safeku.com|shln.pw|shortearn.eu|shorten.sh|shrink.vip|skip.az|softfull.me|sportt.space|templink.org|urlto.id|wegner.tech|wi.cr
+@@/pagead2.$domain=dawnstation.com|softfull.me
+@@/pagead2.$script,domain=animexin.jin-7.com|elsfile.org|felanovia.com|gubukbisnis.me|informations-library.blogspot.com|lewatisaja.com|linkberuang.blogspot.com|ljutkeunvpn.blogspot.com|sportif.id|teknorizen.blogspot.com
 ! 
 @@||1idsly.com^$generichide
 @@||adsafelink.com^$generichide
-@@||agansultan.co^$generichide
 @@||apamanfaat.id^$generichide
 @@||apasih.pw^$generichide
 @@||autoride.pw^$generichide
@@ -8223,12 +8227,10 @@ safe-your-url.blogspot.com##[href^="http://www.safelinkconverter.com"]
 @@||dares.xyz^$generichide
 @@||destyy.com^$generichide
 @@||eio.io^$generichide
-@@||elnurtech.com^$generichide
 @@||elsfile.org^$generichide
 @@||festyy.com^$generichide
 @@||game-kentang.blogspot.com^$generichide
 @@||gestyy.com^$generichide
-@@||giga74.com^$generichide
 @@||gomentod.com^$generichide
 @@||hargawebsite.com^$generichide
 @@||hexafile.net^$generichide
@@ -8255,14 +8257,11 @@ safe-your-url.blogspot.com##[href^="http://www.safelinkconverter.com"]
 @@||ndoqp.com^$generichide
 @@||newhealthblog.com^$generichide
 @@||news-tech.xyz^$generichide
-@@||newsdecorate.com^$generichide
 @@||newsteez.com^$generichide
 @@||ngantukberat.me^$generichide
-@@||nurhamka.com^$generichide
 @@||onkarir.com^$generichide
 @@||otw-link.blogspot.com^$generichide
 @@||otw-link.xyz^$generichide
-@@||paruru.top^$generichide
 @@||pasbisa.site^$generichide
 @@||pendeksafelink.blogspot.com^$generichide
 @@||proapkmod.com^$generichide
@@ -8281,7 +8280,6 @@ safe-your-url.blogspot.com##[href^="http://www.safelinkconverter.com"]
 @@||sopasti.com^$generichide
 @@||suarankri.me^$generichide
 @@||tribuntekno.com^$generichide
-@@||unyumerdeka.com^$generichide
 @@||usesafelink.blogspot.com^$generichide
 @@||viid.me^$generichide
 @@||wiid.me^$generichide
@@ -8290,19 +8288,20 @@ safe-your-url.blogspot.com##[href^="http://www.safelinkconverter.com"]
 @@||yusepjaelani.blogspot.com^$generichide
 @@||zonangopi.ml^$generichide
 ! 
-earnload.co,encurta.eu,fodz.xyz,glory-link.com,gpmojo.co,memoo.xyz,shortearn.eu,shorten.sh,sportt.space#@##ad-banner
+earnload.co,fodz.xyz,glory-link.com,gpmojo.co,memoo.xyz,shortearn.eu,shorten.sh,sportt.space#@##ad-banner
 itsafelink.com,loncatin.keneono.site,safe-your-url.blogspot.com,safejobsbos.blogspot.com#@##adsense
 mediatulis.net#@##banner_ad
-earnload.co,encurta.eu,fodz.xyz,glory-link.com,gpmojo.co,memoo.xyz,shortearn.eu,shorten.sh,sportt.space#@#.ad-banner
+earnload.co,fodz.xyz,glory-link.com,gpmojo.co,memoo.xyz,shortearn.eu,shorten.sh,sportt.space#@#.ad-banner
+! 
+cararoot.id###ignielAdBlock
 ! 
 ! EMPTY ADS PLACEHOLDERS
 ! --------------------------------------------------------------
 ambyar.info,intercelestial.com,linegee.net,sweetlantern.com,tribuntekno.com###externalinject-gpt-passback-container
 ambyar.info,intercelestial.com,linegee.net,sweetlantern.com,tribuntekno.com###externalinject-gpt-passback-iframe
-agansultan.co,tribuntekno.com##.adsbyadop
-apasih.pw,elsfile.org,hexafile.net,infosehatku.club,lastfashions.xyz,ljutkeunvpn.blogspot.com,nurhamka.com,paruru.top,proapkmod.com,sepintek.my.id,wikiall.org,zonangopi.ml##.adsbygoogle
+tribuntekno.com##.adsbyadop
+apasih.pw,elsfile.org,hexafile.net,infosehatku.club,lastfashions.xyz,ljutkeunvpn.blogspot.com,proapkmod.com,sepintek.my.id,wikiall.org,zonangopi.ml##.adsbygoogle
 ipeenk.id##.adsfProtect
-lewat.club##.banner-container a img
 unduh.in##.bannersingletop
 intercelestial.com,sweetlantern.com,tribuntekno.com##.idblog-floatbanner
 ! 
@@ -8313,23 +8312,22 @@ kertashitam.com###blockblockB:style(visibility: visible !important; display: blo
 dares.xyz##.aicp
 aii.sh,higud.com,icutlink.com,oceantech.xyz,sportif.id##.banner
 sportif.id##.banner-container a img
-encurta.eu##.banner-inner
 get4link.xyz,oceantech.xyz,p4link.com,teknisimotor.com##.blog-item
 uiz.io##.btn-front:-abp-contains(Download)
 bacajenius.id##.download
 higud.com,lewat.club##.klikdisini
 asuransiku.info,bagilagi.com##.klnsora
-cararoot.id##[href*="gubukbisnis."]
 semawur.com##[href*="semawur.com/links/share/"]
 modebaca.com##[href*="tautan.pro"]
-haipedia.com,movienear.me##[href^="https://bit.ly/"] > img
-droidtamvan.me,haipedia.com,movienear.me##img[width="200"][height="60"]
+movienear.me##[href^="https://bit.ly/"] > img
+cararoot.id##img[border="0"][src*="blogspot.com"]
+droidtamvan.me,movienear.me,sekilastekno.com##img[width="200"][height="60"]
 ! 
 *$popup,domain=higud.com|icutlink.com|lewat.club|movienear.me
 *$subdocument,third-party,domain=glory-link.com
 /down.png$image,domain=movienear.me|sportif.id
 /download%$image,domain=movienear.me
-/download-now-$image,domain=droidtamvan.me|lewat.club
+/download-now-$image,domain=cararoot.id|droidtamvan.me|lewat.club|sekilastekno.com
 /download-now.$image,domain=icutlink.com
 /download3.$image,domain=link48.net|semawur.com
 /download_$image,domain=asuransiku.info
@@ -8340,10 +8338,7 @@ droidtamvan.me,haipedia.com,movienear.me##img[width="200"][height="60"]
 ||semawur.com/o.png$image
 ! 
 ! SCRIPTLET
-! https://github.com/gorhill/uBlock/wiki/Resources-Library
 ! --------------------------------------------------------------
-stfly.io##+js(aopr, app_vars.force_disable_adblock)
-netijenshare.com##+js(aopw, adBlockDetected)
 ! *** abid:src/addons/scriptlet-ublock.adbl ***
 ! Scriptlets khusus untuk uBlock dan turunannya
 ! https://github.com/gorhill/uBlock/wiki/Resources-Library
@@ -8540,4 +8535,4 @@ iklanpopuler.com,sebariklanbaris.net,ziyata.com#@#[src*="/iklan/"]
 ! 
 ! https://github.com/realodix/AdBlockID/issues/467
 @@/social-sharing-$script,domain=axe.com
-! Checksum: 4D2LDdcP5zyZnb8ZEiQ5xA
+! Checksum: O2nCg7B0HQEB7cUKY4acPA
