@@ -1,4 +1,9 @@
 {
+    "1001win.net": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
     "1001win.org": {
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
@@ -347,6 +352,11 @@
     "aseanbanner.tk": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "asetnet.live": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "asgolnews.com": {
@@ -1484,6 +1494,11 @@
         "expiration_date": "10-feb-2021",
         "state": "future"
     },
+    "hokicashwin.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
     "hoster.co.id": {
         "epoch": 1889654400.0,
         "expiration_date": "18-nov-2029",
@@ -1850,9 +1865,9 @@
         "state": "future"
     },
     "kabarmanado.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
-        "state": "past"
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
     },
     "kabarnagari.com": {
         "epoch": 1594425600.0,
@@ -2367,6 +2382,11 @@
     "mariodevan.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "masihbelajar.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "mastekno.com": {
@@ -3105,9 +3125,9 @@
         "state": "future"
     },
     "radarmalang.id": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
-        "state": "past"
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
     },
     "radarsultra.co.id": {
         "epoch": 1585612800.0,
@@ -3342,6 +3362,11 @@
     "sebariklanbaris.net": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "sekilastekno.com": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
         "state": "future"
     },
     "sekolahpendidikan.com": {
