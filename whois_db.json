@@ -944,6 +944,11 @@
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "data4dd.com": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "datahk69.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
@@ -1604,6 +1609,11 @@
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
+    "indodatasgp.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
     "indotelko.com": {
         "epoch": 1731283200.0,
         "expiration_date": "11-nov-2024",
@@ -1964,6 +1974,11 @@
         "expiration_date": "08-dec-2020",
         "state": "future"
     },
+    "kingdompaito.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "kistutch.net": {
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
@@ -2312,6 +2327,11 @@
     "livestreamingbola.org": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
+    "livesydney.website": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "llahnch259.com": {
@@ -2837,6 +2857,11 @@
     "padsreds.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "paitowarnahk6d.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "palapabola.com": {
@@ -3709,6 +3734,11 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "sydneypoolstoday.info": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
     "tabloidjubi.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
@@ -3822,6 +3852,11 @@
     "tikusliar.com": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "tinfunshe.club": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "tinyurl.com": {
