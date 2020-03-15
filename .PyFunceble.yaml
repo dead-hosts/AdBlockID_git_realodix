@@ -97,7 +97,7 @@ multiprocess: true
 multiprocess_merging_mode: end
 no_files: false
 no_special: false
-no_whois: false
+no_whois: true
 outputs:
     analytic:
         directories:
