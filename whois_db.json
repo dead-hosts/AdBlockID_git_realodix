@@ -424,6 +424,11 @@
         "expiration_date": "05-feb-2022",
         "state": "future"
     },
+    "bacaan.id": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
     "bacaanasik.cc": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
@@ -2167,7 +2172,7 @@
     "kupastuntas.co": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "kurajin.com": {
         "epoch": 1601596800.0,
