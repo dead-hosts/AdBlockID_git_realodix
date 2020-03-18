@@ -1,68 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1584274746": {
-            "12shio1.org": "INACTIVE",
-            "12shio3.net": "INACTIVE",
-            "68.183.218.223": "INACTIVE",
-            "68.183.227.208": "INACTIVE",
-            "69.10.34.71": "INACTIVE",
-            "69.10.34.78": "INACTIVE",
-            "81.19.186.167": "INACTIVE",
-            "93.188.162.66": "INACTIVE",
-            "93.188.163.21": "INACTIVE",
-            "96.43.139.236": "INACTIVE",
-            "ace4d.me": "INACTIVE",
-            "alpha4d.live": "INACTIVE",
-            "asianbookie365.me": "INACTIVE",
-            "cgx112.com": "INACTIVE",
-            "dewajitu.me": "INACTIVE",
-            "dgc374.com": "INACTIVE",
-            "diva4d.me": "INACTIVE",
-            "energitoto.me": "INACTIVE",
-            "gt4d.me": "INACTIVE",
-            "indopools.me": "INACTIVE",
-            "klik4a.me": "INACTIVE",
-            "klub4d.me": "INACTIVE",
-            "lotustiga.com": "INACTIVE",
-            "menara4d.me": "INACTIVE"
-        },
-        "1584274747": {
-            "metro4d.cc": "INACTIVE",
-            "murnigoal.com": "INACTIVE",
-            "pkrace99.id": "INACTIVE",
-            "salam4d.me": "INACTIVE",
-            "shiokambing3.id": "INACTIVE",
-            "suster4d.me": "INACTIVE",
-            "tores4d.me": "INACTIVE",
-            "utama4d.biz": "INACTIVE",
-            "webet.id": "INACTIVE"
-        },
-        "1584274750": {
-            "beritasulteng.id": "INACTIVE"
-        },
-        "1584274753": {
-            "bagikancara.com": "INACTIVE",
-            "panduaneka.com": "INACTIVE"
-        },
-        "1584280986": {
-            "agenbola.org": "INACTIVE",
-            "bape88.id": "INACTIVE",
-            "neobola.club": "INACTIVE",
-            "swarnajambi.co.id": "INACTIVE"
-        },
-        "1584280987": {
-            "sidoarjopos.net": "INACTIVE"
-        },
-        "1584284722": {
-            "auranews.id": "INACTIVE",
-            "swarainhu.com": "INACTIVE"
-        },
-        "1584284723": {
-            "topbisnis.org": "INACTIVE"
-        },
-        "1584313881": {
-            "22agustus.net": "INACTIVE"
-        },
         "1584547284": {
             "128.199.102.136": "INACTIVE",
             "idfl.*": "INVALID"
@@ -1414,6 +1351,52 @@
             "47.252.1.213": "INACTIVE",
             "63.250.38.109": "INACTIVE",
             "68.183.178.88": "INACTIVE"
+        },
+        "1584551208": {
+            "68.183.218.223": "INACTIVE",
+            "68.183.227.208": "INACTIVE"
+        },
+        "1584551209": {
+            "12shio1.org": "INACTIVE",
+            "12shio3.net": "INACTIVE",
+            "69.10.34.71": "INACTIVE",
+            "69.10.34.78": "INACTIVE",
+            "81.19.186.167": "INACTIVE",
+            "93.188.162.66": "INACTIVE",
+            "93.188.163.21": "INACTIVE",
+            "96.43.139.236": "INACTIVE",
+            "ace4d.me": "INACTIVE",
+            "alpha4d.live": "INACTIVE",
+            "asianbookie365.me": "INACTIVE",
+            "cgx112.com": "INACTIVE",
+            "dewajitu.me": "INACTIVE",
+            "dgc374.com": "INACTIVE",
+            "diva4d.me": "INACTIVE",
+            "energitoto.me": "INACTIVE",
+            "gt4d.me": "INACTIVE",
+            "indopools.me": "INACTIVE",
+            "klik4a.me": "INACTIVE",
+            "klub4d.me": "INACTIVE",
+            "lotustiga.com": "INACTIVE"
+        },
+        "1584551210": {
+            "menara4d.me": "INACTIVE",
+            "metro4d.cc": "INACTIVE",
+            "murnigoal.com": "INACTIVE",
+            "pkrace99.id": "INACTIVE",
+            "salam4d.me": "INACTIVE",
+            "shiokambing3.id": "INACTIVE",
+            "suster4d.me": "INACTIVE",
+            "tores4d.me": "INACTIVE",
+            "utama4d.biz": "INACTIVE",
+            "webet.id": "INACTIVE"
+        },
+        "1584551214": {
+            "beritasulteng.id": "INACTIVE"
+        },
+        "1584551217": {
+            "bagikancara.com": "INACTIVE",
+            "panduaneka.com": "INACTIVE"
         }
     }
 }
