@@ -284,6 +284,11 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "apamanfaat.id": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "apasih.pw": {
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
@@ -547,7 +552,7 @@
     "bekas.com": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "belajarbro.id": {
         "epoch": 1612310400.0,
@@ -1387,6 +1392,11 @@
     "harapanrakyat.com": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "hargawebsite.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "harianandalas.com": {
@@ -2669,6 +2679,11 @@
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
+    "newhealthblog.com": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "newparadise.xyz": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
@@ -2937,6 +2952,11 @@
     "pasbana.com": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
+        "state": "future"
+    },
+    "pasbisa.site": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "pastigol.info": {
@@ -3279,6 +3299,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "rikucan.com": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "robjamguy.club": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -3552,6 +3577,11 @@
     "solopos.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "sopasti.com": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "sosiali.com": {
