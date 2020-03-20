@@ -1,31 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1584551209": {
-            "alpha4d.live": "INACTIVE",
-            "asianbookie365.me": "INACTIVE",
-            "cgx112.com": "INACTIVE",
-            "dewajitu.me": "INACTIVE",
-            "dgc374.com": "INACTIVE",
-            "diva4d.me": "INACTIVE",
-            "energitoto.me": "INACTIVE",
-            "gt4d.me": "INACTIVE",
-            "indopools.me": "INACTIVE",
-            "klik4a.me": "INACTIVE",
-            "klub4d.me": "INACTIVE",
-            "lotustiga.com": "INACTIVE"
-        },
-        "1584551210": {
-            "menara4d.me": "INACTIVE",
-            "metro4d.cc": "INACTIVE",
-            "murnigoal.com": "INACTIVE",
-            "pkrace99.id": "INACTIVE",
-            "salam4d.me": "INACTIVE",
-            "shiokambing3.id": "INACTIVE",
-            "suster4d.me": "INACTIVE",
-            "tores4d.me": "INACTIVE",
-            "utama4d.biz": "INACTIVE",
-            "webet.id": "INACTIVE"
-        },
         "1584551214": {
             "beritasulteng.id": "INACTIVE"
         },
@@ -1395,6 +1369,32 @@
         },
         "1584660244": {
             "ace4d.me": "INACTIVE"
+        },
+        "1584664276": {
+            "alpha4d.live": "INACTIVE",
+            "asianbookie365.me": "INACTIVE",
+            "cgx112.com": "INACTIVE",
+            "dewajitu.me": "INACTIVE",
+            "dgc374.com": "INACTIVE",
+            "diva4d.me": "INACTIVE",
+            "energitoto.me": "INACTIVE",
+            "gt4d.me": "INACTIVE",
+            "indopools.me": "INACTIVE",
+            "klik4a.me": "INACTIVE",
+            "klub4d.me": "INACTIVE",
+            "lotustiga.com": "INACTIVE",
+            "menara4d.me": "INACTIVE",
+            "metro4d.cc": "INACTIVE",
+            "murnigoal.com": "INACTIVE"
+        },
+        "1584664277": {
+            "pkrace99.id": "INACTIVE",
+            "salam4d.me": "INACTIVE",
+            "shiokambing3.id": "INACTIVE",
+            "suster4d.me": "INACTIVE",
+            "tores4d.me": "INACTIVE",
+            "utama4d.biz": "INACTIVE",
+            "webet.id": "INACTIVE"
         }
     }
 }
