@@ -4,6 +4,7 @@
         "adblock": true,
         "ci_autosave_final_commit": "AdBlockID - Results | @realodix",
         "generate_complements": true,
+        "header printed": true,
         "http_codes": {
             "list": {
                 "potentially_down": [
