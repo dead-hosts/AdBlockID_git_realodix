@@ -22,6 +22,7 @@ filter: ''
 generate_complements: true
 generate_hosts: true
 generate_json: false
+header printed: true
 header_printed: false
 hierarchical_sorting: false
 http_codes:
@@ -212,3 +213,4 @@ user_agent:
     platform: linux
 verify_ssl_certificate: false
 whois_database: true
+wildcard: false
