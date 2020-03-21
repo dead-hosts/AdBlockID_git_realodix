@@ -1829,6 +1829,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "jospoker.today": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
     "jotskymay.club": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -1929,6 +1934,11 @@
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
+    "kangparlay.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
     "kapanlagi.com": {
         "epoch": 1677283200.0,
         "expiration_date": "25-feb-2023",
@@ -1967,6 +1977,11 @@
     "keluarannomor.net": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "keluaransgp.us": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "kendaripos.co.id": {
@@ -2285,8 +2300,8 @@
         "state": "future"
     },
     "lintasntt.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "lintasperistiwa.com": {
@@ -3084,6 +3099,11 @@
         "expiration_date": "24-apr-2020",
         "state": "future"
     },
+    "prediksibola88.net": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "prediksigame.com": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
@@ -3240,9 +3260,9 @@
         "state": "future"
     },
     "rbtv.co.id": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
-        "state": "past"
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
     },
     "rebrand.ly": {
         "epoch": 1757721600.0,
