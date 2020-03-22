@@ -44,7 +44,8 @@
                     505
                 ]
             }
-        }
+        },
+        "filter": "[a-zA-Z0-9]"
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-22T08:56:11.904619",
