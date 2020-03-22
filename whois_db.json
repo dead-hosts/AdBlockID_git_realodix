@@ -154,6 +154,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "adsterra.com": {
+        "epoch": 1745020800.0,
+        "expiration_date": "19-apr-2025",
+        "state": "future"
+    },
     "adventuriderz.com": {
         "epoch": 1612137600.0,
         "expiration_date": "01-feb-2021",
@@ -2767,6 +2772,11 @@
     "novelgo.id": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
+    "nt1.co": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "ntt-news.com": {
