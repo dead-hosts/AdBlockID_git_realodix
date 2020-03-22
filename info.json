@@ -3,7 +3,8 @@
     "custom_pyfunceble_config": {
         "adblock": true,
         "ci_autosave_final_commit": "AdBlockID - Results | @realodix",
-        "filter": "[a-zA-Z0-9]",
+        "dns_lookup_over_tcp": true,
+        "filter": "^(((?!-))(xn--|_{1,1})?[a-z0-9-]{0,61}[a-z0-9]{1,1}\.)*(xn--)?([a-z0-9][a-z0-9\-]{0,60}|[a-z0-9-]{1,30}\.[a-z]{2,})",
         "generate_complements": true,
         "header_printed": true,
         "http_codes": {
@@ -45,7 +46,8 @@
                     505
                 ]
             }
-        }
+        },
+        "wildcard": true
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-03-22T15:02:24.828580",
