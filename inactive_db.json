@@ -5017,13 +5017,15 @@
             "https://github.com/realodix/AdBlockID/issues/467": "INVALID",
             "karena": "INVALID",
             "kerusakan": "INVALID",
-            "u1QjxJN1LDh0FuaaPLYiqA": "INVALID",
-            "xn--fanboys-d36c": "INVALID"
+            "u1QjxJN1LDh0FuaaPLYiqA": "INVALID"
         },
         "1584908506": {
             "bagikancara.com": "INACTIVE",
             "beritasulteng.id": "INACTIVE",
             "panduaneka.com": "INACTIVE"
+        },
+        "1584914426": {
+            "xn--fanboys-d36c": "INVALID"
         }
     }
 }
