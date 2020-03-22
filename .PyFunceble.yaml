@@ -22,8 +22,7 @@ filter: ''
 generate_complements: true
 generate_hosts: true
 generate_json: false
-header printed: true
-header_printed: false
+header_printed: true
 hierarchical_sorting: false
 http_codes:
     active: true
