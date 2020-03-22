@@ -18,7 +18,7 @@ dns_lookup_over_tcp: false
 dns_server:
 - 1.1.1.1
 - 1.0.0.1
-filter: ''
+filter: '[a-zA-Z0-9]'
 generate_complements: true
 generate_hosts: true
 generate_json: false
