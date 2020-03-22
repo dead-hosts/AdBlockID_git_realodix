@@ -129,6 +129,11 @@
         "expiration_date": "13-jun-2021",
         "state": "future"
     },
+    "adsafelink.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "adscpm.site": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -1092,6 +1097,11 @@
     "duta.co": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "dz4link.com": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
         "state": "future"
     },
     "earnload.co": {
@@ -2352,6 +2362,11 @@
     "livesgptercepat.com": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "liveshootv.com": {
+        "epoch": 1591660800.0,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "livestreamingbola.org": {
