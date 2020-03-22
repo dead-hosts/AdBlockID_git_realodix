@@ -2205,9 +2205,9 @@
         "state": "future"
     },
     "kupastuntas.co": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
-        "state": "past"
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
     },
     "kurajin.com": {
         "epoch": 1601596800.0,
