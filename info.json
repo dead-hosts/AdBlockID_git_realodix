@@ -4,7 +4,7 @@
         "adblock": true,
         "ci_autosave_final_commit": "AdBlockID - Results | @realodix",
         "dns_lookup_over_tcp": true,
-        "filter": "(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+",
+        "filter": "(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)",
         "generate_complements": true,
         "header_printed": true,
         "http_codes": {
