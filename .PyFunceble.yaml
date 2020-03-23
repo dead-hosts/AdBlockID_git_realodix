@@ -1,9 +1,9 @@
-adblock: false
+adblock: true
 aggressive: false
 auto_continue: true
 ci: true
 ci_autosave_commit: '[Autosave][Dead-Hosts::repository-structure]'
-ci_autosave_final_commit: '[Final/Result][Dead-Hosts::repository-structure]'
+ci_autosave_final_commit: AdBlockID - Results | @realodix
 ci_autosave_minutes: 10
 ci_branch: master
 ci_distribution_branch: master
@@ -14,15 +14,15 @@ custom_ip: 0.0.0.0
 days_between_db_retest: 1
 db_type: json
 debug: false
-dns_lookup_over_tcp: false
+dns_lookup_over_tcp: true
 dns_server:
 - 1.1.1.1
 - 1.0.0.1
 filter: ''
-generate_complements: false
+generate_complements: true
 generate_hosts: true
 generate_json: false
-header_printed: false
+header_printed: true
 hierarchical_sorting: false
 http_codes:
     active: true
