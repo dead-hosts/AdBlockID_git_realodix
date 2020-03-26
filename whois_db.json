@@ -900,8 +900,8 @@
         "state": "future"
     },
     "coba.dev": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "coinvestasi.com": {
@@ -3757,6 +3757,11 @@
     "suckittrees.com": {
         "epoch": 1664064000.0,
         "expiration_date": "25-sep-2022",
+        "state": "future"
+    },
+    "sultanfree.com": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "sultengterkini.com": {
