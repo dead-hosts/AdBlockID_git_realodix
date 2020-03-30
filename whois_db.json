@@ -1690,9 +1690,9 @@
         "state": "future"
     },
     "infosultra.id": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
-        "state": "past"
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
     },
     "inijabar.com": {
         "epoch": 1620086400.0,
@@ -3265,9 +3265,9 @@
         "state": "future"
     },
     "raja13.com": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
-        "state": "past"
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
     },
     "rajalisensi.com": {
         "epoch": 1589673600.0,
