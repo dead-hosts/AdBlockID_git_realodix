@@ -692,7 +692,7 @@
     "bloggerszones.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogspot.com": {
         "epoch": 1596153600.0,
