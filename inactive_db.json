@@ -3680,12 +3680,16 @@
             "||caradaftarpoker.$popup": "INVALID",
             "||carbonpoker.$popup": "INVALID"
         },
-        "1585739967": {
-            "128.199.102.136": "INACTIVE",
-            "idfl.*": "INVALID"
-        },
-        "1585739969": {
+        "1585830837": {
             "*judi*.": "INVALID",
+            "128.199.102.136": "INACTIVE",
+            "agenjudionline.": "INVALID",
+            "bet2link.info": "INACTIVE",
+            "hanabet.*": "INVALID",
+            "idfl.*": "INVALID",
+            "rajacapsa.*": "INVALID"
+        },
+        "1585830838": {
             "*taruhan*.": "INVALID",
             "*togel*.": "INVALID",
             "116poker.": "INVALID",
@@ -3704,13 +3708,6 @@
             "1xliga.": "INVALID",
             "228poker.": "INVALID",
             "22hok.": "INVALID",
-            "agenjudionline.": "INVALID",
-            "bet2link.info": "INACTIVE",
-            "hanabet.*": "INVALID",
-            "rajacapsa.*": "INVALID",
-            "rajaqq.*": "INVALID"
-        },
-        "1585739970": {
             "233bet.": "INVALID",
             "234bet.": "INVALID",
             "24hpoker.": "INVALID",
@@ -3746,6 +3743,9 @@
             "99domino.": "INVALID",
             "99doyan.": "INVALID",
             "99mania.": "INVALID",
+            "rajaqq.*": "INVALID"
+        },
+        "1585830839": {
             "99poker.": "INVALID",
             "9bet.": "INVALID",
             "abgqq.": "INVALID",
@@ -3767,9 +3767,7 @@
             "adsligacapsa.": "INVALID",
             "adsligapoker.": "INVALID",
             "adsrumahsakong.": "INVALID",
-            "adubalak.": "INVALID"
-        },
-        "1585739971": {
+            "adubalak.": "INVALID",
             "aduqkartuqq.": "INVALID",
             "aduqq.": "INVALID",
             "aduqq88.": "INVALID",
@@ -3802,7 +3800,9 @@
             "alampoker.": "INVALID",
             "allvegaspoker.": "INVALID",
             "alternatif188bet.": "INVALID",
-            "aman99.": "INVALID",
+            "aman99.": "INVALID"
+        },
+        "1585830840": {
             "amanqq.": "INVALID",
             "amdbet.": "INVALID",
             "amdbet88.": "INVALID",
@@ -3827,9 +3827,7 @@
             "aseangol.": "INVALID",
             "aseanqq.": "INVALID",
             "asetbet.": "INVALID",
-            "asia-bandarkiu.": "INVALID"
-        },
-        "1585739972": {
+            "asia-bandarkiu.": "INVALID",
             "asia-bandarq.": "INVALID",
             "asia88bet.": "INVALID",
             "asiabandar.": "INVALID",
@@ -3859,8 +3857,10 @@
             "awbet.": "INVALID",
             "axiobola.": "INVALID",
             "axiooqq.": "INVALID",
+            "ayomainqq.": "INVALID"
+        },
+        "1585830841": {
             "ayojuara.": "INVALID",
-            "ayomainqq.": "INVALID",
             "ayoqq.": "INVALID",
             "ayoqqnew.": "INVALID",
             "ayoqqsakong.": "INVALID",
@@ -3885,9 +3885,7 @@
             "bejoqq.": "INVALID",
             "bejototo.": "INVALID",
             "beliqq.": "INVALID",
-            "bendera-bet.": "INVALID"
-        },
-        "1585739973": {
+            "bendera-bet.": "INVALID",
             "benderabet.": "INVALID",
             "benderapoker.": "INVALID",
             "bernardleepoker.": "INVALID",
@@ -3915,7 +3913,9 @@
             "bisnishandal.": "INVALID",
             "bk8big.": "INVALID",
             "bk8blue.": "INVALID",
-            "bk8red.": "INVALID",
+            "bk8red.": "INVALID"
+        },
+        "1585830842": {
             "bk8up.": "INVALID",
             "bla168.": "INVALID",
             "blindbetpoker.": "INVALID",
@@ -3943,9 +3943,7 @@
             "bospoker.": "INVALID",
             "bosqq.": "INVALID",
             "bossdollar.": "INVALID",
-            "bosspkr.": "INVALID"
-        },
-        "1585739974": {
+            "bosspkr.": "INVALID",
             "boya13.": "INVALID",
             "boyaaqq.": "INVALID",
             "boyapoker.": "INVALID",
@@ -3972,7 +3970,9 @@
             "carbonpoker.": "INVALID",
             "cariqqiu.": "INVALID",
             "cash-harvest.": "INVALID",
-            "cashbet99.": "INVALID",
+            "cashbet99.": "INVALID"
+        },
+        "1585830843": {
             "cashburners.": "INVALID",
             "casinoclubpoker.": "INVALID",
             "casinoitu.": "INVALID",
@@ -4001,9 +4001,7 @@
             "cmcpoker.": "INVALID",
             "cmcwin.": "INVALID",
             "cmd368.": "INVALID",
-            "cmobet.": "INVALID"
-        },
-        "1585739975": {
+            "cmobet.": "INVALID",
             "coltpoker.": "INVALID",
             "coolhandpoker.": "INVALID",
             "cyakibet.": "INVALID",
@@ -4027,7 +4025,9 @@
             "deltatoto.": "INVALID",
             "demenqq.": "INVALID",
             "depobos.": "INVALID",
-            "depodomino.": "INVALID",
+            "depodomino.": "INVALID"
+        },
+        "1585830844": {
             "depohhqq.": "INVALID",
             "depoqq.": "INVALID",
             "depototo.": "INVALID",
@@ -4060,9 +4060,7 @@
             "domino-qq.": "INVALID",
             "domino168.": "INVALID",
             "domino5star.": "INVALID",
-            "domino757.": "INVALID"
-        },
-        "1585739976": {
+            "domino757.": "INVALID",
             "domino99.": "INVALID",
             "dominobet.": "INVALID",
             "dominobetqq.": "INVALID",
@@ -4082,7 +4080,9 @@
             "doyankiu.": "INVALID",
             "doyanqq.": "INVALID",
             "dracobet.": "INVALID",
-            "dracobets.": "INVALID",
+            "dracobets.": "INVALID"
+        },
+        "1585830845": {
             "dragonpoker.": "INVALID",
             "duapoker.": "INVALID",
             "dufanqq.": "INVALID",
@@ -4118,10 +4118,8 @@
             "fast2bet.": "INVALID",
             "feltpoker.": "INVALID",
             "fifadomino.": "INVALID",
-            "formulabisnis.": "INVALID"
-        },
-        "1585739977": {
             "fifaqq.": "INVALID",
+            "formulabisnis.": "INVALID",
             "fullbet.": "INVALID",
             "fullbet88.": "INVALID",
             "fundomino.": "INVALID",
@@ -4137,7 +4135,9 @@
             "garamqq.": "INVALID",
             "garamqq88.": "INVALID",
             "garena99.": "INVALID",
-            "garenapoker.": "INVALID",
+            "garenapoker.": "INVALID"
+        },
+        "1585830846": {
             "garudakiu.": "INVALID",
             "garudaqq.": "INVALID",
             "gebyarbola.": "INVALID",
@@ -4175,9 +4175,7 @@
             "heypoker.": "INVALID",
             "hilifepoker.": "INVALID",
             "hjtowin.": "INVALID",
-            "hkpool.": "INVALID"
-        },
-        "1585739978": {
+            "hkpool.": "INVALID",
             "hm88poker.": "INVALID",
             "hnbwin.": "INVALID",
             "hobi88.": "INVALID",
@@ -4193,8 +4191,10 @@
             "hokinewmay.": "INVALID",
             "hokinusa.": "INVALID",
             "hokipk.": "INVALID",
+            "hoky-qq.": "INVALID"
+        },
+        "1585830847": {
             "hokiqq.": "INVALID",
-            "hoky-qq.": "INVALID",
             "holdempokerchat.": "INVALID",
             "homepokergames.": "INVALID",
             "hopengbet.": "INVALID",
@@ -4233,9 +4233,7 @@
             "imcceme.": "INVALID",
             "imcpkr.": "INVALID",
             "imcpoker.": "INVALID",
-            "imcqq88.": "INVALID"
-        },
-        "1585739979": {
+            "imcqq88.": "INVALID",
             "incar-qq.": "INVALID",
             "incarsakong.": "INVALID",
             "incrasebux.": "INVALID",
@@ -4249,7 +4247,9 @@
             "intanbet.": "INVALID",
             "intanku.": "INVALID",
             "intanqq.": "INVALID",
-            "interqq.": "INVALID",
+            "interqq.": "INVALID"
+        },
+        "1585830848": {
             "interwin.": "INVALID",
             "interwin88.": "INVALID",
             "inulpoker.": "INVALID",
@@ -4291,9 +4291,7 @@
             "jasapoker.": "INVALID",
             "jasaqq.": "INVALID",
             "jasaqqsakong.": "INVALID",
-            "javtoys.": "INVALID"
-        },
-        "1585739980": {
+            "javtoys.": "INVALID",
             "josbet.": "INVALID",
             "josbet88.": "INVALID",
             "josbet88c.": "INVALID",
@@ -4304,7 +4302,9 @@
             "juarapoker.": "INVALID",
             "k7poker.": "INVALID",
             "kacangmaspoker.": "INVALID",
-            "kaisar365.": "INVALID",
+            "kaisar365.": "INVALID"
+        },
+        "1585830849": {
             "kakakdewa.": "INVALID",
             "kakakqq.": "INVALID",
             "kampusbet.": "INVALID",
@@ -4349,9 +4349,7 @@
             "lacakqq.": "INVALID",
             "ladangqq.": "INVALID",
             "lagakartuqiu.": "INVALID",
-            "lagasakong.": "INVALID"
-        },
-        "1585739981": {
+            "lagasakong.": "INVALID",
             "lagihoki.": "INVALID",
             "lahanbet.": "INVALID",
             "lahanpoker.": "INVALID",
@@ -4359,7 +4357,9 @@
             "lakibet.": "INVALID",
             "lakipoker.": "INVALID",
             "langitqq.": "INVALID",
-            "lapak88.": "INVALID",
+            "lapak88.": "INVALID"
+        },
+        "1585830850": {
             "lapakdewa.": "INVALID",
             "lapakgol.": "INVALID",
             "lapakpoker.": "INVALID",
@@ -4407,15 +4407,15 @@
             "mainsakong.": "INVALID",
             "majupoker.": "INVALID",
             "mamibet1.": "INVALID",
-            "mandirimenang.": "INVALID"
-        },
-        "1585739982": {
+            "mandirimenang.": "INVALID",
             "mandiriqq.": "INVALID",
             "manggaduabet.": "INVALID",
             "maniakartu.": "INVALID",
             "maniakqq.": "INVALID",
             "maniaqq.": "INVALID",
-            "mansionpoker.": "INVALID",
+            "mansionpoker.": "INVALID"
+        },
+        "1585830851": {
             "mantapkiu.": "INVALID",
             "marina-365.": "INVALID",
             "markastoto.": "INVALID",
@@ -4465,12 +4465,12 @@
             "misi-qq.": "INVALID",
             "misiqiu.": "INVALID",
             "misiqq.": "INVALID",
-            "mitrapoker.": "INVALID"
-        },
-        "1585739983": {
+            "mitrapoker.": "INVALID",
             "mitraqq.": "INVALID",
             "mkvgames.": "INVALID",
-            "mkvpoker.": "INVALID",
+            "mkvpoker.": "INVALID"
+        },
+        "1585830852": {
             "mobapoker.": "INVALID",
             "mobilepokerclub.": "INVALID",
             "mobilgoyang.": "INVALID",
@@ -4525,7 +4525,7 @@
             "obatpembesarvimax.": "INVALID",
             "obcbet.": "INVALID"
         },
-        "1585739984": {
+        "1585830853": {
             "obccash.": "INVALID",
             "obipoker.": "INVALID",
             "obobet.": "INVALID",
@@ -4578,10 +4578,10 @@
             "pendekarqq.": "INVALID",
             "pesonaqq.": "INVALID",
             "pialabet.": "INVALID",
-            "pialaqq.": "INVALID",
-            "pialasports.": "INVALID"
+            "pialaqq.": "INVALID"
         },
-        "1585739985": {
+        "1585830854": {
+            "pialasports.": "INVALID",
             "pilarqq.": "INVALID",
             "pkq13.": "INVALID",
             "pkrvqq.": "INVALID",
@@ -4633,12 +4633,12 @@
             "qqnalo.": "INVALID",
             "qqnewbet.": "INVALID",
             "qqpendekar.": "INVALID",
-            "qqpilihan.": "INVALID",
-            "qqpokerplay.": "INVALID",
-            "qqratu.": "INVALID",
-            "qqsamsung128.": "INVALID"
+            "qqpokerplay.": "INVALID"
         },
-        "1585739986": {
+        "1585830855": {
+            "qqpilihan.": "INVALID",
+            "qqratu.": "INVALID",
+            "qqsamsung128.": "INVALID",
             "qqsamsungbet.": "INVALID",
             "qqtangkas.": "INVALID",
             "qqterbaik.": "INVALID",
@@ -4687,14 +4687,14 @@
             "sahabat-arena.": "INVALID",
             "sahabatarena.": "INVALID",
             "sahamdomino.": "INVALID",
-            "sakongkiu.": "INVALID",
+            "sakongkiu.": "INVALID"
+        },
+        "1585830856": {
             "sakuratoto.": "INVALID",
             "samkokpoker.": "INVALID",
             "samkoktoto.": "INVALID",
             "samsunghoki.": "INVALID",
-            "samuraiqq.": "INVALID"
-        },
-        "1585739987": {
+            "samuraiqq.": "INVALID",
             "sanadomino.": "INVALID",
             "saranapoker.": "INVALID",
             "saranaqq.": "INVALID",
@@ -4741,7 +4741,9 @@
             "sgopoker.": "INVALID",
             "sgptoto.": "INVALID",
             "sharkpokertour.": "INVALID",
-            "shiokambing*.": "INVALID",
+            "shiokambing*.": "INVALID"
+        },
+        "1585830857": {
             "shiokuda.": "INVALID",
             "siapbet.": "INVALID",
             "simpatiqq.": "INVALID",
@@ -4749,10 +4751,8 @@
             "sinarqq.": "INVALID",
             "singa168.": "INVALID",
             "singtoto.": "INVALID",
-            "sirajaqq.": "INVALID"
-        },
-        "1585739988": {
             "sinidomino.": "INVALID",
+            "sirajaqq.": "INVALID",
             "situsbet368.": "INVALID",
             "situskiu.": "INVALID",
             "skorbola.": "INVALID",
@@ -4796,7 +4796,9 @@
             "tajirqq.": "INVALID",
             "tamanqq.": "INVALID",
             "tangkas9.": "INVALID",
-            "tangkaskita.": "INVALID",
+            "tangkaskita.": "INVALID"
+        },
+        "1585830858": {
             "tangkaspoker.": "INVALID",
             "tangkasq.": "INVALID",
             "tatobet.": "INVALID",
@@ -4806,9 +4808,7 @@
             "teloletqq.": "INVALID",
             "temanpoker*.": "INVALID",
             "tendangsakti.": "INVALID",
-            "terminal4d.": "INVALID"
-        },
-        "1585739989": {
+            "terminal4d.": "INVALID",
             "terminalbet.": "INVALID",
             "tokoqq.": "INVALID",
             "topbet7.": "INVALID",
@@ -4850,7 +4850,9 @@
             "truepoker.": "INVALID",
             "trxking78.": "INVALID",
             "tuanbola.": "INVALID",
-            "tugupoker.": "INVALID",
+            "tugupoker.": "INVALID"
+        },
+        "1585830859": {
             "tujuhbet.": "INVALID",
             "twinbet.": "INVALID",
             "u16822.": "INVALID",
@@ -4863,9 +4865,7 @@
             "ulrnaga.": "INVALID",
             "ultimatepoker.": "INVALID",
             "undepo99.": "INVALID",
-            "unikpoker.": "INVALID"
-        },
-        "1585739990": {
+            "unikpoker.": "INVALID",
             "universal-qq.": "INVALID",
             "unogoal88.": "INVALID",
             "usahatoto.": "INVALID",
@@ -4905,7 +4905,20 @@
             "waltpoker.": "INVALID",
             "warnaqq.": "INVALID",
             "warung365.": "INVALID",
-            "warungpoker.": "INVALID",
+            "warungpoker.": "INVALID"
+        },
+        "1585830860": {
+            "103.10.200.45": "INACTIVE",
+            "103.10.200.48": "INACTIVE",
+            "103.10.200.57": "INACTIVE",
+            "103.10.200.61": "INACTIVE",
+            "103.10.200.62": "INACTIVE",
+            "103.10.200.63": "INACTIVE",
+            "103.10.201.25": "INACTIVE",
+            "103.10.201.26": "INACTIVE",
+            "104.248.152.8": "INACTIVE",
+            "104.248.154.44": "INACTIVE",
+            "104.248.156.42": "INACTIVE",
             "warungqq.": "INVALID",
             "warunguang.": "INVALID",
             "wedepoker.": "INVALID",
@@ -4919,36 +4932,7 @@
             "windewa.": "INVALID",
             "winft95.": "INVALID",
             "wingspoker.": "INVALID",
-            "wingsqq.": "INVALID"
-        },
-        "1585739991": {
-            "103.10.200.45": "INACTIVE",
-            "103.10.200.48": "INACTIVE",
-            "103.10.200.57": "INACTIVE",
-            "103.10.200.61": "INACTIVE",
-            "103.10.200.62": "INACTIVE",
-            "103.10.200.63": "INACTIVE",
-            "103.10.201.25": "INACTIVE",
-            "103.10.201.26": "INACTIVE",
-            "104.248.152.8": "INACTIVE",
-            "104.248.154.44": "INACTIVE",
-            "104.248.156.42": "INACTIVE",
-            "107.152.47.23": "INACTIVE",
-            "118.107.35.103": "INACTIVE",
-            "118.107.35.124": "INACTIVE",
-            "128.199.117.89": "INACTIVE",
-            "128.199.142.177": "INACTIVE",
-            "128.199.200.115": "INACTIVE",
-            "128.199.231.228": "INACTIVE",
-            "128.199.68.7": "INACTIVE",
-            "128.199.80.215": "INACTIVE",
-            "128.199.98.187": "INACTIVE",
-            "134.19.190.109": "INACTIVE",
-            "134.19.190.71": "INACTIVE",
-            "134.19.190.87": "INACTIVE",
-            "134.209.154.182": "INACTIVE",
-            "138.68.80.19": "INACTIVE",
-            "139.59.88.218": "INACTIVE",
+            "wingsqq.": "INVALID",
             "winning365.": "INVALID",
             "winning7.": "INVALID",
             "winnipoker.": "INVALID",
@@ -4977,10 +4961,24 @@
             "zonawin.": "INVALID",
             "zyngaqq.": "INVALID"
         },
-        "1585739992": {
-            "139.59.96.74": "INACTIVE"
-        },
-        "1585743686": {
+        "1585830861": {
+            "107.152.47.23": "INACTIVE",
+            "118.107.35.103": "INACTIVE",
+            "118.107.35.124": "INACTIVE",
+            "128.199.117.89": "INACTIVE",
+            "128.199.142.177": "INACTIVE",
+            "128.199.200.115": "INACTIVE",
+            "128.199.231.228": "INACTIVE",
+            "128.199.68.7": "INACTIVE",
+            "128.199.80.215": "INACTIVE",
+            "128.199.98.187": "INACTIVE",
+            "134.19.190.109": "INACTIVE",
+            "134.19.190.71": "INACTIVE",
+            "134.19.190.87": "INACTIVE",
+            "134.209.154.182": "INACTIVE",
+            "138.68.80.19": "INACTIVE",
+            "139.59.88.218": "INACTIVE",
+            "139.59.96.74": "INACTIVE",
             "156.67.218.139": "INACTIVE",
             "156.67.221.129": "INACTIVE",
             "156.67.221.184": "INACTIVE",
@@ -5010,13 +5008,13 @@
             "167.99.66.90": "INACTIVE",
             "178.128.19.6": "INACTIVE",
             "178.128.202.118": "INACTIVE",
-            "178.128.25.16": "INACTIVE"
-        },
-        "1585743687": {
+            "178.128.25.16": "INACTIVE",
             "178.128.63.218": "INACTIVE",
             "178.128.86.186": "INACTIVE",
             "178.62.66.213": "INACTIVE",
-            "192.158.234.116": "INACTIVE",
+            "192.158.234.116": "INACTIVE"
+        },
+        "1585830862": {
             "198.187.29.235": "INACTIVE",
             "198.54.112.38": "INACTIVE",
             "198.54.121.217": "INACTIVE",
@@ -5059,11 +5057,7 @@
             "27.124.27.125": "INACTIVE",
             "31.220.111.78": "INACTIVE",
             "31.220.54.222": "INACTIVE",
-            "45.64.128.167": "INACTIVE"
-        },
-        "1585743688": {
-            "12shio1.org": "INACTIVE",
-            "12shio3.net": "INACTIVE",
+            "45.64.128.167": "INACTIVE",
             "47.252.1.213": "INACTIVE",
             "63.250.38.109": "INACTIVE",
             "68.183.178.88": "INACTIVE",
@@ -5072,7 +5066,11 @@
             "69.10.34.71": "INACTIVE",
             "69.10.34.78": "INACTIVE",
             "81.19.186.167": "INACTIVE",
-            "93.188.162.66": "INACTIVE",
+            "93.188.162.66": "INACTIVE"
+        },
+        "1585830863": {
+            "12shio1.org": "INACTIVE",
+            "12shio3.net": "INACTIVE",
             "93.188.163.21": "INACTIVE",
             "96.43.139.236": "INACTIVE",
             "ace4d.me": "INACTIVE",
@@ -5083,9 +5081,7 @@
             "dgc374.com": "INACTIVE",
             "diva4d.me": "INACTIVE",
             "energitoto.me": "INACTIVE",
-            "gt4d.me": "INACTIVE"
-        },
-        "1585743689": {
+            "gt4d.me": "INACTIVE",
             "indopools.me": "INACTIVE",
             "klik4a.me": "INACTIVE",
             "klub4d.me": "INACTIVE",
@@ -5096,9 +5092,7 @@
             "pkrace99.id": "INACTIVE",
             "salam4d.me": "INACTIVE",
             "shiokambing3.id": "INACTIVE",
-            "suster4d.me": "INACTIVE"
-        },
-        "1585743690": {
+            "suster4d.me": "INACTIVE",
             "tores4d.me": "INACTIVE",
             "utama4d.biz": "INACTIVE",
             "webet.id": "INACTIVE"
