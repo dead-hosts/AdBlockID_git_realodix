@@ -19,7 +19,7 @@ dns_server:
 - 1.1.1.1
 - 1.0.0.1
 filter: ''
-generate_complements: true
+generate_complements: false
 generate_hosts: true
 generate_json: false
 header_printed: true
@@ -28,6 +28,8 @@ http_codes:
     active: true
     list:
         potentially_down:
+        - 301
+        - 302
         - 400
         - 402
         - 403
@@ -41,8 +43,6 @@ http_codes:
         potentially_up:
         - 0
         - 300
-        - 301
-        - 302
         - 303
         - 304
         - 305

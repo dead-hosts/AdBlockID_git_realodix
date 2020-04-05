@@ -1775,8 +1775,8 @@
         "state": "future"
     },
     "itteholm.site": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "ivideosmart.com": {
@@ -1847,7 +1847,7 @@
     "jodklub.online": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "jogjahost.co.id": {
         "epoch": 1861747200.0,
@@ -2410,8 +2410,8 @@
         "state": "future"
     },
     "loppjod.online": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "lottery-fl.com": {
@@ -2835,8 +2835,8 @@
         "state": "future"
     },
     "ockoken.site": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "ofiskita.com": {
@@ -3805,8 +3805,8 @@
         "state": "future"
     },
     "sviklutt.site": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "swara-bengkulu.com": {
