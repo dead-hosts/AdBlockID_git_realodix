@@ -4124,6 +4124,11 @@
         "expiration_date": "27-mar-2021",
         "state": "future"
     },
+    "pasangiklanmurah.xyz": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
     "pasaranindo.com": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
@@ -4564,6 +4569,11 @@
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
+    "rezakuntokz.xyz": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
     "riauandalas.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
@@ -4887,6 +4897,11 @@
     "shitiphu.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "shln.pw": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "shmokiads.com": {
@@ -5375,9 +5390,9 @@
         "state": "future"
     },
     "terasmaluku.com": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
-        "state": "past"
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
     },
     "terkininews.com": {
         "epoch": 1609632000.0,
@@ -5739,6 +5754,11 @@
         "expiration_date": "26-feb-2021",
         "state": "future"
     },
+    "wegner.tech": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
     "wi.cr": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
@@ -5807,6 +5827,11 @@
     "wp.com": {
         "epoch": 1616976000.0,
         "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
+    "wwbolamu.xyz": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "yeprimlax.club": {
