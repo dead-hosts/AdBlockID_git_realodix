@@ -4,7 +4,47 @@
         "adblock": true,
         "ci_autosave_final_commit": "AdBlockID - Results | @realodix",
         "dns_lookup_over_tcp": true,
-        "header_printed": true
+        "header_printed": true,
+        "http_codes": {
+            "list": {
+                "potentially_down": [
+                    301,
+                    302,
+                    400,
+                    402,
+                    403,
+                    404,
+                    409,
+                    410,
+                    412,
+                    414,
+                    415,
+                    416
+                ],
+                "potentially_up": [
+                    0,
+                    300,
+                    303,
+                    304,
+                    305,
+                    307,
+                    403,
+                    405,
+                    406,
+                    407,
+                    408,
+                    411,
+                    413,
+                    417,
+                    500,
+                    501,
+                    502,
+                    503,
+                    504,
+                    505
+                ]
+            }
+        }
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2020-04-04T17:17:01.894198",
