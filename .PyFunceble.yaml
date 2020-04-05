@@ -1,4 +1,4 @@
-adblock: true
+adblock: false
 aggressive: false
 auto_continue: true
 ci: true
