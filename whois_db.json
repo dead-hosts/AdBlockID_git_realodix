@@ -150,8 +150,8 @@
         "state": "future"
     },
     "ads-ina.org": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "ads.id": {
@@ -1172,7 +1172,7 @@
     "clkme.me": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "clkmein.com": {
         "epoch": 1587254400.0,
@@ -2220,8 +2220,8 @@
         "state": "future"
     },
     "iklanbogor.com": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "iklandb.com": {
@@ -2570,9 +2570,9 @@
         "state": "future"
     },
     "jodklub.online": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
-        "state": "past"
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
     },
     "jogjahost.co.id": {
         "epoch": 1861747200.0,
@@ -4032,6 +4032,11 @@
     "otosia.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "otw-link.xyz": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "ouo.io": {
