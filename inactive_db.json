@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1586092897": {
-            "ads-ina.org,topbisnis.org": "INVALID"
-        },
-        "1586092900": {
-            "fmlawkers.": "INVALID"
-        },
-        "1586092902": {
-            "kompiajaib.com,": "INVALID"
-        },
-        "1586092903": {
-            "mobilepokerclub.": "INVALID"
-        },
-        "1586096587": {
-            "pkrace99.id": "INACTIVE"
-        },
-        "1586096590": {
-            "tores4d.me": "INACTIVE",
-            "utama4d.biz": "INACTIVE"
-        },
         "1586359838": {
             "128.199.102.136": "INACTIVE",
             "12shio1.org": "INACTIVE",
@@ -45,6 +26,21 @@
         "1586359845": {
             "menara4d.me": "INACTIVE",
             "murnigoal.com": "INACTIVE"
+        },
+        "1586360855": {
+            "pkrace99.id": "INACTIVE"
+        },
+        "1586360857": {
+            "tores4d.me": "INACTIVE"
+        },
+        "1586360858": {
+            "utama4d.biz": "INACTIVE"
+        },
+        "1586360859": {
+            "ads-ina.org,topbisnis.org": "INVALID",
+            "fmlawkers.": "INVALID",
+            "kompiajaib.com,": "INVALID",
+            "mobilepokerclub.": "INVALID"
         }
     }
 }
