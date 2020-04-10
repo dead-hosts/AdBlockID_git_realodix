@@ -282,7 +282,7 @@
     "akustik365.com": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "alasannews.com": {
         "epoch": 1606435200.0,
@@ -1185,8 +1185,8 @@
         "state": "future"
     },
     "cllkme.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "closetopic.site": {
@@ -2272,7 +2272,7 @@
     "ikurniawan.com": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "ilmukita.org": {
         "epoch": 1606176000.0,
@@ -3260,9 +3260,9 @@
         "state": "future"
     },
     "liputanrakyat.com": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
-        "state": "past"
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
     },
     "listingberita.com": {
         "epoch": 1617753600.0,
