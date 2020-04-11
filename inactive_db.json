@@ -19,16 +19,6 @@
         "1586517053": {
             "idfl.*": "INVALID"
         },
-        "1586517054": {
-            "klik4a.me": "INACTIVE"
-        },
-        "1586517055": {
-            "lotustiga.com": "INACTIVE",
-            "menara4d.me": "INACTIVE"
-        },
-        "1586517056": {
-            "murnigoal.com": "INACTIVE"
-        },
         "1586520873": {
             "pkrace99.id": "INACTIVE"
         },
@@ -41,6 +31,16 @@
             "fmlawkers.": "INVALID",
             "kompiajaib.com,": "INVALID",
             "mobilepokerclub.": "INVALID"
+        },
+        "1586603670": {
+            "klik4a.me": "INACTIVE"
+        },
+        "1586603671": {
+            "lotustiga.com": "INACTIVE"
+        },
+        "1586603672": {
+            "menara4d.me": "INACTIVE",
+            "murnigoal.com": "INACTIVE"
         }
     }
 }
