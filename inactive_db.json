@@ -1,0 +1,31 @@
+{
+    "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
+        "1587019382": {
+            "128.199.102.136": "INACTIVE",
+            "12shio1.org": "INACTIVE",
+            "12shio3.net": "INACTIVE",
+            "ace4d.me": "INACTIVE"
+        },
+        "1587019383": {
+            "agenjudionline.": "INVALID",
+            "animexin.jin-7.com": "INACTIVE"
+        },
+        "1587019384": {
+            "bet2link.info": "INACTIVE"
+        },
+        "1587019385": {
+            "energitoto.me": "INACTIVE"
+        },
+        "1587019386": {
+            "idfl.*": "INVALID"
+        },
+        "1587019388": {
+            "klik4a.me": "INACTIVE"
+        },
+        "1587019389": {
+            "lotustiga.com": "INACTIVE",
+            "menara4d.me": "INACTIVE",
+            "murnigoal.com": "INACTIVE"
+        }
+    }
+}
