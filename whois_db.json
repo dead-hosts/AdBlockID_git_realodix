@@ -374,6 +374,11 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "anirocksite.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "anjingkita.com": {
         "epoch": 1639267200.0,
         "expiration_date": "12-dec-2021",
@@ -3874,6 +3879,11 @@
         "expiration_date": "30-jul-2022",
         "state": "future"
     },
+    "normugtog.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "novelgo.id": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
@@ -4052,6 +4062,11 @@
     "ouo.io": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
+    "outtunova.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "overlordfree.web.id": {
@@ -4394,6 +4409,11 @@
         "expiration_date": "21-apr-2020",
         "state": "future"
     },
+    "pugam.com": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
     "pulausumbawanews.net": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
@@ -4622,6 +4642,11 @@
     "riauterkini.com": {
         "epoch": 1665705600.0,
         "expiration_date": "14-oct-2022",
+        "state": "future"
+    },
+    "ribbumuse.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "richinfo.co": {
