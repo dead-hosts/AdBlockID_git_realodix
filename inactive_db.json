@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1587019383": {
-            "agenjudionline.": "INVALID"
-        },
-        "1587019386": {
-            "idfl.*": "INVALID"
-        },
-        "1587023858": {
-            "tores4d.me": "INACTIVE",
-            "utama4d.biz": "INACTIVE"
-        },
         "1587230314": {
             "128.199.102.136": "INACTIVE",
             "12shio1.org": "INACTIVE",
@@ -38,6 +28,14 @@
         },
         "1587230323": {
             "pkrace99.id": "INACTIVE"
+        },
+        "1587233264": {
+            "tores4d.me": "INACTIVE",
+            "utama4d.biz": "INACTIVE"
+        },
+        "1587233265": {
+            "agenjudionline.": "INVALID",
+            "idfl.*": "INVALID"
         }
     }
 }
