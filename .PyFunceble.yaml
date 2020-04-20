@@ -28,8 +28,6 @@ http_codes:
     active: true
     list:
         potentially_down:
-        - 301
-        - 302
         - 400
         - 402
         - 403
@@ -43,6 +41,8 @@ http_codes:
         potentially_up:
         - 0
         - 300
+        - 301
+        - 302
         - 303
         - 304
         - 305
@@ -151,7 +151,7 @@ outputs:
     splited:
         directory: splited
 plain_list_domain: true
-print_dots: false
+print_dots: true
 quiet: false
 reputation: false
 share_logs: false

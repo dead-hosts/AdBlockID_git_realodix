@@ -1,34 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1587230314": {
-            "128.199.102.136": "INACTIVE",
-            "12shio1.org": "INACTIVE",
-            "12shio3.net": "INACTIVE",
-            "ace4d.me": "INACTIVE"
-        },
-        "1587230315": {
-            "animexin.jin-7.com": "INACTIVE"
-        },
-        "1587230316": {
-            "bet2link.info": "INACTIVE"
-        },
-        "1587230317": {
-            "energitoto.me": "INACTIVE"
-        },
-        "1587230320": {
-            "klik4a.me": "INACTIVE"
-        },
-        "1587230321": {
-            "lotustiga.com": "INACTIVE",
-            "menara4d.me": "INACTIVE"
-        },
-        "1587230322": {
-            "murnigoal.com": "INACTIVE",
-            "news-tech.xyz": "INACTIVE"
-        },
-        "1587230323": {
-            "pkrace99.id": "INACTIVE"
-        },
         "1587233264": {
             "tores4d.me": "INACTIVE",
             "utama4d.biz": "INACTIVE"
@@ -39,6 +10,32 @@
         },
         "1587259448": {
             "sogopoker.club": "INACTIVE"
+        },
+        "1587396706": {
+            "128.199.102.136": "INACTIVE",
+            "12shio1.org": "INACTIVE",
+            "12shio3.net": "INACTIVE",
+            "ace4d.me": "INACTIVE",
+            "animexin.jin-7.com": "INACTIVE"
+        },
+        "1587396707": {
+            "bet2link.info": "INACTIVE"
+        },
+        "1587396709": {
+            "energitoto.me": "INACTIVE"
+        },
+        "1587396711": {
+            "klik4a.me": "INACTIVE"
+        },
+        "1587396712": {
+            "lotustiga.com": "INACTIVE"
+        },
+        "1587396713": {
+            "menara4d.me": "INACTIVE",
+            "murnigoal.com": "INACTIVE"
+        },
+        "1587396714": {
+            "pkrace99.id": "INACTIVE"
         }
     }
 }

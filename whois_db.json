@@ -2095,8 +2095,8 @@
         "state": "future"
     },
     "hightech.web.id": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "higud.com": {
@@ -3570,9 +3570,9 @@
         "state": "future"
     },
     "melonesinpreneur.com": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
-        "state": "past"
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
     },
     "memo.co.id": {
         "epoch": 1598400000.0,
@@ -3812,7 +3812,7 @@
     "news-tech.xyz": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "newsadsppush.com": {
         "epoch": 1596240000.0,
