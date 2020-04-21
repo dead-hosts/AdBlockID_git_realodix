@@ -4827,7 +4827,7 @@
     "semarakpost.com": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "semawur.com": {
         "epoch": 1645401600.0,
