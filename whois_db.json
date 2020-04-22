@@ -1535,8 +1535,8 @@
         "state": "future"
     },
     "duta.co": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "dutaislam.com": {
@@ -1859,6 +1859,11 @@
         "expiration_date": "08-jul-2024",
         "state": "future"
     },
+    "genpi.co": {
+        "epoch": 1673740800.0,
+        "expiration_date": "15-jan-2023",
+        "state": "future"
+    },
     "gestyy.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
@@ -2147,6 +2152,11 @@
     "hokicashwin.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "hops.id": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "horassumutnews.com": {
@@ -2550,8 +2560,8 @@
         "state": "future"
     },
     "jasaiklanbandung.com": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "jatengtoday.com": {
@@ -2612,6 +2622,11 @@
     "jotskymay.club": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "joyvowdig.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "jualo.com": {
@@ -3967,6 +3982,11 @@
     "okezone.com": {
         "epoch": 1668470400.0,
         "expiration_date": "15-nov-2022",
+        "state": "future"
+    },
+    "olenation.org": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "olineman.pro": {
