@@ -4845,9 +4845,9 @@
         "state": "future"
     },
     "semarakpost.com": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
-        "state": "past"
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
     },
     "semawur.com": {
         "epoch": 1645401600.0,
@@ -5062,6 +5062,11 @@
     "solopos.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "sonora.id": {
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "sopasti.com": {
