@@ -1,12 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "1587602796": {
-            "sogopoker.club": "INACTIVE"
-        },
-        "1587602798": {
-            "tores4d.me": "INACTIVE",
-            "utama4d.biz": "INACTIVE"
-        },
         "1587733905": {
             "128.199.102.136": "INACTIVE",
             "12shio1.org": "INACTIVE",
@@ -34,6 +27,15 @@
         },
         "1587733914": {
             "pkrace99.id": "INACTIVE"
+        },
+        "1587737764": {
+            "sogopoker.club": "INACTIVE"
+        },
+        "1587737765": {
+            "tores4d.me": "INACTIVE"
+        },
+        "1587737766": {
+            "utama4d.biz": "INACTIVE"
         }
     }
 }
