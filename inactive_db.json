@@ -7,11 +7,32 @@
             "last_retested_at_iso": "2020-04-24T13:11:45",
             "status": "INACTIVE"
         },
+        "12shio1.org": {
+            "included_at_epoch": 1587815033.314548,
+            "included_at_iso": "2020-04-25T11:43:53.314548",
+            "last_retested_at_epoch": 1587815033.314548,
+            "last_retested_at_iso": "2020-04-25T11:43:53.314548",
+            "status": "INACTIVE"
+        },
+        "12shio3.net": {
+            "included_at_epoch": 1587815033.316312,
+            "included_at_iso": "2020-04-25T11:43:53.316312",
+            "last_retested_at_epoch": 1587815033.316312,
+            "last_retested_at_iso": "2020-04-25T11:43:53.316312",
+            "status": "INACTIVE"
+        },
         "ace4d.me": {
             "included_at_epoch": 1587733906.0,
             "included_at_iso": "2020-04-24T13:11:46",
             "last_retested_at_epoch": 1587733906.0,
             "last_retested_at_iso": "2020-04-24T13:11:46",
+            "status": "INACTIVE"
+        },
+        "animexin.jin-7.com": {
+            "included_at_epoch": 1587815034.062969,
+            "included_at_iso": "2020-04-25T11:43:54.062969",
+            "last_retested_at_epoch": 1587815034.062969,
+            "last_retested_at_iso": "2020-04-25T11:43:54.062969",
             "status": "INACTIVE"
         },
         "bet2link.info": {
@@ -42,11 +63,25 @@
             "last_retested_at_iso": "2020-04-24T13:11:52",
             "status": "INACTIVE"
         },
+        "menara4d.me": {
+            "included_at_epoch": 1587815040.860979,
+            "included_at_iso": "2020-04-25T11:44:00.860979",
+            "last_retested_at_epoch": 1587815040.860979,
+            "last_retested_at_iso": "2020-04-25T11:44:00.860979",
+            "status": "INACTIVE"
+        },
         "murnigoal.com": {
             "included_at_epoch": 1587733913.0,
             "included_at_iso": "2020-04-24T13:11:53",
             "last_retested_at_epoch": 1587733913.0,
             "last_retested_at_iso": "2020-04-24T13:11:53",
+            "status": "INACTIVE"
+        },
+        "news-tech.xyz": {
+            "included_at_epoch": 1587815041.346714,
+            "included_at_iso": "2020-04-25T11:44:01.346714",
+            "last_retested_at_epoch": 1587815041.346714,
+            "last_retested_at_iso": "2020-04-25T11:44:01.346714",
             "status": "INACTIVE"
         },
         "pkrace99.id": {
