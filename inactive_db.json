@@ -77,6 +77,13 @@
             "last_retested_at_iso": "2020-04-28T10:50:33.268092",
             "status": "INACTIVE"
         },
+        "shiokambing3.id": {
+            "included_at_epoch": 1588106656.992117,
+            "included_at_iso": "2020-04-28T20:44:16.992117",
+            "last_retested_at_epoch": 1588106656.992117,
+            "last_retested_at_iso": "2020-04-28T20:44:16.992117",
+            "status": "INACTIVE"
+        },
         "sogopoker.club": {
             "included_at_epoch": 1587737764.0,
             "included_at_iso": "2020-04-24T14:16:04",

@@ -959,6 +959,11 @@
         "expiration_date": "24-apr-2021",
         "state": "future"
     },
+    "boayipids.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
     "bogornews.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -1224,6 +1229,11 @@
         "expiration_date": "25-mar-2021",
         "state": "future"
     },
+    "cogleapad.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
     "coinvestasi.com": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -1477,6 +1487,11 @@
     "doathair.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "dostophog.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "doxadigital.com": {
@@ -1887,6 +1902,11 @@
     "gigapurbalingga.net": {
         "epoch": 1613088000.0,
         "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "gilakerja.com": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "globalplanet.news": {
@@ -2934,6 +2954,11 @@
         "expiration_date": "19-apr-2021",
         "state": "future"
     },
+    "komikcast.com": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
     "komiku.net": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
@@ -3494,6 +3519,11 @@
         "expiration_date": "20-sep-2024",
         "state": "future"
     },
+    "mazterize.co": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
     "mazterize.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
@@ -3794,6 +3824,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "nekonime.video": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
     "nenemonews.com": {
         "epoch": 1615420800.0,
         "expiration_date": "11-mar-2021",
@@ -3924,6 +3959,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "nusadaily.com": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "nusantarapos.co.id": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
@@ -3957,6 +3997,11 @@
     "ockoken.site": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "offgashah.club": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "ofiskita.com": {
@@ -4539,6 +4584,11 @@
         "expiration_date": "15-may-2021",
         "state": "future"
     },
+    "rajagaming.com": {
+        "epoch": 1794355200.0,
+        "expiration_date": "11-nov-2026",
+        "state": "future"
+    },
     "rajalisensi.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
@@ -4612,6 +4662,11 @@
     "relasipublik.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "repruggob.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "resolusiweb.com": {
