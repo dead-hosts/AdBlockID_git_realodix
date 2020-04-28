@@ -3,92 +3,85 @@
         "128.199.102.136": {
             "included_at_epoch": 1587733905.0,
             "included_at_iso": "2020-04-24T13:11:45",
-            "last_retested_at_epoch": 1587942555.541023,
-            "last_retested_at_iso": "2020-04-26T23:09:15.541023",
+            "last_retested_at_epoch": 1588071026.071547,
+            "last_retested_at_iso": "2020-04-28T10:50:26.071547",
             "status": "INACTIVE"
         },
         "12shio1.org": {
             "included_at_epoch": 1587815033.314548,
             "included_at_iso": "2020-04-25T11:43:53.314548",
-            "last_retested_at_epoch": 1587942555.542436,
-            "last_retested_at_iso": "2020-04-26T23:09:15.542436",
+            "last_retested_at_epoch": 1588071026.085825,
+            "last_retested_at_iso": "2020-04-28T10:50:26.085825",
             "status": "INACTIVE"
         },
         "12shio3.net": {
             "included_at_epoch": 1587815033.316312,
             "included_at_iso": "2020-04-25T11:43:53.316312",
-            "last_retested_at_epoch": 1587942555.544845,
-            "last_retested_at_iso": "2020-04-26T23:09:15.544845",
+            "last_retested_at_epoch": 1588071026.084499,
+            "last_retested_at_iso": "2020-04-28T10:50:26.084499",
             "status": "INACTIVE"
         },
         "ace4d.me": {
             "included_at_epoch": 1587733906.0,
             "included_at_iso": "2020-04-24T13:11:46",
-            "last_retested_at_epoch": 1587942555.722136,
-            "last_retested_at_iso": "2020-04-26T23:09:15.722136",
+            "last_retested_at_epoch": 1588071026.263729,
+            "last_retested_at_iso": "2020-04-28T10:50:26.263729",
             "status": "INACTIVE"
         },
         "animexin.jin-7.com": {
             "included_at_epoch": 1587815034.062969,
             "included_at_iso": "2020-04-25T11:43:54.062969",
-            "last_retested_at_epoch": 1587942556.256998,
-            "last_retested_at_iso": "2020-04-26T23:09:16.256998",
+            "last_retested_at_epoch": 1588071026.761048,
+            "last_retested_at_iso": "2020-04-28T10:50:26.761048",
             "status": "INACTIVE"
         },
         "bet2link.info": {
             "included_at_epoch": 1587733907.0,
             "included_at_iso": "2020-04-24T13:11:47",
-            "last_retested_at_epoch": 1587942557.1875,
-            "last_retested_at_iso": "2020-04-26T23:09:17.187500",
+            "last_retested_at_epoch": 1588071027.692842,
+            "last_retested_at_iso": "2020-04-28T10:50:27.692842",
             "status": "INACTIVE"
         },
         "energitoto.me": {
             "included_at_epoch": 1587733908.0,
             "included_at_iso": "2020-04-24T13:11:48",
-            "last_retested_at_epoch": 1587942558.614881,
-            "last_retested_at_iso": "2020-04-26T23:09:18.614881",
+            "last_retested_at_epoch": 1588071029.04413,
+            "last_retested_at_iso": "2020-04-28T10:50:29.044130",
             "status": "INACTIVE"
         },
         "klik4a.me": {
             "included_at_epoch": 1587733911.0,
             "included_at_iso": "2020-04-24T13:11:51",
-            "last_retested_at_epoch": 1587942561.221063,
-            "last_retested_at_iso": "2020-04-26T23:09:21.221063",
+            "last_retested_at_epoch": 1588071031.59384,
+            "last_retested_at_iso": "2020-04-28T10:50:31.593840",
             "status": "INACTIVE"
         },
         "lotustiga.com": {
             "included_at_epoch": 1587733912.0,
             "included_at_iso": "2020-04-24T13:11:52",
-            "last_retested_at_epoch": 1587942562.19062,
-            "last_retested_at_iso": "2020-04-26T23:09:22.190620",
+            "last_retested_at_epoch": 1588071032.501646,
+            "last_retested_at_iso": "2020-04-28T10:50:32.501646",
             "status": "INACTIVE"
         },
         "menara4d.me": {
             "included_at_epoch": 1587815040.860979,
             "included_at_iso": "2020-04-25T11:44:00.860979",
-            "last_retested_at_epoch": 1587942562.708446,
-            "last_retested_at_iso": "2020-04-26T23:09:22.708446",
+            "last_retested_at_epoch": 1588071032.997498,
+            "last_retested_at_iso": "2020-04-28T10:50:32.997498",
             "status": "INACTIVE"
         },
         "murnigoal.com": {
             "included_at_epoch": 1587733913.0,
             "included_at_iso": "2020-04-24T13:11:53",
-            "last_retested_at_epoch": 1587942562.995197,
-            "last_retested_at_iso": "2020-04-26T23:09:22.995197",
-            "status": "INACTIVE"
-        },
-        "news-tech.xyz": {
-            "included_at_epoch": 1587815041.346714,
-            "included_at_iso": "2020-04-25T11:44:01.346714",
-            "last_retested_at_epoch": 1587942563.181269,
-            "last_retested_at_iso": "2020-04-26T23:09:23.181269",
+            "last_retested_at_epoch": 1588071033.268092,
+            "last_retested_at_iso": "2020-04-28T10:50:33.268092",
             "status": "INACTIVE"
         },
         "sogopoker.club": {
             "included_at_epoch": 1587737764.0,
             "included_at_iso": "2020-04-24T14:16:04",
-            "last_retested_at_epoch": 1587942565.724486,
-            "last_retested_at_iso": "2020-04-26T23:09:25.724486",
+            "last_retested_at_epoch": 1588071035.878352,
+            "last_retested_at_iso": "2020-04-28T10:50:35.878352",
             "status": "INACTIVE"
         },
         "tores4d.me": {

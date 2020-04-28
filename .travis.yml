@@ -6,7 +6,6 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: dead-hosts/AdBlockID_git_realodix
     -   GIT_BRANCH: master
     -   secure: XKWIVAMDgzzsC9NkWTakV5aJN/w4JvLQ0Qsb6Hzu7J+5/RFyCfuCB16cF6XZY6oNi6XZcillZbG1d57vQmOfZ61KeTWlmqbi0Vqo8kCN7rWmBf+WD6zeb0aZnSaK+oLaKAVY/hhwd2iGifUWVGIFFQXcXsoBrMd57b2jyfiTzv5nTe74uddFu1la8c+K/olgi+9BXyxR0uvIJnpwwPvmejzi5ozGPfRwt5VjJDOw5e+w1RK+qWTXkerw3eVPnDM4ebDtclM6YJvR+q+lkhhL52HEdm7liS+t5l7q3Ykz+e6kXDYF/Bm0jsdH6QTSGbW2XoAKTEJXmpJ0o/S+Vbnf1mPnZOR62POq1GfbBlKj3ezs1HMmh5p5LRID5uz23Ww0WUzQ7DJ61K5BbW479KR139lKWVXtxRg2TS3EBWzROfikF/oq7zKcPkjRBHIubyLqnJ+9pCJ12HIp3tsEFFIVKz7IrmuVuYbbUtbectPhrGnj/cVs1IMUpM1GCBUHxbA8Dqs8QK7z0rM+QT0MAiWPiXdsf3Z45jk1FKpa0JjL2qCjZfxZraSqDf5uzNxWimaGrBHtP0WDwPCJmr0vAiTFTa1MDF90l+SpnIdH7q//Fihl7aM4Z4PMSMKHsOH/ylh+0a0DVGTLv764OMwj956xIXOuuZXeRcg8uIo7Cjlla08=
     matrix:
@@ -30,7 +29,7 @@ notifications:
         on_failure: always
         on_success: never
         recipients:
-        - dead-hosts@funilrys.com
+        - dead-hosts@outlook.com
 os:
 - linux
 script:
