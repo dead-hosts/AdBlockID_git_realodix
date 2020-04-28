@@ -5749,6 +5749,11 @@
         "expiration_date": "20-sep-2020",
         "state": "future"
     },
+    "uplink.my.id": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
     "upoint.id": {
         "epoch": 1643241600.0,
         "expiration_date": "27-jan-2022",
@@ -5907,6 +5912,11 @@
     "windowmentaria.com": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "winlive88.org": {
+        "epoch": 1590364800.0,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "winnetnews.com": {
