@@ -959,6 +959,11 @@
         "expiration_date": "24-apr-2021",
         "state": "future"
     },
+    "boajagoar.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
     "boayipids.com": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
@@ -1497,6 +1502,11 @@
     "doxadigital.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "dramaserial.best": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "dream.co.id": {
@@ -2604,6 +2614,11 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "jetsowilk.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
     "jnn.co.id": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
@@ -3422,6 +3437,11 @@
     "malang-post.com": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "malangtimes.com": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "malangvoice.com": {
