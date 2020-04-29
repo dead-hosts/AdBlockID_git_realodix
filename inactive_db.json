@@ -87,22 +87,22 @@
         "sogopoker.club": {
             "included_at_epoch": 1587737764.0,
             "included_at_iso": "2020-04-24T14:16:04",
-            "last_retested_at_epoch": 1588071035.878352,
-            "last_retested_at_iso": "2020-04-28T10:50:35.878352",
+            "last_retested_at_epoch": 1588163574.349396,
+            "last_retested_at_iso": "2020-04-29T12:32:54.349396",
             "status": "INACTIVE"
         },
         "tores4d.me": {
             "included_at_epoch": 1587737765.0,
             "included_at_iso": "2020-04-24T14:16:05",
-            "last_retested_at_epoch": 1588075250.075563,
-            "last_retested_at_iso": "2020-04-28T12:00:50.075563",
+            "last_retested_at_epoch": 1588163575.52192,
+            "last_retested_at_iso": "2020-04-29T12:32:55.521920",
             "status": "INACTIVE"
         },
         "utama4d.biz": {
             "included_at_epoch": 1587737766.0,
             "included_at_iso": "2020-04-24T14:16:06",
-            "last_retested_at_epoch": 1588075250.364364,
-            "last_retested_at_iso": "2020-04-28T12:00:50.364364",
+            "last_retested_at_epoch": 1588163575.846297,
+            "last_retested_at_iso": "2020-04-29T12:32:55.846297",
             "status": "INACTIVE"
         }
     }
