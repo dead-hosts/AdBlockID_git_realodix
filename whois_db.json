@@ -589,6 +589,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "bacakomik.co": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "bacaterus.com": {
         "epoch": 1635638400.0,
         "expiration_date": "31-oct-2021",
@@ -805,8 +810,8 @@
         "state": "future"
     },
     "beritajakarta.id": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "beritajateng.net": {
@@ -897,6 +902,11 @@
     "binpartner.com": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "bioskopkerenin.club": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "bisablog.com": {
@@ -1667,6 +1677,11 @@
     "etreflased.info": {
         "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
+    "eveteaemo.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "fadslimz.com": {
@@ -3464,6 +3479,16 @@
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
+    "mangacanblog.com": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "mangaku.in": {
+        "epoch": 1652140800.0,
+        "expiration_date": "10-may-2022",
+        "state": "future"
+    },
     "mangalist.org": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
@@ -4820,8 +4845,8 @@
         "state": "future"
     },
     "saadahnews.net": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "safeku.com": {
@@ -5582,6 +5607,11 @@
     "thegreenblog.net": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "thetarhaw.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "tikusliar.com": {

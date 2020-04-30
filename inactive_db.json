@@ -77,11 +77,18 @@
             "last_retested_at_iso": "2020-04-29T11:28:02.506261",
             "status": "INACTIVE"
         },
+        "news-tech.xyz": {
+            "included_at_epoch": 1588242785.233444,
+            "included_at_iso": "2020-04-30T10:33:05.233444",
+            "last_retested_at_epoch": 1588242785.233444,
+            "last_retested_at_iso": "2020-04-30T10:33:05.233444",
+            "status": "INACTIVE"
+        },
         "shiokambing3.id": {
             "included_at_epoch": 1588106656.992117,
             "included_at_iso": "2020-04-28T20:44:16.992117",
-            "last_retested_at_epoch": 1588106656.992117,
-            "last_retested_at_iso": "2020-04-28T20:44:16.992117",
+            "last_retested_at_epoch": 1588242787.709245,
+            "last_retested_at_iso": "2020-04-30T10:33:07.709245",
             "status": "INACTIVE"
         },
         "sogopoker.club": {
