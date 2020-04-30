@@ -94,8 +94,8 @@
         "sogopoker.club": {
             "included_at_epoch": 1587737764.0,
             "included_at_iso": "2020-04-24T14:16:04",
-            "last_retested_at_epoch": 1588163574.349396,
-            "last_retested_at_iso": "2020-04-29T12:32:54.349396",
+            "last_retested_at_epoch": 1588288213.834989,
+            "last_retested_at_iso": "2020-04-30T23:10:13.834989",
             "status": "INACTIVE"
         },
         "tores4d.me": {
