@@ -101,15 +101,15 @@
         "tores4d.me": {
             "included_at_epoch": 1587737765.0,
             "included_at_iso": "2020-04-24T14:16:05",
-            "last_retested_at_epoch": 1588163575.52192,
-            "last_retested_at_iso": "2020-04-29T12:32:55.521920",
+            "last_retested_at_epoch": 1588291944.17538,
+            "last_retested_at_iso": "2020-05-01T00:12:24.175380",
             "status": "INACTIVE"
         },
         "utama4d.biz": {
             "included_at_epoch": 1587737766.0,
             "included_at_iso": "2020-04-24T14:16:06",
-            "last_retested_at_epoch": 1588163575.846297,
-            "last_retested_at_iso": "2020-04-29T12:32:55.846297",
+            "last_retested_at_epoch": 1588291944.496639,
+            "last_retested_at_iso": "2020-05-01T00:12:24.496639",
             "status": "INACTIVE"
         }
     }
