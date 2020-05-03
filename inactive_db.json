@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
+        "(\\||^)([a-z]{8,10})(\\.club|.site|.life|.com|$)": {
+            "included_at_epoch": 1588521038.770723,
+            "included_at_iso": "2020-05-03T15:50:38.770723",
+            "last_retested_at_epoch": 1588521038.770723,
+            "last_retested_at_iso": "2020-05-03T15:50:38.770723",
+            "status": "INVALID"
+        },
         "128.199.102.136": {
             "included_at_epoch": 1587733905.0,
             "included_at_iso": "2020-04-24T13:11:45",
@@ -94,29 +101,29 @@
         "shiokambing3.id": {
             "included_at_epoch": 1588106656.992117,
             "included_at_iso": "2020-04-28T20:44:16.992117",
-            "last_retested_at_epoch": 1588242787.709245,
-            "last_retested_at_iso": "2020-04-30T10:33:07.709245",
+            "last_retested_at_epoch": 1588521036.204506,
+            "last_retested_at_iso": "2020-05-03T15:50:36.204506",
             "status": "INACTIVE"
         },
         "sogopoker.club": {
             "included_at_epoch": 1587737764.0,
             "included_at_iso": "2020-04-24T14:16:04",
-            "last_retested_at_epoch": 1588288213.834989,
-            "last_retested_at_iso": "2020-04-30T23:10:13.834989",
+            "last_retested_at_epoch": 1588521036.472172,
+            "last_retested_at_iso": "2020-05-03T15:50:36.472172",
             "status": "INACTIVE"
         },
         "tores4d.me": {
             "included_at_epoch": 1587737765.0,
             "included_at_iso": "2020-04-24T14:16:05",
-            "last_retested_at_epoch": 1588291944.17538,
-            "last_retested_at_iso": "2020-05-01T00:12:24.175380",
+            "last_retested_at_epoch": 1588521037.792573,
+            "last_retested_at_iso": "2020-05-03T15:50:37.792573",
             "status": "INACTIVE"
         },
         "utama4d.biz": {
             "included_at_epoch": 1587737766.0,
             "included_at_iso": "2020-04-24T14:16:06",
-            "last_retested_at_epoch": 1588291944.496639,
-            "last_retested_at_iso": "2020-05-01T00:12:24.496639",
+            "last_retested_at_epoch": 1588521038.171346,
+            "last_retested_at_iso": "2020-05-03T15:50:38.171346",
             "status": "INACTIVE"
         }
     }

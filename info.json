@@ -1,5 +1,5 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "custom_pyfunceble_config": {
         "ci_autosave_final_commit": "AdBlockID - Results | @realodix",
         "dns_lookup_over_tcp": true,
@@ -47,14 +47,14 @@
         "print_dots": true
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "1970-01-01T00:00:00",
-    "finish_timestamp": 0.0,
+    "finish_datetime": "2020-05-03T15:50:39.130437",
+    "finish_timestamp": 1588521039.130437,
     "last_download_datetime": "2020-05-03T15:30:31.880551",
     "last_download_timestamp": 1588519831.880551,
-    "latest_part_finish_datetime": "2020-05-03T15:40:45.816871",
-    "latest_part_finish_timestamp": 1588520445.816871,
-    "latest_part_start_datetime": "2020-05-03T15:30:31.890359",
-    "latest_part_start_timestamp": 1588519831.890359,
+    "latest_part_finish_datetime": "2020-05-03T15:50:39.130437",
+    "latest_part_finish_timestamp": 1588521039.130437,
+    "latest_part_start_datetime": "2020-05-03T15:48:25.872829",
+    "latest_part_start_timestamp": 1588520905.872829,
     "live_update": false,
     "name": "AdBlockID_git_realodix",
     "own_management": false,
