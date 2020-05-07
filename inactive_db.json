@@ -35,11 +35,25 @@
             "last_retested_at_iso": "2020-05-06T15:37:25.253816",
             "status": "INACTIVE"
         },
+        "alpha4d.live": {
+            "included_at_epoch": 1588836476.337241,
+            "included_at_iso": "2020-05-07T07:27:56.337241",
+            "last_retested_at_epoch": 1588836476.337241,
+            "last_retested_at_iso": "2020-05-07T07:27:56.337241",
+            "status": "INACTIVE"
+        },
         "animexin.jin-7.com": {
             "included_at_epoch": 1587815034.062969,
             "included_at_iso": "2020-04-25T11:43:54.062969",
             "last_retested_at_epoch": 1588779446.067674,
             "last_retested_at_iso": "2020-05-06T15:37:26.067674",
+            "status": "INACTIVE"
+        },
+        "asianbookie365.me": {
+            "included_at_epoch": 1588836477.05458,
+            "included_at_iso": "2020-05-07T07:27:57.054580",
+            "last_retested_at_epoch": 1588836477.05458,
+            "last_retested_at_iso": "2020-05-07T07:27:57.054580",
             "status": "INACTIVE"
         },
         "bet2link.info": {
@@ -49,11 +63,46 @@
             "last_retested_at_iso": "2020-05-06T15:37:27.378078",
             "status": "INACTIVE"
         },
+        "cgx112.com": {
+            "included_at_epoch": 1588836478.717091,
+            "included_at_iso": "2020-05-07T07:27:58.717091",
+            "last_retested_at_epoch": 1588836478.717091,
+            "last_retested_at_iso": "2020-05-07T07:27:58.717091",
+            "status": "INACTIVE"
+        },
+        "dewajitu.me": {
+            "included_at_epoch": 1588836479.465246,
+            "included_at_iso": "2020-05-07T07:27:59.465246",
+            "last_retested_at_epoch": 1588836479.465246,
+            "last_retested_at_iso": "2020-05-07T07:27:59.465246",
+            "status": "INACTIVE"
+        },
+        "dgc374.com": {
+            "included_at_epoch": 1588836479.491268,
+            "included_at_iso": "2020-05-07T07:27:59.491268",
+            "last_retested_at_epoch": 1588836479.491268,
+            "last_retested_at_iso": "2020-05-07T07:27:59.491268",
+            "status": "INACTIVE"
+        },
+        "diva4d.me": {
+            "included_at_epoch": 1588836479.605325,
+            "included_at_iso": "2020-05-07T07:27:59.605325",
+            "last_retested_at_epoch": 1588836479.605325,
+            "last_retested_at_iso": "2020-05-07T07:27:59.605325",
+            "status": "INACTIVE"
+        },
         "energitoto.me": {
             "included_at_epoch": 1587733908.0,
             "included_at_iso": "2020-04-24T13:11:48",
             "last_retested_at_epoch": 1588779449.347397,
             "last_retested_at_iso": "2020-05-06T15:37:29.347397",
+            "status": "INACTIVE"
+        },
+        "gt4d.me": {
+            "included_at_epoch": 1588836481.089019,
+            "included_at_iso": "2020-05-07T07:28:01.089019",
+            "last_retested_at_epoch": 1588836481.089019,
+            "last_retested_at_iso": "2020-05-07T07:28:01.089019",
             "status": "INACTIVE"
         },
         "iklan.beritajatim.com": {
@@ -63,11 +112,25 @@
             "last_retested_at_iso": "2020-05-06T15:37:31.064191",
             "status": "INACTIVE"
         },
+        "indopools.me": {
+            "included_at_epoch": 1588836482.051531,
+            "included_at_iso": "2020-05-07T07:28:02.051531",
+            "last_retested_at_epoch": 1588836482.051531,
+            "last_retested_at_iso": "2020-05-07T07:28:02.051531",
+            "status": "INACTIVE"
+        },
         "klik4a.me": {
             "included_at_epoch": 1587733911.0,
             "included_at_iso": "2020-04-24T13:11:51",
             "last_retested_at_epoch": 1588779452.738179,
             "last_retested_at_iso": "2020-05-06T15:37:32.738179",
+            "status": "INACTIVE"
+        },
+        "klub4d.me": {
+            "included_at_epoch": 1588836483.660352,
+            "included_at_iso": "2020-05-07T07:28:03.660352",
+            "last_retested_at_epoch": 1588836483.660352,
+            "last_retested_at_iso": "2020-05-07T07:28:03.660352",
             "status": "INACTIVE"
         },
         "lotustiga.com": {
@@ -82,6 +145,13 @@
             "included_at_iso": "2020-04-25T11:44:00.860979",
             "last_retested_at_epoch": 1588779454.674543,
             "last_retested_at_iso": "2020-05-06T15:37:34.674543",
+            "status": "INACTIVE"
+        },
+        "metro4d.cc": {
+            "included_at_epoch": 1588836485.737808,
+            "included_at_iso": "2020-05-07T07:28:05.737808",
+            "last_retested_at_epoch": 1588836485.737808,
+            "last_retested_at_iso": "2020-05-07T07:28:05.737808",
             "status": "INACTIVE"
         },
         "murnigoal.com": {
