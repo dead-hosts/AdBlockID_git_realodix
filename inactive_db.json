@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
+        "(\\.)(com|asia|bid|bet|cc|co|biz|fun|icu|id|info|kim|live|me|net|online|org|site|website|xyz)": {
+            "included_at_epoch": 1588881046.075154,
+            "included_at_iso": "2020-05-07T19:50:46.075154",
+            "last_retested_at_epoch": 1588881046.075154,
+            "last_retested_at_iso": "2020-05-07T19:50:46.075154",
+            "status": "INVALID"
+        },
         "(\\.)(com|asia|bid|bet|cc|co|biz|icu|id|info|fun|kim|live|me|net|online|org|site|website|xyz)": {
             "included_at_epoch": 1588836807.610638,
             "included_at_iso": "2020-05-07T07:33:27.610638",
@@ -10,8 +17,8 @@
         "(\\||^)([a-z]{8,10})(\\.club|.site|.life|.com|$)": {
             "included_at_epoch": 1588521038.770723,
             "included_at_iso": "2020-05-03T15:50:38.770723",
-            "last_retested_at_epoch": 1588780389.604952,
-            "last_retested_at_iso": "2020-05-06T15:53:09.604952",
+            "last_retested_at_epoch": 1588881046.257305,
+            "last_retested_at_iso": "2020-05-07T19:50:46.257305",
             "status": "INVALID"
         },
         "128.199.102.136": {
@@ -178,15 +185,15 @@
         "shiokambing3.id": {
             "included_at_epoch": 1588106656.992117,
             "included_at_iso": "2020-04-28T20:44:16.992117",
-            "last_retested_at_epoch": 1588780386.873647,
-            "last_retested_at_iso": "2020-05-06T15:53:06.873647",
+            "last_retested_at_epoch": 1588881042.87377,
+            "last_retested_at_iso": "2020-05-07T19:50:42.873770",
             "status": "INACTIVE"
         },
         "sogopoker.club": {
             "included_at_epoch": 1587737764.0,
             "included_at_iso": "2020-04-24T14:16:04",
-            "last_retested_at_epoch": 1588780387.180224,
-            "last_retested_at_iso": "2020-05-06T15:53:07.180224",
+            "last_retested_at_epoch": 1588881043.232789,
+            "last_retested_at_iso": "2020-05-07T19:50:43.232789",
             "status": "INACTIVE"
         },
         "suster4d.me": {
@@ -199,15 +206,15 @@
         "tores4d.me": {
             "included_at_epoch": 1587737765.0,
             "included_at_iso": "2020-04-24T14:16:05",
-            "last_retested_at_epoch": 1588780388.603886,
-            "last_retested_at_iso": "2020-05-06T15:53:08.603886",
+            "last_retested_at_epoch": 1588881044.840413,
+            "last_retested_at_iso": "2020-05-07T19:50:44.840413",
             "status": "INACTIVE"
         },
         "utama4d.biz": {
             "included_at_epoch": 1587737766.0,
             "included_at_iso": "2020-04-24T14:16:06",
-            "last_retested_at_epoch": 1588780388.979211,
-            "last_retested_at_iso": "2020-05-06T15:53:08.979211",
+            "last_retested_at_epoch": 1588881045.2872,
+            "last_retested_at_iso": "2020-05-07T19:50:45.287200",
             "status": "INACTIVE"
         },
         "webet.id": {

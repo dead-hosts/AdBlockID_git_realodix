@@ -6454,6 +6454,11 @@
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
+    "tribratanewsacehbesar.com": {
+        "epoch": 1646611200.0,
+        "expiration_date": "07-mar-2022",
+        "state": "future"
+    },
     "tribunislam.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
@@ -6622,6 +6627,11 @@
     "vkaofq64zz.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "vkcdnservice.com": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "vylowgaming.net": {
