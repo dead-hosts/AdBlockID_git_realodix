@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
+        "(\\.)(com|asia|bid|bet|cc|co|biz|icu|id|info|fun|kim|live|me|net|online|org|site|website|xyz)": {
+            "included_at_epoch": 1588836807.610638,
+            "included_at_iso": "2020-05-07T07:33:27.610638",
+            "last_retested_at_epoch": 1588836807.610638,
+            "last_retested_at_iso": "2020-05-07T07:33:27.610638",
+            "status": "INVALID"
+        },
         "(\\||^)([a-z]{8,10})(\\.club|.site|.life|.com|$)": {
             "included_at_epoch": 1588521038.770723,
             "included_at_iso": "2020-05-03T15:50:38.770723",
@@ -161,6 +168,13 @@
             "last_retested_at_iso": "2020-05-06T15:37:35.067720",
             "status": "INACTIVE"
         },
+        "salam4d.me": {
+            "included_at_epoch": 1588836804.593837,
+            "included_at_iso": "2020-05-07T07:33:24.593837",
+            "last_retested_at_epoch": 1588836804.593837,
+            "last_retested_at_iso": "2020-05-07T07:33:24.593837",
+            "status": "INACTIVE"
+        },
         "shiokambing3.id": {
             "included_at_epoch": 1588106656.992117,
             "included_at_iso": "2020-04-28T20:44:16.992117",
@@ -175,6 +189,13 @@
             "last_retested_at_iso": "2020-05-06T15:53:07.180224",
             "status": "INACTIVE"
         },
+        "suster4d.me": {
+            "included_at_epoch": 1588836805.900899,
+            "included_at_iso": "2020-05-07T07:33:25.900899",
+            "last_retested_at_epoch": 1588836805.900899,
+            "last_retested_at_iso": "2020-05-07T07:33:25.900899",
+            "status": "INACTIVE"
+        },
         "tores4d.me": {
             "included_at_epoch": 1587737765.0,
             "included_at_iso": "2020-04-24T14:16:05",
@@ -187,6 +208,13 @@
             "included_at_iso": "2020-04-24T14:16:06",
             "last_retested_at_epoch": 1588780388.979211,
             "last_retested_at_iso": "2020-05-06T15:53:08.979211",
+            "status": "INACTIVE"
+        },
+        "webet.id": {
+            "included_at_epoch": 1588836807.31517,
+            "included_at_iso": "2020-05-07T07:33:27.315170",
+            "last_retested_at_epoch": 1588836807.31517,
+            "last_retested_at_iso": "2020-05-07T07:33:27.315170",
             "status": "INACTIVE"
         }
     }
