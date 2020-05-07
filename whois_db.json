@@ -104,6 +104,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "acehasia.com": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "acehekspres.com": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
@@ -522,6 +527,11 @@
     "antburape.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "anteroaceh.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "antoncabon.us": {
@@ -4267,6 +4277,11 @@
     "metropadang.com": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "metropolis.id": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "metrosulawesi.id": {
