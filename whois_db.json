@@ -5969,6 +5969,11 @@
         "expiration_date": "16-mar-2021",
         "state": "future"
     },
+    "soranime.site": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
     "sosiali.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
