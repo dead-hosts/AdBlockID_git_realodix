@@ -5279,6 +5279,11 @@
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
+    "purworejonews.com": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
     "pusatiklan.co.id": {
         "epoch": 1618012800.0,
         "expiration_date": "10-apr-2021",
@@ -5455,8 +5460,13 @@
         "state": "future"
     },
     "relasipublik.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
+    "repbowdew.com": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "repruggob.com": {
@@ -5465,8 +5475,8 @@
         "state": "future"
     },
     "resolusiweb.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "resulthktercepat.com": {
@@ -6575,8 +6585,8 @@
         "state": "future"
     },
     "ubiklan.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1652054400.0,
+        "expiration_date": "09-may-2022",
         "state": "future"
     },
     "ubloger.com": {

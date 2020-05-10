@@ -3,22 +3,22 @@
         "(\\.)(com|asia|bid|bet|cc|co|biz|fun|icu|id|info|kim|live|me|net|online|org|site|website|xyz)": {
             "included_at_epoch": 1588881046.075154,
             "included_at_iso": "2020-05-07T19:50:46.075154",
-            "last_retested_at_epoch": 1588881046.075154,
-            "last_retested_at_iso": "2020-05-07T19:50:46.075154",
+            "last_retested_at_epoch": 1589126988.727527,
+            "last_retested_at_iso": "2020-05-10T16:09:48.727527",
             "status": "INVALID"
         },
         "(\\.)(com|asia|bid|bet|cc|co|biz|icu|id|info|fun|kim|live|me|net|online|org|site|website|xyz)": {
             "included_at_epoch": 1588836807.610638,
             "included_at_iso": "2020-05-07T07:33:27.610638",
-            "last_retested_at_epoch": 1588836807.610638,
-            "last_retested_at_iso": "2020-05-07T07:33:27.610638",
+            "last_retested_at_epoch": 1589126988.830949,
+            "last_retested_at_iso": "2020-05-10T16:09:48.830949",
             "status": "INVALID"
         },
         "(\\||^)([a-z]{8,10})(\\.club|.site|.life|.com|$)": {
             "included_at_epoch": 1588521038.770723,
             "included_at_iso": "2020-05-03T15:50:38.770723",
-            "last_retested_at_epoch": 1588881046.257305,
-            "last_retested_at_iso": "2020-05-07T19:50:46.257305",
+            "last_retested_at_epoch": 1589126988.833967,
+            "last_retested_at_iso": "2020-05-10T16:09:48.833967",
             "status": "INVALID"
         },
         "128.199.102.136": {
@@ -199,50 +199,50 @@
         "salam4d.me": {
             "included_at_epoch": 1588836804.593837,
             "included_at_iso": "2020-05-07T07:33:24.593837",
-            "last_retested_at_epoch": 1588836804.593837,
-            "last_retested_at_iso": "2020-05-07T07:33:24.593837",
+            "last_retested_at_epoch": 1589126985.513833,
+            "last_retested_at_iso": "2020-05-10T16:09:45.513833",
             "status": "INACTIVE"
         },
         "shiokambing3.id": {
             "included_at_epoch": 1588106656.992117,
             "included_at_iso": "2020-04-28T20:44:16.992117",
-            "last_retested_at_epoch": 1588881042.87377,
-            "last_retested_at_iso": "2020-05-07T19:50:42.873770",
+            "last_retested_at_epoch": 1589126985.960494,
+            "last_retested_at_iso": "2020-05-10T16:09:45.960494",
             "status": "INACTIVE"
         },
         "sogopoker.club": {
             "included_at_epoch": 1587737764.0,
             "included_at_iso": "2020-04-24T14:16:04",
-            "last_retested_at_epoch": 1588881043.232789,
-            "last_retested_at_iso": "2020-05-07T19:50:43.232789",
+            "last_retested_at_epoch": 1589126986.266847,
+            "last_retested_at_iso": "2020-05-10T16:09:46.266847",
             "status": "INACTIVE"
         },
         "suster4d.me": {
             "included_at_epoch": 1588836805.900899,
             "included_at_iso": "2020-05-07T07:33:25.900899",
-            "last_retested_at_epoch": 1588836805.900899,
-            "last_retested_at_iso": "2020-05-07T07:33:25.900899",
+            "last_retested_at_epoch": 1589126986.855141,
+            "last_retested_at_iso": "2020-05-10T16:09:46.855141",
             "status": "INACTIVE"
         },
         "tores4d.me": {
             "included_at_epoch": 1587737765.0,
             "included_at_iso": "2020-04-24T14:16:05",
-            "last_retested_at_epoch": 1588881044.840413,
-            "last_retested_at_iso": "2020-05-07T19:50:44.840413",
+            "last_retested_at_epoch": 1589126987.678198,
+            "last_retested_at_iso": "2020-05-10T16:09:47.678198",
             "status": "INACTIVE"
         },
         "utama4d.biz": {
             "included_at_epoch": 1587737766.0,
             "included_at_iso": "2020-04-24T14:16:06",
-            "last_retested_at_epoch": 1588881045.2872,
-            "last_retested_at_iso": "2020-05-07T19:50:45.287200",
+            "last_retested_at_epoch": 1589126988.074839,
+            "last_retested_at_iso": "2020-05-10T16:09:48.074839",
             "status": "INACTIVE"
         },
         "webet.id": {
             "included_at_epoch": 1588836807.31517,
             "included_at_iso": "2020-05-07T07:33:27.315170",
-            "last_retested_at_epoch": 1588836807.31517,
-            "last_retested_at_iso": "2020-05-07T07:33:27.315170",
+            "last_retested_at_epoch": 1589126988.412109,
+            "last_retested_at_iso": "2020-05-10T16:09:48.412109",
             "status": "INACTIVE"
         }
     }
