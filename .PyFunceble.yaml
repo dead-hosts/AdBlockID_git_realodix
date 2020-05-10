@@ -2,7 +2,7 @@ adblock: false
 aggressive: false
 auto_continue: true
 ci: true
-ci_autosave_commit: '[Autosave][Dead-Hosts::repository-structure]'
+ci_autosave_commit: '[Autosave][Dead-Hosts::AdBlockID_git_realodix]'
 ci_autosave_final_commit: AdBlockID - Results | @realodix
 ci_autosave_minutes: 10
 ci_branch: master
