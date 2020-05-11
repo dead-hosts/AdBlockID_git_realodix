@@ -1,26 +1,5 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
-        "(\\.)(com|asia|bid|bet|cc|co|biz|fun|icu|id|info|kim|live|me|net|online|org|site|website|xyz)": {
-            "included_at_epoch": 1588881046.075154,
-            "included_at_iso": "2020-05-07T19:50:46.075154",
-            "last_retested_at_epoch": 1589126988.727527,
-            "last_retested_at_iso": "2020-05-10T16:09:48.727527",
-            "status": "INVALID"
-        },
-        "(\\.)(com|asia|bid|bet|cc|co|biz|icu|id|info|fun|kim|live|me|net|online|org|site|website|xyz)": {
-            "included_at_epoch": 1588836807.610638,
-            "included_at_iso": "2020-05-07T07:33:27.610638",
-            "last_retested_at_epoch": 1589126988.830949,
-            "last_retested_at_iso": "2020-05-10T16:09:48.830949",
-            "status": "INVALID"
-        },
-        "(\\||^)([a-z]{8,10})(\\.club|.site|.life|.com|$)": {
-            "included_at_epoch": 1588521038.770723,
-            "included_at_iso": "2020-05-03T15:50:38.770723",
-            "last_retested_at_epoch": 1589126988.833967,
-            "last_retested_at_iso": "2020-05-10T16:09:48.833967",
-            "status": "INVALID"
-        },
         "128.199.102.136": {
             "included_at_epoch": 1587733905.0,
             "included_at_iso": "2020-04-24T13:11:45",
