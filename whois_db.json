@@ -1259,6 +1259,11 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "bolatimes.com": {
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "state": "future"
+    },
     "booking.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
@@ -1749,6 +1754,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "dewiku.com": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "dgafgadsgkjg.top": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
@@ -2210,8 +2220,8 @@
         "state": "future"
     },
     "freesms4us.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "fryawlauk.com": {
@@ -2305,8 +2315,8 @@
         "state": "future"
     },
     "gembelcit.net": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "geni.us": {
@@ -2604,6 +2614,11 @@
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
+    "himedik.com": {
+        "epoch": 1644710400.0,
+        "expiration_date": "13-feb-2022",
+        "state": "future"
+    },
     "hipwee.com": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
@@ -2617,6 +2632,11 @@
     "hitadsmedia.com": {
         "epoch": 1619827200.0,
         "expiration_date": "01-may-2021",
+        "state": "future"
+    },
+    "hitekno.com": {
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "hitsbola.bid": {
@@ -2827,6 +2847,11 @@
     "indodatasgp.com": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
+    "indopolitika.com": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "indoshares.com": {
@@ -4144,6 +4169,11 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "matamata.com": {
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "state": "future"
+    },
     "matamatapolitik.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -4942,6 +4972,11 @@
     "palingseru.com": {
         "epoch": 1653609600.0,
         "expiration_date": "27-may-2022",
+        "state": "future"
+    },
+    "panditfootball.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "pangeran1.com": {
