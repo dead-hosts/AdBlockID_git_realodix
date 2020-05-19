@@ -355,8 +355,8 @@
         "state": "future"
     },
     "aliansirakyatnews.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "alibabamovie.net": {
@@ -919,6 +919,11 @@
         "expiration_date": "26-feb-2021",
         "state": "future"
     },
+    "bayufitri.com": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
     "bbm88.org": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
@@ -1000,8 +1005,8 @@
         "state": "future"
     },
     "beritabali.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "beritabalionline.com": {
@@ -1334,6 +1339,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "bungfrangki.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
     "c02o3mpych.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -1397,6 +1407,11 @@
     "cawsodpet.club": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "cbogaming.com": {
+        "epoch": 1771113600.0,
+        "expiration_date": "15-feb-2026",
         "state": "future"
     },
     "cdnasiaclub.com": {
@@ -1762,6 +1777,11 @@
     "dewanaga.co": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "dewaplokis.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "dewiku.com": {
@@ -3010,8 +3030,8 @@
         "state": "future"
     },
     "inwepo.co": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "ion777.net": {
@@ -3087,6 +3107,11 @@
     "jadwaltelevisi.com": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "jagoandzgn.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "jagoanhosting.com": {
@@ -3544,6 +3569,11 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "koin4db.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "kolompc.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
@@ -3695,8 +3725,8 @@
         "state": "future"
     },
     "krjogja.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1747612800.0,
+        "expiration_date": "19-may-2025",
         "state": "future"
     },
     "kshowsubindo.org": {
@@ -4144,6 +4174,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "maniakandroid.com": {
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "state": "future"
+    },
     "maniakmotor.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
@@ -4227,6 +4262,11 @@
     "mazterize.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "md88.bet": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "mdewa.com": {
