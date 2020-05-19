@@ -5590,8 +5590,8 @@
         "state": "future"
     },
     "rezakuntokz.xyz": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "riauandalas.com": {
@@ -5662,6 +5662,11 @@
     "rowoardog.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "royhanafi.com": {
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "rri.co.id": {
@@ -5767,6 +5772,11 @@
     "sanjayaops.com": {
         "epoch": 1653350400.0,
         "expiration_date": "24-may-2022",
+        "state": "future"
+    },
+    "santaibareng.net": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "sasambonews.com": {
@@ -5902,6 +5912,11 @@
     "serconmp.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "serieswans.com": {
+        "epoch": 1645056000.0,
+        "expiration_date": "17-feb-2022",
         "state": "future"
     },
     "sewa-apartemen.net": {
@@ -6092,6 +6107,11 @@
     "sportt.space": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "steffifauziah.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "stfly.io": {
@@ -6429,6 +6449,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "teknolalat.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "teknosafe.info": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
@@ -6517,6 +6542,11 @@
     "thetarhaw.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "tigaribu.net": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "tikusliar.com": {
@@ -6877,6 +6907,11 @@
     "waxtamnit.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "webkeren.net": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "wegner.tech": {
