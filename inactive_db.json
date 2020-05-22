@@ -206,29 +206,50 @@
         "salam4d.me": {
             "included_at_epoch": 1588836804.593837,
             "included_at_iso": "2020-05-07T07:33:24.593837",
-            "last_retested_at_epoch": 1589904407.556496,
-            "last_retested_at_iso": "2020-05-19T16:06:47.556496",
+            "last_retested_at_epoch": 1590163966.682077,
+            "last_retested_at_iso": "2020-05-22T16:12:46.682077",
             "status": "INACTIVE"
         },
         "shiokambing3.id": {
             "included_at_epoch": 1588106656.992117,
             "included_at_iso": "2020-04-28T20:44:16.992117",
-            "last_retested_at_epoch": 1589904408.030014,
-            "last_retested_at_iso": "2020-05-19T16:06:48.030014",
+            "last_retested_at_epoch": 1590163967.150322,
+            "last_retested_at_iso": "2020-05-22T16:12:47.150322",
+            "status": "INACTIVE"
+        },
+        "sogopoker.club": {
+            "included_at_epoch": 1590163967.462913,
+            "included_at_iso": "2020-05-22T16:12:47.462913",
+            "last_retested_at_epoch": 1590163967.462913,
+            "last_retested_at_iso": "2020-05-22T16:12:47.462913",
             "status": "INACTIVE"
         },
         "suster4d.me": {
             "included_at_epoch": 1588836805.900899,
             "included_at_iso": "2020-05-07T07:33:25.900899",
-            "last_retested_at_epoch": 1589904408.962695,
-            "last_retested_at_iso": "2020-05-19T16:06:48.962695",
+            "last_retested_at_epoch": 1590163968.12005,
+            "last_retested_at_iso": "2020-05-22T16:12:48.120050",
+            "status": "INACTIVE"
+        },
+        "tores4d.me": {
+            "included_at_epoch": 1590163968.967493,
+            "included_at_iso": "2020-05-22T16:12:48.967493",
+            "last_retested_at_epoch": 1590163968.967493,
+            "last_retested_at_iso": "2020-05-22T16:12:48.967493",
+            "status": "INACTIVE"
+        },
+        "utama4d.biz": {
+            "included_at_epoch": 1590163969.352517,
+            "included_at_iso": "2020-05-22T16:12:49.352517",
+            "last_retested_at_epoch": 1590163969.352517,
+            "last_retested_at_iso": "2020-05-22T16:12:49.352517",
             "status": "INACTIVE"
         },
         "webet.id": {
             "included_at_epoch": 1588836807.31517,
             "included_at_iso": "2020-05-07T07:33:27.315170",
-            "last_retested_at_epoch": 1589904410.475121,
-            "last_retested_at_iso": "2020-05-19T16:06:50.475121",
+            "last_retested_at_epoch": 1590163969.68973,
+            "last_retested_at_iso": "2020-05-22T16:12:49.689730",
             "status": "INACTIVE"
         }
     }
