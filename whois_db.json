@@ -550,8 +550,8 @@
         "state": "future"
     },
     "apamanfaat.id": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "apasih.pw": {
@@ -742,7 +742,7 @@
     "auranews.id": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "autonetmagz.com": {
         "epoch": 1644019200.0,
@@ -884,6 +884,31 @@
         "expiration_date": "18-nov-2020",
         "state": "future"
     },
+    "bangsawan88.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "bangsawan88.net": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "bangsawan88.org": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "bangsawan88.vip": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "bantengmerah.id": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
+    },
     "bantenkini.com": {
         "epoch": 1613779200.0,
         "expiration_date": "20-feb-2021",
@@ -940,8 +965,8 @@
         "state": "future"
     },
     "begitulah.net": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "beigeiros.pw": {
@@ -1180,8 +1205,8 @@
         "state": "future"
     },
     "blogdokter.net": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "bloggerku.com": {
@@ -1277,6 +1302,11 @@
     "booking.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "boomxxi.me": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "bopohsage.com": {
@@ -2180,8 +2210,8 @@
         "state": "future"
     },
     "feedme.id": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "felanovia.com": {
@@ -2840,8 +2870,8 @@
         "state": "future"
     },
     "iklanpopuler.com": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "iklansmart.com": {
@@ -2960,8 +2990,8 @@
         "state": "future"
     },
     "infosekitarpekalongan.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "infosultra.id": {
@@ -3002,6 +3032,11 @@
     "inilah.com": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "inilahjambi.com": {
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "inilahkoran.com": {
@@ -3062,6 +3097,11 @@
     "iskrim.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "islampos.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "istana2.com": {
@@ -3139,6 +3179,11 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "jambiseru.com": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
+    },
     "jambiupdate.co": {
         "epoch": 1636156800.0,
         "expiration_date": "06-nov-2021",
@@ -3165,8 +3210,8 @@
         "state": "future"
     },
     "jayaiklan.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "jejamo.com": {
@@ -3419,6 +3464,11 @@
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
+    "kawanfilm21.pro": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
     "kawinmuda.net": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
@@ -3637,6 +3687,11 @@
     "konikaltim.co": {
         "epoch": 1639785600.0,
         "expiration_date": "18-dec-2021",
+        "state": "future"
+    },
+    "konsultasisyariah.com": {
+        "epoch": 1753747200.0,
+        "expiration_date": "29-jul-2025",
         "state": "future"
     },
     "kontan.co.id": {
@@ -4094,6 +4149,11 @@
         "expiration_date": "15-dec-2025",
         "state": "future"
     },
+    "m11kopi.net": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
     "maachanime.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
@@ -4539,6 +4599,11 @@
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
+    "movieindoxxi.co": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
     "movienear.me": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
@@ -4567,6 +4632,11 @@
     "musiklib.org": {
         "epoch": 1625788800.0,
         "expiration_date": "09-jul-2021",
+        "state": "future"
+    },
+    "muslim.or.id": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "mydirtsheet.com": {
@@ -5242,6 +5312,11 @@
     "pkrace99.id": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
+    "play303.com": {
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "plaza-bisnis.com": {
