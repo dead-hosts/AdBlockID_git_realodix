@@ -545,8 +545,8 @@
         "state": "future"
     },
     "antoncabon.us": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1653523200.0,
+        "expiration_date": "26-may-2022",
         "state": "future"
     },
     "apamanfaat.id": {
@@ -740,9 +740,9 @@
         "state": "future"
     },
     "auranews.id": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
-        "state": "past"
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "state": "future"
     },
     "autonetmagz.com": {
         "epoch": 1644019200.0,
@@ -1200,8 +1200,8 @@
         "state": "future"
     },
     "blockchainmedia.id": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "blogdokter.net": {
@@ -1780,8 +1780,8 @@
         "state": "future"
     },
     "detik.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "detiknews.id": {
@@ -2412,7 +2412,7 @@
     "get4link.xyz": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "geunta.com": {
         "epoch": 1601251200.0,
@@ -2532,6 +2532,11 @@
     "gudangfirmwere.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "gudangpemain.com": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "gurusd.web.id": {
@@ -2752,6 +2757,11 @@
     "horassumutnews.com": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "hosillfir.site": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "hoster.co.id": {
@@ -3505,8 +3515,8 @@
         "state": "future"
     },
     "kendaripos.co.id": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1653523200.0,
+        "expiration_date": "26-may-2022",
         "state": "future"
     },
     "kenfeeask.com": {
