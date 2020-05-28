@@ -5940,13 +5940,18 @@
         "state": "future"
     },
     "sekilastekno.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "sekolahpendidikan.com": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "selebsquad.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "semarakpost.com": {
@@ -6032,6 +6037,11 @@
     "serieswans.com": {
         "epoch": 1645056000.0,
         "expiration_date": "17-feb-2022",
+        "state": "future"
+    },
+    "seruji.co.id": {
+        "epoch": 1642377600.0,
+        "expiration_date": "17-jan-2022",
         "state": "future"
     },
     "sewa-apartemen.net": {
@@ -6760,8 +6770,8 @@
         "state": "future"
     },
     "totabuan.news": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "tpro.co.id": {
