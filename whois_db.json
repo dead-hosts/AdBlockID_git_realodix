@@ -5839,6 +5839,11 @@
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
+    "premierexxi.org": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "presdithas.pw": {
         "epoch": 1616716800.0,
         "expiration_date": "26-mar-2021",
@@ -6394,6 +6399,11 @@
         "expiration_date": "20-jan-2021",
         "state": "future"
     },
+    "sektekomik.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
     "selebsquad.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
@@ -6627,6 +6637,16 @@
     "smartphoneku.com": {
         "epoch": 1644451200.0,
         "expiration_date": "10-feb-2022",
+        "state": "future"
+    },
+    "sobatkeren.club": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "sobatkeren.net": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "softfull.me": {
@@ -7079,6 +7099,16 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "terbit21.host": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "terbit21.show": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
     "terkininews.com": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
@@ -7207,6 +7237,11 @@
     "topdrakor.website": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
+    "topfilm21.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "totabuan.co": {
