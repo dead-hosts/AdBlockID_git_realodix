@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
+        "111.90.142.151": {
+            "included_at_epoch": 1590966842.472047,
+            "included_at_iso": "2020-05-31T23:14:02.472047",
+            "last_retested_at_epoch": 1590966842.472047,
+            "last_retested_at_iso": "2020-05-31T23:14:02.472047",
+            "status": "INACTIVE"
+        },
         "128.199.102.136": {
             "included_at_epoch": 1590162983.624975,
             "included_at_iso": "2020-05-22T15:56:23.624975",
@@ -42,11 +49,32 @@
             "last_retested_at_iso": "2020-05-31T16:04:58.782450",
             "status": "INACTIVE"
         },
+        "198.204.248.230": {
+            "included_at_epoch": 1590966842.508349,
+            "included_at_iso": "2020-05-31T23:14:02.508349",
+            "last_retested_at_epoch": 1590966842.508349,
+            "last_retested_at_iso": "2020-05-31T23:14:02.508349",
+            "status": "INACTIVE"
+        },
         "204.48.22.58": {
             "included_at_epoch": 1589903368.927615,
             "included_at_iso": "2020-05-19T15:49:28.927615",
             "last_retested_at_epoch": 1590941098.886892,
             "last_retested_at_iso": "2020-05-31T16:04:58.886892",
+            "status": "INACTIVE"
+        },
+        "206.189.151.55": {
+            "included_at_epoch": 1590966842.597005,
+            "included_at_iso": "2020-05-31T23:14:02.597005",
+            "last_retested_at_epoch": 1590966842.597005,
+            "last_retested_at_iso": "2020-05-31T23:14:02.597005",
+            "status": "INACTIVE"
+        },
+        "209.97.170.87": {
+            "included_at_epoch": 1590966842.598638,
+            "included_at_iso": "2020-05-31T23:14:02.598638",
+            "last_retested_at_epoch": 1590966842.598638,
+            "last_retested_at_iso": "2020-05-31T23:14:02.598638",
             "status": "INACTIVE"
         },
         "ace4d.me": {
