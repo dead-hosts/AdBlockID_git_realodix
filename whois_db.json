@@ -990,8 +990,8 @@
         "state": "future"
     },
     "beliangka.net": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "bengkuluekspress.com": {
@@ -2620,8 +2620,8 @@
         "state": "future"
     },
     "hariannusa.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "harianrakyataceh.com": {
@@ -4760,9 +4760,9 @@
         "state": "future"
     },
     "news-tech.xyz": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
-        "state": "past"
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "state": "future"
     },
     "newsadsppush.com": {
         "epoch": 1596240000.0,
