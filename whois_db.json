@@ -215,8 +215,8 @@
         "state": "future"
     },
     "advertising-indonesia.id": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "aenan.pw": {
@@ -227,6 +227,11 @@
     "aftermarketplus.id": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "ag338a.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "agansultan.co": {
@@ -1369,6 +1374,11 @@
         "expiration_date": "26-jul-2022",
         "state": "future"
     },
+    "bola9898.com": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "bolaa3m.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -1597,6 +1607,11 @@
     "cidahu.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "cinema-mkv.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "cinema-xx1.com": {
@@ -1859,6 +1874,11 @@
         "expiration_date": "02-mar-2022",
         "state": "future"
     },
+    "degens.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
     "depokpos.com": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
@@ -1927,7 +1947,7 @@
     "dewanaga.co": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "dewaplokis.com": {
         "epoch": 1607644800.0,
@@ -1967,6 +1987,11 @@
     "dibalikseo.com": {
         "epoch": 1611014400.0,
         "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
+    "dibuka.net": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
         "state": "future"
     },
     "digiads.co.id": {
@@ -2010,8 +2035,8 @@
         "state": "future"
     },
     "doathair.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "dorama.asia": {
@@ -5455,8 +5480,8 @@
         "state": "future"
     },
     "otakotaku.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "otobalancing.net": {
