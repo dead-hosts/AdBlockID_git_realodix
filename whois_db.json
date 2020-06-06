@@ -670,8 +670,8 @@
         "state": "future"
     },
     "arenalte.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "arenasmartphone.com": {
@@ -702,7 +702,7 @@
     "aseanbanner.tk": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "asetnet.live": {
         "epoch": 1603756800.0,
@@ -1330,8 +1330,8 @@
         "state": "future"
     },
     "blokbojonegoro.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "bmspeed7.com": {
@@ -1740,8 +1740,8 @@
         "state": "future"
     },
     "corongrakyat.co.id": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "cosmogirl.co.id": {
@@ -1910,8 +1910,8 @@
         "state": "future"
     },
     "detaksatu.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "detik.com": {
@@ -1948,6 +1948,11 @@
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
         "state": "past"
+    },
+    "dewanonton.vip": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "dewaplokis.com": {
         "epoch": 1607644800.0,
@@ -2210,8 +2215,8 @@
         "state": "future"
     },
     "dz4link.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "earnload.co": {
@@ -3142,11 +3147,16 @@
     "indcit.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "indigitz.org": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "indoads.xyz": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "indoaviation.asia": {
@@ -3452,6 +3462,11 @@
     "jambiupdate.co": {
         "epoch": 1636156800.0,
         "expiration_date": "06-nov-2021",
+        "state": "future"
+    },
+    "jaridewa.com": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "jarumjam.com": {
@@ -4285,8 +4300,8 @@
         "state": "future"
     },
     "lenterapendidikan.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "lenterasultra.com": {
@@ -4474,6 +4489,11 @@
         "expiration_date": "30-mar-2021",
         "state": "future"
     },
+    "lk21tv.com": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
     "llahnch259.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -4485,8 +4505,8 @@
         "state": "future"
     },
     "lokeriklan.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "loppjod.online": {
