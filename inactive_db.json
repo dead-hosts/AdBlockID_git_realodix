@@ -241,36 +241,57 @@
         "otoponsel.com": {
             "included_at_epoch": 1589125977.613192,
             "included_at_iso": "2020-05-10T15:52:57.613192",
-            "last_retested_at_epoch": 1591199353.914309,
-            "last_retested_at_iso": "2020-06-03T15:49:13.914309",
+            "last_retested_at_epoch": 1591459017.240409,
+            "last_retested_at_iso": "2020-06-06T15:56:57.240409",
+            "status": "INACTIVE"
+        },
+        "salam4d.me": {
+            "included_at_epoch": 1591459019.471269,
+            "included_at_iso": "2020-06-06T15:56:59.471269",
+            "last_retested_at_epoch": 1591459019.471269,
+            "last_retested_at_iso": "2020-06-06T15:56:59.471269",
             "status": "INACTIVE"
         },
         "shiokambing3.id": {
             "included_at_epoch": 1590681193.418189,
             "included_at_iso": "2020-05-28T15:53:13.418189",
-            "last_retested_at_epoch": 1591199697.809562,
-            "last_retested_at_iso": "2020-06-03T15:54:57.809562",
+            "last_retested_at_epoch": 1591459020.041201,
+            "last_retested_at_iso": "2020-06-06T15:57:00.041201",
             "status": "INACTIVE"
         },
         "sogopoker.club": {
             "included_at_epoch": 1590163967.462913,
             "included_at_iso": "2020-05-22T16:12:47.462913",
-            "last_retested_at_epoch": 1591199698.160046,
-            "last_retested_at_iso": "2020-06-03T15:54:58.160046",
+            "last_retested_at_epoch": 1591459020.427913,
+            "last_retested_at_iso": "2020-06-06T15:57:00.427913",
+            "status": "INACTIVE"
+        },
+        "suster4d.me": {
+            "included_at_epoch": 1591459021.133532,
+            "included_at_iso": "2020-06-06T15:57:01.133532",
+            "last_retested_at_epoch": 1591459021.133532,
+            "last_retested_at_iso": "2020-06-06T15:57:01.133532",
             "status": "INACTIVE"
         },
         "tores4d.me": {
             "included_at_epoch": 1590163968.967493,
             "included_at_iso": "2020-05-22T16:12:48.967493",
-            "last_retested_at_epoch": 1591199699.787138,
-            "last_retested_at_iso": "2020-06-03T15:54:59.787138",
+            "last_retested_at_epoch": 1591459022.095151,
+            "last_retested_at_iso": "2020-06-06T15:57:02.095151",
             "status": "INACTIVE"
         },
         "utama4d.biz": {
             "included_at_epoch": 1590163969.352517,
             "included_at_iso": "2020-05-22T16:12:49.352517",
-            "last_retested_at_epoch": 1591199700.225042,
-            "last_retested_at_iso": "2020-06-03T15:55:00.225042",
+            "last_retested_at_epoch": 1591459022.552485,
+            "last_retested_at_iso": "2020-06-06T15:57:02.552485",
+            "status": "INACTIVE"
+        },
+        "webet.id": {
+            "included_at_epoch": 1591459022.888345,
+            "included_at_iso": "2020-06-06T15:57:02.888345",
+            "last_retested_at_epoch": 1591459022.888345,
+            "last_retested_at_iso": "2020-06-06T15:57:02.888345",
             "status": "INACTIVE"
         }
     }

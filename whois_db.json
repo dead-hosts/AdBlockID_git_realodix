@@ -5710,8 +5710,8 @@
         "state": "future"
     },
     "pastiseru.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "payseluler.com": {
@@ -5945,8 +5945,8 @@
         "state": "future"
     },
     "promozia.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "protapriau.com": {
@@ -6190,9 +6190,9 @@
         "state": "future"
     },
     "resultnomor.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
-        "state": "past"
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
     },
     "rezakuntokz.xyz": {
         "epoch": 1621209600.0,
@@ -6554,6 +6554,11 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "sharemydrive.xyz": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "state": "future"
+    },
     "sharetvr.my.id": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -6682,6 +6687,11 @@
     "smartphoneku.com": {
         "epoch": 1644451200.0,
         "expiration_date": "10-feb-2022",
+        "state": "future"
+    },
+    "sobatkeren.best": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "sobatkeren.club": {
@@ -6850,8 +6860,8 @@
         "state": "future"
     },
     "suarapedia.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "suarasiber.com": {
@@ -7110,8 +7120,8 @@
         "state": "future"
     },
     "terafile.net": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "terasbalinews.com": {
@@ -7240,8 +7250,8 @@
         "state": "future"
     },
     "togeputih.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1654387200.0,
+        "expiration_date": "05-jun-2022",
         "state": "future"
     },
     "toko-obat-murah.com": {
@@ -7717,6 +7727,11 @@
     "zonafilm.fun": {
         "epoch": 1619913600.0,
         "expiration_date": "02-may-2021",
+        "state": "future"
+    },
+    "zonafilm.xyz": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "zonasultra.com": {
