@@ -325,8 +325,8 @@
         "state": "future"
     },
     "akurasinews.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "akurat.co": {
@@ -1945,9 +1945,9 @@
         "state": "future"
     },
     "dewanaga.co": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "dewanonton.vip": {
         "epoch": 1600732800.0,
@@ -3145,9 +3145,9 @@
         "state": "future"
     },
     "indcit.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "indigitz.org": {
         "epoch": 1606348800.0,
@@ -3735,8 +3735,8 @@
         "state": "future"
     },
     "karebatoraja.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "karyaiklan.co.id": {
@@ -3955,8 +3955,8 @@
         "state": "future"
     },
     "komikcast.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1654646400.0,
+        "expiration_date": "08-jun-2022",
         "state": "future"
     },
     "komikindo.web.id": {
@@ -4455,8 +4455,8 @@
         "state": "future"
     },
     "liveshootv.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "livestreamingbola.org": {
