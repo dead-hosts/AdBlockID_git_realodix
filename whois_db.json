@@ -1055,8 +1055,8 @@
         "state": "future"
     },
     "belapendidikan.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "beliangka.net": {
@@ -1455,8 +1455,8 @@
         "state": "future"
     },
     "brainly.co.id": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "breakingnews.co.id": {
@@ -1847,7 +1847,7 @@
     "data-sgp.net": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "data4dd.com": {
         "epoch": 1603065600.0,
@@ -1857,7 +1857,7 @@
     "datahk69.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "datasekolah.co.id": {
         "epoch": 1610668800.0,
@@ -3430,8 +3430,8 @@
         "state": "future"
     },
     "jadwaltelevisi.com": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "jagoandzgn.com": {
@@ -4620,8 +4620,8 @@
         "state": "future"
     },
     "mangacanblog.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "mangaindo.web.id": {
@@ -6755,8 +6755,8 @@
         "state": "future"
     },
     "sosiali.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "speedlinkdown.com": {
@@ -7355,8 +7355,8 @@
         "state": "future"
     },
     "tribunislam.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "tribunnews.com": {
@@ -7485,8 +7485,8 @@
         "state": "future"
     },
     "uzone.id": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1655078400.0,
+        "expiration_date": "13-jun-2022",
         "state": "future"
     },
     "valora.co.id": {
