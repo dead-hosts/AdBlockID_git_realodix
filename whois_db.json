@@ -1095,8 +1095,8 @@
         "state": "future"
     },
     "beritaasatu.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "beritabali.com": {
@@ -1115,8 +1115,8 @@
         "state": "future"
     },
     "beritabojonegoro.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "beritadaerah.co.id": {
@@ -1845,9 +1845,9 @@
         "state": "future"
     },
     "data-sgp.net": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
-        "state": "past"
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
     },
     "data4dd.com": {
         "epoch": 1603065600.0,
@@ -1855,9 +1855,9 @@
         "state": "future"
     },
     "datahk69.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
-        "state": "past"
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
     },
     "datasekolah.co.id": {
         "epoch": 1610668800.0,
@@ -1930,8 +1930,8 @@
         "state": "future"
     },
     "detiknews.id": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "detikntb.com": {
@@ -1985,8 +1985,8 @@
         "state": "past"
     },
     "dhadigital.com": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "dialeksis.com": {
@@ -4035,8 +4035,8 @@
         "state": "future"
     },
     "kontan.co.id": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "konten.co.id": {
@@ -4215,8 +4215,8 @@
         "state": "future"
     },
     "ladsdown.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "laduni.id": {
@@ -4790,8 +4790,8 @@
         "state": "future"
     },
     "mediaformasi.com": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "mediaindonesia.com": {
@@ -5012,7 +5012,7 @@
     "motomazine.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "motorrio.com": {
         "epoch": 1599782400.0,
@@ -5600,8 +5600,8 @@
         "state": "future"
     },
     "padsreds.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "paitowarnahk6d.com": {
@@ -5920,8 +5920,8 @@
         "state": "future"
     },
     "proapkmod.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "probet.biz": {
@@ -6725,8 +6725,8 @@
         "state": "future"
     },
     "softfull.me": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "sogopoker.club": {
@@ -7207,7 +7207,7 @@
     "terrapsps.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "tgnusantara.xyz": {
         "epoch": 1593302400.0,
