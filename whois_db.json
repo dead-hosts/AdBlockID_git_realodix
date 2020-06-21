@@ -120,8 +120,8 @@
         "state": "future"
     },
     "acehasia.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "acehekspres.com": {
@@ -1762,7 +1762,7 @@
     "coyalecap.club": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cpnsonline.com": {
         "epoch": 1695600000.0,
@@ -3934,6 +3934,11 @@
         "expiration_date": "15-nov-2022",
         "state": "future"
     },
+    "klub4d.me": {
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
     "klub4d.xyz": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
@@ -4737,7 +4742,7 @@
     "mawataki.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "maxim4d.cc": {
         "epoch": 1613347200.0,
@@ -5010,9 +5015,9 @@
         "state": "future"
     },
     "motomazine.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "motorrio.com": {
         "epoch": 1599782400.0,
@@ -5855,8 +5860,8 @@
         "state": "future"
     },
     "pondokiklan.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "ponselharian.com": {
@@ -6255,8 +6260,8 @@
         "state": "future"
     },
     "richinfo.co": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "rikucan.com": {
@@ -7205,9 +7210,9 @@
         "state": "future"
     },
     "terrapsps.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "tgnusantara.xyz": {
         "epoch": 1593302400.0,
