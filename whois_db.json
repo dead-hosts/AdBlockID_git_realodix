@@ -1954,6 +1954,11 @@
         "expiration_date": "19-jun-2021",
         "state": "future"
     },
+    "dewajitu.me": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "dewanaga.co": {
         "epoch": 1622505600.0,
         "expiration_date": "01-jun-2021",
@@ -4740,9 +4745,9 @@
         "state": "future"
     },
     "mawataki.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "maxim4d.cc": {
         "epoch": 1613347200.0,
@@ -4885,8 +4890,8 @@
         "state": "future"
     },
     "menangpiala.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "menuladshy.life": {
@@ -5185,8 +5190,8 @@
         "state": "future"
     },
     "netijenshare.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "netizenbola.club": {
@@ -5292,7 +5297,7 @@
     "noblemagnition.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "nonton.com": {
         "epoch": 1659139200.0,
@@ -7320,8 +7325,8 @@
         "state": "future"
     },
     "topbisnis.org": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "topdrakor.website": {
