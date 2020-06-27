@@ -245,8 +245,8 @@
         "state": "future"
     },
     "agansultan.co": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "agen4d.me": {
@@ -655,8 +655,8 @@
         "state": "future"
     },
     "ardisaz.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "areapebeg.club": {
@@ -920,8 +920,8 @@
         "state": "future"
     },
     "baliekbis.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "baliportalnews.com": {
@@ -3250,8 +3250,8 @@
         "state": "future"
     },
     "infokupedia.id": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "infolokerserang.com": {
@@ -4940,8 +4940,8 @@
         "state": "future"
     },
     "metroworldhost.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1750896000.0,
+        "expiration_date": "26-jun-2025",
         "state": "future"
     },
     "mi-globe.com": {
@@ -4995,8 +4995,8 @@
         "state": "future"
     },
     "modebaca.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "modifikasi.com": {
@@ -5215,8 +5215,8 @@
         "state": "future"
     },
     "newhealthblog.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "newparadise.xyz": {
@@ -5295,9 +5295,9 @@
         "state": "future"
     },
     "noblemagnition.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
-        "state": "past"
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
     },
     "nonton.com": {
         "epoch": 1659139200.0,
@@ -6000,8 +6000,8 @@
         "state": "future"
     },
     "pulausumbawanews.net": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "purworejonews.com": {
@@ -6335,8 +6335,8 @@
         "state": "future"
     },
     "rumaysho.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "rumus.co.id": {
@@ -6517,7 +6517,7 @@
     "sepintek.my.id": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "seputarforex.com": {
         "epoch": 1687392000.0,
