@@ -3854,6 +3854,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "khg97644rvbg.com": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "khususvip.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
@@ -4304,6 +4309,11 @@
         "expiration_date": "29-oct-2022",
         "state": "future"
     },
+    "layarlebar24.net": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
     "layshyjar.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
@@ -4580,8 +4590,8 @@
         "state": "future"
     },
     "maha168.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "maikuque.net": {
@@ -4612,6 +4622,11 @@
     "malangvoice.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "malasngeblog.com": {
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "malutnews.com": {
@@ -6515,9 +6530,9 @@
         "state": "future"
     },
     "sepintek.my.id": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
     },
     "seputarforex.com": {
         "epoch": 1687392000.0,
@@ -7752,6 +7767,11 @@
     "yr9n47004g.com": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "yy9s51b2u05z.com": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "ziyata.com": {
