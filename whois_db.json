@@ -14,6 +14,11 @@
         "expiration_date": "25-nov-2020",
         "state": "future"
     },
+    "1001win.site": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
     "123klik.xyz": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
@@ -380,8 +385,8 @@
         "state": "future"
     },
     "alibabamovie.net": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "alladsnetwork.web.id": {
@@ -1540,8 +1545,8 @@
         "state": "future"
     },
     "caribanner.bid": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "cariskuy.com": {
@@ -2640,9 +2645,9 @@
         "state": "future"
     },
     "get4link.xyz": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
-        "state": "past"
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
     },
     "geunta.com": {
         "epoch": 1601251200.0,
@@ -4465,8 +4470,8 @@
         "state": "future"
     },
     "livedrawhkpools.net": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "livehk6d.org": {
@@ -4620,8 +4625,8 @@
         "state": "future"
     },
     "malangvoice.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "malasngeblog.com": {
@@ -5067,6 +5072,11 @@
     "movieindoxxi.co": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "movieindoxxi.site": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "movienear.me": {
@@ -5720,8 +5730,8 @@
         "state": "future"
     },
     "pasarjitu.me": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "pasbana.com": {
@@ -5765,8 +5775,8 @@
         "state": "future"
     },
     "pedomanbengkulu.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "peevopoy.com": {
@@ -6020,8 +6030,8 @@
         "state": "future"
     },
     "purworejonews.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "pusatiklan.co.id": {
@@ -6590,8 +6600,8 @@
         "state": "future"
     },
     "sh.st": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "sharemydrive.xyz": {
@@ -6970,8 +6980,8 @@
         "state": "future"
     },
     "sumbartoday.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "sumeks.co": {
@@ -7235,8 +7245,8 @@
         "state": "future"
     },
     "tgnusantara.xyz": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "thegreenblog.net": {
