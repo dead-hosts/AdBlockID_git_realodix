@@ -1980,9 +1980,9 @@
         "state": "future"
     },
     "dewiku.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
-        "state": "past"
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "state": "future"
     },
     "dgafgadsgkjg.top": {
         "epoch": 1597536000.0,
@@ -5235,9 +5235,9 @@
         "state": "future"
     },
     "neumanga.tv": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
-        "state": "past"
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "state": "future"
     },
     "newhealthblog.com": {
         "epoch": 1624665600.0,
@@ -5740,9 +5740,9 @@
         "state": "future"
     },
     "pasbisa.site": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
-        "state": "past"
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "state": "future"
     },
     "pastelink.pro": {
         "epoch": 1607126400.0,
@@ -5790,8 +5790,8 @@
         "state": "future"
     },
     "pelitariau.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "pelitasumsel.com": {
