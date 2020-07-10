@@ -104,6 +104,11 @@
         "expiration_date": "24-mar-2021",
         "state": "future"
     },
+    "77hoki.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
     "77upcash.com": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -945,8 +950,8 @@
         "state": "future"
     },
     "bangbil.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "banghasan.com": {
@@ -1690,8 +1695,8 @@
         "state": "future"
     },
     "closetopic.site": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "cloudimg.io": {
@@ -1970,6 +1975,11 @@
         "state": "future"
     },
     "dewanonton.vip": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "dewanonton.xyz": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
         "state": "future"
@@ -3654,6 +3664,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "k9win-indonesia.com": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
     "kabar6.com": {
         "epoch": 1652659200.0,
         "expiration_date": "16-may-2022",
@@ -5089,6 +5104,11 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "movies21.link": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "movies21.onl": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
@@ -5750,8 +5770,8 @@
         "state": "future"
     },
     "pastelinku.net": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "pastigol.info": {
@@ -6165,8 +6185,8 @@
         "state": "future"
     },
     "rakyatku.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "rakyatmaluku.com": {
@@ -7060,8 +7080,8 @@
         "state": "future"
     },
     "tabloidjubi.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "tampilcantik.com": {
