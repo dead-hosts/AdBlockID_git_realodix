@@ -2995,8 +2995,8 @@
         "state": "future"
     },
     "hitsbola.icu": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "hitsbola.id": {
@@ -5037,7 +5037,7 @@
     "mnc368.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobilwow.com": {
         "epoch": 1689724800.0,
@@ -5915,8 +5915,8 @@
         "state": "future"
     },
     "polisiinternet.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "polisionline.com": {
@@ -6290,8 +6290,8 @@
         "state": "future"
     },
     "riaukarya.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "riaulink.com": {
@@ -7227,7 +7227,7 @@
     "terasjakarta.id": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "teraslampung.com": {
         "epoch": 1601769600.0,
@@ -7365,8 +7365,8 @@
         "state": "future"
     },
     "tokubatch.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "tokusatsuindo.com": {
