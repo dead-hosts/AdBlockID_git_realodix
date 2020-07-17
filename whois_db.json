@@ -2094,6 +2094,11 @@
         "expiration_date": "26-feb-2021",
         "state": "future"
     },
+    "download.web.id": {
+        "epoch": 1645142400.0,
+        "expiration_date": "18-feb-2022",
+        "state": "future"
+    },
     "doxadigital.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
@@ -2152,7 +2157,7 @@
     "dream.co.id": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "drivenhype.com": {
         "epoch": 1607817600.0,
@@ -2592,6 +2597,11 @@
     "ganool.world": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "ganool21.watch": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "ganool99.club": {
@@ -4137,7 +4147,7 @@
     "kostjakarta.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "kostjakarta.net": {
         "epoch": 1604534400.0,
@@ -5035,9 +5045,9 @@
         "state": "future"
     },
     "mnc368.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "mobilwow.com": {
         "epoch": 1689724800.0,
@@ -7225,9 +7235,9 @@
         "state": "future"
     },
     "terasjakarta.id": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "teraslampung.com": {
         "epoch": 1601769600.0,
@@ -7685,9 +7695,9 @@
         "state": "future"
     },
     "wegner.tech": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "westmanga.info": {
         "epoch": 1620345600.0,
