@@ -377,7 +377,7 @@
     "aleapeact.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "aleapeapt.club": {
         "epoch": 1601769600.0,
@@ -402,7 +402,7 @@
     "allartand.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "alona.co.id": {
         "epoch": 1645920000.0,
@@ -432,7 +432,7 @@
     "amparcaim.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ampburask.site": {
         "epoch": 1601769600.0,
@@ -475,8 +475,8 @@
         "state": "future"
     },
     "angkasareview.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "aniashboy.club": {
@@ -540,8 +540,8 @@
         "state": "future"
     },
     "animenonton.tv": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "animenyus.com": {
@@ -602,7 +602,7 @@
     "antburape.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "anteroaceh.com": {
         "epoch": 1613347200.0,
@@ -677,7 +677,7 @@
     "arearmark.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "arejoysew.com": {
         "epoch": 1616457600.0,
@@ -717,7 +717,7 @@
     "artantash.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "aseanbanner.tk": {
         "epoch": 1636156800.0,
@@ -742,7 +742,7 @@
     "ashaidbit.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ashamparm.site": {
         "epoch": 1601769600.0,
@@ -762,7 +762,7 @@
     "askallalb.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "askaspalb.online": {
         "epoch": 1596240000.0,
@@ -772,7 +772,7 @@
     "aspanyarc.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "aspaskaim.club": {
         "epoch": 1601769600.0,
@@ -787,7 +787,7 @@
     "assapebat.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "asuransiku.info": {
         "epoch": 1600214400.0,
@@ -1042,7 +1042,7 @@
     "beeashale.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "begitulah.net": {
         "epoch": 1621814400.0,
@@ -1497,7 +1497,7 @@
     "bumampaid.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bungfrangki.com": {
         "epoch": 1613952000.0,
@@ -1787,7 +1787,7 @@
     "cryaptall.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "cryptobrowser.site": {
         "epoch": 1870041600.0,
@@ -2155,9 +2155,9 @@
         "state": "future"
     },
     "dream.co.id": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "drivenhype.com": {
         "epoch": 1607817600.0,
@@ -2625,8 +2625,8 @@
         "state": "future"
     },
     "gatra.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "gcube.id": {
@@ -2850,8 +2850,8 @@
         "state": "future"
     },
     "haluanriau.co": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "happistar8.com": {
@@ -4145,9 +4145,9 @@
         "state": "future"
     },
     "kostjakarta.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "kostjakarta.net": {
         "epoch": 1604534400.0,
@@ -7635,8 +7635,8 @@
         "state": "future"
     },
     "wartaekonomi.co.id": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1658188800.0,
+        "expiration_date": "19-jul-2022",
         "state": "future"
     },
     "wartapati.com": {
