@@ -14,39 +14,11 @@
             "last_retested_at_iso": "2020-07-22T16:17:29.507563",
             "status": "INACTIVE"
         },
-        "118.97.116.10": {
-            "included_at_epoch": 1593014623.744514,
-            "included_at_iso": "2020-06-24T16:03:43.744514",
-            "last_retested_at_epoch": 1595434649.509886,
-            "last_retested_at_iso": "2020-07-22T16:17:29.509886",
-            "status": "INACTIVE"
-        },
         "128.199.102.136": {
             "included_at_epoch": 1595434649.511454,
             "included_at_iso": "2020-07-22T16:17:29.511454",
             "last_retested_at_epoch": 1595434649.511454,
             "last_retested_at_iso": "2020-07-22T16:17:29.511454",
-            "status": "INACTIVE"
-        },
-        "12shio1.org": {
-            "included_at_epoch": 1593014623.74819,
-            "included_at_iso": "2020-06-24T16:03:43.748190",
-            "last_retested_at_epoch": 1595434649.528747,
-            "last_retested_at_iso": "2020-07-22T16:17:29.528747",
-            "status": "INACTIVE"
-        },
-        "12shio3.net": {
-            "included_at_epoch": 1593014623.751256,
-            "included_at_iso": "2020-06-24T16:03:43.751256",
-            "last_retested_at_epoch": 1595434649.526771,
-            "last_retested_at_iso": "2020-07-22T16:17:29.526771",
-            "status": "INACTIVE"
-        },
-        "159.65.3.51": {
-            "included_at_epoch": 1593014623.760617,
-            "included_at_iso": "2020-06-24T16:03:43.760617",
-            "last_retested_at_epoch": 1595434649.539259,
-            "last_retested_at_iso": "2020-07-22T16:17:29.539259",
             "status": "INACTIVE"
         },
         "178.128.82.236": {
@@ -103,13 +75,6 @@
             "included_at_iso": "2020-07-02T10:44:41.232702",
             "last_retested_at_epoch": 1595434650.811254,
             "last_retested_at_iso": "2020-07-22T16:17:30.811254",
-            "status": "INACTIVE"
-        },
-        "animexin.jin-7.com": {
-            "included_at_epoch": 1593014625.146303,
-            "included_at_iso": "2020-06-24T16:03:45.146303",
-            "last_retested_at_epoch": 1595434650.99564,
-            "last_retested_at_iso": "2020-07-22T16:17:30.995640",
             "status": "INACTIVE"
         },
         "asianbookie365.me": {
@@ -201,13 +166,6 @@
             "included_at_iso": "2020-07-22T16:17:42.074792",
             "last_retested_at_epoch": 1595434662.074792,
             "last_retested_at_iso": "2020-07-22T16:17:42.074792",
-            "status": "INACTIVE"
-        },
-        "menara4d.me": {
-            "included_at_epoch": 1593014637.194102,
-            "included_at_iso": "2020-06-24T16:03:57.194102",
-            "last_retested_at_epoch": 1595434663.064626,
-            "last_retested_at_iso": "2020-07-22T16:17:43.064626",
             "status": "INACTIVE"
         },
         "metro4d.cc": {
