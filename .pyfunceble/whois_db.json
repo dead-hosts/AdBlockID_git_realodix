@@ -185,8 +185,8 @@
         "state": "future"
     },
     "adpop-1.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "ads-ina.org": {
@@ -1850,9 +1850,9 @@
         "state": "future"
     },
     "dares.xyz": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
-        "state": "past"
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
     },
     "darhostmedia.com": {
         "epoch": 1598054400.0,
@@ -2420,8 +2420,8 @@
         "state": "future"
     },
     "fandmo.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "fatbuydoc.com": {
@@ -2432,7 +2432,7 @@
     "faucetcrypto.site": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "fawenys.xyz": {
         "epoch": 1612742400.0,
@@ -4120,8 +4120,8 @@
         "state": "future"
     },
     "koransultra.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "korantransparansi.com": {
@@ -4880,8 +4880,8 @@
         "state": "future"
     },
     "mediaoaktree.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "mediasembilan.co.id": {
@@ -5070,8 +5070,8 @@
         "state": "future"
     },
     "modusaceh.co": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "mopnixhem.com": {
@@ -6735,9 +6735,9 @@
         "state": "future"
     },
     "sijorikepri.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
-        "state": "past"
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
     },
     "simrubwan.com": {
         "epoch": 1615334400.0,
@@ -7045,8 +7045,8 @@
         "state": "future"
     },
     "suranegara.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "surgatekno.com": {
