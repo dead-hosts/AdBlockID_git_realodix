@@ -80,8 +80,8 @@
         "state": "future"
     },
     "2go7v1nes8.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "365wp.org": {
@@ -172,7 +172,7 @@
     "addesigner.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adflazz.com": {
         "epoch": 1605398400.0,
@@ -705,8 +705,8 @@
         "state": "future"
     },
     "arlinadzgn.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "armaimapt.club": {
@@ -1210,8 +1210,8 @@
         "state": "future"
     },
     "beritatotabuan.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "berkas.cloud": {
@@ -1655,8 +1655,8 @@
         "state": "future"
     },
     "cinemamkv.net": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "cintamuda.com": {
@@ -1740,8 +1740,8 @@
         "state": "future"
     },
     "combitly.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "conan.id": {
@@ -2790,8 +2790,8 @@
         "state": "future"
     },
     "gubukbisnis.me": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "gudangbanner.com": {
@@ -2942,7 +2942,7 @@
     "helenajonsson.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hero4d.xyz": {
         "epoch": 1609459200.0,
@@ -3530,8 +3530,8 @@
         "state": "future"
     },
     "jasaiklan.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "jasaiklanbandung.com": {
@@ -4290,8 +4290,8 @@
         "state": "future"
     },
     "lagigame.net": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "laluzulfakar.com": {
@@ -4650,8 +4650,8 @@
         "state": "future"
     },
     "majalah-gempur.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "majalahikan.com": {
@@ -4850,8 +4850,8 @@
         "state": "future"
     },
     "medanmerdeka.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "medcom.id": {
@@ -6675,8 +6675,8 @@
         "state": "future"
     },
     "shiokuda.org": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "shirainime.com": {
