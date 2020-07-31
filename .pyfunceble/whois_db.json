@@ -170,9 +170,9 @@
         "state": "future"
     },
     "addesigner.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
-        "state": "past"
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
     },
     "adflazz.com": {
         "epoch": 1605398400.0,
@@ -462,7 +462,7 @@
     "andarcair.club": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "andreasagung.com": {
         "epoch": 1609545600.0,
@@ -487,7 +487,7 @@
     "aniashboy.club": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "anibatch.id": {
         "epoch": 1584230400.0,
@@ -602,7 +602,7 @@
     "antbadani.club": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "antburape.club": {
         "epoch": 1595030400.0,
@@ -1830,8 +1830,8 @@
         "state": "future"
     },
     "daftaritubola.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "daftarsb1m.net": {
@@ -2540,8 +2540,8 @@
         "state": "future"
     },
     "foto17.xyz": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "franchiseglobal.com": {
@@ -2815,8 +2815,8 @@
         "state": "future"
     },
     "gudangpemain.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "gurusd.web.id": {
@@ -2940,9 +2940,9 @@
         "state": "future"
     },
     "helenajonsson.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
-        "state": "past"
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
     },
     "hero4d.xyz": {
         "epoch": 1609459200.0,
@@ -3550,8 +3550,8 @@
         "state": "future"
     },
     "jejamo.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "jemberpost.net": {
@@ -4260,8 +4260,8 @@
         "state": "future"
     },
     "kuyhaa.net": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "kxcdn.com": {
@@ -6470,8 +6470,8 @@
         "state": "future"
     },
     "salamsbo.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "samawarea.com": {
@@ -7232,7 +7232,7 @@
     "terasbalinews.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "terasjabar.id": {
         "epoch": 1613260800.0,
@@ -7280,8 +7280,8 @@
         "state": "future"
     },
     "terong.xyz": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "teropongmetro.com": {
@@ -7395,8 +7395,8 @@
         "state": "future"
     },
     "tomat.xyz": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "tomato.co.id": {
