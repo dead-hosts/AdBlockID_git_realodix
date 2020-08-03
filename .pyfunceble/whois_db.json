@@ -225,8 +225,8 @@
         "state": "future"
     },
     "adstarsmedia.co.id": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "adsterra.com": {
@@ -1300,8 +1300,8 @@
         "state": "future"
     },
     "bisablog.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "bisakaya.org": {
@@ -1807,7 +1807,7 @@
     "curarmbin.club": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cutlinks.pro": {
         "epoch": 1621555200.0,
@@ -2300,8 +2300,8 @@
         "state": "future"
     },
     "elsfile.org": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "elshinta.com": {
@@ -3145,8 +3145,8 @@
         "state": "future"
     },
     "iklandb.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "iklango.com": {
@@ -3155,8 +3155,8 @@
         "state": "future"
     },
     "iklanhemat.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "iklanhoki.com": {
@@ -3700,8 +3700,8 @@
         "state": "future"
     },
     "kabargames.id": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "kabarjawatimur.com": {
@@ -3720,8 +3720,8 @@
         "state": "future"
     },
     "kabarmedan.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "kabarnagari.com": {
@@ -4147,7 +4147,7 @@
     "koropak.co.id": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "kostjakarta.com": {
         "epoch": 1626480000.0,
@@ -4730,8 +4730,8 @@
         "state": "future"
     },
     "mangashiro.org": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "mangasusu.us": {
@@ -5305,8 +5305,8 @@
         "state": "future"
     },
     "newsadsppush.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "newsbalikpapan.com": {
@@ -6479,6 +6479,11 @@
         "expiration_date": "17-feb-2021",
         "state": "future"
     },
+    "samehadaku.vip": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
     "sanjayaops.com": {
         "epoch": 1653350400.0,
         "expiration_date": "24-may-2022",
@@ -7230,9 +7235,9 @@
         "state": "future"
     },
     "terasbalinews.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
-        "state": "past"
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
     },
     "terasjabar.id": {
         "epoch": 1613260800.0,
@@ -7820,8 +7825,8 @@
         "state": "future"
     },
     "yourjavascript.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "ypiaflash.com": {
