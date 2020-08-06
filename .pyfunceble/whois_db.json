@@ -349,6 +349,11 @@
         "expiration_date": "10-dec-2024",
         "state": "future"
     },
+    "aksensei.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "akurasinews.com": {
         "epoch": 1623024000.0,
         "expiration_date": "07-jun-2021",
@@ -472,7 +477,7 @@
     "android-x86.org": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "angenlive4d.cc": {
         "epoch": 1613347200.0,
@@ -542,6 +547,11 @@
     "animelink.net": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "animelu.com": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "animenonton.tv": {
@@ -3069,6 +3079,11 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "hxfile.co": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "hxload.co": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
@@ -3090,8 +3105,8 @@
         "state": "future"
     },
     "idbplay.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "idcloudhost.com": {
@@ -3770,8 +3785,8 @@
         "state": "future"
     },
     "kaltengekspres.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "kaltengpos.co": {
@@ -4145,9 +4160,9 @@
         "state": "future"
     },
     "koropak.co.id": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
-        "state": "past"
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
     },
     "kostjakarta.com": {
         "epoch": 1626480000.0,
@@ -4342,7 +4357,7 @@
     "layarkaca21tv.net": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "layarkacaxxi.org": {
         "epoch": 1608768000.0,
@@ -4442,6 +4457,11 @@
     "ligaolahraga.com": {
         "epoch": 1770163200.0,
         "expiration_date": "04-feb-2026",
+        "state": "future"
+    },
+    "ligapool.org": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "linegee.net": {
@@ -4714,9 +4734,19 @@
         "expiration_date": "11-may-2022",
         "state": "future"
     },
+    "mangaku.pro": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
     "mangalist.org": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "manganime.in": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
         "state": "future"
     },
     "mangareceh.id": {
@@ -4790,8 +4820,8 @@
         "state": "future"
     },
     "masukyuk.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "matamata.com": {
@@ -6852,7 +6882,7 @@
     "speedlinkdown.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "sportif.id": {
         "epoch": 1641600000.0,
@@ -7440,8 +7470,8 @@
         "state": "future"
     },
     "traveltextonline.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "tribratanewsacehbesar.com": {
@@ -7540,8 +7570,8 @@
         "state": "past"
     },
     "unibetplay.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "uniplay99.com": {
