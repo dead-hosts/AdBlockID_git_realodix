@@ -475,9 +475,9 @@
         "state": "future"
     },
     "android-x86.org": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
-        "state": "past"
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
     },
     "angenlive4d.cc": {
         "epoch": 1613347200.0,
@@ -1850,8 +1850,8 @@
         "state": "future"
     },
     "daizurin.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "danirachmat.com": {
@@ -4355,9 +4355,9 @@
         "state": "future"
     },
     "layarkaca21tv.net": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
-        "state": "past"
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
     },
     "layarkacaxxi.org": {
         "epoch": 1608768000.0,
@@ -6072,7 +6072,7 @@
     "promosi365.me": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "promozia.com": {
         "epoch": 1622851200.0,
@@ -6345,8 +6345,8 @@
         "state": "future"
     },
     "riaumandiri.id": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "riauonline.co.id": {
@@ -6880,9 +6880,9 @@
         "state": "future"
     },
     "speedlinkdown.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
-        "state": "past"
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
     },
     "sportif.id": {
         "epoch": 1641600000.0,
@@ -7120,8 +7120,8 @@
         "state": "future"
     },
     "swarnanews.co.id": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "sweetlantern.com": {
@@ -7247,7 +7247,7 @@
     "tempat-kost.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "templink.org": {
         "epoch": 1612915200.0,
@@ -7565,9 +7565,9 @@
         "state": "future"
     },
     "unduh.in": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
-        "state": "past"
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
     },
     "unibetplay.com": {
         "epoch": 1628035200.0,
@@ -7607,7 +7607,7 @@
     "usearch.co.id": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "uzone.id": {
         "epoch": 1655078400.0,
