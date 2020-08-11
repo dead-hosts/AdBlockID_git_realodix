@@ -1135,8 +1135,8 @@
         "state": "future"
     },
     "beritabanjarmasin.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "beritabojonegoro.com": {
@@ -1250,8 +1250,8 @@
         "state": "future"
     },
     "binpartner.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "bioskop-21.me": {
@@ -1425,8 +1425,8 @@
         "state": "future"
     },
     "bolahappy88.net": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "bolasport.com": {
@@ -2720,8 +2720,8 @@
         "state": "future"
     },
     "globalplanet.news": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "glory-link.com": {
@@ -2965,8 +2965,8 @@
         "state": "future"
     },
     "hexafile.net": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "heyriad.com": {
@@ -3005,8 +3005,8 @@
         "state": "future"
     },
     "hitekno.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "hitsbola.bid": {
@@ -3830,8 +3830,8 @@
         "state": "future"
     },
     "katim.id": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "kawanfilm21.org": {
@@ -3865,8 +3865,8 @@
         "state": "future"
     },
     "kelasdesain.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "keluarannomor.net": {
@@ -5130,8 +5130,8 @@
         "state": "future"
     },
     "moveadrenaline.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "movie-xx1.com": {
@@ -6070,9 +6070,9 @@
         "state": "future"
     },
     "promosi365.me": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "promozia.com": {
         "epoch": 1622851200.0,
@@ -7220,8 +7220,8 @@
         "state": "future"
     },
     "teknisimotor.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "teknobos.com": {
@@ -7245,9 +7245,9 @@
         "state": "future"
     },
     "tempat-kost.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "templink.org": {
         "epoch": 1612915200.0,
@@ -7605,9 +7605,9 @@
         "state": "future"
     },
     "usearch.co.id": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "uzone.id": {
         "epoch": 1655078400.0,
