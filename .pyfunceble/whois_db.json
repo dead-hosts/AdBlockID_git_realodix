@@ -285,8 +285,8 @@
         "state": "future"
     },
     "agungjakanugraha.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "agungqiu.org": {
@@ -1270,8 +1270,8 @@
         "state": "future"
     },
     "bioskop55.online": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "bioskop59.club": {
@@ -1570,8 +1570,8 @@
         "state": "future"
     },
     "cariskuy.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "catwenbat.com": {
@@ -3425,8 +3425,8 @@
         "state": "future"
     },
     "iphincow.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1692144000.0,
+        "expiration_date": "16-aug-2023",
         "state": "future"
     },
     "is.gd": {
@@ -3975,9 +3975,9 @@
         "state": "future"
     },
     "klikkalsel.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
-        "state": "past"
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
     },
     "klikmania.net": {
         "epoch": 1648598400.0,
@@ -4055,8 +4055,8 @@
         "state": "future"
     },
     "komiku.co.id": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "komiku.net": {
@@ -4860,8 +4860,8 @@
         "state": "future"
     },
     "mazterize.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "md88.bet": {
@@ -5210,8 +5210,8 @@
         "state": "future"
     },
     "mydramalist.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1660521600.0,
+        "expiration_date": "15-aug-2022",
         "state": "future"
     },
     "mylinkblog.com": {
@@ -5807,7 +5807,7 @@
     "pasardana.id": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "pasarjitu.me": {
         "epoch": 1625097600.0,
@@ -7325,8 +7325,8 @@
         "state": "future"
     },
     "teropongsenayan.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "terrapsps.com": {
@@ -7877,7 +7877,7 @@
     "ziyata.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "zonafilm.fun": {
         "epoch": 1619913600.0,
