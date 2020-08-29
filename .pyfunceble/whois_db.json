@@ -387,6 +387,7 @@
     "aleapeact.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "aleapeapt.club": {
@@ -442,6 +443,7 @@
     "amparcaim.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "ampburask.site": {
@@ -467,6 +469,7 @@
     "andarcair.club": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "andreasagung.com": {
@@ -492,6 +495,7 @@
     "aniashboy.club": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "anibatch.id": {
@@ -612,6 +616,7 @@
     "antbadani.club": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "antburape.club": {
@@ -787,6 +792,7 @@
     "aspanyarc.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "aspaskaim.club": {
@@ -865,8 +871,9 @@
         "state": "future"
     },
     "ayoyogya.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "babla.co.id": {
@@ -1512,6 +1519,7 @@
     "bumampaid.club": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "bungfrangki.com": {
@@ -1787,6 +1795,7 @@
     "coyalecap.club": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "cpnsonline.com": {
@@ -1817,6 +1826,7 @@
     "curarmbin.club": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "cutlinks.pro": {
@@ -2030,8 +2040,9 @@
         "state": "future"
     },
     "diaridona.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dibalikseo.com": {
@@ -3570,8 +3581,9 @@
         "state": "future"
     },
     "jemberpost.net": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jetsowilk.com": {
@@ -5287,6 +5299,7 @@
     "neobola.club": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "neonime.moe": {
@@ -6815,8 +6828,9 @@
         "state": "future"
     },
     "smallencode.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "smartpeople.id": {
@@ -6935,8 +6949,9 @@
         "state": "future"
     },
     "suarabantennews.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "suarabekasi.id": {
@@ -6950,8 +6965,9 @@
         "state": "future"
     },
     "suaraindonesia.co.id": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "suaraindonesianews.com": {
@@ -7532,6 +7548,7 @@
     "u-ad.info": {
         "epoch": 1529884800.0,
         "expiration_date": "25-jun-2018",
+        "server": "whois.afilias.net",
         "state": "past"
     },
     "uadexchange.com": {

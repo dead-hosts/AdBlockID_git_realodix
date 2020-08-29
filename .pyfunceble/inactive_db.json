@@ -91,6 +91,13 @@
             "last_retested_at_iso": "2020-08-26T16:34:25.627501",
             "status": "INACTIVE"
         },
+        "ads.telkomsel.com": {
+            "included_at_epoch": 1598719068.013105,
+            "included_at_iso": "2020-08-29T16:37:48.013105",
+            "last_retested_at_epoch": 1598719068.013105,
+            "last_retested_at_iso": "2020-08-29T16:37:48.013105",
+            "status": "INACTIVE"
+        },
         "alpha4d.live": {
             "included_at_epoch": 1596472391.903313,
             "included_at_iso": "2020-08-03T16:33:11.903313",
@@ -99,10 +106,10 @@
             "status": "INACTIVE"
         },
         "anibatch.id": {
-            "included_at_epoch": 1596212514.366523,
-            "included_at_iso": "2020-07-31T16:21:54.366523",
-            "last_retested_at_epoch": 1598459666.492526,
-            "last_retested_at_iso": "2020-08-26T16:34:26.492526",
+            "included_at_epoch": 1598719068.136804,
+            "included_at_iso": "2020-08-29T16:37:48.136804",
+            "last_retested_at_epoch": 1598719068.136804,
+            "last_retested_at_iso": "2020-08-29T16:37:48.136804",
             "status": "INACTIVE"
         },
         "animexin.jin-7.com": {
@@ -161,6 +168,13 @@
             "last_retested_at_iso": "2020-08-26T16:34:31.775722",
             "status": "INACTIVE"
         },
+        "faucetcrypto.site": {
+            "included_at_epoch": 1598719068.723309,
+            "included_at_iso": "2020-08-29T16:37:48.723309",
+            "last_retested_at_epoch": 1598719068.723309,
+            "last_retested_at_iso": "2020-08-29T16:37:48.723309",
+            "status": "INACTIVE"
+        },
         "gt4d.me": {
             "included_at_epoch": 1596472398.200537,
             "included_at_iso": "2020-08-03T16:33:18.200537",
@@ -176,10 +190,10 @@
             "status": "INACTIVE"
         },
         "iklan.beritajatim.com": {
-            "included_at_epoch": 1596212521.375597,
-            "included_at_iso": "2020-07-31T16:22:01.375597",
-            "last_retested_at_epoch": 1598459674.152548,
-            "last_retested_at_iso": "2020-08-26T16:34:34.152548",
+            "included_at_epoch": 1598719068.983994,
+            "included_at_iso": "2020-08-29T16:37:48.983994",
+            "last_retested_at_epoch": 1598719068.983994,
+            "last_retested_at_iso": "2020-08-29T16:37:48.983994",
             "status": "INACTIVE"
         },
         "iklan.sorotmedianusantara.com": {
@@ -194,6 +208,13 @@
             "included_at_iso": "2020-08-03T16:33:19.401425",
             "last_retested_at_epoch": 1598459674.439152,
             "last_retested_at_iso": "2020-08-26T16:34:34.439152",
+            "status": "INACTIVE"
+        },
+        "link.suarawonuasultra.com": {
+            "included_at_epoch": 1598719069.427079,
+            "included_at_iso": "2020-08-29T16:37:49.427079",
+            "last_retested_at_epoch": 1598719069.427079,
+            "last_retested_at_iso": "2020-08-29T16:37:49.427079",
             "status": "INACTIVE"
         },
         "lotustiga.com": {
@@ -229,6 +250,13 @@
             "included_at_iso": "2020-08-06T11:02:35.082510",
             "last_retested_at_epoch": 1598459681.732555,
             "last_retested_at_iso": "2020-08-26T16:34:41.732555",
+            "status": "INACTIVE"
+        },
+        "pasangiklanmurah.xyz": {
+            "included_at_epoch": 1598719069.932454,
+            "included_at_iso": "2020-08-29T16:37:49.932454",
+            "last_retested_at_epoch": 1598719069.932454,
+            "last_retested_at_iso": "2020-08-29T16:37:49.932454",
             "status": "INACTIVE"
         },
         "salam4d.me": {
