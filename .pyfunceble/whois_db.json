@@ -155,8 +155,9 @@
         "state": "future"
     },
     "ad.co.id": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "ad4msan.com": {
@@ -546,6 +547,12 @@
     "animekompi.web.id": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "animekuro.net": {
+        "epoch": 1667779200.0,
+        "expiration_date": "07-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "animelink.net": {
@@ -1192,8 +1199,9 @@
         "state": "future"
     },
     "beritapagi.co.id": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "beritapenajam.net": {
@@ -1555,7 +1563,8 @@
     "caranetizen.info": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "carapedia.com": {
         "epoch": 1619308800.0,
@@ -1648,8 +1657,9 @@
         "state": "future"
     },
     "cidahu.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cinema-mkv.com": {
@@ -1790,7 +1800,8 @@
     "cosmogirl.co.id": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.id",
+        "state": "past"
     },
     "coyalecap.club": {
         "epoch": 1592611200.0,
@@ -1824,10 +1835,10 @@
         "state": "future"
     },
     "curarmbin.club": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "server": "whois.nic.club",
-        "state": "past"
+        "state": "future"
     },
     "cutlinks.pro": {
         "epoch": 1621555200.0,
@@ -2943,7 +2954,8 @@
     "hariansinggalang.co.id": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.id",
+        "state": "past"
     },
     "haupsoti.net": {
         "epoch": 1612915200.0,
@@ -3446,8 +3458,9 @@
         "state": "future"
     },
     "iskrim.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "islampos.com": {
@@ -3937,8 +3950,9 @@
         "state": "future"
     },
     "kiminime.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kingdompaito.com": {
@@ -4734,6 +4748,12 @@
     "mangaindo.web.id": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "mangakita.net": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mangaku.in": {
@@ -6248,8 +6268,9 @@
         "state": "future"
     },
     "rakosa-fm.co.id": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "rakyatjambi.co": {
@@ -6550,7 +6571,8 @@
     "sba99.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "schema.org": {
         "epoch": 1610582400.0,
@@ -6996,8 +7018,9 @@
         "state": "future"
     },
     "suaramedannews.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "suaramerdeka.com": {
@@ -7727,8 +7750,9 @@
         "state": "future"
     },
     "waspada.co.id": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1661990400.0,
+        "expiration_date": "01-sep-2022",
+        "server": "whois.id",
         "state": "future"
     },
     "waspadaaceh.com": {
