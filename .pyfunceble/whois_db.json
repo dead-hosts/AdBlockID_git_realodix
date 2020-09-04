@@ -50,8 +50,9 @@
         "state": "future"
     },
     "1xfifa.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1xliga.com": {
@@ -1561,10 +1562,10 @@
         "state": "future"
     },
     "caranetizen.info": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.afilias.net",
-        "state": "past"
+        "state": "future"
     },
     "carapedia.com": {
         "epoch": 1619308800.0,
@@ -1798,10 +1799,10 @@
         "state": "future"
     },
     "cosmogirl.co.id": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.id",
-        "state": "past"
+        "state": "future"
     },
     "coyalecap.club": {
         "epoch": 1592611200.0,
@@ -2432,8 +2433,9 @@
         "state": "future"
     },
     "fajarmanado.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "faktabali.com": {
@@ -2474,6 +2476,12 @@
     "fazar.net": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "fb21.tv": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "fc.lc": {
@@ -2952,10 +2960,10 @@
         "state": "future"
     },
     "hariansinggalang.co.id": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.id",
-        "state": "past"
+        "state": "future"
     },
     "haupsoti.net": {
         "epoch": 1612915200.0,
@@ -3747,7 +3755,8 @@
     "kabarjawatimur.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "kabarmakkah.com": {
         "epoch": 1638230400.0,
@@ -4276,8 +4285,9 @@
         "state": "future"
     },
     "kuncihijau.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kupastuntas.co": {
@@ -5358,8 +5368,9 @@
         "state": "future"
     },
     "newparadise.xyz": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "news-tech.xyz": {
@@ -5498,8 +5509,9 @@
         "state": "future"
     },
     "nt1.co": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "ntt-news.com": {
@@ -5920,6 +5932,12 @@
     "penamerdeka.com": {
         "epoch": 1615075200.0,
         "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "permenkojek.xyz": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "petisi.co": {
@@ -6569,10 +6587,10 @@
         "state": "future"
     },
     "sba99.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "schema.org": {
         "epoch": 1610582400.0,
@@ -6830,8 +6848,9 @@
         "state": "future"
     },
     "sitti.co.id": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "situsjodoh.com": {
@@ -7099,8 +7118,9 @@
         "state": "future"
     },
     "sumbartime.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sumbartoday.com": {
@@ -7534,8 +7554,9 @@
         "state": "future"
     },
     "tribunsumbar.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tribuntekno.com": {
