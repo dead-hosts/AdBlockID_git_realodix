@@ -147,6 +147,13 @@
             "last_retested_at_iso": "2020-09-01T16:38:20.607173",
             "status": "INACTIVE"
         },
+        "coyalecap.club": {
+            "included_at_epoch": 1599496777.290987,
+            "included_at_iso": "2020-09-07T16:39:37.290987",
+            "last_retested_at_epoch": 1599496777.290987,
+            "last_retested_at_iso": "2020-09-07T16:39:37.290987",
+            "status": "INACTIVE"
+        },
         "dgc374.com": {
             "included_at_epoch": 1598978300.768753,
             "included_at_iso": "2020-09-01T16:38:20.768753",

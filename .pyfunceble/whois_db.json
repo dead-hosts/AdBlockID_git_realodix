@@ -37,12 +37,14 @@
     "1x2018.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "1xdota2.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "1xdota2.net": {
         "epoch": 1599782400.0,
@@ -58,7 +60,8 @@
     "1xliga.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "1xliga.net": {
         "epoch": 1599782400.0,
@@ -1573,8 +1576,9 @@
         "state": "future"
     },
     "cararoot.id": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "cariajadisini.com": {
@@ -2530,8 +2534,9 @@
         "state": "future"
     },
     "filmindo.vip": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.vip",
         "state": "future"
     },
     "filmonlineindo.com": {
@@ -2770,8 +2775,9 @@
         "state": "future"
     },
     "gmplay.asia": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.nic.asia",
         "state": "future"
     },
     "goal388.org": {
@@ -2785,8 +2791,9 @@
         "state": "future"
     },
     "gogiok.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gomentod.com": {
@@ -2920,8 +2927,9 @@
         "state": "future"
     },
     "harianbhirawa.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "harianhaluan.com": {
@@ -3733,8 +3741,9 @@
         "state": "future"
     },
     "jwplayer21.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "k9win-indonesia.com": {
@@ -3753,10 +3762,10 @@
         "state": "future"
     },
     "kabarjawatimur.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "kabarmakkah.com": {
         "epoch": 1638230400.0,
@@ -5469,8 +5478,9 @@
         "state": "future"
     },
     "nontonfilm.vip": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.vip",
         "state": "future"
     },
     "nontonfilm.watch": {
@@ -5920,8 +5930,9 @@
         "state": "future"
     },
     "pelitasumsel.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "penaberlian.com": {
@@ -6141,8 +6152,9 @@
         "state": "future"
     },
     "publish.web.id": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "puebaraka.com": {
@@ -6658,8 +6670,9 @@
         "state": "future"
     },
     "semuanyabola.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "senentangnews.com": {
@@ -6910,8 +6923,9 @@
         "state": "past"
     },
     "solopos.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sonora.id": {
@@ -7012,8 +7026,9 @@
         "state": "future"
     },
     "suaraindonesianews.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "suarajatimpost.com": {
