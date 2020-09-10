@@ -35,16 +35,16 @@
         "state": "future"
     },
     "1x2018.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "1xdota2.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "1xdota2.net": {
         "epoch": 1599782400.0,
@@ -58,10 +58,10 @@
         "state": "future"
     },
     "1xliga.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "1xliga.net": {
         "epoch": 1599782400.0,
@@ -526,7 +526,8 @@
     "animebatch.site": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
-        "state": "future"
+        "server": "whois.nic.site",
+        "state": "past"
     },
     "animebatch.web.id": {
         "epoch": 1608940800.0,
@@ -580,8 +581,9 @@
         "state": "future"
     },
     "anirocksite.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "anisora.net": {
@@ -948,8 +950,9 @@
         "state": "future"
     },
     "baksomerdeka.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "balapmotor.net": {
@@ -1148,8 +1151,9 @@
         "state": "future"
     },
     "beritabalionline.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "beritabanjarmasin.com": {
@@ -2242,8 +2246,9 @@
         "state": "future"
     },
     "dunia21s.fun": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.nic.fun",
         "state": "future"
     },
     "duniafintech.com": {
@@ -2783,6 +2788,12 @@
     "goal388.org": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "goblintvfree.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gobmodfoe.com": {
@@ -4289,8 +4300,9 @@
         "state": "future"
     },
     "kumpulmanga.org": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "kuncihijau.com": {
@@ -5231,8 +5243,9 @@
         "state": "future"
     },
     "mpo189.org": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "mtsbirrulrensing.com": {
@@ -5620,8 +5633,9 @@
         "state": "future"
     },
     "olineman.pro": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "omahkpop.com": {
@@ -5695,8 +5709,9 @@
         "state": "future"
     },
     "otomakassar.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "otomotifmax.com": {
@@ -7329,8 +7344,9 @@
         "state": "future"
     },
     "tempo.co": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "terafile.net": {
