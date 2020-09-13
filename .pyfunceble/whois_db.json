@@ -47,8 +47,9 @@
         "state": "future"
     },
     "1xdota2.net": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1xfifa.com": {
@@ -64,8 +65,9 @@
         "state": "future"
     },
     "1xliga.net": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "21cineplex.com": {
@@ -320,8 +322,9 @@
         "state": "future"
     },
     "aidalbark.site": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "aii.sh": {
@@ -550,8 +553,9 @@
         "state": "future"
     },
     "animekompi.web.id": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "animekuro.net": {
@@ -612,8 +616,9 @@
         "state": "future"
     },
     "annews.co.id": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "anoboy.best": {
@@ -683,8 +688,9 @@
         "state": "future"
     },
     "arcaukalb.site": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "ardetamedia.com": {
@@ -1260,6 +1266,12 @@
     "bestvideo2019.xyz": {
         "epoch": 1609977600.0,
         "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "betflix.id": {
+        "epoch": 1697068800.0,
+        "expiration_date": "12-oct-2023",
+        "server": "whois.id",
         "state": "future"
     },
     "bigfish22.com": {
@@ -2552,7 +2564,8 @@
     "filmseks.online": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
-        "state": "future"
+        "server": "whois.nic.online",
+        "state": "past"
     },
     "fixchidie.com": {
         "epoch": 1614297600.0,
@@ -4090,8 +4103,9 @@
         "state": "future"
     },
     "komikcast.co.id": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "komikcast.com": {
@@ -5183,8 +5197,9 @@
         "state": "future"
     },
     "motorrio.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mousheen.net": {
@@ -5473,6 +5488,12 @@
     "nonton.com": {
         "epoch": 1659139200.0,
         "expiration_date": "30-jul-2022",
+        "state": "future"
+    },
+    "nonton45.com": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nonton66.com": {
@@ -6701,8 +6722,9 @@
         "state": "future"
     },
     "sentrapromosi.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sepintek.my.id": {
@@ -7073,8 +7095,9 @@
         "state": "future"
     },
     "suaramerdeka.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "suaranasional.com": {
@@ -7430,8 +7453,9 @@
         "state": "future"
     },
     "thegreenblog.net": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thetarhaw.com": {
@@ -7672,8 +7696,9 @@
         "state": "future"
     },
     "up4pc.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "uplink.my.id": {

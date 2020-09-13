@@ -64,10 +64,10 @@
             "status": "INACTIVE"
         },
         "204.48.22.58": {
-            "included_at_epoch": 1597422548.613849,
-            "included_at_iso": "2020-08-14T16:29:08.613849",
-            "last_retested_at_epoch": 1598459665.247886,
-            "last_retested_at_iso": "2020-08-26T16:34:25.247886",
+            "included_at_epoch": 1600015489.298057,
+            "included_at_iso": "2020-09-13T16:44:49.298057",
+            "last_retested_at_epoch": 1600015489.298057,
+            "last_retested_at_iso": "2020-09-13T16:44:49.298057",
             "status": "INACTIVE"
         },
         "206.189.151.55": {
@@ -85,10 +85,10 @@
             "status": "INACTIVE"
         },
         "ads.hukumonline.com": {
-            "included_at_epoch": 1597422548.951684,
-            "included_at_iso": "2020-08-14T16:29:08.951684",
-            "last_retested_at_epoch": 1598459665.627501,
-            "last_retested_at_iso": "2020-08-26T16:34:25.627501",
+            "included_at_epoch": 1600015489.333558,
+            "included_at_iso": "2020-09-13T16:44:49.333558",
+            "last_retested_at_epoch": 1600015489.333558,
+            "last_retested_at_iso": "2020-09-13T16:44:49.333558",
             "status": "INACTIVE"
         },
         "ads.telkomsel.com": {
@@ -96,6 +96,20 @@
             "included_at_iso": "2020-08-29T16:37:48.013105",
             "last_retested_at_epoch": 1598719068.013105,
             "last_retested_at_iso": "2020-08-29T16:37:48.013105",
+            "status": "INACTIVE"
+        },
+        "adscpm.site": {
+            "included_at_epoch": 1600015489.347441,
+            "included_at_iso": "2020-09-13T16:44:49.347441",
+            "last_retested_at_epoch": 1600015489.347441,
+            "last_retested_at_iso": "2020-09-13T16:44:49.347441",
+            "status": "INACTIVE"
+        },
+        "adshost.site": {
+            "included_at_epoch": 1600015489.349267,
+            "included_at_iso": "2020-09-13T16:44:49.349267",
+            "last_retested_at_epoch": 1600015489.349267,
+            "last_retested_at_iso": "2020-09-13T16:44:49.349267",
             "status": "INACTIVE"
         },
         "alpha4d.live": {
@@ -168,6 +182,13 @@
             "last_retested_at_iso": "2020-09-01T16:38:20.791517",
             "status": "INACTIVE"
         },
+        "dl.nesia.my.id": {
+            "included_at_epoch": 1600015490.054561,
+            "included_at_iso": "2020-09-13T16:44:50.054561",
+            "last_retested_at_epoch": 1600015490.054561,
+            "last_retested_at_iso": "2020-09-13T16:44:50.054561",
+            "status": "INACTIVE"
+        },
         "energitoto.me": {
             "included_at_epoch": 1597941167.380644,
             "included_at_iso": "2020-08-20T16:32:47.380644",
@@ -204,10 +225,10 @@
             "status": "INACTIVE"
         },
         "iklan.sorotmedianusantara.com": {
-            "included_at_epoch": 1597422556.715035,
-            "included_at_iso": "2020-08-14T16:29:16.715035",
-            "last_retested_at_epoch": 1598459674.155152,
-            "last_retested_at_iso": "2020-08-26T16:34:34.155152",
+            "included_at_epoch": 1600015490.494122,
+            "included_at_iso": "2020-09-13T16:44:50.494122",
+            "last_retested_at_epoch": 1600015490.494122,
+            "last_retested_at_iso": "2020-09-13T16:44:50.494122",
             "status": "INACTIVE"
         },
         "indopools.me": {
