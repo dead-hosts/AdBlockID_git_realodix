@@ -181,6 +181,55 @@
             "last_retested_at_epoch": 1600142765.59293,
             "last_retested_at_iso": "2020-09-15T04:06:05.592930",
             "status": "INACTIVE"
+        },
+        "sepintek.my.id": {
+            "included_at_epoch": 1600143078.13003,
+            "included_at_iso": "2020-09-15T04:11:18.130030",
+            "last_retested_at_epoch": 1600143078.13003,
+            "last_retested_at_iso": "2020-09-15T04:11:18.130030",
+            "status": "INACTIVE"
+        },
+        "smartpeople.id": {
+            "included_at_epoch": 1600143078.62289,
+            "included_at_iso": "2020-09-15T04:11:18.622890",
+            "last_retested_at_epoch": 1600143078.62289,
+            "last_retested_at_iso": "2020-09-15T04:11:18.622890",
+            "status": "INACTIVE"
+        },
+        "sosiali.com": {
+            "included_at_epoch": 1600143078.721451,
+            "included_at_iso": "2020-09-15T04:11:18.721451",
+            "last_retested_at_epoch": 1600143078.721451,
+            "last_retested_at_iso": "2020-09-15T04:11:18.721451",
+            "status": "INACTIVE"
+        },
+        "stradamotoblog.com": {
+            "included_at_epoch": 1600143078.7844,
+            "included_at_iso": "2020-09-15T04:11:18.784400",
+            "last_retested_at_epoch": 1600143078.7844,
+            "last_retested_at_iso": "2020-09-15T04:11:18.784400",
+            "status": "INACTIVE"
+        },
+        "tgnusantara.xyz": {
+            "included_at_epoch": 1600143079.961244,
+            "included_at_iso": "2020-09-15T04:11:19.961244",
+            "last_retested_at_epoch": 1600143079.961244,
+            "last_retested_at_iso": "2020-09-15T04:11:19.961244",
+            "status": "INACTIVE"
+        },
+        "tores4d.me": {
+            "included_at_epoch": 1600143080.266198,
+            "included_at_iso": "2020-09-15T04:11:20.266198",
+            "last_retested_at_epoch": 1600143080.266198,
+            "last_retested_at_iso": "2020-09-15T04:11:20.266198",
+            "status": "INACTIVE"
+        },
+        "winning365.asia": {
+            "included_at_epoch": 1600143081.212947,
+            "included_at_iso": "2020-09-15T04:11:21.212947",
+            "last_retested_at_epoch": 1600143081.212947,
+            "last_retested_at_iso": "2020-09-15T04:11:21.212947",
+            "status": "INACTIVE"
         }
     }
 }
