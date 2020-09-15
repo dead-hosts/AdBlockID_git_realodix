@@ -1,0 +1,186 @@
+{
+    "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
+        "111.90.142.151": {
+            "included_at_epoch": 1600142757.781158,
+            "included_at_iso": "2020-09-15T04:05:57.781158",
+            "last_retested_at_epoch": 1600142757.781158,
+            "last_retested_at_iso": "2020-09-15T04:05:57.781158",
+            "status": "INACTIVE"
+        },
+        "128.199.102.136": {
+            "included_at_epoch": 1600142757.782325,
+            "included_at_iso": "2020-09-15T04:05:57.782325",
+            "last_retested_at_epoch": 1600142757.782325,
+            "last_retested_at_iso": "2020-09-15T04:05:57.782325",
+            "status": "INACTIVE"
+        },
+        "178.128.82.236": {
+            "included_at_epoch": 1600142757.792816,
+            "included_at_iso": "2020-09-15T04:05:57.792816",
+            "last_retested_at_epoch": 1600142757.792816,
+            "last_retested_at_iso": "2020-09-15T04:05:57.792816",
+            "status": "INACTIVE"
+        },
+        "185.63.253.33": {
+            "included_at_epoch": 1600142757.795172,
+            "included_at_iso": "2020-09-15T04:05:57.795172",
+            "last_retested_at_epoch": 1600142757.795172,
+            "last_retested_at_iso": "2020-09-15T04:05:57.795172",
+            "status": "INACTIVE"
+        },
+        "198.204.248.230": {
+            "included_at_epoch": 1600142757.798331,
+            "included_at_iso": "2020-09-15T04:05:57.798331",
+            "last_retested_at_epoch": 1600142757.798331,
+            "last_retested_at_iso": "2020-09-15T04:05:57.798331",
+            "status": "INACTIVE"
+        },
+        "204.48.22.58": {
+            "included_at_epoch": 1600142757.810202,
+            "included_at_iso": "2020-09-15T04:05:57.810202",
+            "last_retested_at_epoch": 1600142757.810202,
+            "last_retested_at_iso": "2020-09-15T04:05:57.810202",
+            "status": "INACTIVE"
+        },
+        "206.189.151.55": {
+            "included_at_epoch": 1600142757.811301,
+            "included_at_iso": "2020-09-15T04:05:57.811301",
+            "last_retested_at_epoch": 1600142757.811301,
+            "last_retested_at_iso": "2020-09-15T04:05:57.811301",
+            "status": "INACTIVE"
+        },
+        "209.97.170.87": {
+            "included_at_epoch": 1600142757.812543,
+            "included_at_iso": "2020-09-15T04:05:57.812543",
+            "last_retested_at_epoch": 1600142757.812543,
+            "last_retested_at_iso": "2020-09-15T04:05:57.812543",
+            "status": "INACTIVE"
+        },
+        "22agustus.net": {
+            "included_at_epoch": 1600142757.817082,
+            "included_at_iso": "2020-09-15T04:05:57.817082",
+            "last_retested_at_epoch": 1600142757.817082,
+            "last_retested_at_iso": "2020-09-15T04:05:57.817082",
+            "status": "INACTIVE"
+        },
+        "agen4d.me": {
+            "included_at_epoch": 1600142757.896741,
+            "included_at_iso": "2020-09-15T04:05:57.896741",
+            "last_retested_at_epoch": 1600142757.896741,
+            "last_retested_at_iso": "2020-09-15T04:05:57.896741",
+            "status": "INACTIVE"
+        },
+        "angenlive4d.cc": {
+            "included_at_epoch": 1600142757.96928,
+            "included_at_iso": "2020-09-15T04:05:57.969280",
+            "last_retested_at_epoch": 1600142757.96928,
+            "last_retested_at_iso": "2020-09-15T04:05:57.969280",
+            "status": "INACTIVE"
+        },
+        "auranews.id": {
+            "included_at_epoch": 1600142758.112111,
+            "included_at_iso": "2020-09-15T04:05:58.112111",
+            "last_retested_at_epoch": 1600142758.112111,
+            "last_retested_at_iso": "2020-09-15T04:05:58.112111",
+            "status": "INACTIVE"
+        },
+        "bape88.id": {
+            "included_at_epoch": 1600142758.212604,
+            "included_at_iso": "2020-09-15T04:05:58.212604",
+            "last_retested_at_epoch": 1600142758.212604,
+            "last_retested_at_iso": "2020-09-15T04:05:58.212604",
+            "status": "INACTIVE"
+        },
+        "dcbet.cc": {
+            "included_at_epoch": 1600142758.860786,
+            "included_at_iso": "2020-09-15T04:05:58.860786",
+            "last_retested_at_epoch": 1600142758.860786,
+            "last_retested_at_iso": "2020-09-15T04:05:58.860786",
+            "status": "INACTIVE"
+        },
+        "etreflased.info": {
+            "included_at_epoch": 1600142759.352082,
+            "included_at_iso": "2020-09-15T04:05:59.352082",
+            "last_retested_at_epoch": 1600142759.352082,
+            "last_retested_at_iso": "2020-09-15T04:05:59.352082",
+            "status": "INACTIVE"
+        },
+        "fawenys.xyz": {
+            "included_at_epoch": 1600142759.41917,
+            "included_at_iso": "2020-09-15T04:05:59.419170",
+            "last_retested_at_epoch": 1600142759.41917,
+            "last_retested_at_iso": "2020-09-15T04:05:59.419170",
+            "status": "INACTIVE"
+        },
+        "gt4d.me": {
+            "included_at_epoch": 1600142759.837702,
+            "included_at_iso": "2020-09-15T04:05:59.837702",
+            "last_retested_at_epoch": 1600142759.837702,
+            "last_retested_at_iso": "2020-09-15T04:05:59.837702",
+            "status": "INACTIVE"
+        },
+        "istana2.com": {
+            "included_at_epoch": 1600142760.689756,
+            "included_at_iso": "2020-09-15T04:06:00.689756",
+            "last_retested_at_epoch": 1600142760.689756,
+            "last_retested_at_iso": "2020-09-15T04:06:00.689756",
+            "status": "INACTIVE"
+        },
+        "jayaiklan.com": {
+            "included_at_epoch": 1600142760.837725,
+            "included_at_iso": "2020-09-15T04:06:00.837725",
+            "last_retested_at_epoch": 1600142760.837725,
+            "last_retested_at_iso": "2020-09-15T04:06:00.837725",
+            "status": "INACTIVE"
+        },
+        "liga-bravo.com": {
+            "included_at_epoch": 1600142762.333173,
+            "included_at_iso": "2020-09-15T04:06:02.333173",
+            "last_retested_at_epoch": 1600142762.333173,
+            "last_retested_at_iso": "2020-09-15T04:06:02.333173",
+            "status": "INACTIVE"
+        },
+        "livesydney.website": {
+            "included_at_epoch": 1600142762.56525,
+            "included_at_iso": "2020-09-15T04:06:02.565250",
+            "last_retested_at_epoch": 1600142762.56525,
+            "last_retested_at_iso": "2020-09-15T04:06:02.565250",
+            "status": "INACTIVE"
+        },
+        "naloindo.net": {
+            "included_at_epoch": 1600142763.953796,
+            "included_at_iso": "2020-09-15T04:06:03.953796",
+            "last_retested_at_epoch": 1600142763.953796,
+            "last_retested_at_iso": "2020-09-15T04:06:03.953796",
+            "status": "INACTIVE"
+        },
+        "netijenshare.com": {
+            "included_at_epoch": 1600142764.060568,
+            "included_at_iso": "2020-09-15T04:06:04.060568",
+            "last_retested_at_epoch": 1600142764.060568,
+            "last_retested_at_iso": "2020-09-15T04:06:04.060568",
+            "status": "INACTIVE"
+        },
+        "pangeran1.net": {
+            "included_at_epoch": 1600142765.111226,
+            "included_at_iso": "2020-09-15T04:06:05.111226",
+            "last_retested_at_epoch": 1600142765.111226,
+            "last_retested_at_iso": "2020-09-15T04:06:05.111226",
+            "status": "INACTIVE"
+        },
+        "peevopoy.com": {
+            "included_at_epoch": 1600142765.326738,
+            "included_at_iso": "2020-09-15T04:06:05.326738",
+            "last_retested_at_epoch": 1600142765.326738,
+            "last_retested_at_iso": "2020-09-15T04:06:05.326738",
+            "status": "INACTIVE"
+        },
+        "poke4d.me": {
+            "included_at_epoch": 1600142765.59293,
+            "included_at_iso": "2020-09-15T04:06:05.592930",
+            "last_retested_at_epoch": 1600142765.59293,
+            "last_retested_at_iso": "2020-09-15T04:06:05.592930",
+            "status": "INACTIVE"
+        }
+    }
+}
