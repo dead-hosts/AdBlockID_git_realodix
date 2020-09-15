@@ -1190,7 +1190,8 @@
     "beritajateng.net": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "beritajatim.com": {
         "epoch": 1710374400.0,
@@ -1337,6 +1338,12 @@
     "bioskopkerenin.club": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
+    "bioskopkerenin.link": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "bioskopkerenin.org": {
@@ -3586,7 +3593,8 @@
     "jambiline.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "jambiseru.com": {
         "epoch": 1621468800.0,
@@ -4403,6 +4411,12 @@
     "lastfashions.xyz": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "layarfilm21.fun": {
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.fun",
         "state": "future"
     },
     "layarkaca21.live": {
@@ -7204,7 +7218,8 @@
     "suryapero.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "sviklutt.site": {
         "epoch": 1617580800.0,
@@ -7920,7 +7935,8 @@
     "wisatatempat.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "wismakita.com": {
         "epoch": 1600387200.0,

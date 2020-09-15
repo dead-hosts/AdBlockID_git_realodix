@@ -35,6 +35,13 @@
             "last_retested_at_iso": "2020-08-26T16:34:25.101357",
             "status": "INACTIVE"
         },
+        "149.28.158.117": {
+            "included_at_epoch": 1600139640.044499,
+            "included_at_iso": "2020-09-15T03:14:00.044499",
+            "last_retested_at_epoch": 1600139640.044499,
+            "last_retested_at_iso": "2020-09-15T03:14:00.044499",
+            "status": "INACTIVE"
+        },
         "159.65.3.51": {
             "included_at_epoch": 1598200478.41499,
             "included_at_iso": "2020-08-23T16:34:38.414990",
