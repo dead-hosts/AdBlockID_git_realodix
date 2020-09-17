@@ -14,6 +14,13 @@
             "last_retested_at_iso": "2020-09-15T04:05:57.782325",
             "status": "INACTIVE"
         },
+        "149.3.170.35": {
+            "included_at_epoch": 1600361273.27186,
+            "included_at_iso": "2020-09-17T16:47:53.271860",
+            "last_retested_at_epoch": 1600361273.27186,
+            "last_retested_at_iso": "2020-09-17T16:47:53.271860",
+            "status": "INACTIVE"
+        },
         "178.128.82.236": {
             "included_at_epoch": 1600142757.792816,
             "included_at_iso": "2020-09-15T04:05:57.792816",
@@ -89,6 +96,13 @@
             "included_at_iso": "2020-09-15T04:05:58.212604",
             "last_retested_at_epoch": 1600142758.212604,
             "last_retested_at_iso": "2020-09-15T04:05:58.212604",
+            "status": "INACTIVE"
+        },
+        "dares.xyz": {
+            "included_at_epoch": 1600361273.872999,
+            "included_at_iso": "2020-09-17T16:47:53.872999",
+            "last_retested_at_epoch": 1600361273.872999,
+            "last_retested_at_iso": "2020-09-17T16:47:53.872999",
             "status": "INACTIVE"
         },
         "dcbet.cc": {
