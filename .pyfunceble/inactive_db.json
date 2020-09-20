@@ -182,6 +182,13 @@
             "last_retested_at_iso": "2020-09-15T04:06:05.111226",
             "status": "INACTIVE"
         },
+        "pasbisa.site": {
+            "included_at_epoch": 1600620371.668335,
+            "included_at_iso": "2020-09-20T16:46:11.668335",
+            "last_retested_at_epoch": 1600620371.668335,
+            "last_retested_at_iso": "2020-09-20T16:46:11.668335",
+            "status": "INACTIVE"
+        },
         "peevopoy.com": {
             "included_at_epoch": 1600142765.326738,
             "included_at_iso": "2020-09-15T04:06:05.326738",
