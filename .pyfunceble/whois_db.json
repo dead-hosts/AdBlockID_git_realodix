@@ -875,6 +875,12 @@
         "server": "whois.nic.pw",
         "state": "future"
     },
+    "avkyu1tesnwy.com": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "awnime.net": {
         "epoch": 1631750400.0,
         "expiration_date": "16-sep-2021",
@@ -1125,6 +1131,12 @@
         "epoch": 1621814400.0,
         "expiration_date": "24-may-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "beigeiros.pw": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "server": "whois.nic.pw",
         "state": "future"
     },
     "bekas.com": {
@@ -1793,6 +1805,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "cinemaday.org": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "cinemags.co.id": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
@@ -2166,8 +2184,8 @@
         "state": "future"
     },
     "dewanonton.vip": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "whois.nic.vip",
         "state": "future"
     },
@@ -2316,8 +2334,8 @@
         "state": "future"
     },
     "drakorindofilms.net": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2391,6 +2409,12 @@
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
         "server": "whois.id",
+        "state": "future"
+    },
+    "dropsymooant.com": {
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dryzapsol.com": {
@@ -3629,6 +3653,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "indoxximovie.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "indozone.id": {
         "epoch": 1890172800.0,
         "expiration_date": "24-nov-2029",
@@ -3710,6 +3740,12 @@
     "inidramaku.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "inidramaku.net": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -4686,8 +4722,8 @@
         "state": "future"
     },
     "kotakbiru.casa": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
         "server": "whois.nic.casa",
         "state": "future"
     },
@@ -5550,8 +5586,8 @@
         "state": "future"
     },
     "mediatulis.net": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -7682,6 +7718,12 @@
     "sidoarjopos.net": {
         "epoch": 1622592000.0,
         "expiration_date": "02-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "sightjutfar.com": {
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
