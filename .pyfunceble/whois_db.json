@@ -930,8 +930,8 @@
         "state": "future"
     },
     "bacaan.id": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "whois.id",
         "state": "future"
     },
@@ -1625,6 +1625,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "breedtagask.com": {
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "brilio.net": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
@@ -1961,6 +1967,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "craydark.pw": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "server": "whois.nic.pw",
+        "state": "future"
+    },
     "cryaptall.club": {
         "epoch": 1626566400.0,
         "expiration_date": "18-jul-2021",
@@ -2187,6 +2199,12 @@
         "epoch": 1632268800.0,
         "expiration_date": "22-sep-2021",
         "server": "whois.nic.vip",
+        "state": "future"
+    },
+    "dewanonton.xyz": {
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "dewaplokis.com": {
@@ -2813,6 +2831,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "foto17.xyz": {
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "franchiseglobal.com": {
         "epoch": 1741564800.0,
         "expiration_date": "10-mar-2025",
@@ -3273,7 +3297,7 @@
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "helenajonsson.com": {
         "epoch": 1627430400.0,
@@ -3420,8 +3444,8 @@
         "state": "future"
     },
     "hxfile.co": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.nic.co",
         "state": "future"
     },
@@ -4041,7 +4065,7 @@
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "jootizud.net": {
         "epoch": 1620604800.0,
@@ -4740,8 +4764,8 @@
         "state": "future"
     },
     "kotanopan.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5346,8 +5370,8 @@
         "state": "future"
     },
     "mangakita.net": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5676,8 +5700,8 @@
         "state": "future"
     },
     "meownime.my.id": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
         "server": "whois.id",
         "state": "future"
     },
@@ -6057,6 +6081,12 @@
         "epoch": 1624665600.0,
         "expiration_date": "26-jun-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "newparadise.xyz": {
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "news-tech.xyz": {
@@ -6453,6 +6483,12 @@
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "otw-link.xyz": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "oujanime.com": {
@@ -7451,6 +7487,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "saungfirmware.id": {
+        "epoch": 1654560000.0,
+        "expiration_date": "07-jun-2022",
+        "server": "whois.id",
+        "state": "future"
+    },
     "sba99.com": {
         "epoch": 1630454400.0,
         "expiration_date": "01-sep-2021",
@@ -7701,6 +7743,12 @@
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
         "server": "whois.nic.vip",
+        "state": "future"
+    },
+    "shrinkme.in": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "siapbisnis.net": {
