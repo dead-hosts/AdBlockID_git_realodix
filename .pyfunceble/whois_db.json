@@ -503,6 +503,12 @@
         "server": "whois.nic.me",
         "state": "future"
     },
+    "anichin.my.id": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "server": "whois.id",
+        "state": "future"
+    },
     "anifiles.org": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
@@ -2531,6 +2537,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "dwcash.us": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "server": "whois.nic.us",
+        "state": "future"
+    },
     "dz4link.com": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -3069,6 +3081,12 @@
         "epoch": 1632614400.0,
         "expiration_date": "26-sep-2021",
         "server": "whois.pir.org",
+        "state": "future"
+    },
+    "goblintv.xyz": {
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "goblintvfree.com": {
