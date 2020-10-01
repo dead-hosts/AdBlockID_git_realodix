@@ -395,6 +395,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "alamathoki.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "alasannews.com": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
@@ -1361,6 +1367,12 @@
         "server": "whois.nic.me",
         "state": "future"
     },
+    "bioskop.red": {
+        "epoch": 1689724800.0,
+        "expiration_date": "19-jul-2023",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "bioskop021.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -2309,6 +2321,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "domino224.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dorama.asia": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
@@ -3165,6 +3183,12 @@
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
         "server": "whois.nic.club",
+        "state": "future"
+    },
+    "gudangfilm.website": {
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
+        "server": "whois.nic.website",
         "state": "future"
     },
     "gudangfilm21.com": {
@@ -4989,6 +5013,12 @@
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
         "server": "whois.pir.org",
+        "state": "future"
+    },
+    "layarkeren.site": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "layarlebar.co": {
