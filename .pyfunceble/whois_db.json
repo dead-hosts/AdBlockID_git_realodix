@@ -4457,6 +4457,12 @@
         "server": "whois.afilias.net",
         "state": "future"
     },
+    "kerenslot.net": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "kertashitam.com": {
         "epoch": 1642809600.0,
         "expiration_date": "22-jan-2022",
@@ -4719,6 +4725,12 @@
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
         "server": "whois.id",
+        "state": "future"
+    },
+    "koranbanjar.net": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "korankaltim.com": {
