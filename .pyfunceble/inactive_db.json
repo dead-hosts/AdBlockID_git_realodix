@@ -2667,6 +2667,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:21.215904",
             "status": "ACTIVE"
         },
+        "clampschoolholic.com": {
+            "included_at_epoch": 1602261967.447317,
+            "included_at_iso": "2020-10-09T16:46:07.447317",
+            "last_retested_at_epoch": 1602261967.447317,
+            "last_retested_at_iso": "2020-10-09T16:46:07.447317",
+            "status": "ACTIVE"
+        },
         "clickmedia.co.id": {
             "included_at_epoch": 1601139053.207444,
             "included_at_iso": "2020-09-26T16:50:53.207444",
@@ -4128,6 +4135,13 @@
             "included_at_iso": "2020-09-26T16:50:54.993219",
             "last_retested_at_epoch": 1602003986.437685,
             "last_retested_at_iso": "2020-10-06T17:06:26.437685",
+            "status": "ACTIVE"
+        },
+        "ganool21.link": {
+            "included_at_epoch": 1602261967.491235,
+            "included_at_iso": "2020-10-09T16:46:07.491235",
+            "last_retested_at_epoch": 1602261967.491235,
+            "last_retested_at_iso": "2020-10-09T16:46:07.491235",
             "status": "ACTIVE"
         },
         "ganool21.watch": {
@@ -7126,6 +7140,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:37.109977",
             "status": "ACTIVE"
         },
+        "m.akurat.co": {
+            "included_at_epoch": 1602261967.533095,
+            "included_at_iso": "2020-10-09T16:46:07.533095",
+            "last_retested_at_epoch": 1602261967.533095,
+            "last_retested_at_iso": "2020-10-09T16:46:07.533095",
+            "status": "ACTIVE"
+        },
         "m11kopi.net": {
             "included_at_epoch": 1601139060.465606,
             "included_at_iso": "2020-09-26T16:51:00.465606",
@@ -7595,6 +7616,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:38.790512",
             "status": "ACTIVE"
         },
+        "melongfilm.org": {
+            "included_at_epoch": 1602261967.560386,
+            "included_at_iso": "2020-10-09T16:46:07.560386",
+            "last_retested_at_epoch": 1602261967.560386,
+            "last_retested_at_iso": "2020-10-09T16:46:07.560386",
+            "status": "ACTIVE"
+        },
         "memo.co.id": {
             "included_at_epoch": 1601139061.591141,
             "included_at_iso": "2020-09-26T16:51:01.591141",
@@ -7992,6 +8020,13 @@
             "included_at_iso": "2020-09-26T16:51:02.572512",
             "last_retested_at_epoch": 1602004000.173804,
             "last_retested_at_iso": "2020-10-06T17:06:40.173804",
+            "status": "ACTIVE"
+        },
+        "naghocmu.com": {
+            "included_at_epoch": 1602261967.604753,
+            "included_at_iso": "2020-10-09T16:46:07.604753",
+            "last_retested_at_epoch": 1602261967.604753,
+            "last_retested_at_iso": "2020-10-09T16:46:07.604753",
             "status": "ACTIVE"
         },
         "nakita.grid.id": {
@@ -11172,6 +11207,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:51.340882",
             "status": "ACTIVE"
         },
+        "terra8nb.com": {
+            "included_at_epoch": 1602261967.644636,
+            "included_at_iso": "2020-10-09T16:46:07.644636",
+            "last_retested_at_epoch": 1602261967.644636,
+            "last_retested_at_iso": "2020-10-09T16:46:07.644636",
+            "status": "ACTIVE"
+        },
         "terrapsps.com": {
             "included_at_epoch": 1601139072.128753,
             "included_at_iso": "2020-09-26T16:51:12.128753",
@@ -11555,6 +11597,13 @@
             "included_at_iso": "2020-09-26T16:51:13.383090",
             "last_retested_at_epoch": 1602004012.688173,
             "last_retested_at_iso": "2020-10-06T17:06:52.688173",
+            "status": "ACTIVE"
+        },
+        "urtirepor.com": {
+            "included_at_epoch": 1602261967.683526,
+            "included_at_iso": "2020-10-09T16:46:07.683526",
+            "last_retested_at_epoch": 1602261967.683526,
+            "last_retested_at_iso": "2020-10-09T16:46:07.683526",
             "status": "ACTIVE"
         },
         "usearch.co.id": {
