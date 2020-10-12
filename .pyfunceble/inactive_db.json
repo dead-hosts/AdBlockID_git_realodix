@@ -189,6 +189,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:12.378302",
             "status": "ACTIVE"
         },
+        "185.63.253.247": {
+            "included_at_epoch": 1602521303.757116,
+            "included_at_iso": "2020-10-12T16:48:23.757116",
+            "last_retested_at_epoch": 1602521303.757116,
+            "last_retested_at_iso": "2020-10-12T16:48:23.757116",
+            "status": "INACTIVE"
+        },
         "185.63.253.33": {
             "included_at_epoch": 1600142757.795172,
             "included_at_iso": "2020-09-15T04:05:57.795172",
@@ -2940,6 +2947,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:22.158921",
             "status": "ACTIVE"
         },
+        "dafideff.com": {
+            "included_at_epoch": 1602521303.78429,
+            "included_at_iso": "2020-10-12T16:48:23.784290",
+            "last_retested_at_epoch": 1602521303.78429,
+            "last_retested_at_iso": "2020-10-12T16:48:23.784290",
+            "status": "ACTIVE"
+        },
         "daftaritubola.com": {
             "included_at_epoch": 1601139053.498186,
             "included_at_iso": "2020-09-26T16:50:53.498186",
@@ -3008,6 +3022,13 @@
             "included_at_iso": "2020-09-26T16:50:53.559276",
             "last_retested_at_epoch": 1602003982.39506,
             "last_retested_at_iso": "2020-10-06T17:06:22.395060",
+            "status": "ACTIVE"
+        },
+        "datakeluar.net": {
+            "included_at_epoch": 1602521303.825583,
+            "included_at_iso": "2020-10-12T16:48:23.825583",
+            "last_retested_at_epoch": 1602521303.825583,
+            "last_retested_at_iso": "2020-10-12T16:48:23.825583",
             "status": "ACTIVE"
         },
         "datasekolah.co.id": {
@@ -4529,6 +4550,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:27.834383",
             "status": "ACTIVE"
         },
+        "haluanindonesia.co.id": {
+            "included_at_epoch": 1602521303.864822,
+            "included_at_iso": "2020-10-12T16:48:23.864822",
+            "last_retested_at_epoch": 1602521303.864822,
+            "last_retested_at_iso": "2020-10-12T16:48:23.864822",
+            "status": "ACTIVE"
+        },
         "haluankepri.com": {
             "included_at_epoch": 1601139055.530562,
             "included_at_iso": "2020-09-26T16:50:55.530562",
@@ -5740,6 +5768,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:32.166086",
             "status": "ACTIVE"
         },
+        "justika.com": {
+            "included_at_epoch": 1602521303.902963,
+            "included_at_iso": "2020-10-12T16:48:23.902963",
+            "last_retested_at_epoch": 1602521303.902963,
+            "last_retested_at_iso": "2020-10-12T16:48:23.902963",
+            "status": "ACTIVE"
+        },
         "jwplayer21.com": {
             "included_at_epoch": 1601139057.593871,
             "included_at_iso": "2020-09-26T16:50:57.593871",
@@ -5859,6 +5894,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:32.602078",
             "status": "ACTIVE"
         },
+        "kaltarabisnis.co": {
+            "included_at_epoch": 1602521303.940223,
+            "included_at_iso": "2020-10-12T16:48:23.940223",
+            "last_retested_at_epoch": 1602521303.940223,
+            "last_retested_at_iso": "2020-10-12T16:48:23.940223",
+            "status": "ACTIVE"
+        },
         "kaltengekspres.com": {
             "included_at_epoch": 1601139057.84874,
             "included_at_iso": "2020-09-26T16:50:57.848740",
@@ -5871,6 +5913,13 @@
             "included_at_iso": "2020-09-26T16:50:57.835263",
             "last_retested_at_epoch": 1602003992.652927,
             "last_retested_at_iso": "2020-10-06T17:06:32.652927",
+            "status": "ACTIVE"
+        },
+        "kanalkalimantan.com": {
+            "included_at_epoch": 1602521303.977873,
+            "included_at_iso": "2020-10-12T16:48:23.977873",
+            "last_retested_at_epoch": 1602521303.977873,
+            "last_retested_at_iso": "2020-10-12T16:48:23.977873",
             "status": "ACTIVE"
         },
         "kangparlay.com": {
@@ -7553,6 +7602,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:38.543905",
             "status": "ACTIVE"
         },
+        "medinaslampungnews.co.id": {
+            "included_at_epoch": 1602521304.015481,
+            "included_at_iso": "2020-10-12T16:48:24.015481",
+            "last_retested_at_epoch": 1602521304.015481,
+            "last_retested_at_iso": "2020-10-12T16:48:24.015481",
+            "status": "ACTIVE"
+        },
         "megaiklan.com": {
             "included_at_epoch": 1601139061.437945,
             "included_at_iso": "2020-09-26T16:51:01.437945",
@@ -7698,6 +7754,13 @@
             "included_at_iso": "2020-09-26T16:51:01.774971",
             "last_retested_at_epoch": 1602003999.057105,
             "last_retested_at_iso": "2020-10-06T17:06:39.057105",
+            "status": "ACTIVE"
+        },
+        "metrokaltara.com": {
+            "included_at_epoch": 1602521304.053091,
+            "included_at_iso": "2020-10-12T16:48:24.053091",
+            "last_retested_at_epoch": 1602521304.053091,
+            "last_retested_at_iso": "2020-10-12T16:48:24.053091",
             "status": "ACTIVE"
         },
         "metrokepri.com": {
@@ -11583,6 +11646,13 @@
             "included_at_iso": "2020-09-26T16:51:13.357871",
             "last_retested_at_epoch": 1602004012.61745,
             "last_retested_at_iso": "2020-10-06T17:06:52.617450",
+            "status": "ACTIVE"
+        },
+        "urbanasia.com": {
+            "included_at_epoch": 1602521304.090683,
+            "included_at_iso": "2020-10-12T16:48:24.090683",
+            "last_retested_at_epoch": 1602521304.090683,
+            "last_retested_at_iso": "2020-10-12T16:48:24.090683",
             "status": "ACTIVE"
         },
         "urbandigital.id": {

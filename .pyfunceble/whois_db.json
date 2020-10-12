@@ -2045,6 +2045,12 @@
         "server": "whois.nic.xyz",
         "state": "future"
     },
+    "dafideff.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "daftaritubola.com": {
         "epoch": 1627603200.0,
         "expiration_date": "30-jul-2021",
@@ -2096,6 +2102,12 @@
     "datahk69.com": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "datakeluar.net": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3251,6 +3263,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "haluanindonesia.co.id": {
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "haluankepri.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -4235,6 +4253,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "justika.com": {
+        "epoch": 1764115200.0,
+        "expiration_date": "26-nov-2025",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "jwplayer21.com": {
         "epoch": 1630886400.0,
         "expiration_date": "06-sep-2021",
@@ -4337,6 +4361,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "kaltarabisnis.co": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "kaltengekspres.com": {
         "epoch": 1628208000.0,
         "expiration_date": "06-aug-2021",
@@ -4347,6 +4377,12 @@
         "epoch": 1615593600.0,
         "expiration_date": "13-mar-2021",
         "server": "whois.nic.co",
+        "state": "future"
+    },
+    "kanalkalimantan.com": {
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kangparlay.com": {
@@ -5699,6 +5735,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "medinaslampungnews.co.id": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "megaiklan.com": {
         "epoch": 1621468800.0,
         "expiration_date": "20-may-2021",
@@ -5810,6 +5852,12 @@
     "metrojambi.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "metrokaltara.com": {
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -8811,6 +8859,12 @@
         "epoch": 1643241600.0,
         "expiration_date": "27-jan-2022",
         "server": "whois.id",
+        "state": "future"
+    },
+    "urbanasia.com": {
+        "epoch": 1681776000.0,
+        "expiration_date": "18-apr-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "urbandigital.id": {
