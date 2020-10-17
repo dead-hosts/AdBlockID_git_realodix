@@ -2783,6 +2783,12 @@
         "server": "whois2.afilias-grs.net",
         "state": "future"
     },
+    "fedaro.me": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "server": "whois.nic.me",
+        "state": "future"
+    },
     "feedme.id": {
         "epoch": 1621900800.0,
         "expiration_date": "25-may-2021",
@@ -4955,6 +4961,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "kurofansubs.xyz": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "kuyhaa-me.com": {
         "epoch": 1625443200.0,
         "expiration_date": "05-jul-2021",
@@ -5924,6 +5936,12 @@
     "mitratoday.com": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "miuiku.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },

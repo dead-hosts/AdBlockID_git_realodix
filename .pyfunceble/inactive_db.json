@@ -141,10 +141,10 @@
             "status": "ACTIVE"
         },
         "149.3.170.35": {
-            "included_at_epoch": 1600361273.27186,
-            "included_at_iso": "2020-09-17T16:47:53.271860",
-            "last_retested_at_epoch": 1602003972.257833,
-            "last_retested_at_iso": "2020-10-06T17:06:12.257833",
+            "included_at_epoch": 1602953252.684319,
+            "included_at_iso": "2020-10-17T16:47:32.684319",
+            "last_retested_at_epoch": 1602953252.684319,
+            "last_retested_at_iso": "2020-10-17T16:47:32.684319",
             "status": "INACTIVE"
         },
         "149.56.24.226": {
@@ -2983,10 +2983,10 @@
             "status": "ACTIVE"
         },
         "dares.xyz": {
-            "included_at_epoch": 1600361273.872999,
-            "included_at_iso": "2020-09-17T16:47:53.872999",
-            "last_retested_at_epoch": 1602003982.232989,
-            "last_retested_at_iso": "2020-10-06T17:06:22.232989",
+            "included_at_epoch": 1602953252.714794,
+            "included_at_iso": "2020-10-17T16:47:32.714794",
+            "last_retested_at_epoch": 1602953252.714794,
+            "last_retested_at_iso": "2020-10-17T16:47:32.714794",
             "status": "ACTIVE"
         },
         "darhostmedia.com": {
@@ -3918,6 +3918,13 @@
             "included_at_iso": "2020-09-26T16:50:54.649283",
             "last_retested_at_epoch": 1602003985.590443,
             "last_retested_at_iso": "2020-10-06T17:06:25.590443",
+            "status": "ACTIVE"
+        },
+        "fedaro.me": {
+            "included_at_epoch": 1602953252.741434,
+            "included_at_iso": "2020-10-17T16:47:32.741434",
+            "last_retested_at_epoch": 1602953252.741434,
+            "last_retested_at_iso": "2020-10-17T16:47:32.741434",
             "status": "ACTIVE"
         },
         "feedme.id": {
@@ -6615,6 +6622,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:35.048945",
             "status": "ACTIVE"
         },
+        "kurofansubs.xyz": {
+            "included_at_epoch": 1602953252.785137,
+            "included_at_iso": "2020-10-17T16:47:32.785137",
+            "last_retested_at_epoch": 1602953252.785137,
+            "last_retested_at_iso": "2020-10-17T16:47:32.785137",
+            "status": "ACTIVE"
+        },
         "kuyhaa-me.com": {
             "included_at_epoch": 1601139059.254155,
             "included_at_iso": "2020-09-26T16:50:59.254155",
@@ -6921,6 +6935,13 @@
             "included_at_iso": "2020-09-26T16:50:59.865900",
             "last_retested_at_epoch": 1602003996.175826,
             "last_retested_at_iso": "2020-10-06T17:06:36.175826",
+            "status": "ACTIVE"
+        },
+        "link.kangapip.com": {
+            "included_at_epoch": 1602953252.824589,
+            "included_at_iso": "2020-10-17T16:47:32.824589",
+            "last_retested_at_epoch": 1602953252.824589,
+            "last_retested_at_iso": "2020-10-17T16:47:32.824589",
             "status": "ACTIVE"
         },
         "link48.net": {
@@ -7838,6 +7859,13 @@
             "included_at_iso": "2020-09-26T16:51:01.982727",
             "last_retested_at_epoch": 1602003999.380424,
             "last_retested_at_iso": "2020-10-06T17:06:39.380424",
+            "status": "ACTIVE"
+        },
+        "miuiku.com": {
+            "included_at_epoch": 1602953252.84899,
+            "included_at_iso": "2020-10-17T16:47:32.848990",
+            "last_retested_at_epoch": 1602953252.84899,
+            "last_retested_at_iso": "2020-10-17T16:47:32.848990",
             "status": "ACTIVE"
         },
         "mivo.com": {
@@ -9917,6 +9945,13 @@
             "included_at_iso": "2020-09-26T16:51:07.730437",
             "last_retested_at_epoch": 1602004006.590743,
             "last_retested_at_iso": "2020-10-06T17:06:46.590743",
+            "status": "ACTIVE"
+        },
+        "s.kamerafoto.net": {
+            "included_at_epoch": 1602953252.890503,
+            "included_at_iso": "2020-10-17T16:47:32.890503",
+            "last_retested_at_epoch": 1602953252.890503,
+            "last_retested_at_iso": "2020-10-17T16:47:32.890503",
             "status": "ACTIVE"
         },
         "saadahnews.net": {
