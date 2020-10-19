@@ -861,6 +861,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:14.742217",
             "status": "ACTIVE"
         },
+        "alinea.id": {
+            "included_at_epoch": 1603126566.192982,
+            "included_at_iso": "2020-10-19T16:56:06.192982",
+            "last_retested_at_epoch": 1603126566.192982,
+            "last_retested_at_iso": "2020-10-19T16:56:06.192982",
+            "status": "ACTIVE"
+        },
         "alladsnetwork.web.id": {
             "included_at_epoch": 1601139051.88152,
             "included_at_iso": "2020-09-26T16:50:51.881520",
@@ -4473,6 +4480,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:27.510844",
             "status": "ACTIVE"
         },
+        "gudang.poker": {
+            "included_at_epoch": 1603126566.234524,
+            "included_at_iso": "2020-10-19T16:56:06.234524",
+            "last_retested_at_epoch": 1603126566.234524,
+            "last_retested_at_iso": "2020-10-19T16:56:06.234524",
+            "status": "ACTIVE"
+        },
         "gudangbanner.com": {
             "included_at_epoch": 1601139055.405618,
             "included_at_iso": "2020-09-26T16:50:55.405618",
@@ -5171,6 +5185,13 @@
             "included_at_iso": "2020-09-26T16:50:56.558809",
             "last_retested_at_epoch": 1602003989.999645,
             "last_retested_at_iso": "2020-10-06T17:06:29.999645",
+            "status": "ACTIVE"
+        },
+        "industry.co.id": {
+            "included_at_epoch": 1603126566.274198,
+            "included_at_iso": "2020-10-19T16:56:06.274198",
+            "last_retested_at_epoch": 1603126566.274198,
+            "last_retested_at_iso": "2020-10-19T16:56:06.274198",
             "status": "ACTIVE"
         },
         "indxxi.vip": {
@@ -7154,6 +7175,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:36.915199",
             "status": "ACTIVE"
         },
+        "lokadata.id": {
+            "included_at_epoch": 1603126566.298261,
+            "included_at_iso": "2020-10-19T16:56:06.298261",
+            "last_retested_at_epoch": 1603126566.298261,
+            "last_retested_at_iso": "2020-10-19T16:56:06.298261",
+            "status": "ACTIVE"
+        },
         "lokeriklan.com": {
             "included_at_epoch": 1601139060.336475,
             "included_at_iso": "2020-09-26T16:51:00.336475",
@@ -7439,6 +7467,13 @@
             "included_at_iso": "2020-09-26T16:51:00.968203",
             "last_retested_at_epoch": 1602003997.908159,
             "last_retested_at_iso": "2020-10-06T17:06:37.908159",
+            "status": "ACTIVE"
+        },
+        "marketing.co.id": {
+            "included_at_epoch": 1603126566.338676,
+            "included_at_iso": "2020-10-19T16:56:06.338676",
+            "last_retested_at_epoch": 1603126566.338676,
+            "last_retested_at_iso": "2020-10-19T16:56:06.338676",
             "status": "ACTIVE"
         },
         "markey.id": {
@@ -8358,6 +8393,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:41.025933",
             "status": "ACTIVE"
         },
+        "nicknameuntie.com": {
+            "included_at_epoch": 1603126566.376805,
+            "included_at_iso": "2020-10-19T16:56:06.376805",
+            "last_retested_at_epoch": 1603126566.376805,
+            "last_retested_at_iso": "2020-10-19T16:56:06.376805",
+            "status": "ACTIVE"
+        },
         "nimegami.com": {
             "included_at_epoch": 1601139063.227656,
             "included_at_iso": "2020-09-26T16:51:03.227656",
@@ -9045,10 +9087,10 @@
             "status": "ACTIVE"
         },
         "pasbisa.site": {
-            "included_at_epoch": 1600620371.668335,
-            "included_at_iso": "2020-09-20T16:46:11.668335",
-            "last_retested_at_epoch": 1602004003.468757,
-            "last_retested_at_iso": "2020-10-06T17:06:43.468757",
+            "included_at_epoch": 1603126566.415372,
+            "included_at_iso": "2020-10-19T16:56:06.415372",
+            "last_retested_at_epoch": 1603126566.415372,
+            "last_retested_at_iso": "2020-10-19T16:56:06.415372",
             "status": "INACTIVE"
         },
         "pastelink.pro": {
@@ -9126,6 +9168,13 @@
             "included_at_iso": "2020-09-26T16:51:05.298052",
             "last_retested_at_epoch": 1602004003.716027,
             "last_retested_at_iso": "2020-10-06T17:06:43.716027",
+            "status": "ACTIVE"
+        },
+        "peloporonline.com": {
+            "included_at_epoch": 1603126566.439546,
+            "included_at_iso": "2020-10-19T16:56:06.439546",
+            "last_retested_at_epoch": 1603126566.439546,
+            "last_retested_at_iso": "2020-10-19T16:56:06.439546",
             "status": "ACTIVE"
         },
         "penaberlian.com": {
@@ -9833,6 +9882,13 @@
             "included_at_iso": "2020-09-26T16:51:07.366437",
             "last_retested_at_epoch": 1602004006.15741,
             "last_retested_at_iso": "2020-10-06T17:06:46.157410",
+            "status": "ACTIVE"
+        },
+        "rmco.id": {
+            "included_at_epoch": 1603126566.479674,
+            "included_at_iso": "2020-10-19T16:56:06.479674",
+            "last_retested_at_epoch": 1603126566.479674,
+            "last_retested_at_iso": "2020-10-19T16:56:06.479674",
             "status": "ACTIVE"
         },
         "rmol.co": {
@@ -10969,6 +11025,13 @@
             "last_retested_at_iso": "2020-10-06T17:06:50.113204",
             "status": "ACTIVE"
         },
+        "swarakaltim.com": {
+            "included_at_epoch": 1603126566.519981,
+            "included_at_iso": "2020-10-19T16:56:06.519981",
+            "last_retested_at_epoch": 1603126566.519981,
+            "last_retested_at_iso": "2020-10-19T16:56:06.519981",
+            "status": "ACTIVE"
+        },
         "swarnajambi.co.id": {
             "included_at_epoch": 1601139070.947986,
             "included_at_iso": "2020-09-26T16:51:10.947986",
@@ -11184,6 +11247,13 @@
             "included_at_iso": "2020-09-26T16:51:11.682698",
             "last_retested_at_epoch": 1602004010.911406,
             "last_retested_at_iso": "2020-10-06T17:06:50.911406",
+            "status": "ACTIVE"
+        },
+        "telusur.co.id": {
+            "included_at_epoch": 1603126566.559889,
+            "included_at_iso": "2020-10-19T16:56:06.559889",
+            "last_retested_at_epoch": 1603126566.559889,
+            "last_retested_at_iso": "2020-10-19T16:56:06.559889",
             "status": "ACTIVE"
         },
         "tempat-kost.com": {
@@ -11730,6 +11800,13 @@
             "included_at_iso": "2020-09-26T16:51:13.483062",
             "last_retested_at_epoch": 1602004012.7372,
             "last_retested_at_iso": "2020-10-06T17:06:52.737200",
+            "status": "ACTIVE"
+        },
+        "validnews.id": {
+            "included_at_epoch": 1603126566.598824,
+            "included_at_iso": "2020-10-19T16:56:06.598824",
+            "last_retested_at_epoch": 1603126566.598824,
+            "last_retested_at_iso": "2020-10-19T16:56:06.598824",
             "status": "ACTIVE"
         },
         "valora.co.id": {

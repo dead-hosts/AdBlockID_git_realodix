@@ -431,6 +431,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "alinea.id": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "alladsnetwork.web.id": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
@@ -3209,6 +3215,12 @@
         "server": "whois.nic.me",
         "state": "future"
     },
+    "gudang.poker": {
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "gudangbanner.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
@@ -5369,6 +5381,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "lokadata.id": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "lokeriklan.com": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
@@ -5589,6 +5607,12 @@
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "marketing.co.id": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "markey.id": {
@@ -6317,6 +6341,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "nicknameuntie.com": {
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "nimegami.com": {
         "epoch": 1646352000.0,
         "expiration_date": "04-mar-2022",
@@ -6878,6 +6908,12 @@
     "pelitasumsel.com": {
         "epoch": 1630800000.0,
         "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "peloporonline.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -7467,6 +7503,12 @@
         "epoch": 1623024000.0,
         "expiration_date": "07-jun-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "rmco.id": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "server": "whois.id",
         "state": "future"
     },
     "rmol.co": {
@@ -8315,6 +8357,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "swarakaltim.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "swarnajambi.co.id": {
         "epoch": 1622160000.0,
         "expiration_date": "28-may-2021",
@@ -8469,6 +8517,12 @@
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
         "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "telusur.co.id": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "tempat-kost.com": {
@@ -8912,6 +8966,12 @@
     "uzone.id": {
         "epoch": 1655078400.0,
         "expiration_date": "13-jun-2022",
+        "server": "whois.id",
+        "state": "future"
+    },
+    "validnews.id": {
+        "epoch": 1711152000.0,
+        "expiration_date": "23-mar-2024",
         "server": "whois.id",
         "state": "future"
     },
