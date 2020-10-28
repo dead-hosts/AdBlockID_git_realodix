@@ -981,10 +981,10 @@
             "status": "ACTIVE"
         },
         "anichin.my.id": {
-            "included_at_epoch": 1601397669.525605,
-            "included_at_iso": "2020-09-29T16:41:09.525605",
-            "last_retested_at_epoch": 1603476287.673568,
-            "last_retested_at_iso": "2020-10-23T18:04:47.673568",
+            "included_at_epoch": 1603913569.417511,
+            "included_at_iso": "2020-10-28T19:32:49.417511",
+            "last_retested_at_epoch": 1603913569.417511,
+            "last_retested_at_iso": "2020-10-28T19:32:49.417511",
             "status": "ACTIVE"
         },
         "anifiles.org": {
@@ -3711,10 +3711,10 @@
             "status": "ACTIVE"
         },
         "dwcash.us": {
-            "included_at_epoch": 1601397669.577364,
-            "included_at_iso": "2020-09-29T16:41:09.577364",
-            "last_retested_at_epoch": 1603476298.858054,
-            "last_retested_at_iso": "2020-10-23T18:04:58.858054",
+            "included_at_epoch": 1603913569.456292,
+            "included_at_iso": "2020-10-28T19:32:49.456292",
+            "last_retested_at_epoch": 1603913569.456292,
+            "last_retested_at_iso": "2020-10-28T19:32:49.456292",
             "status": "ACTIVE"
         },
         "dz4link.com": {
@@ -4439,10 +4439,10 @@
             "status": "ACTIVE"
         },
         "goblintv.xyz": {
-            "included_at_epoch": 1601397669.615146,
-            "included_at_iso": "2020-09-29T16:41:09.615146",
-            "last_retested_at_epoch": 1603476301.780631,
-            "last_retested_at_iso": "2020-10-23T18:05:01.780631",
+            "included_at_epoch": 1603913569.483395,
+            "included_at_iso": "2020-10-28T19:32:49.483395",
+            "last_retested_at_epoch": 1603913569.483395,
+            "last_retested_at_iso": "2020-10-28T19:32:49.483395",
             "status": "ACTIVE"
         },
         "goblintvfree.com": {
@@ -7036,10 +7036,10 @@
             "status": "ACTIVE"
         },
         "lexavegascasino.win": {
-            "included_at_epoch": 1601397669.6528,
-            "included_at_iso": "2020-09-29T16:41:09.652800",
-            "last_retested_at_epoch": 1603476312.502272,
-            "last_retested_at_iso": "2020-10-23T18:05:12.502272",
+            "included_at_epoch": 1603913569.510693,
+            "included_at_iso": "2020-10-28T19:32:49.510693",
+            "last_retested_at_epoch": 1603913569.510693,
+            "last_retested_at_iso": "2020-10-28T19:32:49.510693",
             "status": "INACTIVE"
         },
         "lg88.online": {
