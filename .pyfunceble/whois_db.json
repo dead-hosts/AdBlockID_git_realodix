@@ -2411,6 +2411,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "download.id": {
+        "epoch": 1849910400.0,
+        "expiration_date": "15-aug-2028",
+        "server": "whois.id",
+        "state": "future"
+    },
     "download.web.id": {
         "epoch": 1645142400.0,
         "expiration_date": "18-feb-2022",
@@ -2420,6 +2426,12 @@
     "doxadigital.com": {
         "epoch": 1629590400.0,
         "expiration_date": "22-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "dr-farfar.net": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2589,6 +2601,12 @@
         "epoch": 1616803200.0,
         "expiration_date": "27-mar-2021",
         "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "dutafilm.us": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "dutaislam.com": {
@@ -2927,6 +2945,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "fornews.co": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "forumbitcoin.co.id": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -3056,6 +3080,12 @@
     "garudadaily.com": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "garudapos.com": {
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3281,6 +3311,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "gudangfilm.cc": {
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
+        "server": "ccwhois.verisign-grs.com",
+        "state": "future"
+    },
     "gudangfilm.club": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -3329,10 +3365,22 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "hallhesyaw.com": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "halopantura.com": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "halosumsel.co.id": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "haluanindonesia.co.id": {
@@ -3351,6 +3399,12 @@
         "epoch": 1626652800.0,
         "expiration_date": "19-jul-2021",
         "server": "whois.nic.co",
+        "state": "future"
+    },
+    "haluansumatera.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "happistar8.com": {
@@ -4097,6 +4151,12 @@
         "server": "whois.nic.site",
         "state": "future"
     },
+    "ivstracker.net": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "iwanbanaran.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -4106,6 +4166,12 @@
     "jabarekspres.com": {
         "epoch": 1647302400.0,
         "expiration_date": "15-mar-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "jabungonline.com": {
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -4547,6 +4613,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "karyanasional.com": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "kasirhoki.com": {
         "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
@@ -4733,6 +4805,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "klikampera.com": {
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "klikfilm.stream": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
@@ -4766,6 +4844,12 @@
     "klikshowtime.com": {
         "epoch": 1670630400.0,
         "expiration_date": "10-dec-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "kliksumatera.com": {
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5003,6 +5087,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "kotakputih.casa": {
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.nic.casa",
+        "state": "future"
+    },
     "kotaksilver.casa": {
         "epoch": 1633132800.0,
         "expiration_date": "02-oct-2021",
@@ -5151,6 +5241,12 @@
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "lampost.co": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "lampung1.com": {
@@ -5915,6 +6011,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "mediamerdeka.co": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "mediaoaktree.com": {
         "epoch": 1627171200.0,
         "expiration_date": "25-jul-2021",
@@ -6275,6 +6377,12 @@
         "server": "whois.pir.org",
         "state": "future"
     },
+    "mrfog.com": {
+        "epoch": 1722211200.0,
+        "expiration_date": "29-jul-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "mtsbirrulrensing.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -6405,6 +6513,12 @@
         "epoch": 1630022400.0,
         "expiration_date": "27-aug-2021",
         "server": "whois.nic.vip",
+        "state": "future"
+    },
+    "neosubs.net": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "netizenbola.club": {
@@ -6947,6 +7061,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "palembangbaru.com": {
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "palingseru.com": {
         "epoch": 1653609600.0,
         "expiration_date": "27-may-2022",
@@ -7485,6 +7605,12 @@
         "epoch": 1666828800.0,
         "expiration_date": "27-oct-2022",
         "server": "whois.id",
+        "state": "future"
+    },
+    "radarsriwijaya.com": {
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "radarsultra.co.id": {
@@ -8309,6 +8435,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "sobatmovie21.pro": {
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "softfull.me": {
         "epoch": 1630713600.0,
         "expiration_date": "04-sep-2021",
@@ -8573,6 +8705,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "sumaterapost.co": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "sumbartime.com": {
         "epoch": 1630627200.0,
         "expiration_date": "03-sep-2021",
@@ -8589,6 +8727,12 @@
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
         "server": "whois.nic.co",
+        "state": "future"
+    },
+    "sumselterkini.co.id": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "sumselupdate.com": {
@@ -9447,6 +9591,12 @@
         "epoch": 1629417600.0,
         "expiration_date": "20-aug-2021",
         "server": "whois.nic.cr",
+        "state": "future"
+    },
+    "wideazone.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wiid.me": {
