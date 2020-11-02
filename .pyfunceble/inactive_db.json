@@ -176,10 +176,10 @@
             "status": "INACTIVE"
         },
         "185.217.95.238": {
-            "included_at_epoch": 1601829703.790924,
-            "included_at_iso": "2020-10-04T16:41:43.790924",
-            "last_retested_at_epoch": 1603476284.350416,
-            "last_retested_at_iso": "2020-10-23T18:04:44.350416",
+            "included_at_epoch": 1604339427.875417,
+            "included_at_iso": "2020-11-02T17:50:27.875417",
+            "last_retested_at_epoch": 1604339427.875417,
+            "last_retested_at_iso": "2020-11-02T17:50:27.875417",
             "status": "ACTIVE"
         },
         "185.224.130.67": {
@@ -2149,6 +2149,13 @@
             "last_retested_at_iso": "2020-10-26T19:05:47.663346",
             "status": "ACTIVE"
         },
+        "bioskopkerenin.site": {
+            "included_at_epoch": 1604339427.915155,
+            "included_at_iso": "2020-11-02T17:50:27.915155",
+            "last_retested_at_epoch": 1604339427.915155,
+            "last_retested_at_iso": "2020-11-02T17:50:27.915155",
+            "status": "ACTIVE"
+        },
         "bisablog.com": {
             "included_at_epoch": 1603739147.677332,
             "included_at_iso": "2020-10-26T19:05:47.677332",
@@ -3374,6 +3381,13 @@
             "last_retested_at_iso": "2020-10-26T19:05:49.060819",
             "status": "ACTIVE"
         },
+        "ditonton.net": {
+            "included_at_epoch": 1604339427.958052,
+            "included_at_iso": "2020-11-02T17:50:27.958052",
+            "last_retested_at_epoch": 1604339427.958052,
+            "last_retested_at_iso": "2020-11-02T17:50:27.958052",
+            "status": "ACTIVE"
+        },
         "djoker.online": {
             "included_at_epoch": 1603739149.079787,
             "included_at_iso": "2020-10-26T19:05:49.079787",
@@ -3477,6 +3491,13 @@
             "included_at_iso": "2020-10-26T19:05:49.186638",
             "last_retested_at_epoch": 1603739149.186638,
             "last_retested_at_iso": "2020-10-26T19:05:49.186638",
+            "status": "ACTIVE"
+        },
+        "downloadbatch.net": {
+            "included_at_epoch": 1604339427.997137,
+            "included_at_iso": "2020-11-02T17:50:27.997137",
+            "last_retested_at_epoch": 1604339427.997137,
+            "last_retested_at_iso": "2020-11-02T17:50:27.997137",
             "status": "ACTIVE"
         },
         "downloadvideogratiss.blogspot.com": {
@@ -4058,6 +4079,13 @@
             "included_at_iso": "2020-10-26T19:05:49.971382",
             "last_retested_at_epoch": 1603739149.971382,
             "last_retested_at_iso": "2020-10-26T19:05:49.971382",
+            "status": "ACTIVE"
+        },
+        "film21ku.xyz": {
+            "included_at_epoch": 1604339428.036719,
+            "included_at_iso": "2020-11-02T17:50:28.036719",
+            "last_retested_at_epoch": 1604339428.036719,
+            "last_retested_at_iso": "2020-11-02T17:50:28.036719",
             "status": "ACTIVE"
         },
         "filmapik.link": {
@@ -6343,10 +6371,10 @@
             "status": "ACTIVE"
         },
         "kerenslot.net": {
-            "included_at_epoch": 1601829703.827771,
-            "included_at_iso": "2020-10-04T16:41:43.827771",
-            "last_retested_at_epoch": 1603476309.135717,
-            "last_retested_at_iso": "2020-10-23T18:05:09.135717",
+            "included_at_epoch": 1604339428.075583,
+            "included_at_iso": "2020-11-02T17:50:28.075583",
+            "last_retested_at_epoch": 1604339428.075583,
+            "last_retested_at_iso": "2020-11-02T17:50:28.075583",
             "status": "ACTIVE"
         },
         "kertashitam.com": {
@@ -6693,10 +6721,10 @@
             "status": "ACTIVE"
         },
         "koranbanjar.net": {
-            "included_at_epoch": 1601829703.869378,
-            "included_at_iso": "2020-10-04T16:41:43.869378",
-            "last_retested_at_epoch": 1603476310.577402,
-            "last_retested_at_iso": "2020-10-23T18:05:10.577402",
+            "included_at_epoch": 1604339428.100469,
+            "included_at_iso": "2020-11-02T17:50:28.100469",
+            "last_retested_at_epoch": 1604339428.100469,
+            "last_retested_at_iso": "2020-11-02T17:50:28.100469",
             "status": "ACTIVE"
         },
         "korankaltim.com": {

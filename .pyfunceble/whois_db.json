@@ -1469,6 +1469,12 @@
         "server": "whois.pir.org",
         "state": "future"
     },
+    "bioskopkerenin.site": {
+        "epoch": 1650240000.0,
+        "expiration_date": "18-apr-2022",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "bisablog.com": {
         "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
@@ -2363,6 +2369,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "ditonton.net": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "djoker.online": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -2421,6 +2433,12 @@
         "epoch": 1645142400.0,
         "expiration_date": "18-feb-2022",
         "server": "whois.id",
+        "state": "future"
+    },
+    "downloadbatch.net": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "doxadigital.com": {
@@ -2883,6 +2901,12 @@
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
         "server": "whois.nic.cx",
+        "state": "future"
+    },
+    "film21ku.xyz": {
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "filmapik.link": {
