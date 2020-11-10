@@ -190,10 +190,10 @@
             "status": "ACTIVE"
         },
         "185.63.253.247": {
-            "included_at_epoch": 1602521303.757116,
-            "included_at_iso": "2020-10-12T16:48:23.757116",
-            "last_retested_at_epoch": 1603476284.404353,
-            "last_retested_at_iso": "2020-10-23T18:04:44.404353",
+            "included_at_epoch": 1605032019.997261,
+            "included_at_iso": "2020-11-10T18:13:39.997261",
+            "last_retested_at_epoch": 1605032019.997261,
+            "last_retested_at_iso": "2020-11-10T18:13:39.997261",
             "status": "INACTIVE"
         },
         "185.63.253.33": {
@@ -418,6 +418,13 @@
             "included_at_iso": "2020-10-26T19:05:46.262733",
             "last_retested_at_epoch": 1603739146.262733,
             "last_retested_at_iso": "2020-10-26T19:05:46.262733",
+            "status": "ACTIVE"
+        },
+        "absolutesmmpanel.com": {
+            "included_at_epoch": 1605032020.02544,
+            "included_at_iso": "2020-11-10T18:13:40.025440",
+            "last_retested_at_epoch": 1605032020.02544,
+            "last_retested_at_iso": "2020-11-10T18:13:40.025440",
             "status": "ACTIVE"
         },
         "accesstrade.co.id": {
@@ -3018,10 +3025,10 @@
             "status": "ACTIVE"
         },
         "dafideff.com": {
-            "included_at_epoch": 1602521303.78429,
-            "included_at_iso": "2020-10-12T16:48:23.784290",
-            "last_retested_at_epoch": 1603476295.776789,
-            "last_retested_at_iso": "2020-10-23T18:04:55.776789",
+            "included_at_epoch": 1605032020.068986,
+            "included_at_iso": "2020-11-10T18:13:40.068986",
+            "last_retested_at_epoch": 1605032020.068986,
+            "last_retested_at_iso": "2020-11-10T18:13:40.068986",
             "status": "ACTIVE"
         },
         "daftaritubola.com": {
@@ -3095,10 +3102,10 @@
             "status": "ACTIVE"
         },
         "datakeluar.net": {
-            "included_at_epoch": 1602521303.825583,
-            "included_at_iso": "2020-10-12T16:48:23.825583",
-            "last_retested_at_epoch": 1603476296.109631,
-            "last_retested_at_iso": "2020-10-23T18:04:56.109631",
+            "included_at_epoch": 1605032020.095488,
+            "included_at_iso": "2020-11-10T18:13:40.095488",
+            "last_retested_at_epoch": 1605032020.095488,
+            "last_retested_at_iso": "2020-11-10T18:13:40.095488",
             "status": "ACTIVE"
         },
         "datasekolah.co.id": {
@@ -4775,10 +4782,10 @@
             "status": "ACTIVE"
         },
         "haluanindonesia.co.id": {
-            "included_at_epoch": 1602521303.864822,
-            "included_at_iso": "2020-10-12T16:48:23.864822",
-            "last_retested_at_epoch": 1603476302.636677,
-            "last_retested_at_iso": "2020-10-23T18:05:02.636677",
+            "included_at_epoch": 1605032020.122556,
+            "included_at_iso": "2020-11-10T18:13:40.122556",
+            "last_retested_at_epoch": 1605032020.122556,
+            "last_retested_at_iso": "2020-11-10T18:13:40.122556",
             "status": "ACTIVE"
         },
         "haluankepri.com": {
@@ -5691,11 +5698,25 @@
             "last_retested_at_iso": "2020-10-26T19:05:52.446121",
             "status": "ACTIVE"
         },
+        "istrimuda.me": {
+            "included_at_epoch": 1605032020.149436,
+            "included_at_iso": "2020-11-10T18:13:40.149436",
+            "last_retested_at_epoch": 1605032020.149436,
+            "last_retested_at_iso": "2020-11-10T18:13:40.149436",
+            "status": "ACTIVE"
+        },
         "itc303.com": {
             "included_at_epoch": 1603739152.432125,
             "included_at_iso": "2020-10-26T19:05:52.432125",
             "last_retested_at_epoch": 1603739152.432125,
             "last_retested_at_iso": "2020-10-26T19:05:52.432125",
+            "status": "ACTIVE"
+        },
+        "itcjaya.com": {
+            "included_at_epoch": 1605032020.19203,
+            "included_at_iso": "2020-11-10T18:13:40.192030",
+            "last_retested_at_epoch": 1605032020.19203,
+            "last_retested_at_iso": "2020-11-10T18:13:40.192030",
             "status": "ACTIVE"
         },
         "itsafelink.com": {
@@ -6077,10 +6098,10 @@
             "status": "ACTIVE"
         },
         "justika.com": {
-            "included_at_epoch": 1602521303.902963,
-            "included_at_iso": "2020-10-12T16:48:23.902963",
-            "last_retested_at_epoch": 1603476307.75601,
-            "last_retested_at_iso": "2020-10-23T18:05:07.756010",
+            "included_at_epoch": 1605032020.233551,
+            "included_at_iso": "2020-11-10T18:13:40.233551",
+            "last_retested_at_epoch": 1605032020.233551,
+            "last_retested_at_iso": "2020-11-10T18:13:40.233551",
             "status": "ACTIVE"
         },
         "jwplayer21.com": {
@@ -6245,10 +6266,10 @@
             "status": "ACTIVE"
         },
         "kaltarabisnis.co": {
-            "included_at_epoch": 1602521303.940223,
-            "included_at_iso": "2020-10-12T16:48:23.940223",
-            "last_retested_at_epoch": 1603476308.403065,
-            "last_retested_at_iso": "2020-10-23T18:05:08.403065",
+            "included_at_epoch": 1605032020.25937,
+            "included_at_iso": "2020-11-10T18:13:40.259370",
+            "last_retested_at_epoch": 1605032020.25937,
+            "last_retested_at_iso": "2020-11-10T18:13:40.259370",
             "status": "ACTIVE"
         },
         "kaltengekspres.com": {
@@ -6266,10 +6287,10 @@
             "status": "ACTIVE"
         },
         "kanalkalimantan.com": {
-            "included_at_epoch": 1602521303.977873,
-            "included_at_iso": "2020-10-12T16:48:23.977873",
-            "last_retested_at_epoch": 1603476308.43024,
-            "last_retested_at_iso": "2020-10-23T18:05:08.430240",
+            "included_at_epoch": 1605032020.285845,
+            "included_at_iso": "2020-11-10T18:13:40.285845",
+            "last_retested_at_epoch": 1605032020.285845,
+            "last_retested_at_iso": "2020-11-10T18:13:40.285845",
             "status": "ACTIVE"
         },
         "kangparlay.com": {
@@ -7595,6 +7616,13 @@
             "last_retested_at_iso": "2020-10-26T19:05:56.231771",
             "status": "ACTIVE"
         },
+        "luangusaha.com": {
+            "included_at_epoch": 1605032020.312859,
+            "included_at_iso": "2020-11-10T18:13:40.312859",
+            "last_retested_at_epoch": 1605032020.312859,
+            "last_retested_at_iso": "2020-11-10T18:13:40.312859",
+            "status": "ACTIVE"
+        },
         "lyehemarm.club": {
             "included_at_epoch": 1603739156.267952,
             "included_at_iso": "2020-10-26T19:05:56.267952",
@@ -8079,10 +8107,10 @@
             "status": "ACTIVE"
         },
         "medinaslampungnews.co.id": {
-            "included_at_epoch": 1602521304.015481,
-            "included_at_iso": "2020-10-12T16:48:24.015481",
-            "last_retested_at_epoch": 1603476315.880086,
-            "last_retested_at_iso": "2020-10-23T18:05:15.880086",
+            "included_at_epoch": 1605032020.354704,
+            "included_at_iso": "2020-11-10T18:13:40.354704",
+            "last_retested_at_epoch": 1605032020.354704,
+            "last_retested_at_iso": "2020-11-10T18:13:40.354704",
             "status": "ACTIVE"
         },
         "megaiklan.com": {
@@ -8240,10 +8268,10 @@
             "status": "ACTIVE"
         },
         "metrokaltara.com": {
-            "included_at_epoch": 1602521304.053091,
-            "included_at_iso": "2020-10-12T16:48:24.053091",
-            "last_retested_at_epoch": 1603476316.499608,
-            "last_retested_at_iso": "2020-10-23T18:05:16.499608",
+            "included_at_epoch": 1605032020.379778,
+            "included_at_iso": "2020-11-10T18:13:40.379778",
+            "last_retested_at_epoch": 1605032020.379778,
+            "last_retested_at_iso": "2020-11-10T18:13:40.379778",
             "status": "ACTIVE"
         },
         "metrokepri.com": {
@@ -8314,6 +8342,13 @@
             "included_at_iso": "2020-10-26T19:05:57.920437",
             "last_retested_at_epoch": 1603739157.920437,
             "last_retested_at_iso": "2020-10-26T19:05:57.920437",
+            "status": "ACTIVE"
+        },
+        "misayukiusagi.blogspot.com": {
+            "included_at_epoch": 1605032020.406591,
+            "included_at_iso": "2020-11-10T18:13:40.406591",
+            "last_retested_at_epoch": 1605032020.406591,
+            "last_retested_at_iso": "2020-11-10T18:13:40.406591",
             "status": "ACTIVE"
         },
         "misdem.pro": {
@@ -9224,6 +9259,13 @@
             "included_at_iso": "2020-10-26T19:06:00.337145",
             "last_retested_at_epoch": 1603739160.337145,
             "last_retested_at_iso": "2020-10-26T19:06:00.337145",
+            "status": "ACTIVE"
+        },
+        "oregonwave.org": {
+            "included_at_epoch": 1605032020.433416,
+            "included_at_iso": "2020-11-10T18:13:40.433416",
+            "last_retested_at_epoch": 1605032020.433416,
+            "last_retested_at_iso": "2020-11-10T18:13:40.433416",
             "status": "ACTIVE"
         },
         "otakotaku.com": {
@@ -10962,6 +11004,13 @@
             "last_retested_at_iso": "2020-10-26T19:06:05.385565",
             "status": "ACTIVE"
         },
+        "sgamepro.com": {
+            "included_at_epoch": 1605032020.476081,
+            "included_at_iso": "2020-11-10T18:13:40.476081",
+            "last_retested_at_epoch": 1605032020.476081,
+            "last_retested_at_iso": "2020-11-10T18:13:40.476081",
+            "status": "ACTIVE"
+        },
         "sh.st": {
             "included_at_epoch": 1603739165.409297,
             "included_at_iso": "2020-10-26T19:06:05.409297",
@@ -11333,6 +11382,13 @@
             "last_retested_at_iso": "2020-10-26T19:06:06.485553",
             "status": "ACTIVE"
         },
+        "starchfoundation.org": {
+            "included_at_epoch": 1605032020.517326,
+            "included_at_iso": "2020-11-10T18:13:40.517326",
+            "last_retested_at_epoch": 1605032020.517326,
+            "last_retested_at_iso": "2020-11-10T18:13:40.517326",
+            "status": "ACTIVE"
+        },
         "static.domainesia.com": {
             "included_at_epoch": 1603739166.460352,
             "included_at_iso": "2020-10-26T19:06:06.460352",
@@ -11345,6 +11401,13 @@
             "included_at_iso": "2020-10-26T19:06:06.534629",
             "last_retested_at_epoch": 1603739166.534629,
             "last_retested_at_iso": "2020-10-26T19:06:06.534629",
+            "status": "ACTIVE"
+        },
+        "stevendonziger.com": {
+            "included_at_epoch": 1605032020.558912,
+            "included_at_iso": "2020-11-10T18:13:40.558912",
+            "last_retested_at_epoch": 1605032020.558912,
+            "last_retested_at_iso": "2020-11-10T18:13:40.558912",
             "status": "ACTIVE"
         },
         "stfly.io": {
@@ -12447,10 +12510,10 @@
             "status": "ACTIVE"
         },
         "urbanasia.com": {
-            "included_at_epoch": 1602521304.090683,
-            "included_at_iso": "2020-10-12T16:48:24.090683",
-            "last_retested_at_epoch": 1602521304.090683,
-            "last_retested_at_iso": "2020-10-12T16:48:24.090683",
+            "included_at_epoch": 1605032020.600362,
+            "included_at_iso": "2020-11-10T18:13:40.600362",
+            "last_retested_at_epoch": 1605032020.600362,
+            "last_retested_at_iso": "2020-11-10T18:13:40.600362",
             "status": "ACTIVE"
         },
         "urbandigital.id": {
