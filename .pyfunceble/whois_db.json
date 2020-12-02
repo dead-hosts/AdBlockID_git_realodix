@@ -9713,6 +9713,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "terobosnews.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "terong.xyz": {
         "epoch": 1627516800.0,
         "expiration_date": "29-jul-2021",
@@ -9768,8 +9774,8 @@
         "state": "future"
     },
     "timnasjunior.com": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -9893,6 +9899,18 @@
         "server": "whois.id",
         "state": "future"
     },
+    "transjabar.com": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "transmediariau.com": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "traveltextonline.com": {
         "epoch": 1628208000.0,
         "expiration_date": "06-aug-2021",
@@ -9990,8 +10008,8 @@
         "state": "future"
     },
     "uiz.io": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
         "server": "whois.nic.io",
         "state": "future"
     },
@@ -10017,6 +10035,12 @@
         "epoch": 1632096000.0,
         "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "uniplay99.org": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "up4pc.com": {
@@ -10086,8 +10110,8 @@
         "state": "future"
     },
     "valora.co.id": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
         "server": "whois.id",
         "state": "future"
     },
@@ -10140,8 +10164,8 @@
         "state": "future"
     },
     "vylowgaming.net": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -10187,6 +10211,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "wartaterkini.news": {
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.nic.news",
+        "state": "future"
+    },
     "wartatransparansi.com": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
@@ -10194,8 +10224,8 @@
         "state": "future"
     },
     "warungasep.net": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -10206,8 +10236,8 @@
         "state": "future"
     },
     "wasiteuro.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -10218,8 +10248,8 @@
         "state": "future"
     },
     "waspadaaceh.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -10314,8 +10344,8 @@
         "state": "future"
     },
     "winstarlink.com": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -10410,8 +10440,8 @@
         "state": "future"
     },
     "zonalampung.co": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.nic.co",
         "state": "future"
     },
