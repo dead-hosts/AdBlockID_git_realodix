@@ -971,6 +971,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "ayobekasi.net": {
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ayosemarang.com": {
         "epoch": 1634256000.0,
         "expiration_date": "15-oct-2021",
@@ -1065,6 +1071,12 @@
         "epoch": 1714521600.0,
         "expiration_date": "01-may-2024",
         "server": "whois.nic.biz",
+        "state": "future"
+    },
+    "balicars.info": {
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "baliekbis.com": {
@@ -1901,6 +1913,18 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "carmudi.co.id": {
+        "epoch": 1634860800.0,
+        "expiration_date": "22-oct-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
+    "cartalog.id": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "server": "whois.id",
+        "state": "future"
+    },
     "catwenbat.com": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -1979,6 +2003,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "cianjurekspres.net": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "cidahu.com": {
         "epoch": 1630368000.0,
         "expiration_date": "31-aug-2021",
@@ -2018,6 +2048,12 @@
     "cinemamkv.net": {
         "epoch": 1627084800.0,
         "expiration_date": "24-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "cintamobil.com": {
+        "epoch": 1646870400.0,
+        "expiration_date": "10-mar-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2744,6 +2780,12 @@
     "dukun-cit.com": {
         "epoch": 1632787200.0,
         "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "dumetschool.com": {
+        "epoch": 1656806400.0,
+        "expiration_date": "03-jul-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3551,6 +3593,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "goodnewsfromindonesia.id": {
+        "epoch": 1641859200.0,
+        "expiration_date": "11-jan-2022",
+        "server": "whois.id",
+        "state": "future"
+    },
     "goraps.com": {
         "epoch": 1612224000.0,
         "expiration_date": "02-feb-2021",
@@ -3801,6 +3849,12 @@
         "epoch": 1625961600.0,
         "expiration_date": "11-jul-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "hariansilampari.co.id": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "hariansinggalang.co.id": {
@@ -4142,6 +4196,12 @@
     "iklanpopuler.com": {
         "epoch": 1621900800.0,
         "expiration_date": "25-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "iklanrumah.com": {
+        "epoch": 1754697600.0,
+        "expiration_date": "09-aug-2025",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -4766,6 +4826,12 @@
     "joyvowdig.com": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "jualmobil.com": {
+        "epoch": 1643500800.0,
+        "expiration_date": "30-jan-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5795,6 +5861,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "lampungpro.co": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "lampungtoday.com": {
         "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
@@ -6341,6 +6413,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "mandalikapost.com": {
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "mandiripos.com": {
         "epoch": 1632787200.0,
         "expiration_date": "28-sep-2021",
@@ -6500,6 +6578,12 @@
     "matamatapolitik.com": {
         "epoch": 1633305600.0,
         "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "matanusantara.com": {
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -6885,6 +6969,12 @@
         "epoch": 1626393600.0,
         "expiration_date": "16-jul-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "mobilbekas.co.id": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "mobilwow.com": {
@@ -7595,6 +7685,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "oto.com": {
+        "epoch": 1684800000.0,
+        "expiration_date": "23-may-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "otobalancing.net": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
@@ -7928,6 +8024,12 @@
     "penamerdeka.com": {
         "epoch": 1615075200.0,
         "expiration_date": "07-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "pengusahamuslim.com": {
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -8312,6 +8414,12 @@
     "radarbengkuluonline.com": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "radarcianjur.com": {
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
