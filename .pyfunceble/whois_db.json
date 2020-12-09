@@ -977,7 +977,19 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "ayocirebon.com": {
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ayosemarang.com": {
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ayosurabaya.com": {
         "epoch": 1634256000.0,
         "expiration_date": "15-oct-2021",
         "server": "whois.verisign-grs.com",
@@ -1221,6 +1233,12 @@
         "epoch": 1626566400.0,
         "expiration_date": "18-jul-2021",
         "server": "whois.nic.club",
+        "state": "future"
+    },
+    "beepdo.com": {
+        "epoch": 1725235200.0,
+        "expiration_date": "02-sep-2024",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "begitulah.net": {
@@ -1551,6 +1569,12 @@
         "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
         "server": "whois.nic.guru",
+        "state": "future"
+    },
+    "bioskopkeren.stream": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "server": "whois.nic.stream",
         "state": "future"
     },
     "bioskopkerenin.club": {
@@ -2609,6 +2633,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "doktersehat.com": {
+        "epoch": 1669507200.0,
+        "expiration_date": "27-nov-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "domino224.com": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
@@ -2787,6 +2817,12 @@
         "epoch": 1656806400.0,
         "expiration_date": "03-jul-2022",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "dunia21.blog": {
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.nic.blog",
         "state": "future"
     },
     "dunia21.download": {
@@ -3119,6 +3155,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "fb21.club": {
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.nic.club",
+        "state": "future"
+    },
     "fb21.tv": {
         "epoch": 1637107200.0,
         "expiration_date": "17-nov-2021",
@@ -3189,6 +3231,12 @@
         "epoch": 1606953600.0,
         "expiration_date": "03-dec-2020",
         "server": "whois.id",
+        "state": "future"
+    },
+    "filmindo.link": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "filmindo.stream": {
@@ -3357,6 +3405,12 @@
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
         "server": "whois.nic.world",
+        "state": "future"
+    },
+    "ganool21.asia": {
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
+        "server": "whois.nic.asia",
         "state": "future"
     },
     "ganool21.link": {
@@ -4347,6 +4401,12 @@
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
         "server": "whois.pir.org",
+        "state": "future"
+    },
+    "infobekasi.co.id": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "infobrand.id": {
@@ -7073,6 +7133,12 @@
         "server": "whois.afilias-srs.net",
         "state": "future"
     },
+    "movies21.host": {
+        "epoch": 1669507200.0,
+        "expiration_date": "27-nov-2022",
+        "server": "whois.nic.host",
+        "state": "future"
+    },
     "movies21.link": {
         "epoch": 1622592000.0,
         "expiration_date": "02-jun-2021",
@@ -7391,6 +7457,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "nonton.pro": {
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "nonton45.com": {
         "epoch": 1625356800.0,
         "expiration_date": "04-jul-2021",
@@ -7622,6 +7694,12 @@
     "onestopmovie.com": {
         "epoch": 1626307200.0,
         "expiration_date": "15-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "onestopmovie.net": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -8195,6 +8273,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "potret24.com": {
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "pradjadj.com": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
@@ -8471,9 +8555,21 @@
         "server": "whois.id",
         "state": "future"
     },
+    "radartegal.com": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "radartuba.com": {
         "epoch": 1638316800.0,
         "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "radiokucing.com": {
+        "epoch": 1641513600.0,
+        "expiration_date": "07-jan-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -8657,9 +8753,21 @@
         "server": "whois.nic.xyz",
         "state": "future"
     },
+    "riau24.com": {
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "riauandalas.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "riauin.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -10479,6 +10587,12 @@
         "epoch": 1634428800.0,
         "expiration_date": "17-oct-2021",
         "server": "whois.nic.me",
+        "state": "future"
+    },
+    "vimanews.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "viralberita.net": {
