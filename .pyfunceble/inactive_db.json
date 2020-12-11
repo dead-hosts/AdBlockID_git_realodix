@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/AdBlockID_git_realodix/domains.list": {
+        "1001tutorial.com": {
+            "included_at_epoch": 1607719621.347337,
+            "included_at_iso": "2020-12-11T20:47:01.347337",
+            "last_retested_at_epoch": 1607719621.347337,
+            "last_retested_at_iso": "2020-12-11T20:47:01.347337",
+            "status": "ACTIVE"
+        },
         "1001win.bid": {
             "included_at_epoch": 1606922973.653166,
             "included_at_iso": "2020-12-02T15:29:33.653166",
@@ -2380,6 +2387,13 @@
             "last_retested_at_iso": "2020-12-02T15:29:35.625498",
             "status": "ACTIVE"
         },
+        "blogsecond.com": {
+            "included_at_epoch": 1607719621.394559,
+            "included_at_iso": "2020-12-11T20:47:01.394559",
+            "last_retested_at_epoch": 1607719621.394559,
+            "last_retested_at_iso": "2020-12-11T20:47:01.394559",
+            "status": "ACTIVE"
+        },
         "blokbojonegoro.com": {
             "included_at_epoch": 1606922975.632045,
             "included_at_iso": "2020-12-02T15:29:35.632045",
@@ -3456,6 +3470,13 @@
             "included_at_iso": "2020-12-02T15:29:37.010415",
             "last_retested_at_epoch": 1606922977.010415,
             "last_retested_at_iso": "2020-12-02T15:29:37.010415",
+            "status": "ACTIVE"
+        },
+        "dezige-in.blogspot.com": {
+            "included_at_epoch": 1607719621.436983,
+            "included_at_iso": "2020-12-11T20:47:01.436983",
+            "last_retested_at_epoch": 1607719621.436983,
+            "last_retested_at_iso": "2020-12-11T20:47:01.436983",
             "status": "ACTIVE"
         },
         "dgw7ae5vrovs7.cloudfront.net": {
@@ -5635,6 +5656,13 @@
             "last_retested_at_iso": "2020-12-02T15:29:40.690182",
             "status": "ACTIVE"
         },
+        "indravedia.com": {
+            "included_at_epoch": 1607719621.462359,
+            "included_at_iso": "2020-12-11T20:47:01.462359",
+            "last_retested_at_epoch": 1607719621.462359,
+            "last_retested_at_iso": "2020-12-11T20:47:01.462359",
+            "status": "ACTIVE"
+        },
         "industry.co.id": {
             "included_at_epoch": 1606922980.703371,
             "included_at_iso": "2020-12-02T15:29:40.703371",
@@ -6018,6 +6046,13 @@
             "included_at_iso": "2020-12-02T15:29:41.433299",
             "last_retested_at_epoch": 1606922981.433299,
             "last_retested_at_iso": "2020-12-02T15:29:41.433299",
+            "status": "ACTIVE"
+        },
+        "jagoankode.com": {
+            "included_at_epoch": 1607719621.506761,
+            "included_at_iso": "2020-12-11T20:47:01.506761",
+            "last_retested_at_epoch": 1607719621.506761,
+            "last_retested_at_iso": "2020-12-11T20:47:01.506761",
             "status": "ACTIVE"
         },
         "jagokata.com": {
@@ -8869,6 +8904,13 @@
             "last_retested_at_iso": "2020-12-02T15:29:48.375488",
             "status": "ACTIVE"
         },
+        "mrmung.com": {
+            "included_at_epoch": 1607719621.54971,
+            "included_at_iso": "2020-12-11T20:47:01.549710",
+            "last_retested_at_epoch": 1607719621.54971,
+            "last_retested_at_iso": "2020-12-11T20:47:01.549710",
+            "status": "ACTIVE"
+        },
         "mtsbirrulrensing.com": {
             "included_at_epoch": 1606922988.414362,
             "included_at_iso": "2020-12-02T15:29:48.414362",
@@ -9224,6 +9266,13 @@
             "included_at_iso": "2020-12-02T15:29:49.451998",
             "last_retested_at_epoch": 1606922989.451998,
             "last_retested_at_iso": "2020-12-02T15:29:49.451998",
+            "status": "ACTIVE"
+        },
+        "nomis.id": {
+            "included_at_epoch": 1607719621.592287,
+            "included_at_iso": "2020-12-11T20:47:01.592287",
+            "last_retested_at_epoch": 1607719621.592287,
+            "last_retested_at_iso": "2020-12-11T20:47:01.592287",
             "status": "ACTIVE"
         },
         "nonton.com": {
@@ -12390,6 +12439,13 @@
             "last_retested_at_iso": "2020-12-02T15:29:59.963145",
             "status": "ACTIVE"
         },
+        "teknoding.com": {
+            "included_at_epoch": 1607719621.634917,
+            "included_at_iso": "2020-12-11T20:47:01.634917",
+            "last_retested_at_epoch": 1607719621.634917,
+            "last_retested_at_iso": "2020-12-11T20:47:01.634917",
+            "status": "ACTIVE"
+        },
         "teknolalat.com": {
             "included_at_epoch": 1606923000.014323,
             "included_at_iso": "2020-12-02T15:30:00.014323",
@@ -12437,6 +12493,13 @@
             "included_at_iso": "2020-12-02T15:30:00.173416",
             "last_retested_at_epoch": 1606923000.173416,
             "last_retested_at_iso": "2020-12-02T15:30:00.173416",
+            "status": "ACTIVE"
+        },
+        "teraa.net": {
+            "included_at_epoch": 1607719621.677338,
+            "included_at_iso": "2020-12-11T20:47:01.677338",
+            "last_retested_at_epoch": 1607719621.677338,
+            "last_retested_at_iso": "2020-12-11T20:47:01.677338",
             "status": "ACTIVE"
         },
         "terafile.net": {
@@ -12654,6 +12717,13 @@
             "included_at_iso": "2020-12-02T16:52:20.043503",
             "last_retested_at_epoch": 1606927940.043503,
             "last_retested_at_iso": "2020-12-02T16:52:20.043503",
+            "status": "ACTIVE"
+        },
+        "tohaboy.web.id": {
+            "included_at_epoch": 1607719621.719582,
+            "included_at_iso": "2020-12-11T20:47:01.719582",
+            "last_retested_at_epoch": 1607719621.719582,
+            "last_retested_at_iso": "2020-12-11T20:47:01.719582",
             "status": "ACTIVE"
         },
         "toko-obat-murah.com": {

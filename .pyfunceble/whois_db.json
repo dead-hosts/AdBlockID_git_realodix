@@ -1,4 +1,10 @@
 {
+    "1001tutorial.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "1001win.bid": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
@@ -1658,6 +1664,12 @@
     "blognetid.com": {
         "epoch": 1634515200.0,
         "expiration_date": "18-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "blogsecond.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -4379,6 +4391,12 @@
         "server": "whois.id",
         "state": "future"
     },
+    "indravedia.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "industry.co.id": {
         "epoch": 1757462400.0,
         "expiration_date": "10-sep-2025",
@@ -4724,6 +4742,12 @@
     "jagoanime.com": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "jagoankode.com": {
+        "epoch": 1658534400.0,
+        "expiration_date": "23-jul-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -7169,6 +7193,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "mrmung.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "mtsbirrulrensing.com": {
         "epoch": 1635379200.0,
         "expiration_date": "28-oct-2021",
@@ -7449,6 +7479,12 @@
         "epoch": 1631232000.0,
         "expiration_date": "10-sep-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "nomis.id": {
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "nonton.com": {
@@ -10049,6 +10085,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "teknoding.com": {
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "teknolalat.com": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
@@ -10083,6 +10125,12 @@
         "epoch": 1631059200.0,
         "expiration_date": "08-sep-2021",
         "server": "whois.nic.co",
+        "state": "future"
+    },
+    "teraa.net": {
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "terafile.net": {
@@ -10275,6 +10323,12 @@
         "epoch": 1654387200.0,
         "expiration_date": "05-jun-2022",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "tohaboy.web.id": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "toko-obat-murah.com": {
