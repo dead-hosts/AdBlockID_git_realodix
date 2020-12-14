@@ -2975,6 +2975,13 @@
             "last_retested_at_iso": "2020-12-02T15:29:36.351187",
             "status": "ACTIVE"
         },
+        "cnbcindonesia.com": {
+            "included_at_epoch": 1607970092.811895,
+            "included_at_iso": "2020-12-14T18:21:32.811895",
+            "last_retested_at_epoch": 1607970092.811895,
+            "last_retested_at_iso": "2020-12-14T18:21:32.811895",
+            "status": "ACTIVE"
+        },
         "cnnbanten.id": {
             "included_at_epoch": 1606922976.390771,
             "included_at_iso": "2020-12-02T15:29:36.390771",
@@ -4844,6 +4851,13 @@
             "last_retested_at_iso": "2020-12-02T15:29:39.082885",
             "status": "ACTIVE"
         },
+        "gosipyuk.com": {
+            "included_at_epoch": 1607970092.864774,
+            "included_at_iso": "2020-12-14T18:21:32.864774",
+            "last_retested_at_epoch": 1607970092.864774,
+            "last_retested_at_iso": "2020-12-14T18:21:32.864774",
+            "status": "ACTIVE"
+        },
         "gotvnews.co.id": {
             "included_at_epoch": 1606922979.114868,
             "included_at_iso": "2020-12-02T15:29:39.114868",
@@ -4961,6 +4975,13 @@
             "included_at_iso": "2020-12-02T15:29:39.353629",
             "last_retested_at_epoch": 1606922979.353629,
             "last_retested_at_iso": "2020-12-02T15:29:39.353629",
+            "status": "ACTIVE"
+        },
+        "haibunda.com": {
+            "included_at_epoch": 1607970092.907951,
+            "included_at_iso": "2020-12-14T18:21:32.907951",
+            "last_retested_at_epoch": 1607970092.907951,
+            "last_retested_at_iso": "2020-12-14T18:21:32.907951",
             "status": "ACTIVE"
         },
         "hakanime.com": {
@@ -5852,6 +5873,13 @@
             "last_retested_at_iso": "2020-12-02T15:29:41.050961",
             "status": "ACTIVE"
         },
+        "insertlive.com": {
+            "included_at_epoch": 1607970092.950987,
+            "included_at_iso": "2020-12-14T18:21:32.950987",
+            "last_retested_at_epoch": 1607970092.950987,
+            "last_retested_at_iso": "2020-12-14T18:21:32.950987",
+            "status": "ACTIVE"
+        },
         "insidepontianak.com": {
             "included_at_epoch": 1607110909.26424,
             "included_at_iso": "2020-12-04T19:41:49.264240",
@@ -6447,6 +6475,13 @@
             "last_retested_at_iso": "2020-12-02T15:29:42.239683",
             "status": "ACTIVE"
         },
+        "kabarnusa.com": {
+            "included_at_epoch": 1607970092.994101,
+            "included_at_iso": "2020-12-14T18:21:32.994101",
+            "last_retested_at_epoch": 1607970092.994101,
+            "last_retested_at_iso": "2020-12-14T18:21:32.994101",
+            "status": "ACTIVE"
+        },
         "kabarpapua.co": {
             "included_at_epoch": 1606922982.253636,
             "included_at_iso": "2020-12-02T15:29:42.253636",
@@ -6732,6 +6767,13 @@
             "included_at_iso": "2020-12-02T15:29:42.862226",
             "last_retested_at_epoch": 1606922982.862226,
             "last_retested_at_iso": "2020-12-02T15:29:42.862226",
+            "status": "ACTIVE"
+        },
+        "kepogaul.com": {
+            "included_at_epoch": 1607970093.037124,
+            "included_at_iso": "2020-12-14T18:21:33.037124",
+            "last_retested_at_epoch": 1607970093.037124,
+            "last_retested_at_iso": "2020-12-14T18:21:33.037124",
             "status": "ACTIVE"
         },
         "kepri.info": {
@@ -7544,6 +7586,13 @@
             "included_at_iso": "2020-12-02T15:29:44.837869",
             "last_retested_at_epoch": 1606922984.837869,
             "last_retested_at_iso": "2020-12-02T15:29:44.837869",
+            "status": "ACTIVE"
+        },
+        "leafpro.website": {
+            "included_at_epoch": 1607970093.081802,
+            "included_at_iso": "2020-12-14T18:21:33.081802",
+            "last_retested_at_epoch": 1607970093.081802,
+            "last_retested_at_iso": "2020-12-14T18:21:33.081802",
             "status": "ACTIVE"
         },
         "lebahmovie.com": {
@@ -10255,11 +10304,25 @@
             "last_retested_at_iso": "2020-12-02T15:29:52.401009",
             "status": "ACTIVE"
         },
+        "posbagus.com": {
+            "included_at_epoch": 1607970093.12463,
+            "included_at_iso": "2020-12-14T18:21:33.124630",
+            "last_retested_at_epoch": 1607970093.12463,
+            "last_retested_at_iso": "2020-12-14T18:21:33.124630",
+            "status": "ACTIVE"
+        },
         "posbali.co.id": {
             "included_at_epoch": 1606922992.423131,
             "included_at_iso": "2020-12-02T15:29:52.423131",
             "last_retested_at_epoch": 1606922992.423131,
             "last_retested_at_iso": "2020-12-02T15:29:52.423131",
+            "status": "ACTIVE"
+        },
+        "poskata.com": {
+            "included_at_epoch": 1607970093.167834,
+            "included_at_iso": "2020-12-14T18:21:33.167834",
+            "last_retested_at_epoch": 1607970093.167834,
+            "last_retested_at_iso": "2020-12-14T18:21:33.167834",
             "status": "ACTIVE"
         },
         "poskomalut.com": {
