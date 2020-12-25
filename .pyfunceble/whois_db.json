@@ -2238,8 +2238,8 @@
         "state": "future"
     },
     "coinvestasi.com": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1671926400.0,
+        "expiration_date": "25-dec-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3255,7 +3255,7 @@
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
         "server": "whois.nic.me",
-        "state": "future"
+        "state": "past"
     },
     "feedme.id": {
         "epoch": 1621900800.0,
@@ -3390,8 +3390,8 @@
         "state": "future"
     },
     "fotodovana.com": {
-        "epoch": 1608768000.0,
-        "expiration_date": "24-dec-2020",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -4692,10 +4692,10 @@
         "state": "future"
     },
     "inspirasinews.co": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
         "server": "whois.nic.co",
-        "state": "past"
+        "state": "future"
     },
     "inspirasipagi.id": {
         "epoch": 1633737600.0,
@@ -5838,8 +5838,8 @@
         "state": "future"
     },
     "koranmemo.com": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1671926400.0,
+        "expiration_date": "25-dec-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5940,10 +5940,10 @@
         "state": "future"
     },
     "kriminal.co": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
         "server": "whois.nic.co",
-        "state": "past"
+        "state": "future"
     },
     "krjogja.com": {
         "epoch": 1747612800.0,
@@ -6192,10 +6192,10 @@
         "state": "future"
     },
     "layarkaca21indoxxi.co": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
         "server": "whois.nic.co",
-        "state": "past"
+        "state": "future"
     },
     "layarkaca21tv.net": {
         "epoch": 1628208000.0,
@@ -6204,8 +6204,8 @@
         "state": "future"
     },
     "layarkacaxxi.org": {
-        "epoch": 1608768000.0,
-        "expiration_date": "24-dec-2020",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
         "server": "whois.pir.org",
         "state": "future"
     },
@@ -6384,8 +6384,8 @@
         "state": "future"
     },
     "liputan6.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -6642,8 +6642,8 @@
         "state": "future"
     },
     "malutnews.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -10176,10 +10176,10 @@
         "state": "future"
     },
     "swara-bengkulu.com": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "swaragamafm.com": {
         "epoch": 1639699200.0,
@@ -10506,8 +10506,8 @@
         "state": "future"
     },
     "teropongmetro.com": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
