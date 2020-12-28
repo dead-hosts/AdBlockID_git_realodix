@@ -9221,6 +9221,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "ruparupa.com": {
+        "epoch": 1748563200.0,
+        "expiration_date": "30-may-2025",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "saadahnews.net": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",

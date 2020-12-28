@@ -11522,6 +11522,13 @@
             "last_retested_at_iso": "2020-12-25T17:44:05.249634",
             "status": "ACTIVE"
         },
+        "ruparupa.com": {
+            "included_at_epoch": 1609176555.127102,
+            "included_at_iso": "2020-12-28T17:29:15.127102",
+            "last_retested_at_epoch": 1609176555.127102,
+            "last_retested_at_iso": "2020-12-28T17:29:15.127102",
+            "status": "ACTIVE"
+        },
         "ryawlauk.com": {
             "included_at_epoch": 1608485622.870343,
             "included_at_iso": "2020-12-20T17:33:42.870343",
