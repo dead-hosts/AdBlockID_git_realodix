@@ -1,7 +1,7 @@
 {
     "currently_under_test": false,
     "custom_pyfunceble_config": {
-        "ci_autosave_final_commit": "AdBlockID - Results | @realodix",
+        "ci_autosave_final_commit": "AdBlockID - Results",
         "dns_lookup_over_tcp": true,
         "header_printed": true,
         "http_codes.list.potentially_down": [
