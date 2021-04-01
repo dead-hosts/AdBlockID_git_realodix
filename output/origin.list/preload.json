@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/AdBlockID_git_realodix/AdBlockID_git_realodix/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
-    "hash": "d6e15f530788a4005585afc31735ec61ceb1332c8a40091c3ca69b8f",
-    "line_number": 1937,
+    "hash": "2dc984112d04d501aa879fc5fa68eae91055d74f77fc37c47d8d90eb",
+    "line_number": 2111,
     "output_dir": "/home/runner/work/AdBlockID_git_realodix/AdBlockID_git_realodix/output/origin.list",
-    "previous_hash": "d6e15f530788a4005585afc31735ec61ceb1332c8a40091c3ca69b8f",
-    "rel_source": "origin.list",
-    "session_id": "b97e4c9d755ef17a30a70f80",
-    "source": "/home/runner/work/AdBlockID_git_realodix/AdBlockID_git_realodix/origin.list",
-    "subject": "/home/runner/work/AdBlockID_git_realodix/AdBlockID_git_realodix/origin.list",
+    "previous_hash": "2dc984112d04d501aa879fc5fa68eae91055d74f77fc37c47d8d90eb",
+    "session_id": "96f8d5b64ec37f437fc3af21",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
