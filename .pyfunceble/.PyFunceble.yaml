@@ -12,7 +12,7 @@ cli_testing:
         commit_message: '[Autosave][Dead-Hosts::AdBlockID_git_realodix]'
         distribution_branch: master
         end_command: hash dead_hosts_launcher && dead_hosts_launcher --end
-        end_commit_message: AdBlockID - Results
+        end_commit_message: '[Final/Result][Dead-Hosts::AdBlockID_git_realodix]'
         max_exec_minutes: 20
     cidr_expand: false
     complements: false
@@ -57,7 +57,7 @@ debug:
     level: info
 dns:
     follow_server_order: true
-    protocol: TCP
+    protocol: UDP
     server:
     - 8.8.8.8
     - 8.8.4.4
@@ -76,6 +76,7 @@ http_codes:
         - 416
         - 451
         potentially_up:
+        - 0
         - 300
         - 301
         - 302
