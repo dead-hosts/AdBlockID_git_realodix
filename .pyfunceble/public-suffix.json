@@ -5754,7 +5754,6 @@
         "west1-us.cloudjiffy.net",
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
-        "xn--hkkinen-5wa.fi",
         "yandexcloud.net",
         "za.net"
     ],
@@ -7957,6 +7956,7 @@
         "game.tw",
         "gov.tw",
         "idv.tw",
+        "lib.ma.us",
         "mil.tw",
         "mymailer.com.tw",
         "net.tw",
@@ -8197,6 +8197,7 @@
         "golffan.us",
         "graphox.us",
         "gu.us",
+        "hi.us",
         "ia.us",
         "id.us",
         "il.us",
@@ -8279,7 +8280,6 @@
         "lib.ks.us",
         "lib.ky.us",
         "lib.la.us",
-        "lib.ma.us",
         "lib.md.us",
         "lib.me.us",
         "lib.mi.us",
@@ -8438,7 +8438,6 @@
         "com.vu",
         "dev.vu",
         "edu.vu",
-        "hi.us",
         "me.vu",
         "net.vu",
         "org.vu"
@@ -8457,10 +8456,13 @@
         "dyndns.ws",
         "edu.ws",
         "gov.ws",
-        "hi.us",
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--90a3ac": [
+        "edu.tw",
+        "xn--80au.xn--90a3ac"
     ],
     "xyz": [
         "blogsite.xyz",
