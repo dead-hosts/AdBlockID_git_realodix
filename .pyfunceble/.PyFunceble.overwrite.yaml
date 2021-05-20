@@ -1,6 +1,7 @@
 cli_testing:
     ci:
-        end_commit_message: AdBlockID - Hasil
+        commit_message: 'DH: Processing'
+        end_commit_message: AdBlockID - Result
     days_between:
         db_clean: 7
 http_codes:
