@@ -68,3 +68,5 @@ http_codes:
         - 208
         - 226
         - 429
+lookup:
+    whois: false
