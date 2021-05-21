@@ -69,4 +69,5 @@ http_codes:
         - 226
         - 429
 lookup:
+    dns: false
     whois: false
