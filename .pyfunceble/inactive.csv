@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-akbardwi.my.id,AVAILABILITY,origin.list,2021-05-23 08:48:49.435901
-kotakgame.com,AVAILABILITY,origin.list,2021-05-23 10:04:37.773954
-itsafelink.com,AVAILABILITY,origin.list,2021-05-23 11:31:51.173215
-tigaribu.net,AVAILABILITY,origin.list,2021-05-23 11:31:55.063372
-asiatar.net,AVAILABILITY,origin.list,2021-05-23 12:57:39.014101
-bisnissulawesi.com,AVAILABILITY,origin.list,2021-05-23 13:09:17.990625
 165.22.54.56,AVAILABILITY,origin.list,2021-05-23 15:26:09.180022
 178.128.103.205,AVAILABILITY,origin.list,2021-05-23 15:26:13.436181
 akustik365.com,AVAILABILITY,origin.list,2021-05-23 15:26:17.304402
@@ -367,3 +361,6 @@ ypiaflash.com,AVAILABILITY,origin.list,2021-05-24 07:51:47.613981
 94.176.236.16,AVAILABILITY,origin.list,2021-05-24 08:13:08.648981
 96.43.139.236,AVAILABILITY,origin.list,2021-05-24 08:13:12.915941
 96.43.139.237,AVAILABILITY,origin.list,2021-05-24 08:13:16.842318
+akbardwi.my.id,AVAILABILITY,origin.list,2021-05-24 15:22:58.787061
+itsafelink.com,AVAILABILITY,origin.list,2021-05-24 15:23:06.229950
+tigaribu.net,AVAILABILITY,origin.list,2021-05-24 15:23:10.155878
