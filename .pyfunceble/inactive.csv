@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-akbardwi.my.id,AVAILABILITY,origin.list,2021-05-24 15:22:58.787061
-itsafelink.com,AVAILABILITY,origin.list,2021-05-24 15:23:06.229950
-tigaribu.net,AVAILABILITY,origin.list,2021-05-24 15:23:10.155878
-annews.co.id,AVAILABILITY,origin.list,2021-05-24 17:05:43.014357
 165.22.54.56,AVAILABILITY,origin.list,2021-05-24 19:34:17.770095
 178.128.103.205,AVAILABILITY,origin.list,2021-05-24 19:34:21.896547
 akustik365.com,AVAILABILITY,origin.list,2021-05-24 19:34:25.858831
@@ -368,3 +364,5 @@ drakorlive.xyz,AVAILABILITY,origin.list,2021-05-25 13:14:26.376362
 dryzapsol.com,AVAILABILITY,origin.list,2021-05-25 13:15:05.784052
 gardaasakota.com,AVAILABILITY,origin.list,2021-05-25 17:35:55.410575
 klikmbc.co.id,AVAILABILITY,origin.list,2021-05-25 18:03:53.811811
+itsafelink.com,AVAILABILITY,origin.list,2021-05-25 19:39:46.898931
+tigaribu.net,AVAILABILITY,origin.list,2021-05-25 19:39:50.759609
