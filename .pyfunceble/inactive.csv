@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-itsafelink.com,AVAILABILITY,origin.list,2021-05-30 08:42:03.103199
-tigaribu.net,AVAILABILITY,origin.list,2021-05-30 08:42:06.987916
 165.22.54.56,AVAILABILITY,origin.list,2021-05-30 15:41:13.368017
 178.128.103.205,AVAILABILITY,origin.list,2021-05-30 15:41:17.696374
 akustik365.com,AVAILABILITY,origin.list,2021-05-30 15:41:21.724222
@@ -359,3 +357,5 @@ drakorlive.xyz,AVAILABILITY,origin.list,2021-05-31 00:17:44.674136
 jejamo.com,AVAILABILITY,origin.list,2021-05-31 07:07:15.242728
 banuatv.com,AVAILABILITY,origin.list,2021-05-31 09:59:41.978087
 kejoranews.com,AVAILABILITY,origin.list,2021-05-31 11:00:46.418908
+itsafelink.com,AVAILABILITY,origin.list,2021-05-31 12:42:26.031184
+tigaribu.net,AVAILABILITY,origin.list,2021-05-31 12:42:29.951067
