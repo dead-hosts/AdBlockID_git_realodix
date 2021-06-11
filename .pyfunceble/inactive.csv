@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-pkrace99.id,AVAILABILITY,origin.list,2021-06-09 23:23:17.321803
-jefriapriyandi.com,AVAILABILITY,origin.list,2021-06-10 01:57:46.940001
-katada.id,AVAILABILITY,origin.list,2021-06-10 02:02:21.133231
-liveshootv.com,AVAILABILITY,origin.list,2021-06-10 02:20:09.176743
-upoint.id,AVAILABILITY,origin.list,2021-06-10 03:12:40.130191
 159.65.7.78,AVAILABILITY,origin.list,2021-06-10 03:32:24.856306
 204.48.22.58,AVAILABILITY,origin.list,2021-06-10 03:32:42.102951
 206.189.151.55,AVAILABILITY,origin.list,2021-06-10 03:32:45.942609
@@ -369,3 +364,6 @@ suaramerdeka.com,AVAILABILITY,origin.list,2021-06-10 22:48:43.244431
 winmahdi.com,AVAILABILITY,origin.list,2021-06-10 23:00:55.613196
 liputanbengkulu.com,AVAILABILITY,origin.list,2021-06-11 02:11:12.230584
 sidoarjopos.net,AVAILABILITY,origin.list,2021-06-11 02:57:05.255594
+pkrace99.id,AVAILABILITY,origin.list,2021-06-11 03:29:23.907363
+jefriapriyandi.com,AVAILABILITY,origin.list,2021-06-11 03:29:29.968701
+liveshootv.com,AVAILABILITY,origin.list,2021-06-11 03:29:37.415266
