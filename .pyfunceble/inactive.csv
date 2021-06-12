@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-shorten.sh,AVAILABILITY,origin.list,2021-06-11 08:06:42.548303
-layshyjar.com,AVAILABILITY,origin.list,2021-06-11 10:31:37.180548
-onbatch.my.id,AVAILABILITY,origin.list,2021-06-11 10:55:49.564747
-rahmancyber.net,AVAILABILITY,origin.list,2021-06-11 11:05:48.518919
 filmonlineindo.com,AVAILABILITY,origin.list,2021-06-11 13:37:45.253375
 layarfilm21.live,AVAILABILITY,origin.list,2021-06-11 17:58:49.999934
 itsafelink.com,AVAILABILITY,origin.list,2021-06-11 23:12:14.610789
@@ -369,3 +365,4 @@ ypiaflash.com,AVAILABILITY,origin.list,2021-06-12 11:31:44.061200
 213.190.4.103,AVAILABILITY,origin.list,2021-06-12 11:48:21.473014
 drakorlive.xyz,AVAILABILITY,origin.list,2021-06-12 11:48:25.416762
 gettradr.com,AVAILABILITY,origin.list,2021-06-12 11:48:44.514142
+shorten.sh,AVAILABILITY,origin.list,2021-06-12 11:56:25.227261
