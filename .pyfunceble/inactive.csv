@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-213.190.4.103,AVAILABILITY,origin.list,2021-06-12 11:48:21.473014
-drakorlive.xyz,AVAILABILITY,origin.list,2021-06-12 11:48:25.416762
-gettradr.com,AVAILABILITY,origin.list,2021-06-12 11:48:44.514142
-shorten.sh,AVAILABILITY,origin.list,2021-06-12 11:56:25.227261
-rahmancyber.net,AVAILABILITY,origin.list,2021-06-12 15:00:59.848214
-santaibareng.net,AVAILABILITY,origin.list,2021-06-12 15:05:47.515322
 1xliga.com,AVAILABILITY,origin.list,2021-06-12 16:54:42.261444
 anidraw.net,AVAILABILITY,origin.list,2021-06-12 17:01:09.492589
 paketinternet.net,AVAILABILITY,origin.list,2021-06-12 18:40:38.296958
@@ -372,3 +366,7 @@ ypiaflash.com,AVAILABILITY,origin.list,2021-06-13 15:34:10.691659
 94.176.236.16,AVAILABILITY,origin.list,2021-06-13 15:50:50.829504
 96.43.139.236,AVAILABILITY,origin.list,2021-06-13 15:50:54.875415
 96.43.139.237,AVAILABILITY,origin.list,2021-06-13 15:50:58.863339
+213.190.4.103,AVAILABILITY,origin.list,2021-06-13 15:57:48.284189
+drakorlive.xyz,AVAILABILITY,origin.list,2021-06-13 15:57:52.275831
+gettradr.com,AVAILABILITY,origin.list,2021-06-13 15:58:06.454297
+shorten.sh,AVAILABILITY,origin.list,2021-06-13 15:58:20.484471
