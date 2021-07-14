@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-anichin.my.id,AVAILABILITY,origin.list,2021-07-13 12:55:49.401518
-c.lazada.co.id,AVAILABILITY,origin.list,2021-07-13 13:41:33.628701
-pelakor.org,AVAILABILITY,origin.list,2021-07-13 17:11:40.909110
-probet.biz,AVAILABILITY,origin.list,2021-07-13 17:18:28.420832
-prodeteksi.com,AVAILABILITY,origin.list,2021-07-13 17:18:45.533554
 103.197.58.59,AVAILABILITY,origin.list,2021-07-13 19:11:44.082427
 206.189.33.53,AVAILABILITY,origin.list,2021-07-13 19:11:49.545206
 91.233.198.78,AVAILABILITY,origin.list,2021-07-13 19:11:54.406052
@@ -246,3 +241,4 @@ netnot21.xyz,AVAILABILITY,origin.list,2021-07-14 11:28:33.363241
 siapbos21.com,AVAILABILITY,origin.list,2021-07-14 11:28:46.877185
 bolagalaxy.org,AVAILABILITY,origin.list,2021-07-14 13:44:14.473765
 filmboxoffice.web.id,AVAILABILITY,origin.list,2021-07-14 14:27:43.527998
+pelakor.org,AVAILABILITY,origin.list,2021-07-14 19:14:21.321650
