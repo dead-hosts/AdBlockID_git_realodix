@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-128.199.132.128,AVAILABILITY,origin.list,2021-07-12 23:37:31.098680
-cnnxxi.com,AVAILABILITY,origin.list,2021-07-13 00:05:56.930746
-s.kamerafoto.net,AVAILABILITY,origin.list,2021-07-13 00:06:11.330070
-206.189.37.247,AVAILABILITY,origin.list,2021-07-13 00:06:15.525283
-akbardwi.my.id,AVAILABILITY,origin.list,2021-07-13 01:31:47.950849
-borukaro.com,AVAILABILITY,origin.list,2021-07-13 02:30:47.472521
 radarbanten.co.id,AVAILABILITY,origin.list,2021-07-13 06:32:14.659928
 link.kangapip.com,AVAILABILITY,origin.list,2021-07-13 09:02:51.740807
 suara45.com,AVAILABILITY,origin.list,2021-07-13 09:03:10.271028
@@ -248,3 +242,7 @@ mmsubs.com,AVAILABILITY,origin.list,2021-07-13 19:49:47.101813
 156.67.221.129,AVAILABILITY,origin.list,2021-07-13 19:50:10.795728
 ligapool.org,AVAILABILITY,origin.list,2021-07-13 19:50:16.589580
 nttonlinenow.com,AVAILABILITY,origin.list,2021-07-14 01:22:43.225161
+128.199.132.128,AVAILABILITY,origin.list,2021-07-14 03:45:32.087410
+s.kamerafoto.net,AVAILABILITY,origin.list,2021-07-14 03:46:01.042620
+206.189.37.247,AVAILABILITY,origin.list,2021-07-14 03:46:05.259027
+akbardwi.my.id,AVAILABILITY,origin.list,2021-07-14 03:46:12.873050
