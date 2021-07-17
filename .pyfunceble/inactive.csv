@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sidoarjopos.net,AVAILABILITY,origin.list,2021-07-16 11:44:44.103982
-51.79.165.59,AVAILABILITY,origin.list,2021-07-16 11:45:08.139197
-annews.co.id,AVAILABILITY,origin.list,2021-07-16 13:15:59.457359
-bisakaya.org,AVAILABILITY,origin.list,2021-07-16 13:40:25.708099
-bola9898.com,AVAILABILITY,origin.list,2021-07-16 19:14:33.659743
 inonton.com,AVAILABILITY,origin.list,2021-07-16 22:55:57.040819
 kuliahkomputer.com,AVAILABILITY,origin.list,2021-07-16 23:30:42.132871
 movieindoxxi.co,AVAILABILITY,origin.list,2021-07-17 00:06:08.513817
@@ -245,3 +240,6 @@ mmsubs.com,AVAILABILITY,origin.list,2021-07-17 19:16:45.724924
 ligapool.org,AVAILABILITY,origin.list,2021-07-17 19:17:14.664494
 128.199.132.128,AVAILABILITY,origin.list,2021-07-17 19:17:19.747535
 206.189.37.247,AVAILABILITY,origin.list,2021-07-17 19:17:43.204158
+sidoarjopos.net,AVAILABILITY,origin.list,2021-07-17 19:23:43.002388
+bisakaya.org,AVAILABILITY,origin.list,2021-07-17 19:23:56.669413
+bola9898.com,AVAILABILITY,origin.list,2021-07-17 19:24:00.964232
