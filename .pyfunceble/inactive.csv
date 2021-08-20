@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-199.231.164.28,AVAILABILITY,origin.list,2021-08-19 04:39:01.553519
-inonton.com,AVAILABILITY,origin.list,2021-08-19 06:22:02.787612
-jabungonline.com,AVAILABILITY,origin.list,2021-08-19 06:25:48.608966
-sasambonews.com,AVAILABILITY,origin.list,2021-08-19 08:05:50.860386
-81.19.186.167,AVAILABILITY,origin.list,2021-08-19 09:43:44.108745
 206.189.37.247,AVAILABILITY,origin.list,2021-08-19 09:48:12.506425
 139.59.105.201,AVAILABILITY,origin.list,2021-08-19 09:48:36.081510
 melongmovie.com,AVAILABILITY,origin.list,2021-08-19 09:48:51.374675
@@ -260,3 +255,4 @@ metropublik.com,AVAILABILITY,origin.list,2021-08-20 07:19:07.862852
 metrosulawesi.id,AVAILABILITY,origin.list,2021-08-20 07:19:30.430679
 metrosumsel.com,AVAILABILITY,origin.list,2021-08-20 07:19:52.767866
 14.128.35.107,AVAILABILITY,origin.list,2021-08-20 09:17:51.792004
+inonton.com,AVAILABILITY,origin.list,2021-08-20 09:45:13.206478
