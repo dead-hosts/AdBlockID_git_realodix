@@ -1952,7 +1952,7 @@ video.sindonews.com                                                             
 video.tempo.co                                                                                       ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
 vidio.com                                                                                            ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 vimanews.com                                                                                         ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
-viralberita.net                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+viralberita.net                                                                                      ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 viralkaltim.com                                                                                      ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 viva.co.id                                                                                           ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 vkcdnservice.com                                                                                     ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
@@ -2204,3 +2204,21 @@ zxcfiles.com                                                                    
 202.95.10.183                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 202.95.10.184                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 202.95.10.187                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+202.95.10.213                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+202.95.10.232                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+202.95.10.246                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+202.95.10.5                                                                                          ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+202.95.10.69                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+202.95.10.83                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+202.95.10.84                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+202.95.10.85                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+204.152.217.76                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+206.189.155.168                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+206.189.185.159                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+206.189.37.247                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+206.189.4.215                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+206.189.85.213                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+206.189.86.221                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+209.236.126.115                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+209.59.155.36                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+209.59.171.166                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
