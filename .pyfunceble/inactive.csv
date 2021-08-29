@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-kantaii.web.id,AVAILABILITY,origin.list,2021-08-28 14:40:40.027914
 216.83.47.59,AVAILABILITY,origin.list,2021-08-28 17:42:46.522458
 68.183.178.88,AVAILABILITY,origin.list,2021-08-28 17:42:51.295690
 139.59.105.201,AVAILABILITY,origin.list,2021-08-28 17:43:14.711793
@@ -254,3 +253,4 @@ inonton.com,AVAILABILITY,origin.list,2021-08-29 09:50:15.627832
 167.114.18.194,AVAILABILITY,origin.list,2021-08-29 09:50:22.844213
 mascipol.com,AVAILABILITY,origin.list,2021-08-29 09:50:45.261209
 kejoranews.com,AVAILABILITY,origin.list,2021-08-29 14:40:53.692048
+kantaii.web.id,AVAILABILITY,origin.list,2021-08-29 17:41:08.190676
