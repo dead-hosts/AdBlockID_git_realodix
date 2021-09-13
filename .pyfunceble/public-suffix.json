@@ -388,6 +388,7 @@
         "com.bh",
         "edu.bh",
         "gov.bh",
+        "net.bh",
         "org.bh"
     ],
     "bi": [
@@ -459,7 +460,6 @@
         "movimiento.bo",
         "musica.bo",
         "natural.bo",
-        "net.bh",
         "net.bo",
         "nombre.bo",
         "noticias.bo",
