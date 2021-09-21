@@ -1910,7 +1910,7 @@ warungbiker.com                                                                 
 warunginter.net                                                                                      ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 wasiteuro.com                                                                                        ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 waspada.co.id                                                                                        ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
-waspadaaceh.com                                                                                      ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
+waspadaaceh.com                                                                                      ACTIVE      NETINFO    Unknown           302        AVAILABILITY 
 wawang.id                                                                                            ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 wawasanriau.com                                                                                      ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 waxtamnit.com                                                                                        ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
@@ -2145,10 +2145,9 @@ zxcfiles.com                                                                    
 198.252.100.11                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 198.252.104.189                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 198.54.112.192                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-198.54.112.38                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+198.54.112.38                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 198.54.115.127                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 198.54.119.218                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-198.54.121.217                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 198.54.125.147                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 198.54.125.21                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 198.96.92.14                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
