@@ -1,0 +1,15 @@
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "d990fc59dfc9962c597a30c87ee29188affb63d0753e9306e8b25eaa",
+        "line_number": 2499,
+        "output_dir": "/home/runner/work/AdBlockID_git_realodix/AdBlockID_git_realodix/output/origin.list",
+        "previous_hash": "d990fc59dfc9962c597a30c87ee29188affb63d0753e9306e8b25eaa",
+        "session_id": "6f6d4645235bc38d34db1d08",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
