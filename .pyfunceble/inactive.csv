@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-hexafile.net,AVAILABILITY,origin.list,2021-09-24 17:26:49.555433
-lintasperistiwa.com,AVAILABILITY,origin.list,2021-09-24 17:27:12.107051
-oujanime.com,AVAILABILITY,origin.list,2021-09-24 17:27:34.484801
-infoguruku.net,AVAILABILITY,origin.list,2021-09-24 22:07:43.513112
-128.199.56.215,AVAILABILITY,origin.list,2021-09-25 00:16:36.066459
 139.59.121.144,AVAILABILITY,origin.list,2021-09-25 01:07:07.921581
 139.59.97.38,AVAILABILITY,origin.list,2021-09-25 01:07:14.012789
 157.230.44.224,AVAILABILITY,origin.list,2021-09-25 01:07:20.035179
@@ -158,3 +153,7 @@ toko-obat-murah.com,AVAILABILITY,origin.list,2021-09-25 23:42:03.070534
 45.130.229.92,AVAILABILITY,origin.list,2021-09-26 00:21:33.954280
 91.233.198.123,AVAILABILITY,origin.list,2021-09-26 00:21:39.169933
 daizurin.com,AVAILABILITY,origin.list,2021-09-26 00:21:42.674865
+hexafile.net,AVAILABILITY,origin.list,2021-09-26 00:22:35.278004
+lintasperistiwa.com,AVAILABILITY,origin.list,2021-09-26 00:22:57.341055
+oujanime.com,AVAILABILITY,origin.list,2021-09-26 00:23:19.632908
+infoguruku.net,AVAILABILITY,origin.list,2021-09-26 00:23:23.062634
