@@ -1862,7 +1862,7 @@ vidio.com                                                                       
 vimanews.com                                                                                         ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
 viralberita.net                                                                                      ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 viralkaltim.com                                                                                      ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
-visitjateng.com                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+visitjateng.com                                                                                      ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 viva.co.id                                                                                           ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 vkcdnservice.com                                                                                     ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 vlt.me                                                                                               ACTIVE      NETINFO    Unknown           302        AVAILABILITY 
@@ -1906,7 +1906,7 @@ yakusanews.com                                                                  
 yamaha-jatim.co.id                                                                                   ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 yourjavascript.com                                                                                   ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
 yukinime.com                                                                                         ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
-yunoya.id                                                                                            ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+yunoya.id                                                                                            ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 zflas.com                                                                                            ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
 zipansion.com                                                                                        ACTIVE      NETINFO    Unknown           302        AVAILABILITY 
 ziyata.com                                                                                           ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
@@ -1922,3 +1922,33 @@ zxcfiles.com                                                                    
 103.10.200.48                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.10.201.25                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.10.201.26                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+103.244.96.134                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.253.147.105                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+103.57.191.122                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+103.57.191.157                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+104.223.76.206                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+104.223.76.48                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+104.248.152.8                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+104.248.154.44                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+1066themovie.biz                                                                                     ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
+107.152.47.23                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+107.178.109.62                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+107.191.41.92                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+108.179.215.89                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+111.90.151.74                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+112.140.185.78                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+112.140.185.87                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+112.140.186.67                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+112.140.186.92                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+118.107.238.67                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+118.107.35.103                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+118.107.35.124                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+118.107.35.126                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+119.81.45.82                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+128.199.147.134                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+128.199.163.126                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+128.199.188.101                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+128.199.200.115                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+128.199.231.228                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+128.199.56.215                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+128.199.68.31                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
