@@ -1772,7 +1772,7 @@ taburapos.com                                                                   
 talikanews.com                                                                                       ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 tamboenman.xyz                                                                                       ACTIVE      NETINFO    Unknown           302        AVAILABILITY 
 tampilcantik.com                                                                                     ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
-tancap88.me                                                                                          ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
+tancap88.me                                                                                          ACTIVE      NETINFO    Unknown           302        AVAILABILITY 
 tangerang7.com                                                                                       ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
 tangerangekspres.co.id                                                                               ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 tangerangnews.com                                                                                    ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
@@ -1800,7 +1800,7 @@ terasmaluku.com                                                                 
 terimamovie.com                                                                                      ACTIVE      NETINFO    Unknown           302        AVAILABILITY 
 terkininews.com                                                                                      ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 terobosnews.com                                                                                      ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
-teropongmetro.com                                                                                    ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
+teropongmetro.com                                                                                    ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 teropongsenayan.com                                                                                  ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 teropongsulut.com                                                                                    ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 theasianparent.com                                                                                   ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
@@ -1828,7 +1828,7 @@ top-news.co.id                                                                  
 topfilm21.com                                                                                        ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
 topikindonesia.id                                                                                    ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 topsatu.com                                                                                          ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
-totabuan.co                                                                                          ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
+totabuan.co                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 totabuan.news                                                                                        ACTIVE      NETINFO    Unknown           200        AVAILABILITY 
 tpro.co.id                                                                                           ACTIVE      NETINFO    Unknown           301        AVAILABILITY 
 transjabar.com                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
@@ -1956,6 +1956,7 @@ zxcfiles.com                                                                    
 128.199.188.101                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 128.199.200.115                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 128.199.231.228                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+128.199.56.215                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 128.199.68.31                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 128.199.68.7                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 128.199.74.253                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
@@ -1971,25 +1972,3 @@ zxcfiles.com                                                                    
 13.250.221.149                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 13.251.175.84                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 13.251.194.74                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-13.251.223.198                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-13.251.32.76                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-13.251.53.214                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-134.19.190.109                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-134.19.190.71                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-134.19.190.87                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-134.209.154.182                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-134.209.99.197                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-135.148.1.139                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-138.68.80.19                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-139.162.13.114                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.162.13.30                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.162.25.106                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.162.28.83                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.162.36.15                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.162.40.155                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.162.42.42                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.162.49.128                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.162.63.140                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.177.187.12                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.177.190.165                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-139.180.131.181                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
