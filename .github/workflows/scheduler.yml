@@ -1,7 +1,7 @@
 name: Authorization Checker
 on:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 5 * * *"
 
 env:
   PYFUNCEBLE_AUTO_CONFIGURATION: "YES"
@@ -37,7 +37,7 @@ jobs:
         run: |
           git config --local user.email "$GIT_EMAIL"
           git config --local user.name "$GIT_NAME"
-          git commit -m "DH: AuthChecker" -a
+          git commit -m "[Dead-Hosts::Infrastructure][AuthChecker]" -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
