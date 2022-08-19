@@ -3366,6 +3366,7 @@
         "kami.kochi.jp",
         "kami.miyagi.jp",
         "kamiamakusa.kumamoto.jp",
+        "kamifurano.hokkaido.jp",
         "kamigori.hyogo.jp",
         "kamiichi.toyama.jp",
         "kamiizumi.saitama.jp",
@@ -8782,7 +8783,6 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "kamifurano.hokkaido.jp",
         "mil.zw",
         "org.zw"
     ],
@@ -8821,6 +8821,16 @@
         "орг.срб",
         "пр.срб",
         "упр.срб"
+    ],
+    "ישראל": [
+        "xn--4dbgdty6c.xn--4dbrk0ce",
+        "xn--5dbhl8d.xn--4dbrk0ce",
+        "xn--8dbq2a.xn--4dbrk0ce",
+        "xn--hebda8b.xn--4dbrk0ce",
+        "אקדמיה.ישראל",
+        "ישוב.ישראל",
+        "ממשל.ישראל",
+        "צהל.ישראל"
     ],
     "ไทย": [
         "xn--12c1fe0br.xn--o3cw4h",
