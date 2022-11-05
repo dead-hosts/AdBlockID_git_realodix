@@ -1,9 +1,0 @@
-cli_testing:
-    ci:
-        commit_message: 'DH: Processing'
-        end_commit_message: AdBlockID - Result
-    days_between:
-        db_clean: 7
-lookup:
-    dns: false
-    whois: false
