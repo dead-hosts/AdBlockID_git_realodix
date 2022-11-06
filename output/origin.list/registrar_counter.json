@@ -1,18 +1,12 @@
 {
     "counter": {
-        "Ascio Technologies Inc. - DK Branch": 1,
-        "DYNADOT, LLC": 1,
-        "Hostinger, UAB": 1,
-        "NameCheap, Inc.": 11,
-        "Namecheap": 2,
-        "total": 16
+        "NameCheap, Inc.": 2,
+        "Namecheap Inc.": 2,
+        "total": 4
     },
     "percentage": {
-        "Ascio Technologies Inc. - DK Branch": 6.25,
-        "DYNADOT, LLC": 6.25,
-        "Hostinger, UAB": 6.25,
-        "NameCheap, Inc.": 68.75,
-        "Namecheap": 12.5,
+        "NameCheap, Inc.": 50.0,
+        "Namecheap Inc.": 50.0,
         "total": 100.0
     }
 }
