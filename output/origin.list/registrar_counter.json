@@ -1,12 +1,14 @@
 {
     "counter": {
-        "NameCheap, Inc.": 2,
-        "Namecheap Inc.": 2,
-        "total": 4
+        "NameCheap, Inc.": 3,
+        "Namecheap": 1,
+        "Namecheap Inc.": 3,
+        "total": 7
     },
     "percentage": {
-        "NameCheap, Inc.": 50.0,
-        "Namecheap Inc.": 50.0,
+        "NameCheap, Inc.": 42.857142857142854,
+        "Namecheap": 14.285714285714286,
+        "Namecheap Inc.": 42.857142857142854,
         "total": 100.0
     }
 }
