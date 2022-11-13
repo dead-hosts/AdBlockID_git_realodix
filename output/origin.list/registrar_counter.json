@@ -1,14 +1,12 @@
 {
     "counter": {
-        "NameCheap, Inc.": 6,
-        "NameSilo, LLC": 1,
-        "Namecheap, Inc.": 1,
-        "total": 8
+        "Digital Registra": 1,
+        "Google LLC": 1,
+        "total": 2
     },
     "percentage": {
-        "NameCheap, Inc.": 75.0,
-        "NameSilo, LLC": 12.5,
-        "Namecheap, Inc.": 12.5,
+        "Digital Registra": 50.0,
+        "Google LLC": 50.0,
         "total": 100.0
     }
 }
