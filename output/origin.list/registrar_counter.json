@@ -1,12 +1,16 @@
 {
     "counter": {
         "Digital Registra": 1,
+        "Dynadot LLC": 1,
         "Google LLC": 1,
-        "total": 2
+        "NameCheap, Inc.": 1,
+        "total": 4
     },
     "percentage": {
-        "Digital Registra": 50.0,
-        "Google LLC": 50.0,
+        "Digital Registra": 25.0,
+        "Dynadot LLC": 25.0,
+        "Google LLC": 25.0,
+        "NameCheap, Inc.": 25.0,
         "total": 100.0
     }
 }
