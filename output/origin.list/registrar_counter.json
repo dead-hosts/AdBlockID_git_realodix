@@ -1,12 +1,14 @@
 {
     "counter": {
+        "CV. Rumahweb Indonesia": 1,
         "DropCatch.com 1329 LLC": 1,
         "NameCheap, Inc.": 1,
-        "total": 2
+        "total": 3
     },
     "percentage": {
-        "DropCatch.com 1329 LLC": 50.0,
-        "NameCheap, Inc.": 50.0,
+        "CV. Rumahweb Indonesia": 33.333333333333336,
+        "DropCatch.com 1329 LLC": 33.333333333333336,
+        "NameCheap, Inc.": 33.333333333333336,
         "total": 100.0
     }
 }
