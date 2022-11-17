@@ -1,18 +1,20 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
+        "CV. JOGJACAMP": 3,
         "GoDaddy.com, LLC": 1,
-        "NameCheap, Inc.": 2,
+        "Name.com, Inc.": 1,
+        "NameCheap, Inc.": 5,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 8
+        "total": 13
     },
     "percentage": {
-        "CV. JOGJACAMP": 25.0,
-        "GoDaddy.com, LLC": 12.5,
-        "NameCheap, Inc.": 25.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 12.5,
+        "CV. JOGJACAMP": 23.076923076923077,
+        "GoDaddy.com, LLC": 7.6923076923076925,
+        "Name.com, Inc.": 7.6923076923076925,
+        "NameCheap, Inc.": 38.46153846153846,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 15.384615384615385,
+        "Web Commerce Communications Limited dba WebNic.cc": 7.6923076923076925,
         "total": 100.0
     }
 }
