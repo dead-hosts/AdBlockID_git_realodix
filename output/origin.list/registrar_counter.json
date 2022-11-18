@@ -1,14 +1,16 @@
 {
     "counter": {
         "Key-Systems GmbH": 1,
+        "NAMECHEAP": 2,
         "NameCheap, Inc.": 1,
         "Namecheap": 2,
-        "total": 4
+        "total": 6
     },
     "percentage": {
-        "Key-Systems GmbH": 25.0,
-        "NameCheap, Inc.": 25.0,
-        "Namecheap": 50.0,
+        "Key-Systems GmbH": 16.666666666666668,
+        "NAMECHEAP": 33.333333333333336,
+        "NameCheap, Inc.": 16.666666666666668,
+        "Namecheap": 33.333333333333336,
         "total": 100.0
     }
 }
