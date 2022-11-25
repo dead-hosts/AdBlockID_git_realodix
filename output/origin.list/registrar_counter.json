@@ -1,0 +1,20 @@
+{
+    "counter": {
+        "CV. JOGJACAMP": 1,
+        "GoDaddy.com, LLC": 1,
+        "NameCheap, Inc.": 12,
+        "NameSilo, LLC": 1,
+        "Namecheap": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 1,
+        "total": 17
+    },
+    "percentage": {
+        "CV. JOGJACAMP": 5.882352941176471,
+        "GoDaddy.com, LLC": 5.882352941176471,
+        "NameCheap, Inc.": 70.58823529411765,
+        "NameSilo, LLC": 5.882352941176471,
+        "Namecheap": 5.882352941176471,
+        "Web Commerce Communications Limited dba WebNic.cc": 5.882352941176471,
+        "total": 100.0
+    }
+}
