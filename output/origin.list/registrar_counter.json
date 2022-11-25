@@ -1,0 +1,14 @@
+{
+    "counter": {
+        "Gransy, s.r.o.": 1,
+        "NameCheap, Inc.": 2,
+        "Namecheap": 2,
+        "total": 5
+    },
+    "percentage": {
+        "Gransy, s.r.o.": 20.0,
+        "NameCheap, Inc.": 40.0,
+        "Namecheap": 40.0,
+        "total": 100.0
+    }
+}
