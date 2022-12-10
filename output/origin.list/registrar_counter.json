@@ -3,12 +3,14 @@
         "Domain.com, LLC": 1,
         "Name.com, Inc.": 1,
         "Porkbun LLC": 1,
-        "total": 3
+        "Register.com, Inc.": 1,
+        "total": 4
     },
     "percentage": {
-        "Domain.com, LLC": 33.333333333333336,
-        "Name.com, Inc.": 33.333333333333336,
-        "Porkbun LLC": 33.333333333333336,
+        "Domain.com, LLC": 25.0,
+        "Name.com, Inc.": 25.0,
+        "Porkbun LLC": 25.0,
+        "Register.com, Inc.": 25.0,
         "total": 100.0
     }
 }
