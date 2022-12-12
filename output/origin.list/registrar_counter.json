@@ -1,12 +1,16 @@
 {
     "counter": {
-        "NameCheap, Inc.": 1,
-        "TLD Registrar Solutions Ltd.": 1,
-        "total": 2
+        "NAMECHEAP": 1,
+        "NameCheap, Inc.": 4,
+        "Namecheap": 1,
+        "PANDI Registrar": 1,
+        "total": 7
     },
     "percentage": {
-        "NameCheap, Inc.": 50.0,
-        "TLD Registrar Solutions Ltd.": 50.0,
-        "total": 100.0
+        "NAMECHEAP": 14.285714285714286,
+        "NameCheap, Inc.": 57.142857142857146,
+        "Namecheap": 14.285714285714286,
+        "PANDI Registrar": 14.285714285714286,
+        "total": 100.00000000000001
     }
 }
