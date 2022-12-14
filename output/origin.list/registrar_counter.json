@@ -1,16 +1,12 @@
 {
     "counter": {
-        "NameCheap, Inc.": 3,
-        "NameSilo, LLC": 1,
-        "Namecheap": 1,
-        "Sarek Oy": 1,
-        "total": 6
+        "Google LLC": 1,
+        "NameCheap, Inc.": 1,
+        "total": 2
     },
     "percentage": {
+        "Google LLC": 50.0,
         "NameCheap, Inc.": 50.0,
-        "NameSilo, LLC": 16.666666666666668,
-        "Namecheap": 16.666666666666668,
-        "Sarek Oy": 16.666666666666668,
-        "total": 100.00000000000001
+        "total": 100.0
     }
 }
