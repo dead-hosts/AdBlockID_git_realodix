@@ -1,12 +1,14 @@
 {
     "counter": {
-        "Ascio Technologies Inc. - DK Branch": 1,
-        "Namecheap": 1,
-        "total": 2
+        "CV. Rumahweb Indonesia": 1,
+        "DropCatch.com 1329 LLC": 1,
+        "NameCheap, Inc.": 1,
+        "total": 3
     },
     "percentage": {
-        "Ascio Technologies Inc. - DK Branch": 50.0,
-        "Namecheap": 50.0,
+        "CV. Rumahweb Indonesia": 33.333333333333336,
+        "DropCatch.com 1329 LLC": 33.333333333333336,
+        "NameCheap, Inc.": 33.333333333333336,
         "total": 100.0
     }
 }
