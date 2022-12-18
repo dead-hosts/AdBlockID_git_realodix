@@ -1,10 +1,22 @@
 {
     "counter": {
-        "Namecheap": 1,
-        "total": 1
+        "CV. JOGJACAMP": 3,
+        "CV. Rumahweb Indonesia": 1,
+        "GoDaddy.com, LLC": 1,
+        "Name.com, Inc.": 1,
+        "NameCheap, Inc.": 4,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 1,
+        "total": 13
     },
     "percentage": {
-        "Namecheap": 100.0,
+        "CV. JOGJACAMP": 23.076923076923077,
+        "CV. Rumahweb Indonesia": 7.6923076923076925,
+        "GoDaddy.com, LLC": 7.6923076923076925,
+        "Name.com, Inc.": 7.6923076923076925,
+        "NameCheap, Inc.": 30.76923076923077,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 15.384615384615385,
+        "Web Commerce Communications Limited dba WebNic.cc": 7.6923076923076925,
         "total": 100.0
     }
 }
