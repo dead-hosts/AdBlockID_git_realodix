@@ -1,0 +1,12 @@
+{
+    "counter": {
+        "NameCheap, Inc.": 3,
+        "Tucows.com Co.": 1,
+        "total": 4
+    },
+    "percentage": {
+        "NameCheap, Inc.": 75.0,
+        "Tucows.com Co.": 25.0,
+        "total": 100.0
+    }
+}
