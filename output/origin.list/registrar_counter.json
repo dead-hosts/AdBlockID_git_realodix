@@ -2,15 +2,17 @@
     "counter": {
         "CV. JOGJACAMP": 1,
         "GoDaddy.com, LLC": 1,
-        "NameCheap, Inc.": 1,
+        "NameCheap, Inc.": 10,
+        "NameSilo, LLC": 1,
         "Namecheap": 1,
-        "total": 4
+        "total": 14
     },
     "percentage": {
-        "CV. JOGJACAMP": 25.0,
-        "GoDaddy.com, LLC": 25.0,
-        "NameCheap, Inc.": 25.0,
-        "Namecheap": 25.0,
+        "CV. JOGJACAMP": 7.142857142857143,
+        "GoDaddy.com, LLC": 7.142857142857143,
+        "NameCheap, Inc.": 71.42857142857143,
+        "NameSilo, LLC": 7.142857142857143,
+        "Namecheap": 7.142857142857143,
         "total": 100.0
     }
 }
