@@ -1,0 +1,42 @@
+{
+    "counter": {
+        "1API GmbH": 1,
+        "Above.com Pty Ltd": 1,
+        "CV. JOGJACAMP": 1,
+        "Digital Registra": 12,
+        "Go Daddy, LLC": 1,
+        "GoDaddy.com, LLC": 1,
+        "Google Inc": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "Jagat Informasi Solusi (int)": 1,
+        "Name.com, Inc.": 1,
+        "NameCheap, Inc.": 3,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "PT Aksara Data Digital": 1,
+        "PT Cloud Hosting Indonesia": 1,
+        "Porkbun LLC": 1,
+        "ResellerCamp": 1,
+        "Sav.com, LLC- 6": 1,
+        "total": 30
+    },
+    "percentage": {
+        "1API GmbH": 3.3333333333333335,
+        "Above.com Pty Ltd": 3.3333333333333335,
+        "CV. JOGJACAMP": 3.3333333333333335,
+        "Digital Registra": 40.0,
+        "Go Daddy, LLC": 3.3333333333333335,
+        "GoDaddy.com, LLC": 3.3333333333333335,
+        "Google Inc": 3.3333333333333335,
+        "Hosting Concepts B.V. d/b/a Openprovider": 3.3333333333333335,
+        "Jagat Informasi Solusi (int)": 3.3333333333333335,
+        "Name.com, Inc.": 3.3333333333333335,
+        "NameCheap, Inc.": 10.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.3333333333333335,
+        "PT Aksara Data Digital": 3.3333333333333335,
+        "PT Cloud Hosting Indonesia": 3.3333333333333335,
+        "Porkbun LLC": 3.3333333333333335,
+        "ResellerCamp": 3.3333333333333335,
+        "Sav.com, LLC- 6": 3.3333333333333335,
+        "total": 99.99999999999997
+    }
+}
