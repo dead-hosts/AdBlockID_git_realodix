@@ -1,10 +1,16 @@
 {
     "counter": {
-        "NameCheap, Inc.": 1,
-        "total": 1
+        "CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.": 1,
+        "NAMECHEAP": 1,
+        "NameCheap, Inc.": 4,
+        "Namecheap": 2,
+        "total": 8
     },
     "percentage": {
-        "NameCheap, Inc.": 100.0,
+        "CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.": 12.5,
+        "NAMECHEAP": 12.5,
+        "NameCheap, Inc.": 50.0,
+        "Namecheap": 25.0,
         "total": 100.0
     }
 }
