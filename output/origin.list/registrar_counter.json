@@ -1,16 +1,20 @@
 {
     "counter": {
         "Google Inc.": 1,
-        "NameCheap, Inc.": 1,
-        "Namecheap": 1,
+        "NAMECHEAP": 2,
+        "NameCheap, Inc.": 2,
+        "Namecheap": 3,
+        "Namecheap Inc.": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 4
+        "total": 11
     },
     "percentage": {
-        "Google Inc.": 25.0,
-        "NameCheap, Inc.": 25.0,
-        "Namecheap": 25.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 25.0,
+        "Google Inc.": 9.090909090909092,
+        "NAMECHEAP": 18.181818181818183,
+        "NameCheap, Inc.": 18.181818181818183,
+        "Namecheap": 27.272727272727273,
+        "Namecheap Inc.": 18.181818181818183,
+        "Web Commerce Communications Limited dba WebNic.cc": 9.090909090909092,
         "total": 100.0
     }
 }
