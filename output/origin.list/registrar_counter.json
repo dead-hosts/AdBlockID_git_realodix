@@ -1,10 +1,32 @@
 {
     "counter": {
-        "CV. Rumahweb Indonesia": 1,
-        "total": 1
+        "CV. JOGJACAMP": 3,
+        "CV. Rumahweb Indonesia": 2,
+        "Digital Registra": 1,
+        "GoDaddy.com, LLC": 1,
+        "Hostinger, UAB": 1,
+        "Libyan Spider Network (int)": 1,
+        "NameCheap, Inc.": 3,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "PT Cloud Hosting Indonesia": 1,
+        "PT Registrasi Nama Domain": 1,
+        "Tucows Domains Inc.": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 1,
+        "total": 18
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 100.0,
-        "total": 100.0
+        "CV. JOGJACAMP": 16.666666666666668,
+        "CV. Rumahweb Indonesia": 11.11111111111111,
+        "Digital Registra": 5.555555555555555,
+        "GoDaddy.com, LLC": 5.555555555555555,
+        "Hostinger, UAB": 5.555555555555555,
+        "Libyan Spider Network (int)": 5.555555555555555,
+        "NameCheap, Inc.": 16.666666666666668,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 11.11111111111111,
+        "PT Cloud Hosting Indonesia": 5.555555555555555,
+        "PT Registrasi Nama Domain": 5.555555555555555,
+        "Tucows Domains Inc.": 5.555555555555555,
+        "Web Commerce Communications Limited dba WebNic.cc": 5.555555555555555,
+        "total": 100.00000000000001
     }
 }
