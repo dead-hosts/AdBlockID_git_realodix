@@ -1,16 +1,10 @@
 {
     "counter": {
-        "Ascio Technologies Inc. - DK Branch": 1,
-        "Digital Registra": 1,
-        "Google LLC": 1,
-        "Namecheap": 1,
-        "total": 4
+        "NAMECHEAP": 1,
+        "total": 1
     },
     "percentage": {
-        "Ascio Technologies Inc. - DK Branch": 25.0,
-        "Digital Registra": 25.0,
-        "Google LLC": 25.0,
-        "Namecheap": 25.0,
+        "NAMECHEAP": 100.0,
         "total": 100.0
     }
 }
