@@ -1,14 +1,16 @@
 {
     "counter": {
         "CV. Rumahweb Indonesia": 1,
+        "CentralNic Ltd": 1,
         "NAMECHEAP": 1,
-        "NameCheap, Inc.": 1,
-        "total": 3
+        "NameCheap, Inc.": 2,
+        "total": 5
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 33.333333333333336,
-        "NAMECHEAP": 33.333333333333336,
-        "NameCheap, Inc.": 33.333333333333336,
+        "CV. Rumahweb Indonesia": 20.0,
+        "CentralNic Ltd": 20.0,
+        "NAMECHEAP": 20.0,
+        "NameCheap, Inc.": 40.0,
         "total": 100.0
     }
 }
