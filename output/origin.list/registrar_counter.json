@@ -2,13 +2,13 @@
     "counter": {
         "CV. JOGJACAMP": 1,
         "Name.com, Inc.": 1,
-        "NameCheap, Inc.": 1,
-        "total": 3
+        "NameCheap, Inc.": 3,
+        "total": 5
     },
     "percentage": {
-        "CV. JOGJACAMP": 33.333333333333336,
-        "Name.com, Inc.": 33.333333333333336,
-        "NameCheap, Inc.": 33.333333333333336,
+        "CV. JOGJACAMP": 20.0,
+        "Name.com, Inc.": 20.0,
+        "NameCheap, Inc.": 60.0,
         "total": 100.0
     }
 }
