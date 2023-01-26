@@ -1,14 +1,16 @@
 {
     "counter": {
         "Gransy, s.r.o.": 1,
-        "NameCheap, Inc.": 1,
-        "Namecheap": 1,
-        "total": 3
+        "NameCheap, Inc.": 3,
+        "Namecheap": 3,
+        "Web Commerce Communications Limited dba WebNic.cc": 1,
+        "total": 8
     },
     "percentage": {
-        "Gransy, s.r.o.": 33.333333333333336,
-        "NameCheap, Inc.": 33.333333333333336,
-        "Namecheap": 33.333333333333336,
+        "Gransy, s.r.o.": 12.5,
+        "NameCheap, Inc.": 37.5,
+        "Namecheap": 37.5,
+        "Web Commerce Communications Limited dba WebNic.cc": 12.5,
         "total": 100.0
     }
 }
