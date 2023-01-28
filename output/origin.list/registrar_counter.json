@@ -1,16 +1,38 @@
 {
     "counter": {
-        "NameCheap, Inc.": 1,
+        "Above.com Pty Ltd": 1,
+        "CV. JOGJACAMP": 1,
+        "CV. Rumahweb Indonesia": 1,
+        "Digital Registra": 10,
+        "Go Daddy, LLC": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "Jagat Informasi Solusi (int)": 1,
+        "Name.com, Inc.": 1,
+        "NameCheap, Inc.": 7,
         "NameSilo, LLC": 1,
-        "Namecheap": 3,
+        "Namecheap": 5,
         "Namecheap Inc.": 1,
-        "total": 6
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "PT Aksara Data Digital": 1,
+        "ResellerCamp": 1,
+        "total": 34
     },
     "percentage": {
-        "NameCheap, Inc.": 16.666666666666668,
-        "NameSilo, LLC": 16.666666666666668,
-        "Namecheap": 50.0,
-        "Namecheap Inc.": 16.666666666666668,
-        "total": 100.00000000000001
+        "Above.com Pty Ltd": 2.9411764705882355,
+        "CV. JOGJACAMP": 2.9411764705882355,
+        "CV. Rumahweb Indonesia": 2.9411764705882355,
+        "Digital Registra": 29.41176470588235,
+        "Go Daddy, LLC": 2.9411764705882355,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2.9411764705882355,
+        "Jagat Informasi Solusi (int)": 2.9411764705882355,
+        "Name.com, Inc.": 2.9411764705882355,
+        "NameCheap, Inc.": 20.58823529411765,
+        "NameSilo, LLC": 2.9411764705882355,
+        "Namecheap": 14.705882352941176,
+        "Namecheap Inc.": 2.9411764705882355,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2.9411764705882355,
+        "PT Aksara Data Digital": 2.9411764705882355,
+        "ResellerCamp": 2.9411764705882355,
+        "total": 99.99999999999997
     }
 }
