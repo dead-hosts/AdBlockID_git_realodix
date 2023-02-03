@@ -1,10 +1,14 @@
 {
     "counter": {
+        "Google Inc.": 1,
+        "NameCheap, Inc.": 1,
         "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 1
+        "total": 3
     },
     "percentage": {
-        "Web Commerce Communications Limited dba WebNic.cc": 100.0,
+        "Google Inc.": 33.333333333333336,
+        "NameCheap, Inc.": 33.333333333333336,
+        "Web Commerce Communications Limited dba WebNic.cc": 33.333333333333336,
         "total": 100.0
     }
 }
