@@ -1,26 +1,10 @@
 {
     "counter": {
-        "Danesco Trading Ltd.": 1,
-        "Digital Registra": 1,
-        "Go Daddy, LLC": 1,
-        "Gransy, s.r.o.": 1,
-        "Hostinger, UAB": 1,
-        "NAMECHEAP": 1,
-        "NameCheap, Inc.": 9,
-        "Namecheap": 3,
-        "PANDI Registrar": 1,
-        "total": 19
+        "NameCheap, Inc.": 1,
+        "total": 1
     },
     "percentage": {
-        "Danesco Trading Ltd.": 5.2631578947368425,
-        "Digital Registra": 5.2631578947368425,
-        "Go Daddy, LLC": 5.2631578947368425,
-        "Gransy, s.r.o.": 5.2631578947368425,
-        "Hostinger, UAB": 5.2631578947368425,
-        "NAMECHEAP": 5.2631578947368425,
-        "NameCheap, Inc.": 47.36842105263158,
-        "Namecheap": 15.789473684210526,
-        "PANDI Registrar": 5.2631578947368425,
+        "NameCheap, Inc.": 100.0,
         "total": 100.0
     }
 }
