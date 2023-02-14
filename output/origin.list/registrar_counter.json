@@ -1,10 +1,12 @@
 {
     "counter": {
+        "Digital Registra": 1,
         "Google LLC": 1,
-        "total": 1
+        "total": 2
     },
     "percentage": {
-        "Google LLC": 100.0,
+        "Digital Registra": 50.0,
+        "Google LLC": 50.0,
         "total": 100.0
     }
 }
