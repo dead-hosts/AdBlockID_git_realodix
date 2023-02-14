@@ -2,11 +2,13 @@
     "counter": {
         "Digital Registra": 1,
         "Google LLC": 1,
-        "total": 2
+        "Namecheap": 1,
+        "total": 3
     },
     "percentage": {
-        "Digital Registra": 50.0,
-        "Google LLC": 50.0,
+        "Digital Registra": 33.333333333333336,
+        "Google LLC": 33.333333333333336,
+        "Namecheap": 33.333333333333336,
         "total": 100.0
     }
 }
