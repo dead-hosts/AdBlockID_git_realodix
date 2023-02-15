@@ -1,10 +1,12 @@
 {
     "counter": {
         "NAMECHEAP": 1,
-        "total": 1
+        "Porkbun LLC": 1,
+        "total": 2
     },
     "percentage": {
-        "NAMECHEAP": 100.0,
+        "NAMECHEAP": 50.0,
+        "Porkbun LLC": 50.0,
         "total": 100.0
     }
 }
