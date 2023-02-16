@@ -3,12 +3,14 @@
         "CV. Rumahweb Indonesia": 1,
         "DropCatch.com 1329 LLC": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "total": 3
+        "Porkbun LLC": 1,
+        "total": 4
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 33.333333333333336,
-        "DropCatch.com 1329 LLC": 33.333333333333336,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 33.333333333333336,
+        "CV. Rumahweb Indonesia": 25.0,
+        "DropCatch.com 1329 LLC": 25.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
+        "Porkbun LLC": 25.0,
         "total": 100.0
     }
 }
