@@ -1,16 +1,24 @@
 {
     "counter": {
         "CV. Rumahweb Indonesia": 1,
-        "DropCatch.com 1329 LLC": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "Porkbun LLC": 1,
-        "total": 4
+        "DropCatch.com 398 LLC": 1,
+        "GoDaddy.com, LLC": 1,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
+        "MarkMonitor Inc.": 1,
+        "PT Aksara Data Digital": 2,
+        "Soluciones Corporativas IP, SL": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 3,
+        "total": 11
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 25.0,
-        "DropCatch.com 1329 LLC": 25.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
-        "Porkbun LLC": 25.0,
+        "CV. Rumahweb Indonesia": 9.090909090909092,
+        "DropCatch.com 398 LLC": 9.090909090909092,
+        "GoDaddy.com, LLC": 9.090909090909092,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 9.090909090909092,
+        "MarkMonitor Inc.": 9.090909090909092,
+        "PT Aksara Data Digital": 18.181818181818183,
+        "Soluciones Corporativas IP, SL": 9.090909090909092,
+        "Web Commerce Communications Limited dba WebNic.cc": 27.272727272727273,
         "total": 100.0
     }
 }
