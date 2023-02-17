@@ -6,21 +6,23 @@
         "GoDaddy.com, LLC": 1,
         "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
         "MarkMonitor Inc.": 1,
+        "NameCheap, Inc.": 2,
         "PT Aksara Data Digital": 2,
         "Soluciones Corporativas IP, SL": 1,
         "Web Commerce Communications Limited dba WebNic.cc": 3,
-        "total": 13
+        "total": 15
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 7.6923076923076925,
-        "Digital Registra": 15.384615384615385,
-        "DropCatch.com 398 LLC": 7.6923076923076925,
-        "GoDaddy.com, LLC": 7.6923076923076925,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 7.6923076923076925,
-        "MarkMonitor Inc.": 7.6923076923076925,
-        "PT Aksara Data Digital": 15.384615384615385,
-        "Soluciones Corporativas IP, SL": 7.6923076923076925,
-        "Web Commerce Communications Limited dba WebNic.cc": 23.076923076923077,
+        "CV. Rumahweb Indonesia": 6.666666666666667,
+        "Digital Registra": 13.333333333333334,
+        "DropCatch.com 398 LLC": 6.666666666666667,
+        "GoDaddy.com, LLC": 6.666666666666667,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 6.666666666666667,
+        "MarkMonitor Inc.": 6.666666666666667,
+        "NameCheap, Inc.": 13.333333333333334,
+        "PT Aksara Data Digital": 13.333333333333334,
+        "Soluciones Corporativas IP, SL": 6.666666666666667,
+        "Web Commerce Communications Limited dba WebNic.cc": 20.0,
         "total": 100.0
     }
 }
