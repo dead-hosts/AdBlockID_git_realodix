@@ -1,28 +1,24 @@
 {
     "counter": {
-        "CV. Rumahweb Indonesia": 1,
-        "Digital Registra": 2,
-        "DropCatch.com 398 LLC": 1,
+        "CV. JOGJACAMP": 2,
         "GoDaddy.com, LLC": 1,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
-        "MarkMonitor Inc.": 1,
-        "NameCheap, Inc.": 2,
-        "PT Aksara Data Digital": 2,
-        "Soluciones Corporativas IP, SL": 1,
-        "Web Commerce Communications Limited dba WebNic.cc": 3,
-        "total": 15
+        "Kilat Domain": 1,
+        "NameCheap, Inc.": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "PT. Web Commerce Communications": 1,
+        "ResellerCamp": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 1,
+        "total": 11
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 6.666666666666667,
-        "Digital Registra": 13.333333333333334,
-        "DropCatch.com 398 LLC": 6.666666666666667,
-        "GoDaddy.com, LLC": 6.666666666666667,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 6.666666666666667,
-        "MarkMonitor Inc.": 6.666666666666667,
-        "NameCheap, Inc.": 13.333333333333334,
-        "PT Aksara Data Digital": 13.333333333333334,
-        "Soluciones Corporativas IP, SL": 6.666666666666667,
-        "Web Commerce Communications Limited dba WebNic.cc": 20.0,
-        "total": 100.0
+        "CV. JOGJACAMP": 18.181818181818183,
+        "GoDaddy.com, LLC": 9.090909090909092,
+        "Kilat Domain": 9.090909090909092,
+        "NameCheap, Inc.": 9.090909090909092,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 18.181818181818183,
+        "PT. Web Commerce Communications": 9.090909090909092,
+        "ResellerCamp": 18.181818181818183,
+        "Web Commerce Communications Limited dba WebNic.cc": 9.090909090909092,
+        "total": 100.00000000000001
     }
 }
