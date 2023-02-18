@@ -1,24 +1,28 @@
 {
     "counter": {
         "CV. JOGJACAMP": 2,
+        "CV. Rumahweb Indonesia": 1,
         "GoDaddy.com, LLC": 1,
         "Kilat Domain": 1,
-        "NameCheap, Inc.": 1,
+        "NameCheap, Inc.": 4,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "PT Aksara Data Digital": 1,
         "PT. Web Commerce Communications": 1,
         "ResellerCamp": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 11
+        "total": 16
     },
     "percentage": {
-        "CV. JOGJACAMP": 18.181818181818183,
-        "GoDaddy.com, LLC": 9.090909090909092,
-        "Kilat Domain": 9.090909090909092,
-        "NameCheap, Inc.": 9.090909090909092,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 18.181818181818183,
-        "PT. Web Commerce Communications": 9.090909090909092,
-        "ResellerCamp": 18.181818181818183,
-        "Web Commerce Communications Limited dba WebNic.cc": 9.090909090909092,
-        "total": 100.00000000000001
+        "CV. JOGJACAMP": 12.5,
+        "CV. Rumahweb Indonesia": 6.25,
+        "GoDaddy.com, LLC": 6.25,
+        "Kilat Domain": 6.25,
+        "NameCheap, Inc.": 25.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12.5,
+        "PT Aksara Data Digital": 6.25,
+        "PT. Web Commerce Communications": 6.25,
+        "ResellerCamp": 12.5,
+        "Web Commerce Communications Limited dba WebNic.cc": 6.25,
+        "total": 100.0
     }
 }
