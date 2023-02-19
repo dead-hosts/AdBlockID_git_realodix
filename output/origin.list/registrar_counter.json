@@ -1,34 +1,20 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
-        "CV. Rumahweb Indonesia": 1,
-        "DropCatch.com 785 LLC": 1,
-        "GoDaddy.com, LLC": 1,
-        "Kilat Domain": 1,
-        "NAMECHEAP": 1,
-        "NameCheap, Inc.": 6,
-        "OVH sas": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "PT Aksara Data Digital": 1,
-        "PT. Web Commerce Communications": 1,
-        "ResellerCamp": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 21
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
+        "NameCheap, Inc.": 8,
+        "Namecheap": 2,
+        "OnlineNIC, Inc.": 1,
+        "TurnCommerce, Inc. DBA NameBright.com": 1,
+        "eNom, LLC": 1,
+        "total": 14
     },
     "percentage": {
-        "CV. JOGJACAMP": 9.523809523809524,
-        "CV. Rumahweb Indonesia": 4.761904761904762,
-        "DropCatch.com 785 LLC": 4.761904761904762,
-        "GoDaddy.com, LLC": 4.761904761904762,
-        "Kilat Domain": 4.761904761904762,
-        "NAMECHEAP": 4.761904761904762,
-        "NameCheap, Inc.": 28.571428571428573,
-        "OVH sas": 4.761904761904762,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 9.523809523809524,
-        "PT Aksara Data Digital": 4.761904761904762,
-        "PT. Web Commerce Communications": 4.761904761904762,
-        "ResellerCamp": 9.523809523809524,
-        "Web Commerce Communications Limited dba WebNic.cc": 4.761904761904762,
-        "total": 99.99999999999999
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 7.142857142857143,
+        "NameCheap, Inc.": 57.142857142857146,
+        "Namecheap": 14.285714285714286,
+        "OnlineNIC, Inc.": 7.142857142857143,
+        "TurnCommerce, Inc. DBA NameBright.com": 7.142857142857143,
+        "eNom, LLC": 7.142857142857143,
+        "total": 100.0
     }
 }
