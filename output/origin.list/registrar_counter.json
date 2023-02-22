@@ -1,12 +1,16 @@
 {
     "counter": {
         "Hostinger, UAB": 1,
-        "NameCheap, Inc.": 1,
-        "total": 2
+        "Kilat Domain": 1,
+        "NameCheap, Inc.": 2,
+        "Namecheap": 1,
+        "total": 5
     },
     "percentage": {
-        "Hostinger, UAB": 50.0,
-        "NameCheap, Inc.": 50.0,
+        "Hostinger, UAB": 20.0,
+        "Kilat Domain": 20.0,
+        "NameCheap, Inc.": 40.0,
+        "Namecheap": 20.0,
         "total": 100.0
     }
 }
