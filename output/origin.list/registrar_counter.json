@@ -1,16 +1,12 @@
 {
     "counter": {
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
         "Hostinger, UAB": 1,
-        "Kilat Domain": 1,
-        "NameCheap, Inc.": 2,
-        "Namecheap": 1,
-        "total": 5
+        "total": 2
     },
     "percentage": {
-        "Hostinger, UAB": 20.0,
-        "Kilat Domain": 20.0,
-        "NameCheap, Inc.": 40.0,
-        "Namecheap": 20.0,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 50.0,
+        "Hostinger, UAB": 50.0,
         "total": 100.0
     }
 }
