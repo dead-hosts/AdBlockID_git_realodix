@@ -2,11 +2,15 @@
     "counter": {
         "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
         "Hostinger, UAB": 1,
-        "total": 2
+        "PT Aksara Data Digital": 2,
+        "PT. Web Commerce Communications": 1,
+        "total": 5
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 50.0,
-        "Hostinger, UAB": 50.0,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 20.0,
+        "Hostinger, UAB": 20.0,
+        "PT Aksara Data Digital": 40.0,
+        "PT. Web Commerce Communications": 20.0,
         "total": 100.0
     }
 }
