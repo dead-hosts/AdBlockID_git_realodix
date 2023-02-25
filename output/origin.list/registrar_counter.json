@@ -1,14 +1,16 @@
 {
     "counter": {
         "CV. JOGJACAMP": 1,
-        "NameCheap, Inc.": 1,
+        "NameCheap, Inc.": 6,
+        "NameSilo, LLC": 1,
         "PT ARDH GLOBAL INDONESIA": 1,
-        "total": 3
+        "total": 9
     },
     "percentage": {
-        "CV. JOGJACAMP": 33.333333333333336,
-        "NameCheap, Inc.": 33.333333333333336,
-        "PT ARDH GLOBAL INDONESIA": 33.333333333333336,
-        "total": 100.0
+        "CV. JOGJACAMP": 11.11111111111111,
+        "NameCheap, Inc.": 66.66666666666667,
+        "NameSilo, LLC": 11.11111111111111,
+        "PT ARDH GLOBAL INDONESIA": 11.11111111111111,
+        "total": 100.00000000000001
     }
 }
