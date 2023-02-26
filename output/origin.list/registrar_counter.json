@@ -1,18 +1,24 @@
 {
     "counter": {
         "CV. Rumahweb Indonesia": 1,
+        "Digital Registra": 1,
         "Gransy, s.r.o.": 1,
-        "NameCheap, Inc.": 1,
-        "Namecheap": 1,
+        "NameCheap, Inc.": 2,
+        "Namecheap": 2,
+        "PT Registrasi Nama Domain": 1,
         "ResellerCamp": 1,
-        "total": 5
+        "Web Commerce Communications Limited dba WebNic.cc": 1,
+        "total": 10
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 20.0,
-        "Gransy, s.r.o.": 20.0,
+        "CV. Rumahweb Indonesia": 10.0,
+        "Digital Registra": 10.0,
+        "Gransy, s.r.o.": 10.0,
         "NameCheap, Inc.": 20.0,
         "Namecheap": 20.0,
-        "ResellerCamp": 20.0,
+        "PT Registrasi Nama Domain": 10.0,
+        "ResellerCamp": 10.0,
+        "Web Commerce Communications Limited dba WebNic.cc": 10.0,
         "total": 100.0
     }
 }
