@@ -1,12 +1,14 @@
 {
     "counter": {
         "GoDaddy.com, LLC": 1,
+        "PANDI Registrar": 1,
         "PT Aksara Data Digital": 1,
-        "total": 2
+        "total": 3
     },
     "percentage": {
-        "GoDaddy.com, LLC": 50.0,
-        "PT Aksara Data Digital": 50.0,
+        "GoDaddy.com, LLC": 33.333333333333336,
+        "PANDI Registrar": 33.333333333333336,
+        "PT Aksara Data Digital": 33.333333333333336,
         "total": 100.0
     }
 }
