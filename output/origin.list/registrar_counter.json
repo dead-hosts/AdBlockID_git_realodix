@@ -1,14 +1,18 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 1,
-        "PANDI Registrar": 1,
-        "PT Aksara Data Digital": 1,
-        "total": 3
+        "CV. JOGJACAMP": 1,
+        "NameCheap, Inc.": 1,
+        "NameSilo, LLC": 1,
+        "Namecheap": 3,
+        "Namecheap Inc.": 1,
+        "total": 7
     },
     "percentage": {
-        "GoDaddy.com, LLC": 33.333333333333336,
-        "PANDI Registrar": 33.333333333333336,
-        "PT Aksara Data Digital": 33.333333333333336,
-        "total": 100.0
+        "CV. JOGJACAMP": 14.285714285714286,
+        "NameCheap, Inc.": 14.285714285714286,
+        "NameSilo, LLC": 14.285714285714286,
+        "Namecheap": 42.857142857142854,
+        "Namecheap Inc.": 14.285714285714286,
+        "total": 100.00000000000001
     }
 }
