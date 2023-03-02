@@ -3,22 +3,24 @@
         "CBN Registrar": 1,
         "CV. JOGJACAMP": 1,
         "DYNADOT, LLC": 1,
+        "Digital Registra": 1,
         "GoDaddy.com, LLC": 2,
-        "Hostinger, UAB": 1,
+        "Hostinger, UAB": 2,
         "Tucows Domains Inc.": 1,
         "URL Solutions, Inc.": 1,
         "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 9
+        "total": 11
     },
     "percentage": {
-        "CBN Registrar": 11.11111111111111,
-        "CV. JOGJACAMP": 11.11111111111111,
-        "DYNADOT, LLC": 11.11111111111111,
-        "GoDaddy.com, LLC": 22.22222222222222,
-        "Hostinger, UAB": 11.11111111111111,
-        "Tucows Domains Inc.": 11.11111111111111,
-        "URL Solutions, Inc.": 11.11111111111111,
-        "Web Commerce Communications Limited dba WebNic.cc": 11.11111111111111,
+        "CBN Registrar": 9.090909090909092,
+        "CV. JOGJACAMP": 9.090909090909092,
+        "DYNADOT, LLC": 9.090909090909092,
+        "Digital Registra": 9.090909090909092,
+        "GoDaddy.com, LLC": 18.181818181818183,
+        "Hostinger, UAB": 18.181818181818183,
+        "Tucows Domains Inc.": 9.090909090909092,
+        "URL Solutions, Inc.": 9.090909090909092,
+        "Web Commerce Communications Limited dba WebNic.cc": 9.090909090909092,
         "total": 100.00000000000001
     }
 }
