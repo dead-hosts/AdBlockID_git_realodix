@@ -2,23 +2,23 @@
     "counter": {
         "CV. Jogjacamp": 1,
         "Hostinger, UAB": 2,
-        "NameCheap, Inc.": 4,
-        "Namecheap": 7,
+        "NameCheap, Inc.": 5,
+        "Namecheap": 8,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
         "Porkbun LLC": 1,
         "Registrasi Neva Angkasa": 1,
         "Sav.com LLC": 1,
-        "total": 18
+        "total": 20
     },
     "percentage": {
-        "CV. Jogjacamp": 5.555555555555555,
-        "Hostinger, UAB": 11.11111111111111,
-        "NameCheap, Inc.": 22.22222222222222,
-        "Namecheap": 38.888888888888886,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.555555555555555,
-        "Porkbun LLC": 5.555555555555555,
-        "Registrasi Neva Angkasa": 5.555555555555555,
-        "Sav.com LLC": 5.555555555555555,
+        "CV. Jogjacamp": 5.0,
+        "Hostinger, UAB": 10.0,
+        "NameCheap, Inc.": 25.0,
+        "Namecheap": 40.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.0,
+        "Porkbun LLC": 5.0,
+        "Registrasi Neva Angkasa": 5.0,
+        "Sav.com LLC": 5.0,
         "total": 100.0
     }
 }
