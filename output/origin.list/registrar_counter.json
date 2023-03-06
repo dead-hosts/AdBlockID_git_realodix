@@ -1,28 +1,36 @@
 {
     "counter": {
         "CV. JOGJACAMP": 1,
+        "CV. Rumahweb Indonesia": 1,
         "Digital Registra": 3,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "MAT BAO CORPORATION": 1,
-        "NameCheap, Inc.": 1,
-        "PT Aksara Data Digital": 3,
+        "Google Inc.": 1,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 3,
+        "MAT BAO CORPORATION": 3,
+        "NameCheap, Inc.": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "PT Aksara Data Digital": 5,
         "PT Cloud Hosting Indonesia": 1,
+        "PT. Web Commerce Communications": 1,
         "Porkbun LLC": 1,
         "ResellerCamp": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 17
+        "total": 27
     },
     "percentage": {
-        "CV. JOGJACAMP": 5.882352941176471,
-        "Digital Registra": 17.647058823529413,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 11.764705882352942,
-        "MAT BAO CORPORATION": 5.882352941176471,
-        "NameCheap, Inc.": 5.882352941176471,
-        "PT Aksara Data Digital": 17.647058823529413,
-        "PT Cloud Hosting Indonesia": 5.882352941176471,
-        "Porkbun LLC": 5.882352941176471,
-        "ResellerCamp": 11.764705882352942,
-        "Web Commerce Communications Limited dba WebNic.cc": 11.764705882352942,
-        "total": 100.0
+        "CV. JOGJACAMP": 3.7037037037037037,
+        "CV. Rumahweb Indonesia": 3.7037037037037037,
+        "Digital Registra": 11.11111111111111,
+        "Google Inc.": 3.7037037037037037,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 11.11111111111111,
+        "MAT BAO CORPORATION": 11.11111111111111,
+        "NameCheap, Inc.": 7.407407407407407,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.7037037037037037,
+        "PT Aksara Data Digital": 18.51851851851852,
+        "PT Cloud Hosting Indonesia": 3.7037037037037037,
+        "PT. Web Commerce Communications": 3.7037037037037037,
+        "Porkbun LLC": 3.7037037037037037,
+        "ResellerCamp": 7.407407407407407,
+        "Web Commerce Communications Limited dba WebNic.cc": 7.407407407407407,
+        "total": 100.00000000000001
     }
 }
