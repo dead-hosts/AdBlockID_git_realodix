@@ -1,7 +1,7 @@
 {
     "counter": {
         "CV. JOGJACAMP": 1,
-        "Hostinger, UAB": 1,
+        "Hostinger, UAB": 3,
         "Jagat Informasi Solusi (int)": 1,
         "NameCheap, Inc.": 1,
         "Namecheap": 2,
@@ -9,18 +9,18 @@
         "Porkbun": 1,
         "ResellerCamp": 1,
         "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 10
+        "total": 12
     },
     "percentage": {
-        "CV. JOGJACAMP": 10.0,
-        "Hostinger, UAB": 10.0,
-        "Jagat Informasi Solusi (int)": 10.0,
-        "NameCheap, Inc.": 10.0,
-        "Namecheap": 20.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 10.0,
-        "Porkbun": 10.0,
-        "ResellerCamp": 10.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 10.0,
-        "total": 100.0
+        "CV. JOGJACAMP": 8.333333333333334,
+        "Hostinger, UAB": 25.0,
+        "Jagat Informasi Solusi (int)": 8.333333333333334,
+        "NameCheap, Inc.": 8.333333333333334,
+        "Namecheap": 16.666666666666668,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 8.333333333333334,
+        "Porkbun": 8.333333333333334,
+        "ResellerCamp": 8.333333333333334,
+        "Web Commerce Communications Limited dba WebNic.cc": 8.333333333333334,
+        "total": 99.99999999999999
     }
 }
