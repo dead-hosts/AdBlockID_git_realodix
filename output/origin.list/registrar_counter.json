@@ -1,44 +1,14 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 5,
-        "CV. Rumahweb Indonesia": 2,
-        "Digital Registra": 4,
-        "Go Daddy, LLC": 1,
-        "GoDaddy.com, LLC": 2,
-        "Gransy, s.r.o.": 1,
-        "GrepApps Technology Inc.": 1,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
-        "Hostinger, UAB": 4,
-        "Libyan Spider Network (int)": 2,
-        "Name.com, Inc.": 1,
-        "NameCheap, Inc.": 12,
-        "NameSilo, LLC": 1,
-        "Namecheap": 6,
-        "Namecheap Inc.": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3,
-        "PT Biznet Gio Nusantara": 1,
-        "Web Commerce Communications Limited dba WebNic.cc": 4,
-        "total": 52
+        "CV. JOGJACAMP": 1,
+        "CV. Rumahweb Indonesia": 1,
+        "NameCheap, Inc.": 2,
+        "total": 4
     },
     "percentage": {
-        "CV. JOGJACAMP": 9.615384615384615,
-        "CV. Rumahweb Indonesia": 3.8461538461538463,
-        "Digital Registra": 7.6923076923076925,
-        "Go Daddy, LLC": 1.9230769230769231,
-        "GoDaddy.com, LLC": 3.8461538461538463,
-        "Gransy, s.r.o.": 1.9230769230769231,
-        "GrepApps Technology Inc.": 1.9230769230769231,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 1.9230769230769231,
-        "Hostinger, UAB": 7.6923076923076925,
-        "Libyan Spider Network (int)": 3.8461538461538463,
-        "Name.com, Inc.": 1.9230769230769231,
-        "NameCheap, Inc.": 23.076923076923077,
-        "NameSilo, LLC": 1.9230769230769231,
-        "Namecheap": 11.538461538461538,
-        "Namecheap Inc.": 1.9230769230769231,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.769230769230769,
-        "PT Biznet Gio Nusantara": 1.9230769230769231,
-        "Web Commerce Communications Limited dba WebNic.cc": 7.6923076923076925,
-        "total": 99.99999999999999
+        "CV. JOGJACAMP": 25.0,
+        "CV. Rumahweb Indonesia": 25.0,
+        "NameCheap, Inc.": 50.0,
+        "total": 100.0
     }
 }
