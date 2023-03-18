@@ -1,14 +1,14 @@
 {
     "counter": {
-        "Digital Registra": 2,
-        "Google LLC": 1,
-        "Namecheap": 1,
-        "total": 4
+        "MAT BAO CORPORATION": 1,
+        "NAMECHEAP": 1,
+        "Porkbun LLC": 1,
+        "total": 3
     },
     "percentage": {
-        "Digital Registra": 50.0,
-        "Google LLC": 25.0,
-        "Namecheap": 25.0,
+        "MAT BAO CORPORATION": 33.333333333333336,
+        "NAMECHEAP": 33.333333333333336,
+        "Porkbun LLC": 33.333333333333336,
         "total": 100.0
     }
 }
