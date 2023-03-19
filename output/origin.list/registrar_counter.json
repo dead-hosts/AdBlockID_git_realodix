@@ -2,15 +2,17 @@
     "counter": {
         "CV. Rumahweb Indonesia": 1,
         "DropCatch.com 1329 LLC": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "Porkbun LLC": 1,
         "Tucows Domains Inc.": 1,
-        "total": 4
+        "total": 6
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 25.0,
-        "DropCatch.com 1329 LLC": 25.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
-        "Tucows Domains Inc.": 25.0,
-        "total": 100.0
+        "CV. Rumahweb Indonesia": 16.666666666666668,
+        "DropCatch.com 1329 LLC": 16.666666666666668,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 33.333333333333336,
+        "Porkbun LLC": 16.666666666666668,
+        "Tucows Domains Inc.": 16.666666666666668,
+        "total": 100.00000000000001
     }
 }
