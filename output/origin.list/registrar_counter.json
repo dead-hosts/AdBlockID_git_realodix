@@ -1,18 +1,30 @@
 {
     "counter": {
-        "CV. Rumahweb Indonesia": 1,
-        "DropCatch.com 1329 LLC": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "Porkbun LLC": 1,
-        "Tucows Domains Inc.": 1,
-        "total": 6
+        "CV. JOGJACAMP": 1,
+        "CV. Rumahweb Indonesia": 2,
+        "DropCatch.com 398 LLC": 1,
+        "GoDaddy.com, LLC": 1,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
+        "MarkMonitor Inc.": 1,
+        "Name.com, Inc.": 1,
+        "NameCheap, Inc.": 4,
+        "PT Aksara Data Digital": 2,
+        "Soluciones Corporativas IP, SL": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 3,
+        "total": 18
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 16.666666666666668,
-        "DropCatch.com 1329 LLC": 16.666666666666668,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 33.333333333333336,
-        "Porkbun LLC": 16.666666666666668,
-        "Tucows Domains Inc.": 16.666666666666668,
+        "CV. JOGJACAMP": 5.555555555555555,
+        "CV. Rumahweb Indonesia": 11.11111111111111,
+        "DropCatch.com 398 LLC": 5.555555555555555,
+        "GoDaddy.com, LLC": 5.555555555555555,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 5.555555555555555,
+        "MarkMonitor Inc.": 5.555555555555555,
+        "Name.com, Inc.": 5.555555555555555,
+        "NameCheap, Inc.": 22.22222222222222,
+        "PT Aksara Data Digital": 11.11111111111111,
+        "Soluciones Corporativas IP, SL": 5.555555555555555,
+        "Web Commerce Communications Limited dba WebNic.cc": 16.666666666666668,
         "total": 100.00000000000001
     }
 }
