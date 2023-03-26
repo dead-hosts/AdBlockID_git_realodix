@@ -1,16 +1,20 @@
 {
     "counter": {
-        "Hostinger, UAB": 1,
-        "Kilat Domain": 1,
-        "NameCheap, Inc.": 3,
+        "GoDaddy.com, LLC": 1,
+        "Hello Internet Corp": 1,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
+        "Hostinger, UAB": 2,
+        "NameCheap, Inc.": 1,
         "PT. Web Commerce Communications": 1,
-        "total": 6
+        "total": 7
     },
     "percentage": {
-        "Hostinger, UAB": 16.666666666666668,
-        "Kilat Domain": 16.666666666666668,
-        "NameCheap, Inc.": 50.0,
-        "PT. Web Commerce Communications": 16.666666666666668,
+        "GoDaddy.com, LLC": 14.285714285714286,
+        "Hello Internet Corp": 14.285714285714286,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 14.285714285714286,
+        "Hostinger, UAB": 28.571428571428573,
+        "NameCheap, Inc.": 14.285714285714286,
+        "PT. Web Commerce Communications": 14.285714285714286,
         "total": 100.00000000000001
     }
 }
