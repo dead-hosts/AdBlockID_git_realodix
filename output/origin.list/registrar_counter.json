@@ -1,28 +1,10 @@
 {
     "counter": {
-        "Digital Registra": 1,
-        "GoDaddy.com, LLC": 1,
-        "Hello Internet Corp": 1,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
-        "Hostinger, UAB": 2,
-        "NameCheap, Inc.": 10,
-        "Namecheap": 2,
-        "Namecheap Inc.": 2,
-        "PT Aksara Data Digital": 2,
-        "PT. Web Commerce Communications": 1,
-        "total": 23
+        "NameCheap, Inc.": 3,
+        "total": 3
     },
     "percentage": {
-        "Digital Registra": 4.3478260869565215,
-        "GoDaddy.com, LLC": 4.3478260869565215,
-        "Hello Internet Corp": 4.3478260869565215,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 4.3478260869565215,
-        "Hostinger, UAB": 8.695652173913043,
-        "NameCheap, Inc.": 43.47826086956522,
-        "Namecheap": 8.695652173913043,
-        "Namecheap Inc.": 8.695652173913043,
-        "PT Aksara Data Digital": 8.695652173913043,
-        "PT. Web Commerce Communications": 4.3478260869565215,
+        "NameCheap, Inc.": 100.0,
         "total": 100.0
     }
 }
