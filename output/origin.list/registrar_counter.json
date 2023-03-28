@@ -1,10 +1,22 @@
 {
     "counter": {
-        "NameCheap, Inc.": 3,
-        "total": 3
+        "CV. JOGJACAMP": 2,
+        "CV. Rumahweb Indonesia": 1,
+        "Digital Registra": 1,
+        "NameCheap, Inc.": 1,
+        "PT ARDH GLOBAL INDONESIA": 2,
+        "PT Aksara Data Digital": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 10
     },
     "percentage": {
-        "NameCheap, Inc.": 100.0,
+        "CV. JOGJACAMP": 20.0,
+        "CV. Rumahweb Indonesia": 10.0,
+        "Digital Registra": 10.0,
+        "NameCheap, Inc.": 10.0,
+        "PT ARDH GLOBAL INDONESIA": 20.0,
+        "PT Aksara Data Digital": 10.0,
+        "Web Commerce Communications Limited dba WebNic.cc": 20.0,
         "total": 100.0
     }
 }
