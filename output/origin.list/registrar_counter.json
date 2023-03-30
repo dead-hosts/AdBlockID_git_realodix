@@ -1,26 +1,30 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 1,
+        "CV. JOGJACAMP": 2,
         "CV. Rumahweb Indonesia": 2,
+        "Gandi SAS": 1,
         "Hostinger, UAB": 2,
-        "NameCheap, Inc.": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "NameCheap, Inc.": 2,
+        "PANDI Registrar": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
         "PT Aksara Data Digital": 1,
         "Porkbun LLC": 1,
-        "Tucows Domains Inc.": 1,
+        "Tucows Domains Inc.": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 13
+        "total": 20
     },
     "percentage": {
-        "CV. JOGJACAMP": 7.6923076923076925,
-        "CV. Rumahweb Indonesia": 15.384615384615385,
-        "Hostinger, UAB": 15.384615384615385,
-        "NameCheap, Inc.": 7.6923076923076925,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 15.384615384615385,
-        "PT Aksara Data Digital": 7.6923076923076925,
-        "Porkbun LLC": 7.6923076923076925,
-        "Tucows Domains Inc.": 7.6923076923076925,
-        "Web Commerce Communications Limited dba WebNic.cc": 15.384615384615385,
+        "CV. JOGJACAMP": 10.0,
+        "CV. Rumahweb Indonesia": 10.0,
+        "Gandi SAS": 5.0,
+        "Hostinger, UAB": 10.0,
+        "NameCheap, Inc.": 10.0,
+        "PANDI Registrar": 5.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.0,
+        "PT Aksara Data Digital": 5.0,
+        "Porkbun LLC": 5.0,
+        "Tucows Domains Inc.": 10.0,
+        "Web Commerce Communications Limited dba WebNic.cc": 10.0,
         "total": 100.0
     }
 }
