@@ -2,13 +2,15 @@
     "counter": {
         "Internet Domain Service BS Corp": 1,
         "NameCheap, Inc.": 1,
+        "Namecheap": 1,
         "Namecheap, Inc.": 1,
-        "total": 3
+        "total": 4
     },
     "percentage": {
-        "Internet Domain Service BS Corp": 33.333333333333336,
-        "NameCheap, Inc.": 33.333333333333336,
-        "Namecheap, Inc.": 33.333333333333336,
+        "Internet Domain Service BS Corp": 25.0,
+        "NameCheap, Inc.": 25.0,
+        "Namecheap": 25.0,
+        "Namecheap, Inc.": 25.0,
         "total": 100.0
     }
 }
