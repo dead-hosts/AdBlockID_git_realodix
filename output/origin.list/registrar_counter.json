@@ -1,16 +1,24 @@
 {
     "counter": {
-        "Internet Domain Service BS Corp": 1,
+        "CV. JOGJACAMP": 1,
+        "Jagat Informasi Solusi (int)": 1,
         "NameCheap, Inc.": 1,
         "Namecheap": 1,
-        "Namecheap, Inc.": 1,
-        "total": 4
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "Porkbun": 1,
+        "ResellerCamp": 1,
+        "eNom, LLC": 1,
+        "total": 9
     },
     "percentage": {
-        "Internet Domain Service BS Corp": 25.0,
-        "NameCheap, Inc.": 25.0,
-        "Namecheap": 25.0,
-        "Namecheap, Inc.": 25.0,
+        "CV. JOGJACAMP": 11.11111111111111,
+        "Jagat Informasi Solusi (int)": 11.11111111111111,
+        "NameCheap, Inc.": 11.11111111111111,
+        "Namecheap": 11.11111111111111,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 22.22222222222222,
+        "Porkbun": 11.11111111111111,
+        "ResellerCamp": 11.11111111111111,
+        "eNom, LLC": 11.11111111111111,
         "total": 100.0
     }
 }
