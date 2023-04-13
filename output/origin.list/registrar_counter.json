@@ -3,16 +3,18 @@
         "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
         "Hostinger, UAB": 2,
         "NameCheap, Inc.": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "PT Registrasi Nama Domain": 1,
         "Tucows Domains Inc.": 1,
-        "total": 6
+        "total": 8
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 16.666666666666668,
-        "Hostinger, UAB": 33.333333333333336,
-        "NameCheap, Inc.": 16.666666666666668,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 16.666666666666668,
-        "Tucows Domains Inc.": 16.666666666666668,
-        "total": 100.00000000000001
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 12.5,
+        "Hostinger, UAB": 25.0,
+        "NameCheap, Inc.": 12.5,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
+        "PT Registrasi Nama Domain": 12.5,
+        "Tucows Domains Inc.": 12.5,
+        "total": 100.0
     }
 }
