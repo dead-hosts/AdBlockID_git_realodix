@@ -1,12 +1,16 @@
 {
     "counter": {
         "Digital Registra": 1,
-        "NameCheap, Inc.": 1,
-        "total": 2
+        "Dynadot LLC": 1,
+        "NameCheap, Inc.": 4,
+        "Namecheap": 1,
+        "total": 7
     },
     "percentage": {
-        "Digital Registra": 50.0,
-        "NameCheap, Inc.": 50.0,
-        "total": 100.0
+        "Digital Registra": 14.285714285714286,
+        "Dynadot LLC": 14.285714285714286,
+        "NameCheap, Inc.": 57.142857142857146,
+        "Namecheap": 14.285714285714286,
+        "total": 100.00000000000001
     }
 }
