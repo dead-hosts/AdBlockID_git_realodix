@@ -1,16 +1,18 @@
 {
     "counter": {
-        "Digital Registra": 1,
-        "Dynadot LLC": 1,
-        "NameCheap, Inc.": 4,
-        "Namecheap": 1,
-        "total": 7
+        "CV. Rumahweb Indonesia": 1,
+        "Digital Registra": 2,
+        "Google LLC": 1,
+        "NameCheap, Inc.": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "total": 6
     },
     "percentage": {
-        "Digital Registra": 14.285714285714286,
-        "Dynadot LLC": 14.285714285714286,
-        "NameCheap, Inc.": 57.142857142857146,
-        "Namecheap": 14.285714285714286,
+        "CV. Rumahweb Indonesia": 16.666666666666668,
+        "Digital Registra": 33.333333333333336,
+        "Google LLC": 16.666666666666668,
+        "NameCheap, Inc.": 16.666666666666668,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 16.666666666666668,
         "total": 100.00000000000001
     }
 }
