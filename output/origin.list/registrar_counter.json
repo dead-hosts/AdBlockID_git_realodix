@@ -1,0 +1,32 @@
+{
+    "counter": {
+        "CV. JOGJACAMP": 2,
+        "CV. Rumahweb Indonesia": 2,
+        "Digital Registra": 2,
+        "DropCatch.com 398 LLC": 1,
+        "GoDaddy.com, LLC": 1,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
+        "MarkMonitor Inc.": 1,
+        "NameCheap, Inc.": 4,
+        "PT Aksara Data Digital": 2,
+        "PT. Web Commerce Communications": 2,
+        "Soluciones Corporativas IP, SL": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 3,
+        "total": 23
+    },
+    "percentage": {
+        "CV. JOGJACAMP": 8.695652173913043,
+        "CV. Rumahweb Indonesia": 8.695652173913043,
+        "Digital Registra": 8.695652173913043,
+        "DropCatch.com 398 LLC": 4.3478260869565215,
+        "GoDaddy.com, LLC": 4.3478260869565215,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 8.695652173913043,
+        "MarkMonitor Inc.": 4.3478260869565215,
+        "NameCheap, Inc.": 17.391304347826086,
+        "PT Aksara Data Digital": 8.695652173913043,
+        "PT. Web Commerce Communications": 8.695652173913043,
+        "Soluciones Corporativas IP, SL": 4.3478260869565215,
+        "Web Commerce Communications Limited dba WebNic.cc": 13.043478260869565,
+        "total": 100.0
+    }
+}
