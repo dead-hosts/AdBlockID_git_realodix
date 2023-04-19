@@ -1,20 +1,28 @@
 {
     "counter": {
-        "Digital Registra": 2,
-        "GoDaddy.com, LLC": 1,
-        "NameCheap, Inc.": 2,
-        "Namecheap": 1,
+        "CV. JOGJACAMP": 1,
+        "CV. Rumahweb Indonesia": 1,
+        "DYNADOT, LLC": 1,
+        "DropCatch.com 1329 LLC": 1,
+        "Hello Internet Corp": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "PT Aksara Data Digital": 1,
+        "PT Cloud Hosting Indonesia": 1,
+        "Tucows Domains Inc.": 1,
         "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 8
+        "total": 11
     },
     "percentage": {
-        "Digital Registra": 25.0,
-        "GoDaddy.com, LLC": 12.5,
-        "NameCheap, Inc.": 25.0,
-        "Namecheap": 12.5,
-        "PT Aksara Data Digital": 12.5,
-        "Web Commerce Communications Limited dba WebNic.cc": 12.5,
-        "total": 100.0
+        "CV. JOGJACAMP": 9.090909090909092,
+        "CV. Rumahweb Indonesia": 9.090909090909092,
+        "DYNADOT, LLC": 9.090909090909092,
+        "DropCatch.com 1329 LLC": 9.090909090909092,
+        "Hello Internet Corp": 9.090909090909092,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 18.181818181818183,
+        "PT Aksara Data Digital": 9.090909090909092,
+        "PT Cloud Hosting Indonesia": 9.090909090909092,
+        "Tucows Domains Inc.": 9.090909090909092,
+        "Web Commerce Communications Limited dba WebNic.cc": 9.090909090909092,
+        "total": 100.00000000000001
     }
 }
