@@ -14,7 +14,7 @@
     "name": "AdBlockID_git_realodix",
     "own_management": false,
     "ping": [],
-    "raw_link": "https://cdn.jsdelivr.net/gh/realodix/AdBlockID@main/dist/test_adblockid.txt",
+    "raw_link": "https://cdn.jsdelivr.net/gh/realodix/AdBlockID@master/output/test_adblockid.txt",
     "repo": "dead-hosts/AdBlockID_git_realodix",
     "start_datetime": "2020-12-28T17:28:40.256742",
     "start_timestamp": 1609176520.256742
