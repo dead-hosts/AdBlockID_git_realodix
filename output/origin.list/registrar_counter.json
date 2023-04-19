@@ -1,10 +1,12 @@
 {
     "counter": {
+        "CV. JOGJACAMP": 1,
         "PT ARDH GLOBAL INDONESIA": 1,
-        "total": 1
+        "total": 2
     },
     "percentage": {
-        "PT ARDH GLOBAL INDONESIA": 100.0,
+        "CV. JOGJACAMP": 50.0,
+        "PT ARDH GLOBAL INDONESIA": 50.0,
         "total": 100.0
     }
 }
