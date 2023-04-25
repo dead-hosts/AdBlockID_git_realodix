@@ -1,0 +1,18 @@
+{
+    "counter": {
+        "Hello Internet Corp": 1,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
+        "Hostinger, UAB": 1,
+        "NameCheap, Inc.": 2,
+        "PT. Web Commerce Communications": 1,
+        "total": 6
+    },
+    "percentage": {
+        "Hello Internet Corp": 16.666666666666668,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 16.666666666666668,
+        "Hostinger, UAB": 16.666666666666668,
+        "NameCheap, Inc.": 33.333333333333336,
+        "PT. Web Commerce Communications": 16.666666666666668,
+        "total": 100.00000000000001
+    }
+}
