@@ -1,22 +1,12 @@
 {
     "counter": {
-        "Digital Registra": 1,
-        "Hello Internet Corp": 1,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
-        "Hostinger, UAB": 2,
-        "NameCheap, Inc.": 3,
-        "PT Aksara Data Digital": 2,
-        "PT. Web Commerce Communications": 1,
-        "total": 11
+        "Digital Registra": 2,
+        "OnlineNIC, Inc.": 1,
+        "total": 3
     },
     "percentage": {
-        "Digital Registra": 9.090909090909092,
-        "Hello Internet Corp": 9.090909090909092,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 9.090909090909092,
-        "Hostinger, UAB": 18.181818181818183,
-        "NameCheap, Inc.": 27.272727272727273,
-        "PT Aksara Data Digital": 18.181818181818183,
-        "PT. Web Commerce Communications": 9.090909090909092,
-        "total": 100.00000000000001
+        "Digital Registra": 66.66666666666667,
+        "OnlineNIC, Inc.": 33.333333333333336,
+        "total": 100.0
     }
 }
