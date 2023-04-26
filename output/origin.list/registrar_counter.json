@@ -1,14 +1,16 @@
 {
     "counter": {
+        "CBN Registrar": 1,
         "Digital Registra": 3,
         "OnlineNIC, Inc.": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "total": 5
+        "total": 6
     },
     "percentage": {
-        "Digital Registra": 60.0,
-        "OnlineNIC, Inc.": 20.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.0,
-        "total": 100.0
+        "CBN Registrar": 16.666666666666668,
+        "Digital Registra": 50.0,
+        "OnlineNIC, Inc.": 16.666666666666668,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 16.666666666666668,
+        "total": 100.00000000000001
     }
 }
