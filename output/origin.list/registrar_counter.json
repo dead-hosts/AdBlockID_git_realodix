@@ -1,12 +1,14 @@
 {
     "counter": {
-        "Digital Registra": 2,
+        "Digital Registra": 3,
         "OnlineNIC, Inc.": 1,
-        "total": 3
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "total": 5
     },
     "percentage": {
-        "Digital Registra": 66.66666666666667,
-        "OnlineNIC, Inc.": 33.333333333333336,
+        "Digital Registra": 60.0,
+        "OnlineNIC, Inc.": 20.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.0,
         "total": 100.0
     }
 }
