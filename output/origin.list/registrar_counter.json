@@ -1,20 +1,32 @@
 {
     "counter": {
+        "CV. JOGJACAMP": 3,
         "CV. Rumahweb Indonesia": 1,
-        "Hostinger, UAB": 1,
+        "Digital Registra": 3,
+        "GoDaddy.com, LLC": 1,
+        "Google LLC": 1,
+        "Hostinger, UAB": 2,
         "Jagat Informasi Solusi (int)": 1,
-        "PT ARDH GLOBAL INDONESIA": 2,
+        "MAT BAO CORPORATION": 1,
+        "NameCheap, Inc.": 3,
+        "PT ARDH GLOBAL INDONESIA": 3,
         "PT Aksara Data Digital": 1,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 8
+        "total": 22
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 12.5,
-        "Hostinger, UAB": 12.5,
-        "Jagat Informasi Solusi (int)": 12.5,
-        "PT ARDH GLOBAL INDONESIA": 25.0,
-        "PT Aksara Data Digital": 12.5,
-        "Web Commerce Communications Limited dba WebNic.cc": 25.0,
-        "total": 100.0
+        "CV. JOGJACAMP": 13.636363636363637,
+        "CV. Rumahweb Indonesia": 4.545454545454546,
+        "Digital Registra": 13.636363636363637,
+        "GoDaddy.com, LLC": 4.545454545454546,
+        "Google LLC": 4.545454545454546,
+        "Hostinger, UAB": 9.090909090909092,
+        "Jagat Informasi Solusi (int)": 4.545454545454546,
+        "MAT BAO CORPORATION": 4.545454545454546,
+        "NameCheap, Inc.": 13.636363636363637,
+        "PT ARDH GLOBAL INDONESIA": 13.636363636363637,
+        "PT Aksara Data Digital": 4.545454545454546,
+        "Web Commerce Communications Limited dba WebNic.cc": 9.090909090909092,
+        "total": 100.00000000000001
     }
 }
