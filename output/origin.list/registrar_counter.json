@@ -1,34 +1,20 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
-        "CV. Rumahweb Indonesia": 4,
-        "Digital Registra": 2,
-        "Google LLC": 1,
-        "Hostinger, UAB": 2,
-        "NameCheap, Inc.": 10,
-        "NameSilo, LLC": 1,
-        "OnlineNIC, Inc.": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "PT. Web Commerce Communications": 1,
-        "Register.com, Inc.": 1,
-        "Web Commerce Communications Limited dba WebNic.cc": 3,
-        "Web Commerce Communications Ltd": 1,
-        "total": 30
+        "CV. Rumahweb Indonesia": 1,
+        "Hostinger, UAB": 1,
+        "Jagat Informasi Solusi (int)": 1,
+        "PT ARDH GLOBAL INDONESIA": 2,
+        "PT Aksara Data Digital": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 8
     },
     "percentage": {
-        "CV. JOGJACAMP": 6.666666666666667,
-        "CV. Rumahweb Indonesia": 13.333333333333334,
-        "Digital Registra": 6.666666666666667,
-        "Google LLC": 3.3333333333333335,
-        "Hostinger, UAB": 6.666666666666667,
-        "NameCheap, Inc.": 33.333333333333336,
-        "NameSilo, LLC": 3.3333333333333335,
-        "OnlineNIC, Inc.": 3.3333333333333335,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.3333333333333335,
-        "PT. Web Commerce Communications": 3.3333333333333335,
-        "Register.com, Inc.": 3.3333333333333335,
-        "Web Commerce Communications Limited dba WebNic.cc": 10.0,
-        "Web Commerce Communications Ltd": 3.3333333333333335,
-        "total": 99.99999999999997
+        "CV. Rumahweb Indonesia": 12.5,
+        "Hostinger, UAB": 12.5,
+        "Jagat Informasi Solusi (int)": 12.5,
+        "PT ARDH GLOBAL INDONESIA": 25.0,
+        "PT Aksara Data Digital": 12.5,
+        "Web Commerce Communications Limited dba WebNic.cc": 25.0,
+        "total": 100.0
     }
 }
