@@ -1,12 +1,16 @@
 {
     "counter": {
-        "CloudFlare, Inc.": 1,
+        "CloudFlare, Inc.": 2,
         "Digital Registra": 1,
-        "total": 2
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "ResellerCamp": 1,
+        "total": 5
     },
     "percentage": {
-        "CloudFlare, Inc.": 50.0,
-        "Digital Registra": 50.0,
+        "CloudFlare, Inc.": 40.0,
+        "Digital Registra": 20.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.0,
+        "ResellerCamp": 20.0,
         "total": 100.0
     }
 }
