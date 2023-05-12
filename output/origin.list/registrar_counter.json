@@ -1,0 +1,34 @@
+{
+    "counter": {
+        "CV. JOGJACAMP": 5,
+        "CV. Rumahweb Indonesia": 1,
+        "Digital Registra": 6,
+        "GoDaddy.com, LLC": 1,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
+        "Hostinger, UAB": 4,
+        "Jagoan Hosting": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
+        "PT ARDH GLOBAL INDONESIA": 1,
+        "PT Cloud Hosting Indonesia": 1,
+        "PT. Web Commerce Communications": 2,
+        "ResellerCamp": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 4,
+        "total": 32
+    },
+    "percentage": {
+        "CV. JOGJACAMP": 15.625,
+        "CV. Rumahweb Indonesia": 3.125,
+        "Digital Registra": 18.75,
+        "GoDaddy.com, LLC": 3.125,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 3.125,
+        "Hostinger, UAB": 12.5,
+        "Jagoan Hosting": 3.125,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12.5,
+        "PT ARDH GLOBAL INDONESIA": 3.125,
+        "PT Cloud Hosting Indonesia": 3.125,
+        "PT. Web Commerce Communications": 6.25,
+        "ResellerCamp": 3.125,
+        "Web Commerce Communications Limited dba WebNic.cc": 12.5,
+        "total": 100.0
+    }
+}
