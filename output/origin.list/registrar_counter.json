@@ -2,31 +2,31 @@
     "counter": {
         "CV. JOGJACAMP": 9,
         "CV. Rumahweb Indonesia": 8,
-        "Digital Registra": 12,
+        "Digital Registra": 13,
         "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "Hostinger, UAB": 10,
+        "Hostinger, UAB": 11,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 14,
         "PT Aksara Data Digital": 1,
         "Porkbun LLC": 1,
         "Registrasi Neva Angkasa": 1,
         "ResellerCamp": 2,
         "Tucows Domains Inc.": 3,
-        "Web Commerce Communications Limited dba WebNic.cc": 6,
-        "total": 69
+        "Web Commerce Communications Limited dba WebNic.cc": 7,
+        "total": 72
     },
     "percentage": {
-        "CV. JOGJACAMP": 13.043478260869565,
-        "CV. Rumahweb Indonesia": 11.594202898550725,
-        "Digital Registra": 17.391304347826086,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 2.898550724637681,
-        "Hostinger, UAB": 14.492753623188406,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.28985507246377,
-        "PT Aksara Data Digital": 1.4492753623188406,
-        "Porkbun LLC": 1.4492753623188406,
-        "Registrasi Neva Angkasa": 1.4492753623188406,
-        "ResellerCamp": 2.898550724637681,
-        "Tucows Domains Inc.": 4.3478260869565215,
-        "Web Commerce Communications Limited dba WebNic.cc": 8.695652173913043,
-        "total": 100.00000000000001
+        "CV. JOGJACAMP": 12.5,
+        "CV. Rumahweb Indonesia": 11.11111111111111,
+        "Digital Registra": 18.055555555555557,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2.7777777777777777,
+        "Hostinger, UAB": 15.277777777777779,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 19.444444444444443,
+        "PT Aksara Data Digital": 1.3888888888888888,
+        "Porkbun LLC": 1.3888888888888888,
+        "Registrasi Neva Angkasa": 1.3888888888888888,
+        "ResellerCamp": 2.7777777777777777,
+        "Tucows Domains Inc.": 4.166666666666667,
+        "Web Commerce Communications Limited dba WebNic.cc": 9.722222222222221,
+        "total": 100.0
     }
 }
