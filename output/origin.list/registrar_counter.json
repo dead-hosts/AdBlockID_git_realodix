@@ -1,26 +1,32 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 7,
-        "CV. Rumahweb Indonesia": 5,
-        "Digital Registra": 6,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
-        "Hostinger, UAB": 6,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3,
-        "ResellerCamp": 1,
-        "Tucows Domains Inc.": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 4,
-        "total": 35
+        "CV. JOGJACAMP": 9,
+        "CV. Rumahweb Indonesia": 8,
+        "Digital Registra": 12,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
+        "Hostinger, UAB": 10,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 14,
+        "PT Aksara Data Digital": 1,
+        "Porkbun LLC": 1,
+        "Registrasi Neva Angkasa": 1,
+        "ResellerCamp": 2,
+        "Tucows Domains Inc.": 3,
+        "Web Commerce Communications Limited dba WebNic.cc": 6,
+        "total": 69
     },
     "percentage": {
-        "CV. JOGJACAMP": 20.0,
-        "CV. Rumahweb Indonesia": 14.285714285714286,
-        "Digital Registra": 17.142857142857142,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 2.857142857142857,
-        "Hostinger, UAB": 17.142857142857142,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 8.571428571428571,
-        "ResellerCamp": 2.857142857142857,
-        "Tucows Domains Inc.": 5.714285714285714,
-        "Web Commerce Communications Limited dba WebNic.cc": 11.428571428571429,
-        "total": 100.0
+        "CV. JOGJACAMP": 13.043478260869565,
+        "CV. Rumahweb Indonesia": 11.594202898550725,
+        "Digital Registra": 17.391304347826086,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2.898550724637681,
+        "Hostinger, UAB": 14.492753623188406,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.28985507246377,
+        "PT Aksara Data Digital": 1.4492753623188406,
+        "Porkbun LLC": 1.4492753623188406,
+        "Registrasi Neva Angkasa": 1.4492753623188406,
+        "ResellerCamp": 2.898550724637681,
+        "Tucows Domains Inc.": 4.3478260869565215,
+        "Web Commerce Communications Limited dba WebNic.cc": 8.695652173913043,
+        "total": 100.00000000000001
     }
 }
