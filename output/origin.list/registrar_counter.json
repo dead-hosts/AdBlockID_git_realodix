@@ -1,32 +1,16 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 9,
-        "CV. Rumahweb Indonesia": 8,
-        "Digital Registra": 13,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "Hostinger, UAB": 11,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 14,
-        "PT Aksara Data Digital": 1,
-        "Porkbun LLC": 1,
-        "Registrasi Neva Angkasa": 1,
-        "ResellerCamp": 2,
-        "Tucows Domains Inc.": 3,
-        "Web Commerce Communications Limited dba WebNic.cc": 7,
-        "total": 72
+        "Amazon Registrar, Inc.": 2,
+        "CV. Rumahweb Indonesia": 1,
+        "NameCheap, Inc.": 1,
+        "PT. Web Commerce Communications": 1,
+        "total": 5
     },
     "percentage": {
-        "CV. JOGJACAMP": 12.5,
-        "CV. Rumahweb Indonesia": 11.11111111111111,
-        "Digital Registra": 18.055555555555557,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 2.7777777777777777,
-        "Hostinger, UAB": 15.277777777777779,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 19.444444444444443,
-        "PT Aksara Data Digital": 1.3888888888888888,
-        "Porkbun LLC": 1.3888888888888888,
-        "Registrasi Neva Angkasa": 1.3888888888888888,
-        "ResellerCamp": 2.7777777777777777,
-        "Tucows Domains Inc.": 4.166666666666667,
-        "Web Commerce Communications Limited dba WebNic.cc": 9.722222222222221,
+        "Amazon Registrar, Inc.": 40.0,
+        "CV. Rumahweb Indonesia": 20.0,
+        "NameCheap, Inc.": 20.0,
+        "PT. Web Commerce Communications": 20.0,
         "total": 100.0
     }
 }
