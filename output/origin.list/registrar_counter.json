@@ -3,12 +3,14 @@
         "CV. JOGJACAMP": 1,
         "Digital Registra": 1,
         "Hostinger, UAB": 1,
-        "total": 3
+        "Namecheap, Inc.": 1,
+        "total": 4
     },
     "percentage": {
-        "CV. JOGJACAMP": 33.333333333333336,
-        "Digital Registra": 33.333333333333336,
-        "Hostinger, UAB": 33.333333333333336,
+        "CV. JOGJACAMP": 25.0,
+        "Digital Registra": 25.0,
+        "Hostinger, UAB": 25.0,
+        "Namecheap, Inc.": 25.0,
         "total": 100.0
     }
 }
