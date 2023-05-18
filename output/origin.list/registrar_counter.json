@@ -1,12 +1,12 @@
 {
     "counter": {
-        "NameCheap, Inc.": 2,
-        "Namecheap": 6,
-        "total": 8
+        "CBN Registrar": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "total": 2
     },
     "percentage": {
-        "NameCheap, Inc.": 25.0,
-        "Namecheap": 75.0,
+        "CBN Registrar": 50.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 50.0,
         "total": 100.0
     }
 }
