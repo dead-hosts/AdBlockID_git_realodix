@@ -1,12 +1,14 @@
 {
     "counter": {
         "CBN Registrar": 1,
+        "CV. JOGJACAMP": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "total": 2
+        "total": 3
     },
     "percentage": {
-        "CBN Registrar": 50.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 50.0,
+        "CBN Registrar": 33.333333333333336,
+        "CV. JOGJACAMP": 33.333333333333336,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 33.333333333333336,
         "total": 100.0
     }
 }
