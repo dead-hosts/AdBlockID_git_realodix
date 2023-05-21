@@ -1,14 +1,26 @@
 {
     "counter": {
         "CV. JOGJACAMP": 2,
-        "CV. Rumahweb Indonesia": 1,
+        "CV. Rumahweb Indonesia": 2,
+        "Digital Registra": 2,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
+        "Hostinger, UAB": 1,
         "PANDI Registrar": 1,
-        "total": 4
+        "PT ARDH GLOBAL INDONESIA": 1,
+        "Porkbun LLC": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 1,
+        "total": 12
     },
     "percentage": {
-        "CV. JOGJACAMP": 50.0,
-        "CV. Rumahweb Indonesia": 25.0,
-        "PANDI Registrar": 25.0,
-        "total": 100.0
+        "CV. JOGJACAMP": 16.666666666666668,
+        "CV. Rumahweb Indonesia": 16.666666666666668,
+        "Digital Registra": 16.666666666666668,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 8.333333333333334,
+        "Hostinger, UAB": 8.333333333333334,
+        "PANDI Registrar": 8.333333333333334,
+        "PT ARDH GLOBAL INDONESIA": 8.333333333333334,
+        "Porkbun LLC": 8.333333333333334,
+        "Web Commerce Communications Limited dba WebNic.cc": 8.333333333333334,
+        "total": 99.99999999999999
     }
 }
