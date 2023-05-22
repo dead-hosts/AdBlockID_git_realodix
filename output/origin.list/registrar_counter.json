@@ -1,14 +1,24 @@
 {
     "counter": {
         "CV. Rumahweb Indonesia": 3,
-        "Digital Registra": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 6
+        "Digital Registra": 3,
+        "GoDaddy.com, LLC": 1,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 1,
+        "Hostinger, UAB": 1,
+        "OnlineNIC, Inc.": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 13
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 50.0,
-        "Digital Registra": 33.333333333333336,
-        "Web Commerce Communications Limited dba WebNic.cc": 16.666666666666668,
-        "total": 100.00000000000001
+        "CV. Rumahweb Indonesia": 23.076923076923077,
+        "Digital Registra": 23.076923076923077,
+        "GoDaddy.com, LLC": 7.6923076923076925,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 7.6923076923076925,
+        "Hostinger, UAB": 7.6923076923076925,
+        "OnlineNIC, Inc.": 7.6923076923076925,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 7.6923076923076925,
+        "Web Commerce Communications Limited dba WebNic.cc": 15.384615384615385,
+        "total": 100.0
     }
 }
