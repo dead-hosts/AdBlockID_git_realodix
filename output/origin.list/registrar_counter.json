@@ -2,17 +2,19 @@
     "counter": {
         "CV. JOGJACAMP": 1,
         "Digital Registra": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3,
+        "PT Registrasi Nama Domain": 1,
         "Registrasi Neva Angkasa": 1,
         "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 6
+        "total": 8
     },
     "percentage": {
-        "CV. JOGJACAMP": 16.666666666666668,
-        "Digital Registra": 16.666666666666668,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 33.333333333333336,
-        "Registrasi Neva Angkasa": 16.666666666666668,
-        "Web Commerce Communications Limited dba WebNic.cc": 16.666666666666668,
-        "total": 100.00000000000001
+        "CV. JOGJACAMP": 12.5,
+        "Digital Registra": 12.5,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 37.5,
+        "PT Registrasi Nama Domain": 12.5,
+        "Registrasi Neva Angkasa": 12.5,
+        "Web Commerce Communications Limited dba WebNic.cc": 12.5,
+        "total": 100.0
     }
 }
