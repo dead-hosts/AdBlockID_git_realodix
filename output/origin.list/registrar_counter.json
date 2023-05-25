@@ -1,12 +1,16 @@
 {
     "counter": {
+        "CV. Rumahweb Indonesia": 1,
+        "Dynadot Inc": 1,
         "Hostinger, UAB": 1,
         "PT. Web Commerce Communications": 1,
-        "total": 2
+        "total": 4
     },
     "percentage": {
-        "Hostinger, UAB": 50.0,
-        "PT. Web Commerce Communications": 50.0,
+        "CV. Rumahweb Indonesia": 25.0,
+        "Dynadot Inc": 25.0,
+        "Hostinger, UAB": 25.0,
+        "PT. Web Commerce Communications": 25.0,
         "total": 100.0
     }
 }
