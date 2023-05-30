@@ -2,13 +2,15 @@
     "counter": {
         "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
         "NAMECHEAP": 2,
+        "Namecheap Inc.": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 6
+        "total": 8
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 33.333333333333336,
-        "NAMECHEAP": 33.333333333333336,
-        "Web Commerce Communications Limited dba WebNic.cc": 33.333333333333336,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 25.0,
+        "NAMECHEAP": 25.0,
+        "Namecheap Inc.": 25.0,
+        "Web Commerce Communications Limited dba WebNic.cc": 25.0,
         "total": 100.0
     }
 }
