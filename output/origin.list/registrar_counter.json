@@ -1,10 +1,12 @@
 {
     "counter": {
         "CV. JOGJACAMP": 2,
-        "total": 2
+        "CV. Rumahweb Indonesia": 2,
+        "total": 4
     },
     "percentage": {
-        "CV. JOGJACAMP": 100.0,
+        "CV. JOGJACAMP": 50.0,
+        "CV. Rumahweb Indonesia": 50.0,
         "total": 100.0
     }
 }
