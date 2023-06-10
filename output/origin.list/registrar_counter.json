@@ -1,12 +1,20 @@
 {
     "counter": {
-        "CloudFlare, Inc.": 2,
+        "CloudFlare, Inc.": 4,
         "Digital Registra": 4,
-        "total": 6
+        "NameCheap, Inc.": 2,
+        "Namecheap": 4,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "ResellerCamp": 2,
+        "total": 18
     },
     "percentage": {
-        "CloudFlare, Inc.": 33.333333333333336,
-        "Digital Registra": 66.66666666666667,
+        "CloudFlare, Inc.": 22.22222222222222,
+        "Digital Registra": 22.22222222222222,
+        "NameCheap, Inc.": 11.11111111111111,
+        "Namecheap": 22.22222222222222,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 11.11111111111111,
+        "ResellerCamp": 11.11111111111111,
         "total": 100.0
     }
 }
