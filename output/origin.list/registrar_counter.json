@@ -1,16 +1,20 @@
 {
     "counter": {
+        "CV. Rumahweb Indonesia": 2,
         "Digital Registra": 4,
-        "Hostinger, UAB": 6,
+        "Hostinger, UAB": 8,
         "NameCheap, Inc.": 4,
+        "OnlineNIC, Inc.": 2,
         "Porkbun": 2,
-        "total": 16
+        "total": 22
     },
     "percentage": {
-        "Digital Registra": 25.0,
-        "Hostinger, UAB": 37.5,
-        "NameCheap, Inc.": 25.0,
-        "Porkbun": 12.5,
-        "total": 100.0
+        "CV. Rumahweb Indonesia": 9.090909090909092,
+        "Digital Registra": 18.181818181818183,
+        "Hostinger, UAB": 36.36363636363637,
+        "NameCheap, Inc.": 18.181818181818183,
+        "OnlineNIC, Inc.": 9.090909090909092,
+        "Porkbun": 9.090909090909092,
+        "total": 100.00000000000001
     }
 }
