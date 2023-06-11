@@ -1,0 +1,16 @@
+{
+    "counter": {
+        "Digital Registra": 4,
+        "Hostinger, UAB": 6,
+        "NameCheap, Inc.": 4,
+        "Porkbun": 2,
+        "total": 16
+    },
+    "percentage": {
+        "Digital Registra": 25.0,
+        "Hostinger, UAB": 37.5,
+        "NameCheap, Inc.": 25.0,
+        "Porkbun": 12.5,
+        "total": 100.0
+    }
+}
