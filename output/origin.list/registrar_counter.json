@@ -1,20 +1,34 @@
 {
     "counter": {
+        "CV. JOGJACAMP": 8,
         "CV. Rumahweb Indonesia": 2,
-        "Digital Registra": 4,
+        "Digital Registra": 6,
+        "GoDaddy.com, LLC": 2,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
         "Hostinger, UAB": 8,
-        "NameCheap, Inc.": 4,
-        "OnlineNIC, Inc.": 2,
-        "Porkbun": 2,
-        "total": 22
+        "Jagoan Hosting": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6,
+        "PT ARDH GLOBAL INDONESIA": 2,
+        "PT Cloud Hosting Indonesia": 2,
+        "PT. Web Commerce Communications": 4,
+        "ResellerCamp": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 6,
+        "total": 52
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 9.090909090909092,
-        "Digital Registra": 18.181818181818183,
-        "Hostinger, UAB": 36.36363636363637,
-        "NameCheap, Inc.": 18.181818181818183,
-        "OnlineNIC, Inc.": 9.090909090909092,
-        "Porkbun": 9.090909090909092,
-        "total": 100.00000000000001
+        "CV. JOGJACAMP": 15.384615384615385,
+        "CV. Rumahweb Indonesia": 3.8461538461538463,
+        "Digital Registra": 11.538461538461538,
+        "GoDaddy.com, LLC": 3.8461538461538463,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 3.8461538461538463,
+        "Hostinger, UAB": 15.384615384615385,
+        "Jagoan Hosting": 3.8461538461538463,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 11.538461538461538,
+        "PT ARDH GLOBAL INDONESIA": 3.8461538461538463,
+        "PT Cloud Hosting Indonesia": 3.8461538461538463,
+        "PT. Web Commerce Communications": 7.6923076923076925,
+        "ResellerCamp": 3.8461538461538463,
+        "Web Commerce Communications Limited dba WebNic.cc": 11.538461538461538,
+        "total": 99.99999999999997
     }
 }
