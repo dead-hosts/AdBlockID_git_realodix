@@ -1,26 +1,26 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 12,
-        "CV. Rumahweb Indonesia": 6,
-        "Digital Registra": 6,
+        "CV. JOGJACAMP": 14,
+        "CV. Rumahweb Indonesia": 10,
+        "Digital Registra": 14,
         "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "Hostinger, UAB": 10,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
+        "Hostinger, UAB": 14,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6,
         "ResellerCamp": 2,
-        "Tucows Domains Inc.": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 6,
-        "total": 50
+        "Tucows Domains Inc.": 4,
+        "Web Commerce Communications Limited dba WebNic.cc": 10,
+        "total": 76
     },
     "percentage": {
-        "CV. JOGJACAMP": 24.0,
-        "CV. Rumahweb Indonesia": 12.0,
-        "Digital Registra": 12.0,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 4.0,
-        "Hostinger, UAB": 20.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 8.0,
-        "ResellerCamp": 4.0,
-        "Tucows Domains Inc.": 4.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 12.0,
+        "CV. JOGJACAMP": 18.42105263157895,
+        "CV. Rumahweb Indonesia": 13.157894736842104,
+        "Digital Registra": 18.42105263157895,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2.6315789473684212,
+        "Hostinger, UAB": 18.42105263157895,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 7.894736842105263,
+        "ResellerCamp": 2.6315789473684212,
+        "Tucows Domains Inc.": 5.2631578947368425,
+        "Web Commerce Communications Limited dba WebNic.cc": 13.157894736842104,
         "total": 100.0
     }
 }
