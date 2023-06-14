@@ -1,34 +1,18 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 16,
-        "CV. Rumahweb Indonesia": 12,
-        "Digital Registra": 20,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "Hostinger, UAB": 16,
-        "NameCheap, Inc.": 10,
-        "Namecheap": 12,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 8,
-        "Porkbun LLC": 2,
-        "ResellerCamp": 2,
-        "Sav.com LLC": 2,
-        "Tucows Domains Inc.": 4,
-        "Web Commerce Communications Limited dba WebNic.cc": 12,
-        "total": 118
+        "CV. Rumahweb Indonesia": 2,
+        "Hostinger, UAB": 2,
+        "NameCheap, Inc.": 4,
+        "Namecheap": 4,
+        "PT. Web Commerce Communications": 2,
+        "total": 14
     },
     "percentage": {
-        "CV. JOGJACAMP": 13.559322033898304,
-        "CV. Rumahweb Indonesia": 10.169491525423728,
-        "Digital Registra": 16.949152542372882,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 1.694915254237288,
-        "Hostinger, UAB": 13.559322033898304,
-        "NameCheap, Inc.": 8.474576271186441,
-        "Namecheap": 10.169491525423728,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6.779661016949152,
-        "Porkbun LLC": 1.694915254237288,
-        "ResellerCamp": 1.694915254237288,
-        "Sav.com LLC": 1.694915254237288,
-        "Tucows Domains Inc.": 3.389830508474576,
-        "Web Commerce Communications Limited dba WebNic.cc": 10.169491525423728,
-        "total": 99.99999999999999
+        "CV. Rumahweb Indonesia": 14.285714285714286,
+        "Hostinger, UAB": 14.285714285714286,
+        "NameCheap, Inc.": 28.571428571428573,
+        "Namecheap": 28.571428571428573,
+        "PT. Web Commerce Communications": 14.285714285714286,
+        "total": 100.00000000000001
     }
 }
