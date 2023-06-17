@@ -1,40 +1,10 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 16,
-        "CV. Rumahweb Indonesia": 16,
-        "CloudFlare, Inc.": 2,
-        "Digital Registra": 20,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 6,
-        "Hostinger, UAB": 12,
-        "Jagoan Hosting": 2,
-        "NameCheap, Inc.": 4,
-        "NameSilo, LLC": 2,
-        "OnlineNIC, Inc.": 2,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 30,
-        "PT Aksara Data Digital": 2,
-        "PT. Web Commerce Communications": 4,
-        "ResellerCamp": 4,
-        "Tucows Domains Inc.": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 6,
-        "total": 130
+        "TLD Registrar Solutions Ltd.": 2,
+        "total": 2
     },
     "percentage": {
-        "CV. JOGJACAMP": 12.307692307692308,
-        "CV. Rumahweb Indonesia": 12.307692307692308,
-        "CloudFlare, Inc.": 1.5384615384615385,
-        "Digital Registra": 15.384615384615385,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 4.615384615384615,
-        "Hostinger, UAB": 9.23076923076923,
-        "Jagoan Hosting": 1.5384615384615385,
-        "NameCheap, Inc.": 3.076923076923077,
-        "NameSilo, LLC": 1.5384615384615385,
-        "OnlineNIC, Inc.": 1.5384615384615385,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 23.076923076923077,
-        "PT Aksara Data Digital": 1.5384615384615385,
-        "PT. Web Commerce Communications": 3.076923076923077,
-        "ResellerCamp": 3.076923076923077,
-        "Tucows Domains Inc.": 1.5384615384615385,
-        "Web Commerce Communications Limited dba WebNic.cc": 4.615384615384615,
+        "TLD Registrar Solutions Ltd.": 100.0,
         "total": 100.0
     }
 }
