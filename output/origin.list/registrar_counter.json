@@ -1,10 +1,12 @@
 {
     "counter": {
+        "PANDI Registrar": 2,
         "TLD Registrar Solutions Ltd.": 2,
-        "total": 2
+        "total": 4
     },
     "percentage": {
-        "TLD Registrar Solutions Ltd.": 100.0,
+        "PANDI Registrar": 50.0,
+        "TLD Registrar Solutions Ltd.": 50.0,
         "total": 100.0
     }
 }
