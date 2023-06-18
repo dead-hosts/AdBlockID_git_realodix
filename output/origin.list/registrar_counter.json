@@ -1,12 +1,12 @@
 {
     "counter": {
-        "PANDI Registrar": 2,
-        "TLD Registrar Solutions Ltd.": 2,
+        "CBN Registrar": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "total": 4
     },
     "percentage": {
-        "PANDI Registrar": 50.0,
-        "TLD Registrar Solutions Ltd.": 50.0,
+        "CBN Registrar": 50.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 50.0,
         "total": 100.0
     }
 }
