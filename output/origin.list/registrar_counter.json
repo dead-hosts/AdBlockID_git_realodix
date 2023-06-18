@@ -1,12 +1,16 @@
 {
     "counter": {
         "CBN Registrar": 2,
+        "CV. JOGJACAMP": 2,
+        "NameSilo, LLC": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "total": 4
+        "total": 8
     },
     "percentage": {
-        "CBN Registrar": 50.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 50.0,
+        "CBN Registrar": 25.0,
+        "CV. JOGJACAMP": 25.0,
+        "NameSilo, LLC": 25.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
         "total": 100.0
     }
 }
