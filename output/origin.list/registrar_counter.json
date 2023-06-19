@@ -1,16 +1,30 @@
 {
     "counter": {
-        "CBN Registrar": 2,
-        "CV. JOGJACAMP": 2,
+        "CV. JOGJACAMP": 4,
+        "CV. Rumahweb Indonesia": 8,
+        "Digital Registra": 4,
+        "GoDaddy.com, LLC": 4,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
+        "Hostinger, UAB": 4,
         "NameSilo, LLC": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "total": 8
+        "PT Cloud Hosting Indonesia": 2,
+        "PT. Web Commerce Communications": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 36
     },
     "percentage": {
-        "CBN Registrar": 25.0,
-        "CV. JOGJACAMP": 25.0,
-        "NameSilo, LLC": 25.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
-        "total": 100.0
+        "CV. JOGJACAMP": 11.11111111111111,
+        "CV. Rumahweb Indonesia": 22.22222222222222,
+        "Digital Registra": 11.11111111111111,
+        "GoDaddy.com, LLC": 11.11111111111111,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 5.555555555555555,
+        "Hostinger, UAB": 11.11111111111111,
+        "NameSilo, LLC": 5.555555555555555,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.555555555555555,
+        "PT Cloud Hosting Indonesia": 5.555555555555555,
+        "PT. Web Commerce Communications": 5.555555555555555,
+        "Web Commerce Communications Limited dba WebNic.cc": 5.555555555555555,
+        "total": 100.00000000000001
     }
 }
