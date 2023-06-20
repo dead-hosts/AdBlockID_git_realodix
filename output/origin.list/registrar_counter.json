@@ -5,24 +5,24 @@
         "Digital Registra": 6,
         "Google LLC": 2,
         "NameCheap, Inc.": 4,
-        "Namecheap": 2,
+        "Namecheap": 12,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 6,
         "PT Aksara Data Digital": 2,
         "PT Cloud Hosting Indonesia": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 32
+        "total": 42
     },
     "percentage": {
-        "CV. JOGJACAMP": 6.25,
-        "CV. Rumahweb Indonesia": 12.5,
-        "Digital Registra": 18.75,
-        "Google LLC": 6.25,
-        "NameCheap, Inc.": 12.5,
-        "Namecheap": 6.25,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 18.75,
-        "PT Aksara Data Digital": 6.25,
-        "PT Cloud Hosting Indonesia": 6.25,
-        "Web Commerce Communications Limited dba WebNic.cc": 6.25,
+        "CV. JOGJACAMP": 4.761904761904762,
+        "CV. Rumahweb Indonesia": 9.523809523809524,
+        "Digital Registra": 14.285714285714286,
+        "Google LLC": 4.761904761904762,
+        "NameCheap, Inc.": 9.523809523809524,
+        "Namecheap": 28.571428571428573,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 14.285714285714286,
+        "PT Aksara Data Digital": 4.761904761904762,
+        "PT Cloud Hosting Indonesia": 4.761904761904762,
+        "Web Commerce Communications Limited dba WebNic.cc": 4.761904761904762,
         "total": 100.0
     }
 }
