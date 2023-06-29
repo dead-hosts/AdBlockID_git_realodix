@@ -1,0 +1,14 @@
+{
+    "counter": {
+        "NameCheap, Inc.": 4,
+        "NameSilo, LLC": 2,
+        "Namecheap": 14,
+        "total": 20
+    },
+    "percentage": {
+        "NameCheap, Inc.": 20.0,
+        "NameSilo, LLC": 10.0,
+        "Namecheap": 70.0,
+        "total": 100.0
+    }
+}
