@@ -1,18 +1,10 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "NameCheap, Inc.": 22,
-        "Namecheap": 2,
-        "Namecheap Inc.": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 30
+        "Porkbun LLC": 2,
+        "total": 2
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 6.666666666666667,
-        "NameCheap, Inc.": 73.33333333333333,
-        "Namecheap": 6.666666666666667,
-        "Namecheap Inc.": 6.666666666666667,
-        "Web Commerce Communications Limited dba WebNic.cc": 6.666666666666667,
-        "total": 100.00000000000001
+        "Porkbun LLC": 100.0,
+        "total": 100.0
     }
 }
