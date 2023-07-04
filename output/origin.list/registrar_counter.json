@@ -1,12 +1,16 @@
 {
     "counter": {
+        "Digital Registra": 2,
+        "NameCheap, Inc.": 2,
         "Namecheap": 2,
         "Porkbun, LLC": 2,
-        "total": 4
+        "total": 8
     },
     "percentage": {
-        "Namecheap": 50.0,
-        "Porkbun, LLC": 50.0,
+        "Digital Registra": 25.0,
+        "NameCheap, Inc.": 25.0,
+        "Namecheap": 25.0,
+        "Porkbun, LLC": 25.0,
         "total": 100.0
     }
 }
