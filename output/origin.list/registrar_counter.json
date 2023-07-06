@@ -1,20 +1,10 @@
 {
     "counter": {
-        "Digital Registra": 4,
-        "NameCheap, Inc.": 6,
-        "Namecheap": 2,
-        "OnlineNIC, Inc.": 2,
-        "PT ARDH GLOBAL INDONESIA": 2,
-        "Porkbun LLC": 2,
-        "total": 18
+        "NameCheap, Inc.": 4,
+        "total": 4
     },
     "percentage": {
-        "Digital Registra": 22.22222222222222,
-        "NameCheap, Inc.": 33.333333333333336,
-        "Namecheap": 11.11111111111111,
-        "OnlineNIC, Inc.": 11.11111111111111,
-        "PT ARDH GLOBAL INDONESIA": 11.11111111111111,
-        "Porkbun LLC": 11.11111111111111,
-        "total": 100.00000000000001
+        "NameCheap, Inc.": 100.0,
+        "total": 100.0
     }
 }
