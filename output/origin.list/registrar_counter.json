@@ -1,0 +1,42 @@
+{
+    "counter": {
+        "CV. JOGJACAMP": 14,
+        "CV. Rumahweb Indonesia": 16,
+        "Digital Registra": 14,
+        "GoDaddy.com, LLC": 2,
+        "HOSTINGER operations, UAB": 4,
+        "Hello Internet Corp": 2,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 4,
+        "MAT BAO CORPORATION": 2,
+        "NameCheap, Inc.": 2,
+        "Namescout Ltd": 2,
+        "OnlineNIC, Inc.": 2,
+        "PANDI Registrar": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 10,
+        "Registrasi Neva Angkasa": 2,
+        "ResellerCamp": 2,
+        "Tucows Domains Inc.": 4,
+        "Web Commerce Communications Limited dba WebNic.cc": 6,
+        "total": 90
+    },
+    "percentage": {
+        "CV. JOGJACAMP": 15.555555555555555,
+        "CV. Rumahweb Indonesia": 17.77777777777778,
+        "Digital Registra": 15.555555555555555,
+        "GoDaddy.com, LLC": 2.2222222222222223,
+        "HOSTINGER operations, UAB": 4.444444444444445,
+        "Hello Internet Corp": 2.2222222222222223,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 4.444444444444445,
+        "MAT BAO CORPORATION": 2.2222222222222223,
+        "NameCheap, Inc.": 2.2222222222222223,
+        "Namescout Ltd": 2.2222222222222223,
+        "OnlineNIC, Inc.": 2.2222222222222223,
+        "PANDI Registrar": 2.2222222222222223,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 11.11111111111111,
+        "Registrasi Neva Angkasa": 2.2222222222222223,
+        "ResellerCamp": 2.2222222222222223,
+        "Tucows Domains Inc.": 4.444444444444445,
+        "Web Commerce Communications Limited dba WebNic.cc": 6.666666666666667,
+        "total": 100.00000000000004
+    }
+}
