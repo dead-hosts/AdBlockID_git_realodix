@@ -1,30 +1,22 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 4,
-        "CV. Rumahweb Indonesia": 2,
-        "Danesco Trading Ltd.": 2,
-        "Digital Registra": 2,
-        "FastDomain Inc.": 2,
-        "NameCheap, Inc.": 12,
+        "Digital Registra": 4,
+        "HOSTINGER operations, UAB": 2,
         "Namecheap": 4,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "PT Aksara Data Digital": 2,
-        "PT. Web Commerce Communications": 2,
-        "Registrasi Neva Angkasa": 2,
-        "total": 36
+        "PT Registrasi Nama Domain": 2,
+        "Porkbun LLC": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 18
     },
     "percentage": {
-        "CV. JOGJACAMP": 11.11111111111111,
-        "CV. Rumahweb Indonesia": 5.555555555555555,
-        "Danesco Trading Ltd.": 5.555555555555555,
-        "Digital Registra": 5.555555555555555,
-        "FastDomain Inc.": 5.555555555555555,
-        "NameCheap, Inc.": 33.333333333333336,
-        "Namecheap": 11.11111111111111,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.555555555555555,
-        "PT Aksara Data Digital": 5.555555555555555,
-        "PT. Web Commerce Communications": 5.555555555555555,
-        "Registrasi Neva Angkasa": 5.555555555555555,
-        "total": 100.00000000000001
+        "Digital Registra": 22.22222222222222,
+        "HOSTINGER operations, UAB": 11.11111111111111,
+        "Namecheap": 22.22222222222222,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 11.11111111111111,
+        "PT Registrasi Nama Domain": 11.11111111111111,
+        "Porkbun LLC": 11.11111111111111,
+        "Web Commerce Communications Limited dba WebNic.cc": 11.11111111111111,
+        "total": 100.0
     }
 }
