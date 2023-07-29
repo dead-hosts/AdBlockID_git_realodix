@@ -1,30 +1,12 @@
 {
     "counter": {
-        "Digital Registra": 4,
-        "HOSTINGER operations, UAB": 2,
-        "NameCheap, Inc.": 4,
-        "Namecheap": 4,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
-        "PT Aksara Data Digital": 2,
-        "PT Registrasi Nama Domain": 2,
-        "PT. Web Commerce Communications": 2,
-        "Porkbun LLC": 2,
-        "Registrasi Neva Angkasa": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 30
+        "CloudFlare, Inc.": 2,
+        "Tucows Domains Inc.": 2,
+        "total": 4
     },
     "percentage": {
-        "Digital Registra": 13.333333333333334,
-        "HOSTINGER operations, UAB": 6.666666666666667,
-        "NameCheap, Inc.": 13.333333333333334,
-        "Namecheap": 13.333333333333334,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 13.333333333333334,
-        "PT Aksara Data Digital": 6.666666666666667,
-        "PT Registrasi Nama Domain": 6.666666666666667,
-        "PT. Web Commerce Communications": 6.666666666666667,
-        "Porkbun LLC": 6.666666666666667,
-        "Registrasi Neva Angkasa": 6.666666666666667,
-        "Web Commerce Communications Limited dba WebNic.cc": 6.666666666666667,
-        "total": 100.00000000000003
+        "CloudFlare, Inc.": 50.0,
+        "Tucows Domains Inc.": 50.0,
+        "total": 100.0
     }
 }
