@@ -1,12 +1,14 @@
 {
     "counter": {
         "CloudFlare, Inc.": 2,
+        "Jagat Informasi Solusi (int)": 2,
         "Tucows Domains Inc.": 2,
-        "total": 4
+        "total": 6
     },
     "percentage": {
-        "CloudFlare, Inc.": 50.0,
-        "Tucows Domains Inc.": 50.0,
+        "CloudFlare, Inc.": 33.333333333333336,
+        "Jagat Informasi Solusi (int)": 33.333333333333336,
+        "Tucows Domains Inc.": 33.333333333333336,
         "total": 100.0
     }
 }
