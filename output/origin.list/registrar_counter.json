@@ -1,12 +1,16 @@
 {
     "counter": {
-        "Dynadot Inc": 2,
-        "PT Cloud Hosting Indonesia": 2,
-        "total": 4
+        "CV. JOGJACAMP": 2,
+        "NameCheap, Inc.": 2,
+        "Porkbun": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 4,
+        "total": 10
     },
     "percentage": {
-        "Dynadot Inc": 50.0,
-        "PT Cloud Hosting Indonesia": 50.0,
+        "CV. JOGJACAMP": 20.0,
+        "NameCheap, Inc.": 20.0,
+        "Porkbun": 20.0,
+        "Web Commerce Communications Limited dba WebNic.cc": 40.0,
         "total": 100.0
     }
 }
