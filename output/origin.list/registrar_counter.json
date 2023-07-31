@@ -1,16 +1,20 @@
 {
     "counter": {
         "CV. JOGJACAMP": 2,
-        "NameCheap, Inc.": 2,
+        "NameCheap, Inc.": 4,
+        "Namecheap": 4,
+        "Namecheap Inc.": 2,
         "Porkbun": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 4,
-        "total": 10
+        "total": 18
     },
     "percentage": {
-        "CV. JOGJACAMP": 20.0,
-        "NameCheap, Inc.": 20.0,
-        "Porkbun": 20.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 40.0,
+        "CV. JOGJACAMP": 11.11111111111111,
+        "NameCheap, Inc.": 22.22222222222222,
+        "Namecheap": 22.22222222222222,
+        "Namecheap Inc.": 11.11111111111111,
+        "Porkbun": 11.11111111111111,
+        "Web Commerce Communications Limited dba WebNic.cc": 22.22222222222222,
         "total": 100.0
     }
 }
