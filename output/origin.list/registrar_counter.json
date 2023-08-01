@@ -1,10 +1,14 @@
 {
     "counter": {
-        "NameCheap, Inc.": 2,
-        "total": 2
+        "NameCheap, Inc.": 12,
+        "NameSilo, LLC": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 16
     },
     "percentage": {
-        "NameCheap, Inc.": 100.0,
+        "NameCheap, Inc.": 75.0,
+        "NameSilo, LLC": 12.5,
+        "Web Commerce Communications Limited dba WebNic.cc": 12.5,
         "total": 100.0
     }
 }
