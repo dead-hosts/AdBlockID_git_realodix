@@ -1,12 +1,14 @@
 {
     "counter": {
         "Digital Registra": 2,
-        "NameCheap, Inc.": 4,
-        "total": 6
+        "NameCheap, Inc.": 6,
+        "Namecheap": 8,
+        "total": 16
     },
     "percentage": {
-        "Digital Registra": 33.333333333333336,
-        "NameCheap, Inc.": 66.66666666666667,
+        "Digital Registra": 12.5,
+        "NameCheap, Inc.": 37.5,
+        "Namecheap": 50.0,
         "total": 100.0
     }
 }
