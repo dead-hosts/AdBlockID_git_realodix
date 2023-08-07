@@ -1,14 +1,20 @@
 {
     "counter": {
         "CV. JOGJACAMP": 2,
-        "NameCheap, Inc.": 4,
+        "CV. Rumahweb Indonesia": 2,
+        "Digital Registra": 2,
+        "NameCheap, Inc.": 6,
+        "Namecheap": 4,
         "Porkbun LLC": 2,
-        "total": 8
+        "total": 18
     },
     "percentage": {
-        "CV. JOGJACAMP": 25.0,
-        "NameCheap, Inc.": 50.0,
-        "Porkbun LLC": 25.0,
+        "CV. JOGJACAMP": 11.11111111111111,
+        "CV. Rumahweb Indonesia": 11.11111111111111,
+        "Digital Registra": 11.11111111111111,
+        "NameCheap, Inc.": 33.333333333333336,
+        "Namecheap": 22.22222222222222,
+        "Porkbun LLC": 11.11111111111111,
         "total": 100.0
     }
 }
