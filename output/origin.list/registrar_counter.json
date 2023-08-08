@@ -1,16 +1,22 @@
 {
     "counter": {
         "CV. JOGJACAMP": 4,
-        "NameCheap, Inc.": 10,
-        "Namecheap": 4,
+        "CV. Rumahweb Indonesia": 4,
+        "NameCheap, Inc.": 14,
+        "Namecheap": 14,
+        "PT Cloud Hosting Indonesia": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 20
+        "Web Commerce Communications Ltd": 2,
+        "total": 42
     },
     "percentage": {
-        "CV. JOGJACAMP": 20.0,
-        "NameCheap, Inc.": 50.0,
-        "Namecheap": 20.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 10.0,
+        "CV. JOGJACAMP": 9.523809523809524,
+        "CV. Rumahweb Indonesia": 9.523809523809524,
+        "NameCheap, Inc.": 33.333333333333336,
+        "Namecheap": 33.333333333333336,
+        "PT Cloud Hosting Indonesia": 4.761904761904762,
+        "Web Commerce Communications Limited dba WebNic.cc": 4.761904761904762,
+        "Web Commerce Communications Ltd": 4.761904761904762,
         "total": 100.0
     }
 }
