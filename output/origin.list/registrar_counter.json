@@ -1,18 +1,28 @@
 {
     "counter": {
+        "CV. JOGJACAMP": 2,
+        "Digital Registra": 2,
         "DropCatch.com 1538 LLC": 2,
         "Google LLC": 2,
-        "HOSTINGER operations, UAB": 2,
-        "NameCheap, Inc.": 2,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "total": 10
+        "HOSTINGER operations, UAB": 4,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
+        "NameCheap, Inc.": 6,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
+        "PT Cloud Hosting Indonesia": 2,
+        "ResellerCamp": 2,
+        "total": 28
     },
     "percentage": {
-        "DropCatch.com 1538 LLC": 20.0,
-        "Google LLC": 20.0,
-        "HOSTINGER operations, UAB": 20.0,
-        "NameCheap, Inc.": 20.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.0,
+        "CV. JOGJACAMP": 7.142857142857143,
+        "Digital Registra": 7.142857142857143,
+        "DropCatch.com 1538 LLC": 7.142857142857143,
+        "Google LLC": 7.142857142857143,
+        "HOSTINGER operations, UAB": 14.285714285714286,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 7.142857142857143,
+        "NameCheap, Inc.": 21.428571428571427,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 14.285714285714286,
+        "PT Cloud Hosting Indonesia": 7.142857142857143,
+        "ResellerCamp": 7.142857142857143,
         "total": 100.0
     }
 }
