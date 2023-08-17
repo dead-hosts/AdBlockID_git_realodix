@@ -2,23 +2,35 @@
     "counter": {
         "CV. JOGJACAMP": 2,
         "CV. Rumahweb Indonesia": 2,
+        "Dreamscape Networks International Pte Ltd": 2,
+        "Dynadot Inc": 2,
+        "HOSTINGER operations, UAB": 2,
         "INDOREG": 2,
         "MAT BAO CORPORATION": 2,
-        "NameCheap, Inc.": 2,
+        "NameCheap, Inc.": 8,
         "NameSilo, LLC": 2,
-        "Namecheap": 2,
-        "ResellerCamp": 2,
-        "total": 16
+        "Namecheap": 10,
+        "OnlineNIC, Inc.": 2,
+        "ResellerCamp": 4,
+        "Spaceship, Inc.": 2,
+        "Tucows Domains Inc.": 2,
+        "total": 44
     },
     "percentage": {
-        "CV. JOGJACAMP": 12.5,
-        "CV. Rumahweb Indonesia": 12.5,
-        "INDOREG": 12.5,
-        "MAT BAO CORPORATION": 12.5,
-        "NameCheap, Inc.": 12.5,
-        "NameSilo, LLC": 12.5,
-        "Namecheap": 12.5,
-        "ResellerCamp": 12.5,
-        "total": 100.0
+        "CV. JOGJACAMP": 4.545454545454546,
+        "CV. Rumahweb Indonesia": 4.545454545454546,
+        "Dreamscape Networks International Pte Ltd": 4.545454545454546,
+        "Dynadot Inc": 4.545454545454546,
+        "HOSTINGER operations, UAB": 4.545454545454546,
+        "INDOREG": 4.545454545454546,
+        "MAT BAO CORPORATION": 4.545454545454546,
+        "NameCheap, Inc.": 18.181818181818183,
+        "NameSilo, LLC": 4.545454545454546,
+        "Namecheap": 22.727272727272727,
+        "OnlineNIC, Inc.": 4.545454545454546,
+        "ResellerCamp": 9.090909090909092,
+        "Spaceship, Inc.": 4.545454545454546,
+        "Tucows Domains Inc.": 4.545454545454546,
+        "total": 100.00000000000001
     }
 }
