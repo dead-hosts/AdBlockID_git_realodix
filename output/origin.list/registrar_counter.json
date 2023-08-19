@@ -1,18 +1,18 @@
 {
     "counter": {
         "Dynadot Inc": 2,
-        "NameCheap, Inc.": 2,
-        "Namecheap": 2,
+        "NameCheap, Inc.": 10,
+        "Namecheap": 6,
         "Porkbun": 2,
         "Porkbun, LLC": 2,
-        "total": 10
+        "total": 22
     },
     "percentage": {
-        "Dynadot Inc": 20.0,
-        "NameCheap, Inc.": 20.0,
-        "Namecheap": 20.0,
-        "Porkbun": 20.0,
-        "Porkbun, LLC": 20.0,
+        "Dynadot Inc": 9.090909090909092,
+        "NameCheap, Inc.": 45.45454545454545,
+        "Namecheap": 27.272727272727273,
+        "Porkbun": 9.090909090909092,
+        "Porkbun, LLC": 9.090909090909092,
         "total": 100.0
     }
 }
