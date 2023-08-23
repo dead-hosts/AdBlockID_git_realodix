@@ -1,14 +1,16 @@
 {
     "counter": {
+        "CV. JOGJACAMP": 2,
         "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 8,
-        "Nom-iq Ltd. dba COM LAUDE": 2,
+        "NameCheap, Inc.": 6,
+        "Sav.com, LLC": 2,
         "total": 12
     },
     "percentage": {
+        "CV. JOGJACAMP": 16.666666666666668,
         "GoDaddy.com, LLC": 16.666666666666668,
-        "NameCheap, Inc.": 66.66666666666667,
-        "Nom-iq Ltd. dba COM LAUDE": 16.666666666666668,
+        "NameCheap, Inc.": 50.0,
+        "Sav.com, LLC": 16.666666666666668,
         "total": 100.00000000000001
     }
 }
