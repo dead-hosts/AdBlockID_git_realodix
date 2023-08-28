@@ -2,21 +2,27 @@
     "counter": {
         "Digital Registra": 4,
         "HOSTINGER operations, UAB": 2,
-        "NameCheap, Inc.": 2,
-        "Namecheap": 2,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "NameCheap, Inc.": 8,
+        "Namecheap": 4,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
+        "PT Aksara Data Digital": 2,
         "PT Registrasi Nama Domain": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 16
+        "PT. Web Commerce Communications": 2,
+        "Registrasi Neva Angkasa": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 4,
+        "total": 34
     },
     "percentage": {
-        "Digital Registra": 25.0,
-        "HOSTINGER operations, UAB": 12.5,
-        "NameCheap, Inc.": 12.5,
-        "Namecheap": 12.5,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12.5,
-        "PT Registrasi Nama Domain": 12.5,
-        "Web Commerce Communications Limited dba WebNic.cc": 12.5,
-        "total": 100.0
+        "Digital Registra": 11.764705882352942,
+        "HOSTINGER operations, UAB": 5.882352941176471,
+        "NameCheap, Inc.": 23.529411764705884,
+        "Namecheap": 11.764705882352942,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 11.764705882352942,
+        "PT Aksara Data Digital": 5.882352941176471,
+        "PT Registrasi Nama Domain": 5.882352941176471,
+        "PT. Web Commerce Communications": 5.882352941176471,
+        "Registrasi Neva Angkasa": 5.882352941176471,
+        "Web Commerce Communications Limited dba WebNic.cc": 11.764705882352942,
+        "total": 99.99999999999999
     }
 }
