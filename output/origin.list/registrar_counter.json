@@ -1,28 +1,26 @@
 {
     "counter": {
-        "Digital Registra": 4,
-        "HOSTINGER operations, UAB": 2,
-        "NameCheap, Inc.": 8,
-        "Namecheap": 4,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
-        "PT Aksara Data Digital": 2,
-        "PT Registrasi Nama Domain": 2,
-        "PT. Web Commerce Communications": 2,
-        "Registrasi Neva Angkasa": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 4,
-        "total": 34
+        "CV. Rumahweb Indonesia": 2,
+        "CloudFlare, Inc.": 2,
+        "Digital Registra": 2,
+        "Dynadot INC ( https://nic.at/registrar/650 )": 2,
+        "Dynadot, LLC": 2,
+        "GoDaddy.com, LLC": 2,
+        "Key-Systems LLC": 2,
+        "Name.com LLC": 2,
+        "NameSilo, LLC": 2,
+        "total": 18
     },
     "percentage": {
-        "Digital Registra": 11.764705882352942,
-        "HOSTINGER operations, UAB": 5.882352941176471,
-        "NameCheap, Inc.": 23.529411764705884,
-        "Namecheap": 11.764705882352942,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 11.764705882352942,
-        "PT Aksara Data Digital": 5.882352941176471,
-        "PT Registrasi Nama Domain": 5.882352941176471,
-        "PT. Web Commerce Communications": 5.882352941176471,
-        "Registrasi Neva Angkasa": 5.882352941176471,
-        "Web Commerce Communications Limited dba WebNic.cc": 11.764705882352942,
-        "total": 99.99999999999999
+        "CV. Rumahweb Indonesia": 11.11111111111111,
+        "CloudFlare, Inc.": 11.11111111111111,
+        "Digital Registra": 11.11111111111111,
+        "Dynadot INC ( https://nic.at/registrar/650 )": 11.11111111111111,
+        "Dynadot, LLC": 11.11111111111111,
+        "GoDaddy.com, LLC": 11.11111111111111,
+        "Key-Systems LLC": 11.11111111111111,
+        "Name.com LLC": 11.11111111111111,
+        "NameSilo, LLC": 11.11111111111111,
+        "total": 100.00000000000001
     }
 }
