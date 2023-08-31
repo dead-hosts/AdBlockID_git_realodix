@@ -5,24 +5,26 @@
         "Dynadot, LLC": 2,
         "GoDaddy.com, LLC": 2,
         "HOSTINGER operations, UAB": 2,
-        "NameCheap, Inc.": 10,
+        "NameCheap, Inc.": 12,
         "Namecheap": 2,
+        "Namecheap Inc.": 2,
         "Porkbun": 2,
         "Registrasi Neva Angkasa": 4,
         "Web Commerce Communications Limited dba WebNic.cc": 6,
-        "total": 34
+        "total": 38
     },
     "percentage": {
-        "CV. JOGJACAMP": 5.882352941176471,
-        "Digital Registra": 5.882352941176471,
-        "Dynadot, LLC": 5.882352941176471,
-        "GoDaddy.com, LLC": 5.882352941176471,
-        "HOSTINGER operations, UAB": 5.882352941176471,
-        "NameCheap, Inc.": 29.41176470588235,
-        "Namecheap": 5.882352941176471,
-        "Porkbun": 5.882352941176471,
-        "Registrasi Neva Angkasa": 11.764705882352942,
-        "Web Commerce Communications Limited dba WebNic.cc": 17.647058823529413,
-        "total": 100.0
+        "CV. JOGJACAMP": 5.2631578947368425,
+        "Digital Registra": 5.2631578947368425,
+        "Dynadot, LLC": 5.2631578947368425,
+        "GoDaddy.com, LLC": 5.2631578947368425,
+        "HOSTINGER operations, UAB": 5.2631578947368425,
+        "NameCheap, Inc.": 31.57894736842105,
+        "Namecheap": 5.2631578947368425,
+        "Namecheap Inc.": 5.2631578947368425,
+        "Porkbun": 5.2631578947368425,
+        "Registrasi Neva Angkasa": 10.526315789473685,
+        "Web Commerce Communications Limited dba WebNic.cc": 15.789473684210526,
+        "total": 99.99999999999999
     }
 }
