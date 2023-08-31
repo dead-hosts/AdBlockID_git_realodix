@@ -1,22 +1,18 @@
 {
     "counter": {
-        "CV Jogjacamp": 2,
-        "CV. JOGJACAMP": 2,
-        "Dynadot Inc": 2,
-        "NameCheap, Inc.": 2,
-        "Namecheap": 8,
-        "Namecheap Inc.": 2,
-        "PT Cloud Hosting Indonesia": 2,
-        "total": 20
+        "Digital Registra": 2,
+        "GoDaddy.com, LLC": 2,
+        "NameCheap, Inc.": 8,
+        "Porkbun": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 4,
+        "total": 18
     },
     "percentage": {
-        "CV Jogjacamp": 10.0,
-        "CV. JOGJACAMP": 10.0,
-        "Dynadot Inc": 10.0,
-        "NameCheap, Inc.": 10.0,
-        "Namecheap": 40.0,
-        "Namecheap Inc.": 10.0,
-        "PT Cloud Hosting Indonesia": 10.0,
+        "Digital Registra": 11.11111111111111,
+        "GoDaddy.com, LLC": 11.11111111111111,
+        "NameCheap, Inc.": 44.44444444444444,
+        "Porkbun": 11.11111111111111,
+        "Web Commerce Communications Limited dba WebNic.cc": 22.22222222222222,
         "total": 100.0
     }
 }
