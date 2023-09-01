@@ -1,30 +1,20 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
+        "CV. JOGJACAMP": 4,
         "Digital Registra": 2,
-        "Dynadot, LLC": 2,
-        "GoDaddy.com, LLC": 2,
-        "HOSTINGER operations, UAB": 2,
-        "NameCheap, Inc.": 12,
-        "Namecheap": 2,
-        "Namecheap Inc.": 2,
-        "Porkbun": 2,
-        "Registrasi Neva Angkasa": 4,
-        "Web Commerce Communications Limited dba WebNic.cc": 6,
-        "total": 38
+        "Hello Internet Corp": 2,
+        "NameCheap, Inc.": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 14
     },
     "percentage": {
-        "CV. JOGJACAMP": 5.2631578947368425,
-        "Digital Registra": 5.2631578947368425,
-        "Dynadot, LLC": 5.2631578947368425,
-        "GoDaddy.com, LLC": 5.2631578947368425,
-        "HOSTINGER operations, UAB": 5.2631578947368425,
-        "NameCheap, Inc.": 31.57894736842105,
-        "Namecheap": 5.2631578947368425,
-        "Namecheap Inc.": 5.2631578947368425,
-        "Porkbun": 5.2631578947368425,
-        "Registrasi Neva Angkasa": 10.526315789473685,
-        "Web Commerce Communications Limited dba WebNic.cc": 15.789473684210526,
-        "total": 99.99999999999999
+        "CV. JOGJACAMP": 28.571428571428573,
+        "Digital Registra": 14.285714285714286,
+        "Hello Internet Corp": 14.285714285714286,
+        "NameCheap, Inc.": 14.285714285714286,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 14.285714285714286,
+        "Web Commerce Communications Limited dba WebNic.cc": 14.285714285714286,
+        "total": 100.00000000000001
     }
 }
