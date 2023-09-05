@@ -1,20 +1,10 @@
 {
     "counter": {
-        "NameCheap, Inc.": 16,
-        "NameSilo, LLC": 2,
-        "Namecheap": 10,
-        "Namecheap Inc.": 2,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "REGTIME-SU": 2,
-        "total": 34
+        "Namecheap": 2,
+        "total": 2
     },
     "percentage": {
-        "NameCheap, Inc.": 47.05882352941177,
-        "NameSilo, LLC": 5.882352941176471,
-        "Namecheap": 29.41176470588235,
-        "Namecheap Inc.": 5.882352941176471,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.882352941176471,
-        "REGTIME-SU": 5.882352941176471,
+        "Namecheap": 100.0,
         "total": 100.0
     }
 }
