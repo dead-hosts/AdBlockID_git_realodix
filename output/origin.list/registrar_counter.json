@@ -1,20 +1,36 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 4,
+        "CV. JOGJACAMP": 6,
+        "CV. Rumahweb Indonesia": 4,
+        "GoDaddy.com, LLC": 2,
         "HOSTINGER operations, UAB": 4,
-        "NameCheap, Inc.": 12,
-        "Namecheap": 2,
+        "NAMECHEAP": 2,
+        "NameCheap, Inc.": 16,
+        "NameSilo,LLC": 2,
+        "Namecheap": 6,
         "Namecheap Inc.": 2,
+        "PT Aksara Data Digital": 2,
+        "PT Cloud Hosting Indonesia": 2,
+        "Tucows Domains Inc.": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 26
+        "Web Commerce Communications Ltd": 2,
+        "total": 54
     },
     "percentage": {
-        "CV. JOGJACAMP": 15.384615384615385,
-        "HOSTINGER operations, UAB": 15.384615384615385,
-        "NameCheap, Inc.": 46.15384615384615,
-        "Namecheap": 7.6923076923076925,
-        "Namecheap Inc.": 7.6923076923076925,
-        "Web Commerce Communications Limited dba WebNic.cc": 7.6923076923076925,
-        "total": 100.0
+        "CV. JOGJACAMP": 11.11111111111111,
+        "CV. Rumahweb Indonesia": 7.407407407407407,
+        "GoDaddy.com, LLC": 3.7037037037037037,
+        "HOSTINGER operations, UAB": 7.407407407407407,
+        "NAMECHEAP": 3.7037037037037037,
+        "NameCheap, Inc.": 29.62962962962963,
+        "NameSilo,LLC": 3.7037037037037037,
+        "Namecheap": 11.11111111111111,
+        "Namecheap Inc.": 3.7037037037037037,
+        "PT Aksara Data Digital": 3.7037037037037037,
+        "PT Cloud Hosting Indonesia": 3.7037037037037037,
+        "Tucows Domains Inc.": 3.7037037037037037,
+        "Web Commerce Communications Limited dba WebNic.cc": 3.7037037037037037,
+        "Web Commerce Communications Ltd": 3.7037037037037037,
+        "total": 100.00000000000004
     }
 }
