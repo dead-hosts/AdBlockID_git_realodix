@@ -1,16 +1,16 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 6,
-        "Namecheap": 14,
-        "Porkbun": 2,
-        "total": 24
+        "CV. Rumahweb Indonesia": 2,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
+        "NameCheap, Inc.": 2,
+        "Namecheap": 28,
+        "total": 34
     },
     "percentage": {
-        "GoDaddy.com, LLC": 8.333333333333334,
-        "NameCheap, Inc.": 25.0,
-        "Namecheap": 58.333333333333336,
-        "Porkbun": 8.333333333333334,
+        "CV. Rumahweb Indonesia": 5.882352941176471,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 5.882352941176471,
+        "NameCheap, Inc.": 5.882352941176471,
+        "Namecheap": 82.3529411764706,
         "total": 100.0
     }
 }
