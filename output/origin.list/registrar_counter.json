@@ -1,0 +1,16 @@
+{
+    "counter": {
+        "NameCheap, Inc.": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6,
+        "PT Aksara Data Digital": 4,
+        "Web Commerce Communications Limited dba WebNic.cc": 4,
+        "total": 16
+    },
+    "percentage": {
+        "NameCheap, Inc.": 12.5,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 37.5,
+        "PT Aksara Data Digital": 25.0,
+        "Web Commerce Communications Limited dba WebNic.cc": 25.0,
+        "total": 100.0
+    }
+}
