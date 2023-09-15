@@ -3,14 +3,16 @@
         "NameCheap, Inc.": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 6,
         "PT Aksara Data Digital": 4,
+        "PT Cloud Hosting Indonesia": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 4,
-        "total": 16
+        "total": 18
     },
     "percentage": {
-        "NameCheap, Inc.": 12.5,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 37.5,
-        "PT Aksara Data Digital": 25.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 25.0,
+        "NameCheap, Inc.": 11.11111111111111,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 33.333333333333336,
+        "PT Aksara Data Digital": 22.22222222222222,
+        "PT Cloud Hosting Indonesia": 11.11111111111111,
+        "Web Commerce Communications Limited dba WebNic.cc": 22.22222222222222,
         "total": 100.0
     }
 }
