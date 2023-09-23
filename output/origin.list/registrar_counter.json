@@ -1,20 +1,34 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
+        "CV. JOGJACAMP": 4,
+        "CV. Rumahweb Indonesia": 2,
         "CloudFlare, Inc.": 2,
+        "Cosmotown, Inc.": 2,
         "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 6,
-        "Namecheap": 2,
+        "Hostinger UAB": 2,
+        "Jagoan Hosting": 2,
+        "NameCheap, Inc.": 8,
+        "Namecheap": 6,
+        "Porkbun": 2,
+        "Porkbun LLC": 2,
+        "Registrasi Neva Angkasa": 2,
         "Sav.com, LLC": 2,
-        "total": 16
+        "total": 38
     },
     "percentage": {
-        "CV. JOGJACAMP": 12.5,
-        "CloudFlare, Inc.": 12.5,
-        "GoDaddy.com, LLC": 12.5,
-        "NameCheap, Inc.": 37.5,
-        "Namecheap": 12.5,
-        "Sav.com, LLC": 12.5,
-        "total": 100.0
+        "CV. JOGJACAMP": 10.526315789473685,
+        "CV. Rumahweb Indonesia": 5.2631578947368425,
+        "CloudFlare, Inc.": 5.2631578947368425,
+        "Cosmotown, Inc.": 5.2631578947368425,
+        "GoDaddy.com, LLC": 5.2631578947368425,
+        "Hostinger UAB": 5.2631578947368425,
+        "Jagoan Hosting": 5.2631578947368425,
+        "NameCheap, Inc.": 21.05263157894737,
+        "Namecheap": 15.789473684210526,
+        "Porkbun": 5.2631578947368425,
+        "Porkbun LLC": 5.2631578947368425,
+        "Registrasi Neva Angkasa": 5.2631578947368425,
+        "Sav.com, LLC": 5.2631578947368425,
+        "total": 100.00000000000003
     }
 }
