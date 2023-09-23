@@ -1,20 +1,20 @@
 {
     "counter": {
+        "CV. JOGJACAMP": 2,
+        "CloudFlare, Inc.": 2,
         "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 12,
-        "Nom-iq Ltd. dba COM LAUDE": 2,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "eNom, LLC": 2,
-        "total": 22
+        "NameCheap, Inc.": 6,
+        "Namecheap": 2,
+        "Sav.com, LLC": 2,
+        "total": 16
     },
     "percentage": {
-        "GoDaddy.com, LLC": 9.090909090909092,
-        "NameCheap, Inc.": 54.54545454545455,
-        "Nom-iq Ltd. dba COM LAUDE": 9.090909090909092,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 9.090909090909092,
-        "Web Commerce Communications Limited dba WebNic.cc": 9.090909090909092,
-        "eNom, LLC": 9.090909090909092,
-        "total": 100.00000000000001
+        "CV. JOGJACAMP": 12.5,
+        "CloudFlare, Inc.": 12.5,
+        "GoDaddy.com, LLC": 12.5,
+        "NameCheap, Inc.": 37.5,
+        "Namecheap": 12.5,
+        "Sav.com, LLC": 12.5,
+        "total": 100.0
     }
 }
