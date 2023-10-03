@@ -1,28 +1,24 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 4,
-        "Digital Registra": 4,
-        "Dynadot Inc": 2,
-        "HOSTINGER operations, UAB": 2,
-        "Hello Internet Corp": 2,
-        "NameCheap, Inc.": 12,
-        "NameSilo, LLC": 2,
-        "Namecheap": 8,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 40
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
+        "HOSTINGER operations, UAB": 4,
+        "NameCheap, Inc.": 6,
+        "Namecheap": 4,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
+        "PT ARDH GLOBAL INDONESIA": 2,
+        "PT Registrasi Nama Domain": 2,
+        "PT. Web Commerce Communications": 2,
+        "total": 26
     },
     "percentage": {
-        "CV. JOGJACAMP": 10.0,
-        "Digital Registra": 10.0,
-        "Dynadot Inc": 5.0,
-        "HOSTINGER operations, UAB": 5.0,
-        "Hello Internet Corp": 5.0,
-        "NameCheap, Inc.": 30.0,
-        "NameSilo, LLC": 5.0,
-        "Namecheap": 20.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 5.0,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 7.6923076923076925,
+        "HOSTINGER operations, UAB": 15.384615384615385,
+        "NameCheap, Inc.": 23.076923076923077,
+        "Namecheap": 15.384615384615385,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 15.384615384615385,
+        "PT ARDH GLOBAL INDONESIA": 7.6923076923076925,
+        "PT Registrasi Nama Domain": 7.6923076923076925,
+        "PT. Web Commerce Communications": 7.6923076923076925,
         "total": 100.0
     }
 }
