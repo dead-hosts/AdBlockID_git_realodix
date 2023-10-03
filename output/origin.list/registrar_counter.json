@@ -1,24 +1,36 @@
 {
     "counter": {
+        "CV. Rumahweb Indonesia": 2,
+        "Digital Registra": 12,
         "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
         "HOSTINGER operations, UAB": 4,
-        "NameCheap, Inc.": 6,
-        "Namecheap": 4,
+        "Hosting Concepts B.V. (Registrar.eu)": 2,
+        "NameCheap, Inc.": 10,
+        "Namecheap": 6,
+        "NetEarth One Inc. d/b/a NetEarth": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
         "PT ARDH GLOBAL INDONESIA": 2,
+        "PT Aksara Data Digital": 2,
         "PT Registrasi Nama Domain": 2,
         "PT. Web Commerce Communications": 2,
-        "total": 26
+        "Tucows Domains Inc.": 2,
+        "total": 54
     },
     "percentage": {
-        "GMO Internet Group, Inc. d/b/a Onamae.com": 7.6923076923076925,
-        "HOSTINGER operations, UAB": 15.384615384615385,
-        "NameCheap, Inc.": 23.076923076923077,
-        "Namecheap": 15.384615384615385,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 15.384615384615385,
-        "PT ARDH GLOBAL INDONESIA": 7.6923076923076925,
-        "PT Registrasi Nama Domain": 7.6923076923076925,
-        "PT. Web Commerce Communications": 7.6923076923076925,
-        "total": 100.0
+        "CV. Rumahweb Indonesia": 3.7037037037037037,
+        "Digital Registra": 22.22222222222222,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 3.7037037037037037,
+        "HOSTINGER operations, UAB": 7.407407407407407,
+        "Hosting Concepts B.V. (Registrar.eu)": 3.7037037037037037,
+        "NameCheap, Inc.": 18.51851851851852,
+        "Namecheap": 11.11111111111111,
+        "NetEarth One Inc. d/b/a NetEarth": 3.7037037037037037,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 7.407407407407407,
+        "PT ARDH GLOBAL INDONESIA": 3.7037037037037037,
+        "PT Aksara Data Digital": 3.7037037037037037,
+        "PT Registrasi Nama Domain": 3.7037037037037037,
+        "PT. Web Commerce Communications": 3.7037037037037037,
+        "Tucows Domains Inc.": 3.7037037037037037,
+        "total": 100.00000000000003
     }
 }
