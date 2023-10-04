@@ -1,24 +1,32 @@
 {
     "counter": {
+        "Alibaba Cloud Computing (Beijing) Co., Ltd.": 2,
         "Amazon Registrar, Inc.": 2,
-        "CV. Rumahweb Indonesia": 4,
+        "CV. Rumahweb Indonesia": 6,
+        "Cosmotown, Inc.": 2,
+        "GoDaddy.com, LLC": 2,
         "Key-Systems GmbH": 2,
-        "Name.com, Inc.": 2,
-        "NameCheap, Inc.": 10,
-        "NameSilo, LLC": 2,
+        "Name.com, Inc.": 4,
+        "NameCheap, Inc.": 20,
+        "NameSilo, LLC": 6,
+        "Porkbun, LLC": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
         "eNom, LLC": 2,
-        "total": 26
+        "total": 52
     },
     "percentage": {
-        "Amazon Registrar, Inc.": 7.6923076923076925,
-        "CV. Rumahweb Indonesia": 15.384615384615385,
-        "Key-Systems GmbH": 7.6923076923076925,
+        "Alibaba Cloud Computing (Beijing) Co., Ltd.": 3.8461538461538463,
+        "Amazon Registrar, Inc.": 3.8461538461538463,
+        "CV. Rumahweb Indonesia": 11.538461538461538,
+        "Cosmotown, Inc.": 3.8461538461538463,
+        "GoDaddy.com, LLC": 3.8461538461538463,
+        "Key-Systems GmbH": 3.8461538461538463,
         "Name.com, Inc.": 7.6923076923076925,
         "NameCheap, Inc.": 38.46153846153846,
-        "NameSilo, LLC": 7.6923076923076925,
-        "Web Commerce Communications Limited dba WebNic.cc": 7.6923076923076925,
-        "eNom, LLC": 7.6923076923076925,
-        "total": 100.0
+        "NameSilo, LLC": 11.538461538461538,
+        "Porkbun, LLC": 3.8461538461538463,
+        "Web Commerce Communications Limited dba WebNic.cc": 3.8461538461538463,
+        "eNom, LLC": 3.8461538461538463,
+        "total": 99.99999999999997
     }
 }
