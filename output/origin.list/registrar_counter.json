@@ -1,32 +1,16 @@
 {
     "counter": {
-        "Alibaba Cloud Computing (Beijing) Co., Ltd.": 2,
-        "Amazon Registrar, Inc.": 2,
-        "CV. Rumahweb Indonesia": 6,
-        "Cosmotown, Inc.": 2,
-        "GoDaddy.com, LLC": 2,
-        "Key-Systems GmbH": 2,
-        "Name.com, Inc.": 4,
-        "NameCheap, Inc.": 20,
-        "NameSilo, LLC": 6,
-        "Porkbun, LLC": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "eNom, LLC": 2,
-        "total": 52
+        "DEPA": 2,
+        "NameCheap, Inc.": 6,
+        "Namecheap": 6,
+        "REGTIME-SU": 2,
+        "total": 16
     },
     "percentage": {
-        "Alibaba Cloud Computing (Beijing) Co., Ltd.": 3.8461538461538463,
-        "Amazon Registrar, Inc.": 3.8461538461538463,
-        "CV. Rumahweb Indonesia": 11.538461538461538,
-        "Cosmotown, Inc.": 3.8461538461538463,
-        "GoDaddy.com, LLC": 3.8461538461538463,
-        "Key-Systems GmbH": 3.8461538461538463,
-        "Name.com, Inc.": 7.6923076923076925,
-        "NameCheap, Inc.": 38.46153846153846,
-        "NameSilo, LLC": 11.538461538461538,
-        "Porkbun, LLC": 3.8461538461538463,
-        "Web Commerce Communications Limited dba WebNic.cc": 3.8461538461538463,
-        "eNom, LLC": 3.8461538461538463,
-        "total": 99.99999999999997
+        "DEPA": 12.5,
+        "NameCheap, Inc.": 37.5,
+        "Namecheap": 37.5,
+        "REGTIME-SU": 12.5,
+        "total": 100.0
     }
 }
