@@ -1,30 +1,18 @@
 {
     "counter": {
+        "CV. JOGJACAMP": 2,
         "CV. Rumahweb Indonesia": 2,
-        "Digital Registra": 6,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "NameCheap, Inc.": 12,
-        "NameSilo, LLC": 2,
+        "NameCheap, Inc.": 6,
         "Namecheap": 4,
-        "OnlineNIC, Inc.": 2,
-        "PT ARDH GLOBAL INDONESIA": 2,
-        "Porkbun LLC": 4,
-        "Porkbun, LLC": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 40
+        "Porkbun LLC": 2,
+        "total": 16
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 5.0,
-        "Digital Registra": 15.0,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 5.0,
-        "NameCheap, Inc.": 30.0,
-        "NameSilo, LLC": 5.0,
-        "Namecheap": 10.0,
-        "OnlineNIC, Inc.": 5.0,
-        "PT ARDH GLOBAL INDONESIA": 5.0,
-        "Porkbun LLC": 10.0,
-        "Porkbun, LLC": 5.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 5.0,
+        "CV. JOGJACAMP": 12.5,
+        "CV. Rumahweb Indonesia": 12.5,
+        "NameCheap, Inc.": 37.5,
+        "Namecheap": 25.0,
+        "Porkbun LLC": 12.5,
         "total": 100.0
     }
 }
