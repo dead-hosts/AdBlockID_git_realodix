@@ -1,16 +1,18 @@
 {
     "counter": {
+        "GoDaddy.com, LLC": 2,
         "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "NameCheap, Inc.": 4,
-        "Namecheap": 10,
-        "Porkbun": 2,
-        "total": 18
+        "NameCheap, Inc.": 10,
+        "Namecheap": 28,
+        "Porkbun": 4,
+        "total": 46
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 11.11111111111111,
-        "NameCheap, Inc.": 22.22222222222222,
-        "Namecheap": 55.55555555555556,
-        "Porkbun": 11.11111111111111,
+        "GoDaddy.com, LLC": 4.3478260869565215,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 4.3478260869565215,
+        "NameCheap, Inc.": 21.73913043478261,
+        "Namecheap": 60.869565217391305,
+        "Porkbun": 8.695652173913043,
         "total": 100.0
     }
 }
