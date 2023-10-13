@@ -1,16 +1,28 @@
 {
     "counter": {
-        "CV. Rumahweb Indonesia": 2,
+        "CV. JOGJACAMP": 2,
+        "CV. Rumahweb Indonesia": 4,
+        "Digital Registra": 2,
+        "Dynadot Inc": 2,
+        "GoDaddy.com, LLC": 2,
         "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "NameCheap, Inc.": 2,
-        "Namecheap": 30,
-        "total": 36
+        "NameCheap, Inc.": 12,
+        "Namecheap": 38,
+        "PT Registrasi Nama Domain": 2,
+        "PT. Web Commerce Communications": 2,
+        "total": 68
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 5.555555555555555,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 5.555555555555555,
-        "NameCheap, Inc.": 5.555555555555555,
-        "Namecheap": 83.33333333333333,
+        "CV. JOGJACAMP": 2.9411764705882355,
+        "CV. Rumahweb Indonesia": 5.882352941176471,
+        "Digital Registra": 2.9411764705882355,
+        "Dynadot Inc": 2.9411764705882355,
+        "GoDaddy.com, LLC": 2.9411764705882355,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2.9411764705882355,
+        "NameCheap, Inc.": 17.647058823529413,
+        "Namecheap": 55.88235294117647,
+        "PT Registrasi Nama Domain": 2.9411764705882355,
+        "PT. Web Commerce Communications": 2.9411764705882355,
         "total": 100.0
     }
 }
