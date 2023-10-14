@@ -1,12 +1,16 @@
 {
     "counter": {
         "HOSTINGER operations, UAB": 2,
+        "Namecheap": 4,
+        "Tucows Domains Inc.": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 4
+        "total": 10
     },
     "percentage": {
-        "HOSTINGER operations, UAB": 50.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 50.0,
+        "HOSTINGER operations, UAB": 20.0,
+        "Namecheap": 40.0,
+        "Tucows Domains Inc.": 20.0,
+        "Web Commerce Communications Limited dba WebNic.cc": 20.0,
         "total": 100.0
     }
 }
