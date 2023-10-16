@@ -1,20 +1,22 @@
 {
     "counter": {
         "Hostinger UAB": 2,
-        "NameCheap, Inc.": 4,
-        "Namecheap": 8,
+        "NameCheap, Inc.": 8,
+        "Namecheap": 14,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 6,
         "PT Aksara Data Digital": 4,
+        "PT Cloud Hosting Indonesia": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 4,
-        "total": 28
+        "total": 40
     },
     "percentage": {
-        "Hostinger UAB": 7.142857142857143,
-        "NameCheap, Inc.": 14.285714285714286,
-        "Namecheap": 28.571428571428573,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 21.428571428571427,
-        "PT Aksara Data Digital": 14.285714285714286,
-        "Web Commerce Communications Limited dba WebNic.cc": 14.285714285714286,
-        "total": 100.00000000000001
+        "Hostinger UAB": 5.0,
+        "NameCheap, Inc.": 20.0,
+        "Namecheap": 35.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 15.0,
+        "PT Aksara Data Digital": 10.0,
+        "PT Cloud Hosting Indonesia": 5.0,
+        "Web Commerce Communications Limited dba WebNic.cc": 10.0,
+        "total": 100.0
     }
 }
