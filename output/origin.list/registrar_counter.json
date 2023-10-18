@@ -1,14 +1,28 @@
 {
     "counter": {
-        "NAMECHEAP": 2,
-        "NameCheap, Inc.": 6,
+        "CV. JOGJACAMP": 2,
+        "CV. Rumahweb Indonesia": 2,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
+        "INDOREG": 2,
+        "MAT BAO CORPORATION": 2,
+        "NameCheap, Inc.": 4,
+        "NameSilo, LLC": 2,
         "Namecheap": 4,
-        "total": 12
+        "ResellerCamp": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 24
     },
     "percentage": {
-        "NAMECHEAP": 16.666666666666668,
-        "NameCheap, Inc.": 50.0,
-        "Namecheap": 33.333333333333336,
+        "CV. JOGJACAMP": 8.333333333333334,
+        "CV. Rumahweb Indonesia": 8.333333333333334,
+        "Hosting Concepts B.V. d/b/a Registrar.eu": 8.333333333333334,
+        "INDOREG": 8.333333333333334,
+        "MAT BAO CORPORATION": 8.333333333333334,
+        "NameCheap, Inc.": 16.666666666666668,
+        "NameSilo, LLC": 8.333333333333334,
+        "Namecheap": 16.666666666666668,
+        "ResellerCamp": 8.333333333333334,
+        "Web Commerce Communications Limited dba WebNic.cc": 8.333333333333334,
         "total": 100.0
     }
 }
