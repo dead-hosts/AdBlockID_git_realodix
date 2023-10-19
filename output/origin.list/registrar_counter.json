@@ -1,42 +1,16 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
-        "CV. Rumahweb Indonesia": 2,
-        "Dreamscape Networks International Pte Ltd": 2,
-        "Dynadot Inc": 2,
-        "HOSTINGER operations, UAB": 4,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 2,
-        "INDOREG": 2,
-        "MAT BAO CORPORATION": 2,
-        "NameCheap, Inc.": 14,
-        "NameSilo, LLC": 2,
-        "Namecheap": 6,
-        "OnlineNIC, Inc.": 2,
+        "Digital Registra": 2,
+        "HOSTINGER operations, UAB": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "PT Web Media Technology Indonesia": 2,
-        "ResellerCamp": 4,
-        "Tucows Domains Inc.": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 54
+        "Spaceship, Inc.": 2,
+        "total": 8
     },
     "percentage": {
-        "CV. JOGJACAMP": 3.7037037037037037,
-        "CV. Rumahweb Indonesia": 3.7037037037037037,
-        "Dreamscape Networks International Pte Ltd": 3.7037037037037037,
-        "Dynadot Inc": 3.7037037037037037,
-        "HOSTINGER operations, UAB": 7.407407407407407,
-        "Hosting Concepts B.V. d/b/a Registrar.eu": 3.7037037037037037,
-        "INDOREG": 3.7037037037037037,
-        "MAT BAO CORPORATION": 3.7037037037037037,
-        "NameCheap, Inc.": 25.925925925925927,
-        "NameSilo, LLC": 3.7037037037037037,
-        "Namecheap": 11.11111111111111,
-        "OnlineNIC, Inc.": 3.7037037037037037,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.7037037037037037,
-        "PT Web Media Technology Indonesia": 3.7037037037037037,
-        "ResellerCamp": 7.407407407407407,
-        "Tucows Domains Inc.": 3.7037037037037037,
-        "Web Commerce Communications Limited dba WebNic.cc": 3.7037037037037037,
-        "total": 100.00000000000001
+        "Digital Registra": 25.0,
+        "HOSTINGER operations, UAB": 25.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
+        "Spaceship, Inc.": 25.0,
+        "total": 100.0
     }
 }
