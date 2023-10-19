@@ -2,19 +2,29 @@
     "counter": {
         "Digital Registra": 4,
         "HOSTINGER operations, UAB": 4,
+        "NAMECHEAP": 4,
+        "NameCheap, Inc.": 12,
+        "NameSilo, LLC": 2,
+        "Namecheap": 12,
+        "Namecheap Inc.": 2,
         "OwnRegistrar, Inc.": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
         "Spaceship, Inc.": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 18
+        "total": 50
     },
     "percentage": {
-        "Digital Registra": 22.22222222222222,
-        "HOSTINGER operations, UAB": 22.22222222222222,
-        "OwnRegistrar, Inc.": 11.11111111111111,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 22.22222222222222,
-        "Spaceship, Inc.": 11.11111111111111,
-        "Web Commerce Communications Limited dba WebNic.cc": 11.11111111111111,
+        "Digital Registra": 8.0,
+        "HOSTINGER operations, UAB": 8.0,
+        "NAMECHEAP": 8.0,
+        "NameCheap, Inc.": 24.0,
+        "NameSilo, LLC": 4.0,
+        "Namecheap": 24.0,
+        "Namecheap Inc.": 4.0,
+        "OwnRegistrar, Inc.": 4.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 8.0,
+        "Spaceship, Inc.": 4.0,
+        "Web Commerce Communications Limited dba WebNic.cc": 4.0,
         "total": 100.0
     }
 }
