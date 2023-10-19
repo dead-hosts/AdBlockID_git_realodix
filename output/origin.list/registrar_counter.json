@@ -1,16 +1,20 @@
 {
     "counter": {
-        "Digital Registra": 2,
-        "HOSTINGER operations, UAB": 2,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "Digital Registra": 4,
+        "HOSTINGER operations, UAB": 4,
+        "OwnRegistrar, Inc.": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
         "Spaceship, Inc.": 2,
-        "total": 8
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 18
     },
     "percentage": {
-        "Digital Registra": 25.0,
-        "HOSTINGER operations, UAB": 25.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
-        "Spaceship, Inc.": 25.0,
+        "Digital Registra": 22.22222222222222,
+        "HOSTINGER operations, UAB": 22.22222222222222,
+        "OwnRegistrar, Inc.": 11.11111111111111,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 22.22222222222222,
+        "Spaceship, Inc.": 11.11111111111111,
+        "Web Commerce Communications Limited dba WebNic.cc": 11.11111111111111,
         "total": 100.0
     }
 }
