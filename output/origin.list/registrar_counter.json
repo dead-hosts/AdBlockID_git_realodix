@@ -1,30 +1,18 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
-        "CV. Rumahweb Indonesia": 4,
-        "Digital Registra": 6,
-        "Dreamscape Networks International Pte Ltd": 2,
-        "Gandi SAS": 2,
-        "NameCheap, Inc.": 10,
-        "NameSilo, LLC": 2,
-        "Namecheap": 6,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6,
-        "PT Aksara Data Digital": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 8,
-        "total": 50
+        "CV. JOGJACAMP": 4,
+        "Digital Registra": 2,
+        "GoDaddy.com, LLC": 2,
+        "NameCheap, Inc.": 6,
+        "Namecheap": 2,
+        "total": 16
     },
     "percentage": {
-        "CV. JOGJACAMP": 4.0,
-        "CV. Rumahweb Indonesia": 8.0,
-        "Digital Registra": 12.0,
-        "Dreamscape Networks International Pte Ltd": 4.0,
-        "Gandi SAS": 4.0,
-        "NameCheap, Inc.": 20.0,
-        "NameSilo, LLC": 4.0,
-        "Namecheap": 12.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12.0,
-        "PT Aksara Data Digital": 4.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 16.0,
+        "CV. JOGJACAMP": 25.0,
+        "Digital Registra": 12.5,
+        "GoDaddy.com, LLC": 12.5,
+        "NameCheap, Inc.": 37.5,
+        "Namecheap": 12.5,
         "total": 100.0
     }
 }
