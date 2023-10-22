@@ -1,18 +1,24 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 4,
+        "CV. JOGJACAMP": 6,
+        "CV. Rumahweb Indonesia": 2,
         "Digital Registra": 2,
         "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 6,
+        "NameCheap, Inc.": 12,
         "Namecheap": 2,
-        "total": 16
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "Tucows Domains Inc.": 2,
+        "total": 30
     },
     "percentage": {
-        "CV. JOGJACAMP": 25.0,
-        "Digital Registra": 12.5,
-        "GoDaddy.com, LLC": 12.5,
-        "NameCheap, Inc.": 37.5,
-        "Namecheap": 12.5,
-        "total": 100.0
+        "CV. JOGJACAMP": 20.0,
+        "CV. Rumahweb Indonesia": 6.666666666666667,
+        "Digital Registra": 6.666666666666667,
+        "GoDaddy.com, LLC": 6.666666666666667,
+        "NameCheap, Inc.": 40.0,
+        "Namecheap": 6.666666666666667,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6.666666666666667,
+        "Tucows Domains Inc.": 6.666666666666667,
+        "total": 100.00000000000001
     }
 }
