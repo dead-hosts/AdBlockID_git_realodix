@@ -1,18 +1,24 @@
 {
     "counter": {
+        "CV. Rumahweb Indonesia": 2,
         "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 10,
-        "Namecheap": 8,
+        "NameCheap, Inc.": 14,
+        "Namecheap": 18,
         "Nom-iq Ltd. dba COM LAUDE": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 24
+        "eNom, LLC": 2,
+        "total": 44
     },
     "percentage": {
-        "GoDaddy.com, LLC": 8.333333333333334,
-        "NameCheap, Inc.": 41.666666666666664,
-        "Namecheap": 33.333333333333336,
-        "Nom-iq Ltd. dba COM LAUDE": 8.333333333333334,
-        "Web Commerce Communications Limited dba WebNic.cc": 8.333333333333334,
+        "CV. Rumahweb Indonesia": 4.545454545454546,
+        "GoDaddy.com, LLC": 4.545454545454546,
+        "NameCheap, Inc.": 31.818181818181817,
+        "Namecheap": 40.90909090909091,
+        "Nom-iq Ltd. dba COM LAUDE": 4.545454545454546,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.545454545454546,
+        "Web Commerce Communications Limited dba WebNic.cc": 4.545454545454546,
+        "eNom, LLC": 4.545454545454546,
         "total": 100.0
     }
 }
