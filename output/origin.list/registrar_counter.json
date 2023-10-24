@@ -1,22 +1,36 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
+        "CV. JOGJACAMP": 4,
         "CloudFlare, Inc.": 2,
+        "Cosmotown, Inc.": 2,
         "Digital Registra": 2,
         "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 6,
+        "Hostinger UAB": 2,
+        "Jagoan Hosting": 2,
+        "NameCheap, Inc.": 8,
+        "Namecheap": 2,
+        "Porkbun": 2,
+        "Porkbun LLC": 2,
+        "Registrasi Neva Angkasa": 2,
         "Sav.com, LLC": 2,
         "URL Solutions, Inc.": 2,
-        "total": 18
+        "total": 36
     },
     "percentage": {
         "CV. JOGJACAMP": 11.11111111111111,
-        "CloudFlare, Inc.": 11.11111111111111,
-        "Digital Registra": 11.11111111111111,
-        "GoDaddy.com, LLC": 11.11111111111111,
-        "NameCheap, Inc.": 33.333333333333336,
-        "Sav.com, LLC": 11.11111111111111,
-        "URL Solutions, Inc.": 11.11111111111111,
-        "total": 100.0
+        "CloudFlare, Inc.": 5.555555555555555,
+        "Cosmotown, Inc.": 5.555555555555555,
+        "Digital Registra": 5.555555555555555,
+        "GoDaddy.com, LLC": 5.555555555555555,
+        "Hostinger UAB": 5.555555555555555,
+        "Jagoan Hosting": 5.555555555555555,
+        "NameCheap, Inc.": 22.22222222222222,
+        "Namecheap": 5.555555555555555,
+        "Porkbun": 5.555555555555555,
+        "Porkbun LLC": 5.555555555555555,
+        "Registrasi Neva Angkasa": 5.555555555555555,
+        "Sav.com, LLC": 5.555555555555555,
+        "URL Solutions, Inc.": 5.555555555555555,
+        "total": 100.00000000000001
     }
 }
