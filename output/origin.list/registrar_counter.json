@@ -1,18 +1,32 @@
 {
     "counter": {
         "CV. JOGJACAMP": 4,
+        "CV. Rumahweb Indonesia": 2,
+        "Danesco Trading Ltd.": 2,
         "Digital Registra": 4,
-        "NameCheap, Inc.": 4,
-        "Namecheap": 2,
+        "FastDomain Inc.": 2,
+        "Jagoan Hosting": 2,
+        "NameCheap, Inc.": 10,
+        "Namecheap": 8,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "PT Aksara Data Digital": 2,
         "PT. Web Commerce Communications": 2,
-        "total": 16
+        "Registrasi Neva Angkasa": 2,
+        "total": 42
     },
     "percentage": {
-        "CV. JOGJACAMP": 25.0,
-        "Digital Registra": 25.0,
-        "NameCheap, Inc.": 25.0,
-        "Namecheap": 12.5,
-        "PT. Web Commerce Communications": 12.5,
-        "total": 100.0
+        "CV. JOGJACAMP": 9.523809523809524,
+        "CV. Rumahweb Indonesia": 4.761904761904762,
+        "Danesco Trading Ltd.": 4.761904761904762,
+        "Digital Registra": 9.523809523809524,
+        "FastDomain Inc.": 4.761904761904762,
+        "Jagoan Hosting": 4.761904761904762,
+        "NameCheap, Inc.": 23.80952380952381,
+        "Namecheap": 19.047619047619047,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.761904761904762,
+        "PT Aksara Data Digital": 4.761904761904762,
+        "PT. Web Commerce Communications": 4.761904761904762,
+        "Registrasi Neva Angkasa": 4.761904761904762,
+        "total": 99.99999999999999
     }
 }
