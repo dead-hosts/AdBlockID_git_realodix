@@ -1,24 +1,28 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
-        "CV. Rumahweb Indonesia": 2,
-        "Dynadot Inc": 2,
-        "Jagoan Hosting": 2,
-        "NameCheap, Inc.": 10,
-        "NameSilo, LLC": 2,
-        "Namecheap": 34,
-        "PT Cloud Hosting Indonesia": 2,
-        "total": 56
+        "CV. JOGJACAMP": 4,
+        "Digital Registra": 2,
+        "GoDaddy.com, LLC": 2,
+        "HOSTINGER operations, UAB": 2,
+        "NameCheap, Inc.": 6,
+        "Namecheap": 2,
+        "Porkbun": 2,
+        "Registrasi Neva Angkasa": 2,
+        "Tucows Domains Inc.": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 8,
+        "total": 32
     },
     "percentage": {
-        "CV. JOGJACAMP": 3.5714285714285716,
-        "CV. Rumahweb Indonesia": 3.5714285714285716,
-        "Dynadot Inc": 3.5714285714285716,
-        "Jagoan Hosting": 3.5714285714285716,
-        "NameCheap, Inc.": 17.857142857142858,
-        "NameSilo, LLC": 3.5714285714285716,
-        "Namecheap": 60.714285714285715,
-        "PT Cloud Hosting Indonesia": 3.5714285714285716,
+        "CV. JOGJACAMP": 12.5,
+        "Digital Registra": 6.25,
+        "GoDaddy.com, LLC": 6.25,
+        "HOSTINGER operations, UAB": 6.25,
+        "NameCheap, Inc.": 18.75,
+        "Namecheap": 6.25,
+        "Porkbun": 6.25,
+        "Registrasi Neva Angkasa": 6.25,
+        "Tucows Domains Inc.": 6.25,
+        "Web Commerce Communications Limited dba WebNic.cc": 25.0,
         "total": 100.0
     }
 }
