@@ -2,19 +2,27 @@
     "counter": {
         "CV. JOGJACAMP": 4,
         "Digital Registra": 4,
+        "Dynadot Inc": 2,
+        "HOSTINGER operations, UAB": 2,
         "Hello Internet Corp": 2,
-        "NameCheap, Inc.": 2,
+        "NameCheap, Inc.": 10,
+        "Namecheap": 6,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "PT Aksara Data Digital": 2,
         "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 16
+        "total": 36
     },
     "percentage": {
-        "CV. JOGJACAMP": 25.0,
-        "Digital Registra": 25.0,
-        "Hello Internet Corp": 12.5,
-        "NameCheap, Inc.": 12.5,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12.5,
-        "Web Commerce Communications Limited dba WebNic.cc": 12.5,
-        "total": 100.0
+        "CV. JOGJACAMP": 11.11111111111111,
+        "Digital Registra": 11.11111111111111,
+        "Dynadot Inc": 5.555555555555555,
+        "HOSTINGER operations, UAB": 5.555555555555555,
+        "Hello Internet Corp": 5.555555555555555,
+        "NameCheap, Inc.": 27.77777777777778,
+        "Namecheap": 16.666666666666668,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.555555555555555,
+        "PT Aksara Data Digital": 5.555555555555555,
+        "Web Commerce Communications Limited dba WebNic.cc": 5.555555555555555,
+        "total": 100.00000000000001
     }
 }
