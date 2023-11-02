@@ -2,29 +2,19 @@
     "counter": {
         "CV. JOGJACAMP": 4,
         "Digital Registra": 4,
-        "Dynadot, LLC": 2,
-        "GoDaddy.com, LLC": 2,
-        "HOSTINGER operations, UAB": 4,
-        "NameCheap, Inc.": 8,
-        "Namecheap": 2,
-        "Porkbun": 2,
-        "Registrasi Neva Angkasa": 4,
-        "Tucows Domains Inc.": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 12,
-        "total": 46
+        "Hello Internet Corp": 2,
+        "NameCheap, Inc.": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "total": 16
     },
     "percentage": {
-        "CV. JOGJACAMP": 8.695652173913043,
-        "Digital Registra": 8.695652173913043,
-        "Dynadot, LLC": 4.3478260869565215,
-        "GoDaddy.com, LLC": 4.3478260869565215,
-        "HOSTINGER operations, UAB": 8.695652173913043,
-        "NameCheap, Inc.": 17.391304347826086,
-        "Namecheap": 4.3478260869565215,
-        "Porkbun": 4.3478260869565215,
-        "Registrasi Neva Angkasa": 8.695652173913043,
-        "Tucows Domains Inc.": 4.3478260869565215,
-        "Web Commerce Communications Limited dba WebNic.cc": 26.08695652173913,
-        "total": 99.99999999999999
+        "CV. JOGJACAMP": 25.0,
+        "Digital Registra": 25.0,
+        "Hello Internet Corp": 12.5,
+        "NameCheap, Inc.": 12.5,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12.5,
+        "Web Commerce Communications Limited dba WebNic.cc": 12.5,
+        "total": 100.0
     }
 }
