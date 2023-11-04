@@ -1,0 +1,36 @@
+{
+    "counter": {
+        "Amazon Registrar, Inc.": 2,
+        "CV. Rumahweb Indonesia": 6,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
+        "HOSTINGER operations, UAB": 4,
+        "Key-Systems GmbH": 2,
+        "Name.com, Inc.": 2,
+        "NameCheap, Inc.": 12,
+        "Namecheap": 4,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
+        "PT ARDH GLOBAL INDONESIA": 2,
+        "PT Registrasi Nama Domain": 2,
+        "PT. Web Commerce Communications": 2,
+        "Web Commerce Communications Limited dba WebNic.cc": 2,
+        "eNom, LLC": 2,
+        "total": 48
+    },
+    "percentage": {
+        "Amazon Registrar, Inc.": 4.166666666666667,
+        "CV. Rumahweb Indonesia": 12.5,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 4.166666666666667,
+        "HOSTINGER operations, UAB": 8.333333333333334,
+        "Key-Systems GmbH": 4.166666666666667,
+        "Name.com, Inc.": 4.166666666666667,
+        "NameCheap, Inc.": 25.0,
+        "Namecheap": 8.333333333333334,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 8.333333333333334,
+        "PT ARDH GLOBAL INDONESIA": 4.166666666666667,
+        "PT Registrasi Nama Domain": 4.166666666666667,
+        "PT. Web Commerce Communications": 4.166666666666667,
+        "Web Commerce Communications Limited dba WebNic.cc": 4.166666666666667,
+        "eNom, LLC": 4.166666666666667,
+        "total": 100.00000000000001
+    }
+}
