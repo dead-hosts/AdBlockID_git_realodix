@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-109.123.250.930.0.realodix,AVAILABILITY,origin.list,2023-11-03 05:53:13.724985
-31.172.83.181,AVAILABILITY,origin.list,2023-11-03 05:53:24.345347
 0.0.realodix,AVAILABILITY,origin.list,2023-11-04 05:51:58.982614
 limakoma.com,AVAILABILITY,origin.list,2023-11-04 05:51:59.073715
 keisekaikuy.blogspot.com,AVAILABILITY,origin.list,2023-11-04 05:51:59.695384
@@ -10,3 +8,5 @@ m.metrotvnews.com,AVAILABILITY,origin.list,2023-11-04 05:52:05.334980
 artantash.club,AVAILABILITY,origin.list,2023-11-04 05:52:07.452895
 92.87.6.124,AVAILABILITY,origin.list,2023-11-04 05:52:11.197650
 5.61.59.170,AVAILABILITY,origin.list,2023-11-04 05:52:11.996015
+109.123.250.930.0.realodix,AVAILABILITY,origin.list,2023-11-05 05:52:25.903494
+31.172.83.181,AVAILABILITY,origin.list,2023-11-05 05:52:36.595407
