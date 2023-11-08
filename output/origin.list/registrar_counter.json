@@ -1,18 +1,22 @@
 {
     "counter": {
         "CV. JOGJACAMP": 2,
-        "CV. Rumahweb Indonesia": 2,
-        "NameCheap, Inc.": 2,
-        "Namecheap": 4,
+        "CV. Rumahweb Indonesia": 4,
+        "Digital Registra": 4,
+        "NameCheap, Inc.": 8,
+        "Namecheap": 6,
         "Porkbun LLC": 2,
-        "total": 12
+        "Registrasi Neva Angkasa": 2,
+        "total": 28
     },
     "percentage": {
-        "CV. JOGJACAMP": 16.666666666666668,
-        "CV. Rumahweb Indonesia": 16.666666666666668,
-        "NameCheap, Inc.": 16.666666666666668,
-        "Namecheap": 33.333333333333336,
-        "Porkbun LLC": 16.666666666666668,
-        "total": 100.00000000000001
+        "CV. JOGJACAMP": 7.142857142857143,
+        "CV. Rumahweb Indonesia": 14.285714285714286,
+        "Digital Registra": 14.285714285714286,
+        "NameCheap, Inc.": 28.571428571428573,
+        "Namecheap": 21.428571428571427,
+        "Porkbun LLC": 7.142857142857143,
+        "Registrasi Neva Angkasa": 7.142857142857143,
+        "total": 100.0
     }
 }
